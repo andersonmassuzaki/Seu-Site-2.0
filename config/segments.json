@@ -1,0 +1,68 @@
+{
+  "ecommerce": {
+    "label": "E-commerce",
+    "offer": "Redesign responsivo e melhoria de jornada de compra",
+    "minScoreToExport": 55,
+    "niches": [
+      "moda feminina",
+      "moda fitness feminina",
+      "bikinis",
+      "semijoias",
+      "cosmeticos",
+      "moda infantil",
+      "decoracao"
+    ],
+    "locations": [
+      "Sao Paulo",
+      "Curitiba",
+      "Campinas",
+      "Ribeirao Preto",
+      "Goiania",
+      "Belo Horizonte"
+    ],
+    "queryPatterns": [
+      "loja online {niche} {location}",
+      "comprar {niche} online {location}",
+      "{niche} \"sacola\" \"produto\"",
+      "{niche} \"politica de troca\" \"comprar\"",
+      "{niche} \"Plataforma:\" \"comprar\"",
+      "{niche} \"Loja Integrada\"",
+      "{niche} \"Nuvemshop\"",
+      "{niche} \"VTEX\""
+    ]
+  },
+  "institucional": {
+    "label": "Site institucional",
+    "offer": "Redesign institucional focado em credibilidade e captacao de contatos",
+    "minScoreToExport": 50,
+    "niches": [
+      "clinica estetica",
+      "clinica odontologica",
+      "advocacia",
+      "arquitetura",
+      "construtora",
+      "engenharia",
+      "buffet casamento",
+      "consultoria empresarial",
+      "imobiliaria"
+    ],
+    "locations": [
+      "Sao Paulo",
+      "Curitiba",
+      "Campinas",
+      "Ribeirao Preto",
+      "Goiania",
+      "Belo Horizonte"
+    ],
+    "queryPatterns": [
+      "{niche} {location}",
+      "{niche} em {location}",
+      "{niche} \"quem somos\" \"contato\"",
+      "{niche} \"orcamento\" \"whatsapp\"",
+      "{niche} \"desenvolvido por\"",
+      "{niche} \"© 2018\"",
+      "{niche} \"© 2019\"",
+      "{niche} \"site em construcao\""
+    ]
+  }
+}

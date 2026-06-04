@@ -1,0 +1,7 @@
+.env
+node_modules/
+.DS_Store
+data/daemon.log
+data/daemon.err.log
+
+# Keep CSV schemas and sample rows versioned for now.

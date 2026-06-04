@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MindStay Digital - Downloads</title>
+  <style>
+    :root {
+      --bg: #f4f1ec;
+      --panel: #ffffff;
+      --ink: #161616;
+      --muted: #686868;
+      --line: #dedbd4;
+      --brand: #0f6b64;
+      --accent: #d94f30;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      background: var(--bg);
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    main {
+      width: min(920px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 56px 0;
+    }
+    header {
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 22px;
+      margin-bottom: 28px;
+    }
+    .brand {
+      color: var(--brand);
+      font-size: 15px;
+      font-weight: 700;
+      margin-bottom: 14px;
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(32px, 5vw, 54px);
+      line-height: 1;
+      letter-spacing: 0;
+    }
+    p {
+      color: var(--muted);
+      font-size: 16px;
+      margin: 0;
+      max-width: 680px;
+      line-height: 1.5;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+    }
+    .download {
+      display: flex;
+      min-height: 118px;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      color: var(--ink);
+      background: var(--panel);
+      font-size: 18px;
+      font-weight: 700;
+      text-decoration: none;
+    }
+    .download:hover {
+      border-color: var(--brand);
+      box-shadow: 0 8px 24px rgba(15, 107, 100, 0.12);
+    }
+    .download span {
+      color: var(--accent);
+      font-size: 13px;
+      font-weight: 700;
+    }
+    footer {
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      margin-top: 28px;
+      padding-top: 18px;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div class="brand">MindStay Digital</div>
+      <h1>Downloads da prospeccao</h1>
+      <p>Arquivos exportados para abrir no Excel, Google Sheets ou importar em CRM. Atualizado em 04/06/2026, 20:21:20.</p>
+    </header>
+    <section class="grid">
+      <a class="download" href="downloads/leads.csv" download>Leads<span>leads.csv</span></a>
+<a class="download" href="downloads/outbox.csv" download>Outbox comercial<span>outbox.csv</span></a>
+<a class="download" href="downloads/site_audits.csv" download>Auditorias<span>site_audits.csv</span></a>
+<a class="download" href="downloads/history.json" download>Historico tecnico<span>history.json</span></a>
+    </section>
+    <footer>Para atualizar estes arquivos, rode <strong>npm run export:web</strong> antes de enviar para o GitHub.</footer>
+  </main>
+</body>
+</html>

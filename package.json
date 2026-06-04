@@ -1,0 +1,23 @@
+{
+  "name": "prospeccao-google-automatica",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "queries": "node scripts/generate-queries.mjs",
+    "import": "node scripts/import-manual-leads.mjs",
+    "search": "node scripts/search-google-cse.mjs",
+    "enrich": "node scripts/enrich-sites.mjs",
+    "score": "node scripts/score-leads.mjs",
+    "outbox": "node scripts/generate-outbox.mjs",
+    "kit": "node scripts/generate-kits.mjs",
+    "status": "node scripts/status.mjs",
+    "export:web": "node scripts/export-web.mjs",
+    "run": "node scripts/run-pipeline.mjs",
+    "daemon": "node scripts/daemon.mjs",
+    "install:launchd": "node scripts/install-launchd.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

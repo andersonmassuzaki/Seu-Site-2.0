@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.anderson.prospeccao-google</string>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/andersonmassuzaki/prospeccao-google-automatica</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/local/bin/npm</string>
+    <string>run</string>
+    <string>daemon</string>
+  </array>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>KeepAlive</key>
+  <true/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/andersonmassuzaki/prospeccao-google-automatica/data/daemon.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/andersonmassuzaki/prospeccao-google-automatica/data/daemon.err.log</string>
+</dict>
+</plist>

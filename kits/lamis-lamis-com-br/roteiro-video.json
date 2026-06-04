@@ -1,0 +1,44 @@
+{
+  "brand": "MindStay Digital",
+  "lead": {
+    "name": "Lamis",
+    "url": "https://www.lamis.com.br/",
+    "type": "ecommerce",
+    "score": "58",
+    "priority": "media"
+  },
+  "format": "vertical 9:16 ou horizontal 16:9",
+  "duration_seconds": 45,
+  "scenes": [
+    {
+      "title": "Abertura",
+      "duration_seconds": 5,
+      "narration": "Encontramos uma oportunidade clara no site da Lamis.",
+      "visual": "Logo MindStay Digital, nome do cliente e URL em tela limpa."
+    },
+    {
+      "title": "Diagnostico",
+      "duration_seconds": 10,
+      "narration": "Diagnostico rapido: sem meta viewport; contato por WhatsApp pouco evidente; Instagram nao encontrado no site. Para e-commerce, isso pode afetar a confianca, a navegacao mobile e a decisao de compra.",
+      "visual": "Print do site atual com marcacoes discretas nos pontos de melhoria."
+    },
+    {
+      "title": "Nova direcao",
+      "duration_seconds": 12,
+      "narration": "Reposicionar a loja com uma experiencia mobile mais forte, vitrines mais claras e jornada de compra mais confiavel.",
+      "visual": "Mockup conceitual da nova primeira dobra em desktop e mobile."
+    },
+    {
+      "title": "Experiencia",
+      "duration_seconds": 12,
+      "narration": "A proposta e melhorar Home com hierarquia premium, Menu de categorias mais objetivo, Vitrine com cards de produto mais fortes.",
+      "visual": "Sequencia com home, secao principal e tela mobile."
+    },
+    {
+      "title": "Fechamento",
+      "duration_seconds": 6,
+      "narration": "Se fizer sentido, validamos juntos o melhor pacote antes de qualquer implementacao.",
+      "visual": "Chamada para reuniao curta com assinatura MindStay Digital."
+    }
+  ]
+}
