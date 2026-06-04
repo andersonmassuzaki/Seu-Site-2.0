@@ -13,7 +13,7 @@
     "kit": "node scripts/generate-kits.mjs",
     "status": "node scripts/status.mjs",
     "export:web": "node scripts/export-web.mjs",
-    "build": "npm run kit && npm run export:web",
+    "build": "node scripts/build-static.mjs",
     "run": "node scripts/run-pipeline.mjs",
     "daemon": "node scripts/daemon.mjs",
     "install:launchd": "node scripts/install-launchd.mjs"

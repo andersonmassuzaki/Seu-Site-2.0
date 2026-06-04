@@ -1,23 +1,11 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": ".",
+  "outputDirectory": "dist",
   "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/",
-      "destination": "/docs/index.html"
-    },
-    {
-      "source": "/downloads/:path*",
-      "destination": "/docs/downloads/:path*"
-    },
-    {
       "source": "/kits/:path*",
       "destination": "/kits/:path*"
-    },
-    {
-      "source": "/docs/:path*",
-      "destination": "/docs/:path*"
     }
   ]
 }
