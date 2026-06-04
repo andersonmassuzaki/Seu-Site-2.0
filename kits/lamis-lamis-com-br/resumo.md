@@ -9,7 +9,7 @@ Prioridade: media
 
 Diagnostico rapido: sem meta viewport; contato por WhatsApp pouco evidente; Instagram nao encontrado no site. Para e-commerce, isso pode afetar a confianca, a navegacao mobile e a decisao de compra.
 
-## Direcao MindStay Digital
+## Direcao Seu Site 2.0
 
 Redesign responsivo para vender com mais clareza
 

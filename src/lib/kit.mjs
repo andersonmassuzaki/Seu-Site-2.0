@@ -73,7 +73,7 @@ export function buildPdfHtml(lead) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Diagnostico MindStay Digital - ${htmlEscape(lead.name)}</title>
+  <title>Diagnostico Seu Site 2.0 - ${htmlEscape(lead.name)}</title>
   <style>
     :root {
       --ink: #161616;
@@ -179,7 +179,7 @@ export function buildPdfHtml(lead) {
 <body>
   <main class="page">
     <header class="brand">
-      <strong>MindStay Digital</strong>
+      <strong>Seu Site 2.0</strong>
       <div class="meta">Diagnostico de oportunidade<br>${htmlEscape(generatedAt)}</div>
     </header>
 
@@ -224,7 +224,7 @@ export function buildPdfHtml(lead) {
 export function buildVideoStoryboard(lead) {
   const strategy = kitStrategy(lead);
   return {
-    brand: "MindStay Digital",
+    brand: "Seu Site 2.0",
     lead: {
       name: lead.name,
       url: lead.url,
@@ -239,7 +239,7 @@ export function buildVideoStoryboard(lead) {
         title: "Abertura",
         duration_seconds: 5,
         narration: `Encontramos uma oportunidade clara no site da ${lead.name}.`,
-        visual: "Logo MindStay Digital, nome do cliente e URL em tela limpa."
+        visual: "Logo Seu Site 2.0, nome do cliente e URL em tela limpa."
       },
       {
         title: "Diagnostico",
@@ -263,7 +263,7 @@ export function buildVideoStoryboard(lead) {
         title: "Fechamento",
         duration_seconds: 6,
         narration: "Se fizer sentido, validamos juntos o melhor pacote antes de qualquer implementacao.",
-        visual: "Chamada para reuniao curta com assinatura MindStay Digital."
+        visual: "Chamada para reuniao curta com assinatura Seu Site 2.0."
       }
     ]
   };
@@ -282,7 +282,7 @@ Prioridade: ${lead.priority}
 
 ${lead.diagnosis}
 
-## Direcao MindStay Digital
+## Direcao Seu Site 2.0
 
 ${strategy.title}
 

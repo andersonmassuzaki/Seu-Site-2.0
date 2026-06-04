@@ -1,5 +1,5 @@
 {
-  "brand": "MindStay Digital",
+  "brand": "Seu Site 2.0",
   "lead": {
     "name": "Lamis",
     "url": "https://www.lamis.com.br/",
@@ -14,7 +14,7 @@
       "title": "Abertura",
       "duration_seconds": 5,
       "narration": "Encontramos uma oportunidade clara no site da Lamis.",
-      "visual": "Logo MindStay Digital, nome do cliente e URL em tela limpa."
+      "visual": "Logo Seu Site 2.0, nome do cliente e URL em tela limpa."
     },
     {
       "title": "Diagnostico",
@@ -38,7 +38,7 @@
       "title": "Fechamento",
       "duration_seconds": 6,
       "narration": "Se fizer sentido, validamos juntos o melhor pacote antes de qualquer implementacao.",
-      "visual": "Chamada para reuniao curta com assinatura MindStay Digital."
+      "visual": "Chamada para reuniao curta com assinatura Seu Site 2.0."
     }
   ]
 }

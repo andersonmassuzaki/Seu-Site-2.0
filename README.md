@@ -1,6 +1,8 @@
-# Prospecção Google Automática
+# Seu Site 2.0
 
-Sistema local para encontrar, qualificar e organizar leads de redesign/responsividade usando Google como fonte de descoberta.
+Máquina de prospecção automatizada para vender criação, redesign, responsividade e melhoria de sites com uma abordagem visual personalizada.
+
+A ideia central é não abordar o lead com uma mensagem genérica. O sistema encontra uma oportunidade, analisa o site atual, gera diagnóstico, prepara uma prévia visual/PDF/roteiro de vídeo e organiza o lead para uma abordagem consultiva.
 
 Ele separa dois tipos de oportunidade:
 
@@ -87,9 +89,9 @@ npm run daemon
 - `data/history.json`: evita repetir URLs e reexportar leads.
 - `kits/`: diagnostico em HTML, resumo, mensagem e roteiro de video por lead.
 
-## Estrategia MindStay Digital
+## Estrategia Seu Site 2.0
 
-Veja [docs/mindstay-digital.md](docs/mindstay-digital.md) para o fluxo de PDF, video, validacao e prospeccao consultiva.
+Veja [docs/seu-site-2-0.md](docs/seu-site-2-0.md) para posicionamento, oferta, PDF, video, validacao e prospeccao consultiva.
 
 ## Integração Recomendada
 

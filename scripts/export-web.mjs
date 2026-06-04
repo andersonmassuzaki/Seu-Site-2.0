@@ -35,7 +35,7 @@ const html = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MindStay Digital - Downloads</title>
+  <title>Seu Site 2.0 - Downloads</title>
   <style>
     :root {
       --bg: #f4f1ec;
@@ -123,7 +123,7 @@ const html = `<!doctype html>
 <body>
   <main>
     <header>
-      <div class="brand">MindStay Digital</div>
+      <div class="brand">Seu Site 2.0</div>
       <h1>Downloads da prospeccao</h1>
       <p>Arquivos exportados para abrir no Excel, Google Sheets ou importar em CRM. Atualizado em ${generatedAt}.</p>
     </header>
