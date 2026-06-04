@@ -87,3 +87,5 @@ O MVP atual já organiza leads, diagnóstico, outbox e kit. As próximas peças 
 - Renderização de vídeo MP4.
 - Enriquecimento de contatos.
 - Painel de operação.
+
+O gerador de front-end demonstrativo já existe em modo inicial: cada kit gera `preview/index.html`.

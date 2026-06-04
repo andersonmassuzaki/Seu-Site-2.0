@@ -79,6 +79,14 @@
       font-size: 13px;
       font-weight: 700;
     }
+    .download.kit {
+      border-color: rgba(15, 107, 100, 0.35);
+    }
+    h2 {
+      margin: 30px 0 14px;
+      font-size: 24px;
+      letter-spacing: 0;
+    }
     footer {
       color: var(--muted);
       border-top: 1px solid var(--line);
@@ -93,13 +101,17 @@
     <header>
       <div class="brand">Seu Site 2.0</div>
       <h1>Downloads da prospeccao</h1>
-      <p>Arquivos exportados para abrir no Excel, Google Sheets ou importar em CRM. Atualizado em 04/06/2026, 20:29:38.</p>
+      <p>Arquivos exportados para abrir no Excel, Google Sheets ou importar em CRM. Atualizado em 04/06/2026, 20:33:07.</p>
     </header>
     <section class="grid">
       <a class="download" href="downloads/leads.csv" download>Leads<span>leads.csv</span></a>
 <a class="download" href="downloads/outbox.csv" download>Outbox comercial<span>outbox.csv</span></a>
 <a class="download" href="downloads/site_audits.csv" download>Auditorias<span>site_audits.csv</span></a>
 <a class="download" href="downloads/history.json" download>Historico tecnico<span>history.json</span></a>
+    </section>
+    <h2>Previews gerados</h2>
+    <section class="grid">
+      <a class="download kit" href="../kits/lamis-lamis-com-br/preview/index.html">Preview lamis-lamis-com-br<span>abrir previa visual</span></a>
     </section>
     <footer>Para atualizar estes arquivos, rode <strong>npm run export:web</strong> antes de enviar para o GitHub.</footer>
   </main>

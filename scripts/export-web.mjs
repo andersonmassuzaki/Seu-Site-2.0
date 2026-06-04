@@ -30,6 +30,18 @@ const links = files
   })
   .join("\n");
 
+const kitsDir = path.join(root, "kits");
+const kitLinks = fs.existsSync(kitsDir)
+  ? fs
+      .readdirSync(kitsDir, { withFileTypes: true })
+      .filter((entry) => entry.isDirectory())
+      .map((entry) => {
+        const slug = entry.name;
+        return `<a class="download kit" href="../kits/${slug}/preview/index.html">Preview ${slug}<span>abrir previa visual</span></a>`;
+      })
+      .join("\n")
+  : "";
+
 const html = `<!doctype html>
 <html lang="pt-BR">
 <head>
@@ -111,6 +123,14 @@ const html = `<!doctype html>
       font-size: 13px;
       font-weight: 700;
     }
+    .download.kit {
+      border-color: rgba(15, 107, 100, 0.35);
+    }
+    h2 {
+      margin: 30px 0 14px;
+      font-size: 24px;
+      letter-spacing: 0;
+    }
     footer {
       color: var(--muted);
       border-top: 1px solid var(--line);
@@ -130,6 +150,14 @@ const html = `<!doctype html>
     <section class="grid">
       ${links}
     </section>
+    ${
+      kitLinks
+        ? `<h2>Previews gerados</h2>
+    <section class="grid">
+      ${kitLinks}
+    </section>`
+        : ""
+    }
     <footer>Para atualizar estes arquivos, rode <strong>npm run export:web</strong> antes de enviar para o GitHub.</footer>
   </main>
 </body>
