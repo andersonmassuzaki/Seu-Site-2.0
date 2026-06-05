@@ -17,6 +17,180 @@
   "favicon": "https://braavo-static.nyc3.digitaloceanspaces.com/favicon/lamis/apple-touch-icon.png",
   "og_image": "https://thumb.braavo.me/lamis/200/2221811186.webp",
   "is_dark": true,
-  "captured_at": "2026-06-05T00:16:52.343Z",
+  "content": {
+    "hero_image": "https://thumb.braavo.me/lamis/0/1587149255.webp",
+    "gallery": [
+      {
+        "url": "https://thumb.braavo.me/lamis/0/3989748828.webp",
+        "alt": "Lamis"
+      },
+      {
+        "url": "https://thumb.braavo.me/lamis/0/2379741478.webp",
+        "alt": "Lamis"
+      },
+      {
+        "url": "https://thumb.braavo.me/lamis/0/2752481456.webp",
+        "alt": "Lamis"
+      },
+      {
+        "url": "https://thumb.braavo.me/lamis/0/3419655800.webp",
+        "alt": "Lamis"
+      },
+      {
+        "url": "https://thumb.braavo.me/lamis/0/3085154806.webp",
+        "alt": "NEW"
+      },
+      {
+        "url": "https://thumb.braavo.me/lamis/0/2256362566.webp",
+        "alt": "BÁSICOS"
+      },
+      {
+        "url": "https://thumb.braavo.me/lamis/0/464525125.webp",
+        "alt": "PARTE DE CIMA"
+      },
+      {
+        "url": "https://thumb.braavo.me/lamis/0/1458109250.webp",
+        "alt": "CALÇAS & SHORTS"
+      }
+    ],
+    "products": [
+      {
+        "name": "Foto Casaco amplo com detalhe no punho",
+        "price": "R$ 258",
+        "image": "https://thumb.braavo.me/lamis/400/653809091.webp",
+        "url": "https://www.lamis.com.br/p/casaco-amplo-punho-teddy#v1041"
+      },
+      {
+        "name": "Foto Casaqueto amplo dois botões forrados",
+        "price": "R$ 218",
+        "image": "https://thumb.braavo.me/lamis/400/736422290.webp",
+        "url": "https://www.lamis.com.br/p/casaqueto-amplo-dois-botoes-forrados#v1041"
+      },
+      {
+        "name": "Foto Sueter gola alta com manga canelada",
+        "price": "R$ 268",
+        "image": "https://thumb.braavo.me/lamis/400/3976583515.webp",
+        "url": "https://www.lamis.com.br/p/sueter-gola-alta-mangas-caneladas#v1041"
+      },
+      {
+        "name": "Foto Casaco com fenda frontal com touca",
+        "price": "R$ 308",
+        "image": "https://thumb.braavo.me/lamis/400/2668187871.webp",
+        "url": "https://www.lamis.com.br/p/casaco-fenda-frontal-touca#v1041"
+      },
+      {
+        "name": "Foto Blusa texturizada manga longa toque seda",
+        "price": "R$ 90",
+        "image": "https://thumb.braavo.me/lamis/400/2900283881.webp",
+        "url": "https://www.lamis.com.br/p/blusa-texturizada-manga-longa-toque-seda#v1041"
+      },
+      {
+        "name": "Foto Calca reta leve com cordao cintura",
+        "price": "R$ 108",
+        "image": "https://thumb.braavo.me/lamis/400/3735654833.webp",
+        "url": "https://www.lamis.com.br/p/calca-reta-leve-cordao-cintura#v1044"
+      },
+      {
+        "name": "Foto Poncho canelado com punho",
+        "price": "R$ 132",
+        "image": "https://thumb.braavo.me/lamis/400/941224453.webp",
+        "url": "https://www.lamis.com.br/p/poncho-canelado-com-punho#v1030"
+      },
+      {
+        "name": "Foto Calca canelada em cachemir e elastico na cintura",
+        "price": "R$ 108",
+        "image": "https://thumb.braavo.me/lamis/400/970431846.webp",
+        "url": "https://www.lamis.com.br/p/calca-canelada-cashmere-cos-elastico#v1066"
+      }
+    ],
+    "services": [
+      {
+        "title": "Ótimo app",
+        "description": "Ótimo app"
+      },
+      {
+        "title": "Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com ",
+        "description": "Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com seriedade. Os produtos são ótimos. Eu só espero que chegue mais produtos tamanhos GG e 46, especialmente, calças. Fora isso, tudo é super lindo, veste bem e tem"
+      },
+      {
+        "title": "preço bom, entrega rapida! e roupas legais",
+        "description": "preço bom, entrega rapida! e roupas legais"
+      },
+      {
+        "title": "Entrega super rápida .produtos de qualidade . Ótima descrição vale a pena compra",
+        "description": "Entrega super rápida .produtos de qualidade . Ótima descrição vale a pena comprar"
+      },
+      {
+        "title": "A loja me surpreendeu pela qualidade das roupas, vem muito bem embaladas, com ca",
+        "description": "A loja me surpreendeu pela qualidade das roupas, vem muito bem embaladas, com carinho , conforme vem escrito na embalagem. Chegou no prazo. Super recomendo! parabéns LAMIS."
+      },
+      {
+        "title": "A loja me surpreendeu, pois a qualidade das peças são ótimas, até as etiquetas s",
+        "description": "A loja me surpreendeu, pois a qualidade das peças são ótimas, até as etiquetas são lindas. Veio bem embaladas, e com carinho conforme veio escrito na embalagem, a entrega veio dentro do prazo. Amei tudo e super recomendo a loja. Parabéns LA"
+      }
+    ],
+    "about": "Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com seriedade. Os produtos são ótimos. Eu só espero que chegue mais produtos tamanhos GG e 46, especialmente, calças. Fora isso, tudo é super lindo, veste bem e tem qualidade. Sem contar que enviam super rápido tudo.",
+    "contact": {
+      "phone": "(11)3900-5060",
+      "whatsapp": null,
+      "email": null,
+      "address": ""
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/lamisoficial",
+      "facebook": "https://www.facebook.com/lamisoficial",
+      "youtube": null,
+      "tiktok": "http://tiktok.com/@lamisoficial"
+    },
+    "nav_items": [
+      {
+        "label": "NEW",
+        "href": "https://www.lamis.com.br/cat/9/new"
+      },
+      {
+        "label": "BÁSICOS",
+        "href": "https://www.lamis.com.br/cat/49/basicos"
+      },
+      {
+        "label": "PARTE DE CIMA",
+        "href": "https://www.lamis.com.br/cat/3/parte-de-cima"
+      },
+      {
+        "label": "CALÇAS & SHORTS",
+        "href": "https://www.lamis.com.br/cat/4/calcas-shorts"
+      },
+      {
+        "label": "SAIAS",
+        "href": "https://www.lamis.com.br/cat/1/saias"
+      },
+      {
+        "label": "LOOK INTEIRO",
+        "href": "https://www.lamis.com.br/cat/6/look-inteiro"
+      },
+      {
+        "label": "SOBREPOSIÇÃO",
+        "href": "https://www.lamis.com.br/cat/8/sobreposicao"
+      }
+    ],
+    "testimonials": [
+      {
+        "text": "Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com seriedade. Os produtos são ótimos. Eu só espero que chegue mais produtos tamanhos GG e 46, especialmente, calças. Fora isso, tudo é super lindo, veste bem e tem qualidade. Sem contar que enviam super rápido tudo. Elizabeth C. 26/05/2026",
+        "author": "Elizabeth C."
+      },
+      {
+        "text": "Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com seriedade. Os produtos são ótimos. Eu só espero que chegue mais produtos tamanhos GG e 46, especialmente, calças. Fora isso, tudo é super lindo, veste bem e tem qualidade. Sem contar que enviam super rápido tudo.",
+        "author": ""
+      },
+      {
+        "text": "preço bom, entrega rapida! e roupas legais Cláudia L. 14/05/2026",
+        "author": "Cláudia L."
+      },
+      {
+        "text": "preço bom, entrega rapida! e roupas legais",
+        "author": ""
+      }
+    ]
+  },
+  "captured_at": "2026-06-05T00:33:04.157Z",
   "source_url": "https://www.lamis.com.br/"
 }
