@@ -8,7 +8,8 @@ const steps = [
   ["score", "scripts/score-leads.mjs"],
   ["outbox", "scripts/generate-outbox.mjs"],
   ["capture", "scripts/capture-site.mjs"],
-  ["kit", "scripts/generate-kits.mjs"]
+  ["kit", "scripts/generate-kits.mjs"],
+  ["video", "scripts/generate-video.mjs"]
 ];
 
 for (const [label, script] of steps) {

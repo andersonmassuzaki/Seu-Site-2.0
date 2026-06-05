@@ -12,6 +12,7 @@
     "outbox": "node scripts/generate-outbox.mjs",
     "capture": "node scripts/capture-site.mjs",
     "kit": "node scripts/generate-kits.mjs",
+    "video": "node scripts/generate-video.mjs",
     "status": "node scripts/status.mjs",
     "export:web": "node scripts/export-web.mjs",
     "build": "node scripts/build-static.mjs",
