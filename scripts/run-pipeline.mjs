@@ -7,6 +7,7 @@ const steps = [
   ["enrich", "scripts/enrich-sites.mjs"],
   ["score", "scripts/score-leads.mjs"],
   ["outbox", "scripts/generate-outbox.mjs"],
+  ["capture", "scripts/capture-site.mjs"],
   ["kit", "scripts/generate-kits.mjs"]
 ];
 

@@ -298,13 +298,42 @@ ${lead.message}
 `;
 }
 
-export function buildPreviewHtml(lead) {
+function pickReadableInk(hex) {
+  if (!hex || !/^#[0-9a-f]{6}$/i.test(hex)) return "#151515";
+  const r = parseInt(hex.slice(1, 3), 16) / 255;
+  const g = parseInt(hex.slice(3, 5), 16) / 255;
+  const b = parseInt(hex.slice(5, 7), 16) / 255;
+  const lum = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+  return lum > 0.6 ? "#151515" : "#ffffff";
+}
+
+function isUsefulColor(hex) {
+  if (!hex || !/^#[0-9a-f]{6}$/i.test(hex)) return false;
+  const r = parseInt(hex.slice(1, 3), 16);
+  const g = parseInt(hex.slice(3, 5), 16);
+  const b = parseInt(hex.slice(5, 7), 16);
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  // descarta preto/branco/cinza puro como cor de marca
+  if (max - min < 20) return false;
+  return true;
+}
+
+export function buildPreviewHtml(lead, brand = null, opts = {}) {
   const strategy = kitStrategy(lead);
   const isEcommerce = lead.type === "ecommerce";
   const primaryCta = isEcommerce ? "Ver colecao" : "Solicitar orcamento";
   const secondaryCta = isEcommerce ? "Falar no WhatsApp" : "Falar com especialista";
   const eyebrow = isEcommerce ? "Nova experiencia de compra" : "Nova presenca digital";
-  const headline = isEcommerce
+  const brandPrimary = brand && isUsefulColor(brand.primary)
+    ? brand.primary
+    : (brand && (brand.palette || []).find(isUsefulColor)) || "#0f6b64";
+  const brandInk = pickReadableInk(brandPrimary);
+  const brandLogo = brand && brand.logo ? brand.logo : null;
+  const brandHeadlineRaw = brand && brand.headline ? brand.headline.trim() : "";
+  const headline = brandHeadlineRaw
+    ? brandHeadlineRaw
+    : isEcommerce
     ? `${lead.name} em uma versao mais premium, clara e pronta para vender no mobile`
     : `${lead.name} com uma presenca mais moderna, confiavel e preparada para gerar contatos`;
   const subcopy = isEcommerce
@@ -338,7 +367,8 @@ export function buildPreviewHtml(lead) {
       --muted: #67615b;
       --line: #ded7cc;
       --paper: #fffefa;
-      --brand: #0f6b64;
+      --brand: ${brandPrimary};
+      --brand-ink: ${brandInk};
       --accent: #d94f30;
       --gold: #b88a44;
     }
@@ -402,7 +432,7 @@ export function buildPreviewHtml(lead) {
       border: 0;
       border-radius: 6px;
       background: var(--brand);
-      color: #fff;
+      color: var(--brand-ink);
       padding: 0 18px;
       font-weight: 700;
       text-decoration: none;
@@ -594,6 +624,77 @@ export function buildPreviewHtml(lead) {
     }
     .band h2 { color: #fff; margin: 0; max-width: 720px; }
     .band p { color: rgba(255,255,255,0.72); max-width: 620px; }
+    .compare {
+      width: min(1180px, calc(100% - 32px));
+      margin: 36px auto 0;
+      padding: 24px 0 12px;
+    }
+    .compare h2 {
+      margin: 0 0 6px;
+      font-size: clamp(26px, 4vw, 38px);
+    }
+    .compare .lede {
+      color: var(--muted);
+      margin: 0 0 22px;
+      max-width: 720px;
+    }
+    .compare-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    .frame {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 14px 40px rgba(29,24,18,0.08);
+    }
+    .frame-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 14px;
+      background: #f5f2ec;
+      border-bottom: 1px solid var(--line);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .frame-bar .tag.after { color: var(--brand); }
+    .frame-shot {
+      display: block;
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+      object-position: top center;
+    }
+    .frame-mobile {
+      position: relative;
+      height: 420px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(160deg, #f3efe6, #fffdf6);
+    }
+    .frame-mobile img {
+      height: 380px;
+      width: auto;
+      border-radius: 22px;
+      box-shadow: 0 16px 40px rgba(29,24,18,0.22);
+    }
+    .brand-logo-img {
+      max-height: 36px;
+      width: auto;
+      display: block;
+    }
+    @media (max-width: 760px) {
+      .compare-grid { grid-template-columns: 1fr; }
+      .frame-shot, .frame-mobile { height: 320px; }
+      .frame-mobile img { height: 280px; }
+    }
     @media (max-width: 860px) {
       nav { display: none; }
       .hero {
@@ -632,7 +733,11 @@ export function buildPreviewHtml(lead) {
   <div class="topbar">Previa visual demonstrativa criada pelo Seu Site 2.0</div>
   <header>
     <div class="nav">
-      <div class="logo">${htmlEscape(lead.name)}</div>
+      <div class="logo">${
+        brandLogo
+          ? `<img class="brand-logo-img" src="${htmlEscape(brandLogo)}" alt="${htmlEscape(lead.name)}" onerror="this.replaceWith(Object.assign(document.createElement('span'),{textContent:'${htmlEscape(lead.name).replace(/'/g, "\\'")}'}))">`
+          : htmlEscape(lead.name)
+      }</div>
       <nav>
         ${navItems.map((item) => `<a href="#">${htmlEscape(item)}</a>`).join("\n")}
       </nav>
@@ -641,9 +746,28 @@ export function buildPreviewHtml(lead) {
   </header>
 
   <main>
+    ${
+      opts.hasShots
+        ? `<section class="compare">
+      <h2>Site atual de ${htmlEscape(lead.name)}</h2>
+      <p class="lede">Captura real feita agora, desktop e mobile. Abaixo, uma simulacao do redesign mantendo as cores e a identidade da marca.</p>
+      <div class="compare-grid">
+        <figure class="frame" style="margin:0">
+          <div class="frame-bar"><span class="tag">Desktop</span><span>${htmlEscape(brand?.source_url || lead.url || "")}</span></div>
+          <img class="frame-shot" src="shots/desktop.png" alt="Site atual de ${htmlEscape(lead.name)} em desktop">
+        </figure>
+        <figure class="frame" style="margin:0">
+          <div class="frame-bar"><span class="tag">Mobile</span><span>iPhone</span></div>
+          <div class="frame-mobile"><img src="shots/mobile.png" alt="Site atual em mobile"></div>
+        </figure>
+      </div>
+    </section>`
+        : ""
+    }
+
     <section class="hero">
       <div>
-        <div class="eyebrow">${htmlEscape(eyebrow)}</div>
+        <div class="eyebrow">${opts.hasShots ? "Depois - simulacao Seu Site 2.0" : htmlEscape(eyebrow)}</div>
         <h1>${htmlEscape(headline)}</h1>
         <p>${htmlEscape(subcopy)}</p>
         <div class="actions">

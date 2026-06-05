@@ -12,6 +12,7 @@
       --line: #ded7cc;
       --paper: #fffefa;
       --brand: #0f6b64;
+      --brand-ink: #ffffff;
       --accent: #d94f30;
       --gold: #b88a44;
     }
@@ -75,7 +76,7 @@
       border: 0;
       border-radius: 6px;
       background: var(--brand);
-      color: #fff;
+      color: var(--brand-ink);
       padding: 0 18px;
       font-weight: 700;
       text-decoration: none;
@@ -267,6 +268,77 @@
     }
     .band h2 { color: #fff; margin: 0; max-width: 720px; }
     .band p { color: rgba(255,255,255,0.72); max-width: 620px; }
+    .compare {
+      width: min(1180px, calc(100% - 32px));
+      margin: 36px auto 0;
+      padding: 24px 0 12px;
+    }
+    .compare h2 {
+      margin: 0 0 6px;
+      font-size: clamp(26px, 4vw, 38px);
+    }
+    .compare .lede {
+      color: var(--muted);
+      margin: 0 0 22px;
+      max-width: 720px;
+    }
+    .compare-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    .frame {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 14px 40px rgba(29,24,18,0.08);
+    }
+    .frame-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 14px;
+      background: #f5f2ec;
+      border-bottom: 1px solid var(--line);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .frame-bar .tag.after { color: var(--brand); }
+    .frame-shot {
+      display: block;
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+      object-position: top center;
+    }
+    .frame-mobile {
+      position: relative;
+      height: 420px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(160deg, #f3efe6, #fffdf6);
+    }
+    .frame-mobile img {
+      height: 380px;
+      width: auto;
+      border-radius: 22px;
+      box-shadow: 0 16px 40px rgba(29,24,18,0.22);
+    }
+    .brand-logo-img {
+      max-height: 36px;
+      width: auto;
+      display: block;
+    }
+    @media (max-width: 760px) {
+      .compare-grid { grid-template-columns: 1fr; }
+      .frame-shot, .frame-mobile { height: 320px; }
+      .frame-mobile img { height: 280px; }
+    }
     @media (max-width: 860px) {
       nav { display: none; }
       .hero {
@@ -305,7 +377,7 @@
   <div class="topbar">Previa visual demonstrativa criada pelo Seu Site 2.0</div>
   <header>
     <div class="nav">
-      <div class="logo">Lamis</div>
+      <div class="logo"><img class="brand-logo-img" src="https://braavo-static.nyc3.digitaloceanspaces.com/logo/lamis/logo_retina.png" alt="Lamis" onerror="this.replaceWith(Object.assign(document.createElement('span'),{textContent:'Lamis'}))"></div>
       <nav>
         <a href="#">Novidades</a>
 <a href="#">Categorias</a>
@@ -318,10 +390,25 @@
   </header>
 
   <main>
+    <section class="compare">
+      <h2>Site atual de Lamis</h2>
+      <p class="lede">Captura real feita agora, desktop e mobile. Abaixo, uma simulacao do redesign mantendo as cores e a identidade da marca.</p>
+      <div class="compare-grid">
+        <figure class="frame" style="margin:0">
+          <div class="frame-bar"><span class="tag">Desktop</span><span>https://www.lamis.com.br/</span></div>
+          <img class="frame-shot" src="shots/desktop.png" alt="Site atual de Lamis em desktop">
+        </figure>
+        <figure class="frame" style="margin:0">
+          <div class="frame-bar"><span class="tag">Mobile</span><span>iPhone</span></div>
+          <div class="frame-mobile"><img src="shots/mobile.png" alt="Site atual em mobile"></div>
+        </figure>
+      </div>
+    </section>
+
     <section class="hero">
       <div>
-        <div class="eyebrow">Nova experiencia de compra</div>
-        <h1>Lamis em uma versao mais premium, clara e pronta para vender no mobile</h1>
+        <div class="eyebrow">Depois - simulacao Seu Site 2.0</div>
+        <h1>Lamis Moda Feminina Acessível e de Qualidade</h1>
         <p>Uma simulacao visual com vitrine mais organizada, CTAs evidentes, hierarquia comercial e experiencia responsiva para valorizar os produtos.</p>
         <div class="actions">
           <a class="button" href="#">Ver colecao</a>

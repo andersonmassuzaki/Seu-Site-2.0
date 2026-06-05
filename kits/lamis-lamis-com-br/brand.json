@@ -1,0 +1,22 @@
+{
+  "title": "Lamis Moda Feminina Acessível e de Qualidade",
+  "headline": "Lamis Moda Feminina Acessível e de Qualidade",
+  "description": "Lamis Moda Feminina Acessível e de Qualidade",
+  "body_bg": "#000000",
+  "body_color": "#000000",
+  "header_bg": "#000000",
+  "primary": "#ffffff",
+  "palette": [
+    "#ffffff",
+    "#000000",
+    "#333333"
+  ],
+  "font_family": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+  "heading_font": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+  "logo": "https://braavo-static.nyc3.digitaloceanspaces.com/logo/lamis/logo_retina.png",
+  "favicon": "https://braavo-static.nyc3.digitaloceanspaces.com/favicon/lamis/apple-touch-icon.png",
+  "og_image": "https://thumb.braavo.me/lamis/200/2221811186.webp",
+  "is_dark": true,
+  "captured_at": "2026-06-05T00:16:52.343Z",
+  "source_url": "https://www.lamis.com.br/"
+}

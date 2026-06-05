@@ -29,7 +29,19 @@ for (const lead of outbox) {
     `${JSON.stringify(buildVideoStoryboard(lead), null, 2)}\n`
   );
   fs.writeFileSync(path.join(dir, "mensagem.txt"), `${lead.message}\n`);
-  fs.writeFileSync(path.join(previewDir, "index.html"), buildPreviewHtml(lead));
+
+  const brandPath = path.join(dir, "brand.json");
+  let brand = null;
+  if (fs.existsSync(brandPath)) {
+    try {
+      brand = JSON.parse(fs.readFileSync(brandPath, "utf8"));
+    } catch {}
+  }
+  const hasShots = fs.existsSync(path.join(previewDir, "shots", "desktop.png"));
+  fs.writeFileSync(
+    path.join(previewDir, "index.html"),
+    buildPreviewHtml(lead, brand, { hasShots })
+  );
   count += 1;
 }
 

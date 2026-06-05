@@ -10,6 +10,7 @@
     "enrich": "node scripts/enrich-sites.mjs",
     "score": "node scripts/score-leads.mjs",
     "outbox": "node scripts/generate-outbox.mjs",
+    "capture": "node scripts/capture-site.mjs",
     "kit": "node scripts/generate-kits.mjs",
     "status": "node scripts/status.mjs",
     "export:web": "node scripts/export-web.mjs",
@@ -20,5 +21,8 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
   }
 }
