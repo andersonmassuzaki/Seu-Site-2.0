@@ -1,0 +1,491 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Previa Seu Site 2.0 - Lamis</title>
+  <style>
+    :root {
+      --bg: #f7f4ee;
+      --ink: #151515;
+      --muted: #67615b;
+      --line: #ded7cc;
+      --paper: #fffefa;
+      --brand: #0f6b64;
+      --brand-ink: #ffffff;
+      --accent: #d94f30;
+      --gold: #b88a44;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--bg);
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .topbar {
+      background: var(--ink);
+      color: #fff;
+      font-size: 13px;
+      text-align: center;
+      padding: 9px 16px;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 254, 250, 0.94);
+      backdrop-filter: blur(12px);
+    }
+    .nav {
+      width: min(1180px, calc(100% - 32px));
+      min-height: 70px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+    .logo {
+      color: var(--brand);
+      font-size: 22px;
+      font-weight: 800;
+      letter-spacing: 0;
+      white-space: nowrap;
+    }
+    nav {
+      display: flex;
+      gap: 18px;
+      align-items: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    nav a {
+      color: inherit;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .nav-cta,
+    .button {
+      display: inline-flex;
+      min-height: 44px;
+      align-items: center;
+      justify-content: center;
+      border: 0;
+      border-radius: 6px;
+      background: var(--brand);
+      color: var(--brand-ink);
+      padding: 0 18px;
+      font-weight: 700;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .button.secondary {
+      background: transparent;
+      color: var(--ink);
+      border: 1px solid var(--line);
+    }
+    .hero {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      min-height: calc(100vh - 108px);
+      display: grid;
+      grid-template-columns: minmax(0, 1.02fr) minmax(320px, 0.98fr);
+      gap: 38px;
+      align-items: center;
+      padding: 46px 0 34px;
+    }
+    .eyebrow {
+      color: var(--accent);
+      font-size: 13px;
+      font-weight: 800;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(42px, 7vw, 76px);
+      line-height: 0.96;
+      letter-spacing: 0;
+    }
+    .hero p {
+      color: var(--muted);
+      font-size: 18px;
+      line-height: 1.55;
+      max-width: 650px;
+      margin: 20px 0 0;
+    }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 28px;
+    }
+    .visual {
+      position: relative;
+      min-height: 560px;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      background:
+        linear-gradient(145deg, rgba(15, 107, 100, 0.12), rgba(217, 79, 48, 0.08)),
+        var(--paper);
+    }
+    .mock-browser {
+      position: absolute;
+      inset: 34px 34px 128px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      box-shadow: 0 26px 70px rgba(29, 24, 18, 0.18);
+      overflow: hidden;
+    }
+    .mock-bar {
+      height: 38px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 0 14px;
+      background: #f5f5f3;
+    }
+    .dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--accent);
+    }
+    .dot:nth-child(2) { background: var(--gold); }
+    .dot:nth-child(3) { background: var(--brand); }
+    .mock-content {
+      padding: 28px;
+    }
+    .mock-title {
+      width: 80%;
+      height: 28px;
+      border-radius: 4px;
+      background: var(--ink);
+      margin-bottom: 14px;
+    }
+    .mock-line {
+      width: 100%;
+      height: 10px;
+      border-radius: 10px;
+      background: #ddd5c8;
+      margin: 9px 0;
+    }
+    .mock-line.short { width: 62%; }
+    .mock-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-top: 24px;
+    }
+    .mock-card {
+      min-height: 112px;
+      border-radius: 6px;
+      background: #f0ebe2;
+      border: 1px solid var(--line);
+    }
+    .phone {
+      position: absolute;
+      right: 30px;
+      bottom: 28px;
+      width: 190px;
+      height: 350px;
+      border-radius: 26px;
+      padding: 12px;
+      background: var(--ink);
+      box-shadow: 0 22px 50px rgba(29, 24, 18, 0.24);
+    }
+    .phone-screen {
+      height: 100%;
+      border-radius: 18px;
+      background: #fff;
+      padding: 18px;
+      overflow: hidden;
+    }
+    .phone-hero {
+      height: 86px;
+      border-radius: 8px;
+      background: var(--brand);
+      margin-bottom: 12px;
+    }
+    .phone-row {
+      height: 12px;
+      border-radius: 10px;
+      background: #ddd5c8;
+      margin: 10px 0;
+    }
+    .section {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 54px 0;
+    }
+    .section h2 {
+      margin: 0 0 20px;
+      font-size: clamp(28px, 4vw, 44px);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+    .card {
+      min-height: 190px;
+      padding: 22px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--paper);
+    }
+    .card strong {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+    .card p {
+      color: var(--muted);
+      line-height: 1.5;
+      margin: 0;
+    }
+    .band {
+      background: var(--ink);
+      color: #fff;
+      margin-top: 30px;
+    }
+    .band-inner {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 48px 0;
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      align-items: center;
+    }
+    .band h2 { color: #fff; margin: 0; max-width: 720px; }
+    .band p { color: rgba(255,255,255,0.72); max-width: 620px; }
+    .compare {
+      width: min(1180px, calc(100% - 32px));
+      margin: 36px auto 0;
+      padding: 24px 0 12px;
+    }
+    .compare h2 {
+      margin: 0 0 6px;
+      font-size: clamp(26px, 4vw, 38px);
+    }
+    .compare .lede {
+      color: var(--muted);
+      margin: 0 0 22px;
+      max-width: 720px;
+    }
+    .compare-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    .frame {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 14px 40px rgba(29,24,18,0.08);
+    }
+    .frame-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 14px;
+      background: #f5f2ec;
+      border-bottom: 1px solid var(--line);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .frame-bar .tag.after { color: var(--brand); }
+    .frame-shot {
+      display: block;
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+      object-position: top center;
+    }
+    .frame-mobile {
+      position: relative;
+      height: 420px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(160deg, #f3efe6, #fffdf6);
+    }
+    .frame-mobile img {
+      height: 380px;
+      width: auto;
+      border-radius: 22px;
+      box-shadow: 0 16px 40px rgba(29,24,18,0.22);
+    }
+    .brand-logo-img {
+      max-height: 36px;
+      width: auto;
+      display: block;
+    }
+    @media (max-width: 760px) {
+      .compare-grid { grid-template-columns: 1fr; }
+      .frame-shot, .frame-mobile { height: 320px; }
+      .frame-mobile img { height: 280px; }
+    }
+    @media (max-width: 860px) {
+      nav { display: none; }
+      .hero {
+        min-height: auto;
+        grid-template-columns: 1fr;
+        padding-top: 34px;
+      }
+      .visual { min-height: 500px; }
+      .cards { grid-template-columns: 1fr; }
+      .band-inner {
+        display: block;
+      }
+      .band .button { margin-top: 20px; }
+    }
+    @media (max-width: 560px) {
+      .nav { min-height: 62px; }
+      .logo { font-size: 18px; }
+      .nav-cta { display: none; }
+      h1 { font-size: 42px; }
+      .hero p { font-size: 16px; }
+      .visual { min-height: 430px; }
+      .mock-browser {
+        inset: 22px 16px 126px;
+      }
+      .mock-grid { grid-template-columns: 1fr; }
+      .mock-card:nth-child(n+2) { display: none; }
+      .phone {
+        width: 150px;
+        height: 280px;
+        right: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">Previa visual demonstrativa criada pelo Seu Site 2.0</div>
+  <header>
+    <div class="nav">
+      <div class="logo"><img class="brand-logo-img" src="https://braavo-static.nyc3.digitaloceanspaces.com/logo/lamis/logo_retina.png" alt="Lamis" onerror="this.replaceWith(Object.assign(document.createElement('span'),{textContent:'Lamis'}))"></div>
+      <nav>
+        <a href="#">Novidades</a>
+<a href="#">Categorias</a>
+<a href="#">Mais vendidos</a>
+<a href="#">Trocas</a>
+<a href="#">Contato</a>
+      </nav>
+      <a class="nav-cta" href="#">Falar no WhatsApp</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="compare">
+      <h2>Site atual de Lamis</h2>
+      <p class="lede">Captura real feita agora, desktop e mobile. Abaixo, uma simulacao do redesign mantendo as cores e a identidade da marca.</p>
+      <div class="compare-grid">
+        <figure class="frame" style="margin:0">
+          <div class="frame-bar"><span class="tag">Desktop</span><span>https://www.lamis.com.br/</span></div>
+          <img class="frame-shot" src="shots/desktop.png" alt="Site atual de Lamis em desktop">
+        </figure>
+        <figure class="frame" style="margin:0">
+          <div class="frame-bar"><span class="tag">Mobile</span><span>iPhone</span></div>
+          <div class="frame-mobile"><img src="shots/mobile.png" alt="Site atual em mobile"></div>
+        </figure>
+      </div>
+    </section>
+
+    <section class="hero">
+      <div>
+        <div class="eyebrow">Depois - simulacao Seu Site 2.0</div>
+        <h1>Lamis Moda Feminina Acessível e de Qualidade</h1>
+        <p>Uma simulacao visual com vitrine mais organizada, CTAs evidentes, hierarquia comercial e experiencia responsiva para valorizar os produtos.</p>
+        <div class="actions">
+          <a class="button" href="#">Ver colecao</a>
+          <a class="button secondary" href="#">Falar no WhatsApp</a>
+        </div>
+      </div>
+      <div class="visual" aria-label="Mockup visual">
+        <div class="mock-browser">
+          <div class="mock-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+          <div class="mock-content">
+            <div class="mock-title"></div>
+            <div class="mock-line"></div>
+            <div class="mock-line short"></div>
+            <div class="mock-grid">
+              <div class="mock-card"></div>
+              <div class="mock-card"></div>
+              <div class="mock-card"></div>
+            </div>
+          </div>
+        </div>
+        <div class="phone">
+          <div class="phone-screen">
+            <div class="phone-hero"></div>
+            <div class="phone-row"></div>
+            <div class="phone-row"></div>
+            <div class="phone-row"></div>
+            <div class="phone-row"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>O que esta versao resolveria</h2>
+      <div class="cards">
+        <article class="card">
+          <strong>Produto destaque</strong>
+          <p>Foto maior, preco claro e chamada de compra mais evidente.</p>
+        </article>
+<article class="card">
+          <strong>Vitrine responsiva</strong>
+          <p>Cards consistentes para facilitar comparacao no celular.</p>
+        </article>
+<article class="card">
+          <strong>Confiança</strong>
+          <p>Frete, troca e parcelamento visiveis antes da decisao.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Direcao de melhoria</h2>
+      <div class="cards">
+        <article class="card">
+          <strong>Home com hierarquia premium</strong>
+          <p>Bloco demonstrativo para mostrar como a informacao poderia ganhar mais clareza, ritmo e intencao comercial.</p>
+        </article>
+<article class="card">
+          <strong>Menu de categorias mais objetivo</strong>
+          <p>Bloco demonstrativo para mostrar como a informacao poderia ganhar mais clareza, ritmo e intencao comercial.</p>
+        </article>
+<article class="card">
+          <strong>Vitrine com cards de produto mais fortes</strong>
+          <p>Bloco demonstrativo para mostrar como a informacao poderia ganhar mais clareza, ritmo e intencao comercial.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="band">
+      <div class="band-inner">
+        <div>
+          <h2>Esta e apenas uma previa visual, nao o site final.</h2>
+          <p>A ideia e facilitar a visualizacao do potencial antes de qualquer proposta fechada.</p>
+        </div>
+        <a class="button" href="#">Conversar sobre a evolucao</a>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

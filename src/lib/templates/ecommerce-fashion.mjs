@@ -1,9 +1,78 @@
-<!doctype html>
+import { htmlEscape } from "../kit.mjs";
+
+function pickReadableInk(hex) {
+  if (!hex || !/^#[0-9a-f]{6}$/i.test(hex)) return "#111";
+  const r = parseInt(hex.slice(1, 3), 16) / 255;
+  const g = parseInt(hex.slice(3, 5), 16) / 255;
+  const b = parseInt(hex.slice(5, 7), 16) / 255;
+  const lum = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+  return lum > 0.6 ? "#111" : "#fff";
+}
+
+function isUsefulColor(hex) {
+  if (!hex || !/^#[0-9a-f]{6}$/i.test(hex)) return false;
+  const r = parseInt(hex.slice(1, 3), 16);
+  const g = parseInt(hex.slice(3, 5), 16);
+  const b = parseInt(hex.slice(5, 7), 16);
+  return Math.max(r, g, b) - Math.min(r, g, b) >= 20;
+}
+
+function firstUseful(palette) {
+  return (palette || []).find(isUsefulColor) || null;
+}
+
+export function buildEcommerceFashionPreview(lead, brand) {
+  const content = brand?.content || {};
+  const products = (content.products || []).slice(0, 8);
+  const gallery = (content.gallery || []).filter(
+    (g) => g.url && !products.some((p) => p.image === g.url)
+  );
+  const navItems = (content.nav_items || []).slice(0, 6);
+  const testimonials = (content.testimonials || []).slice(0, 3);
+  const social = content.social || {};
+  const contact = content.contact || {};
+
+  const accent =
+    (isUsefulColor(brand?.primary) && brand.primary) ||
+    firstUseful(brand?.palette) ||
+    "#7a5a3a";
+  const accentInk = pickReadableInk(accent);
+
+  const heroImage = content.hero_image || brand?.og_image || gallery[0]?.url || "";
+  const logo = brand?.logo;
+  const name = lead.name || "Marca";
+
+  const headline =
+    (brand?.headline && brand.headline.length < 80 && brand.headline) ||
+    `${name} reimaginada para vender mais no mobile`;
+  const tagline =
+    brand?.description?.length > 30
+      ? brand.description
+      : "Uma coleção feita para combinar com a sua rotina — peças versáteis, caimento impecável e estilo sem esforço.";
+
+  const whatsappHref = social.whatsapp ||
+    (contact.whatsapp ? contact.whatsapp : null) ||
+    (contact.phone
+      ? `https://wa.me/55${contact.phone.replace(/\D/g, "")}`
+      : "#");
+
+  function productCard(p, i) {
+    const span = i === 0 || i === 3 ? "tall" : i === 4 ? "wide" : "";
+    return `<a class="product ${span}" href="${htmlEscape(p.url || "#")}" target="_blank" rel="noopener">
+      <div class="product-img" style="background-image:url('${htmlEscape(p.image)}')"></div>
+      <div class="product-meta">
+        <span class="product-name">${htmlEscape(p.name)}</span>
+        ${p.price ? `<span class="product-price">${htmlEscape(p.price)}</span>` : ""}
+      </div>
+    </a>`;
+  }
+
+  return `<!doctype html>
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Lamis — versão Seu Site 2.0</title>
+<title>${htmlEscape(name)} — versão Seu Site 2.0</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -15,8 +84,8 @@
     --line: #e7e1d8;
     --paper: #faf7f2;
     --paper-2: #f1ebe1;
-    --accent: #7a5a3a;
-    --accent-ink: #fff;
+    --accent: ${accent};
+    --accent-ink: ${accentInk};
   }
   *,*::before,*::after { box-sizing: border-box; }
   html { scroll-behavior: smooth; }
@@ -299,7 +368,7 @@
   /* category strip */
   .cat-strip {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(${Math.min(navItems.length || 4, 4)}, 1fr);
     gap: 12px;
   }
   .cat {
@@ -355,7 +424,7 @@
   /* testimonials */
   .quotes {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(${Math.min(testimonials.length || 1, 3)}, 1fr);
     gap: 24px;
   }
   .quote {
@@ -466,8 +535,8 @@
 
   /* preview banner */
   .preview-bar {
-    background: #7a5a3a;
-    color: #fff;
+    background: ${accent};
+    color: ${accentInk};
     text-align: center;
     padding: 8px 16px;
     font-size: 12px;
@@ -515,10 +584,12 @@
 <div class="nav-wrap">
   <div class="container nav">
     <div class="nav-links">
-      <a href="#">NEW</a><a href="#">BÁSICOS</a><a href="#">PARTE DE CIMA</a><a href="#">CALÇAS &amp; SHORTS</a>
+      ${navItems.slice(0, 4).map((n) => `<a href="#">${htmlEscape(n.label)}</a>`).join("")}
     </div>
     <div class="brand-mark">
-      <img src="https://braavo-static.nyc3.digitaloceanspaces.com/logo/lamis/logo_retina.png" alt="Lamis" onerror="this.outerHTML='<span class=\'wordmark\'>Lamis</span>'">
+      ${logo
+        ? `<img src="${htmlEscape(logo)}" alt="${htmlEscape(name)}" onerror="this.outerHTML='<span class=\\'wordmark\\'>${htmlEscape(name).replace(/'/g, "\\'")}</span>'">`
+        : `<span class="wordmark">${htmlEscape(name)}</span>`}
     </div>
     <div class="nav-right">
       <span>Buscar</span>
@@ -532,11 +603,11 @@
   <div class="container hero-grid">
     <div>
       <div class="hero-eyebrow">Nova temporada</div>
-      <h1 class="h-serif hero-title">Lamis Moda Feminina Acessível e de Qualidade</h1>
-      <p class="hero-sub">Lamis Moda Feminina Acessível e de Qualidade</p>
+      <h1 class="h-serif hero-title">${htmlEscape(headline)}</h1>
+      <p class="hero-sub">${htmlEscape(tagline)}</p>
       <div class="cta-row">
         <a class="btn btn-primary" href="#colecao">Ver coleção →</a>
-        <a class="btn btn-ghost" href="https://wa.me/551139005060" target="_blank" rel="noopener">Falar no WhatsApp</a>
+        <a class="btn btn-ghost" href="${htmlEscape(whatsappHref)}" target="_blank" rel="noopener">Falar no WhatsApp</a>
       </div>
       <div class="hero-meta">
         <div><strong>4.8★</strong><span>+1.2k clientes</span></div>
@@ -544,13 +615,13 @@
         <div><strong>6x s/ juros</strong><span>no cartão</span></div>
       </div>
     </div>
-    <div class="hero-visual" style="background-image:url('https://thumb.braavo.me/lamis/0/1587149255.webp')">
+    <div class="hero-visual" style="background-image:url('${htmlEscape(heroImage)}')">
       <span class="hero-badge">Coleção atual</span>
     </div>
   </div>
 </section>
 
-
+${products.length >= 4 ? `
 <section id="colecao" class="section">
   <div class="container">
     <div class="section-head">
@@ -561,60 +632,12 @@
       <a href="#">Ver tudo →</a>
     </div>
     <div class="grid-shop">
-      <a class="product tall" href="https://www.lamis.com.br/p/casaco-amplo-punho-teddy#v1041" target="_blank" rel="noopener">
-      <div class="product-img" style="background-image:url('https://thumb.braavo.me/lamis/400/653809091.webp')"></div>
-      <div class="product-meta">
-        <span class="product-name">Foto Casaco amplo com detalhe no punho</span>
-        <span class="product-price">R$ 258</span>
-      </div>
-    </a><a class="product " href="https://www.lamis.com.br/p/casaqueto-amplo-dois-botoes-forrados#v1041" target="_blank" rel="noopener">
-      <div class="product-img" style="background-image:url('https://thumb.braavo.me/lamis/400/736422290.webp')"></div>
-      <div class="product-meta">
-        <span class="product-name">Foto Casaqueto amplo dois botões forrados</span>
-        <span class="product-price">R$ 218</span>
-      </div>
-    </a><a class="product " href="https://www.lamis.com.br/p/sueter-gola-alta-mangas-caneladas#v1041" target="_blank" rel="noopener">
-      <div class="product-img" style="background-image:url('https://thumb.braavo.me/lamis/400/3976583515.webp')"></div>
-      <div class="product-meta">
-        <span class="product-name">Foto Sueter gola alta com manga canelada</span>
-        <span class="product-price">R$ 268</span>
-      </div>
-    </a><a class="product tall" href="https://www.lamis.com.br/p/casaco-fenda-frontal-touca#v1041" target="_blank" rel="noopener">
-      <div class="product-img" style="background-image:url('https://thumb.braavo.me/lamis/400/2668187871.webp')"></div>
-      <div class="product-meta">
-        <span class="product-name">Foto Casaco com fenda frontal com touca</span>
-        <span class="product-price">R$ 308</span>
-      </div>
-    </a><a class="product wide" href="https://www.lamis.com.br/p/blusa-texturizada-manga-longa-toque-seda#v1041" target="_blank" rel="noopener">
-      <div class="product-img" style="background-image:url('https://thumb.braavo.me/lamis/400/2900283881.webp')"></div>
-      <div class="product-meta">
-        <span class="product-name">Foto Blusa texturizada manga longa toque seda</span>
-        <span class="product-price">R$ 90</span>
-      </div>
-    </a><a class="product " href="https://www.lamis.com.br/p/calca-reta-leve-cordao-cintura#v1044" target="_blank" rel="noopener">
-      <div class="product-img" style="background-image:url('https://thumb.braavo.me/lamis/400/3735654833.webp')"></div>
-      <div class="product-meta">
-        <span class="product-name">Foto Calca reta leve com cordao cintura</span>
-        <span class="product-price">R$ 108</span>
-      </div>
-    </a><a class="product " href="https://www.lamis.com.br/p/poncho-canelado-com-punho#v1030" target="_blank" rel="noopener">
-      <div class="product-img" style="background-image:url('https://thumb.braavo.me/lamis/400/941224453.webp')"></div>
-      <div class="product-meta">
-        <span class="product-name">Foto Poncho canelado com punho</span>
-        <span class="product-price">R$ 132</span>
-      </div>
-    </a><a class="product " href="https://www.lamis.com.br/p/calca-canelada-cashmere-cos-elastico#v1066" target="_blank" rel="noopener">
-      <div class="product-img" style="background-image:url('https://thumb.braavo.me/lamis/400/970431846.webp')"></div>
-      <div class="product-meta">
-        <span class="product-name">Foto Calca canelada em cachemir e elastico na cintura</span>
-        <span class="product-price">R$ 108</span>
-      </div>
-    </a>
+      ${products.map((p, i) => productCard(p, i)).join("")}
     </div>
   </div>
-</section>
+</section>` : ""}
 
-
+${navItems.length >= 3 && gallery.length >= 3 ? `
 <section class="section" style="padding-top:0">
   <div class="container">
     <div class="section-head">
@@ -624,39 +647,30 @@
       </div>
     </div>
     <div class="cat-strip">
-      
-        <a class="cat" href="#" style="background-image:url('https://thumb.braavo.me/lamis/0/3989748828.webp')">
-          <span>New</span>
-        </a>
-        <a class="cat" href="#" style="background-image:url('https://thumb.braavo.me/lamis/0/2379741478.webp')">
-          <span>Básicos</span>
-        </a>
-        <a class="cat" href="#" style="background-image:url('https://thumb.braavo.me/lamis/0/2752481456.webp')">
-          <span>Parte de cima</span>
-        </a>
-        <a class="cat" href="#" style="background-image:url('https://thumb.braavo.me/lamis/0/3419655800.webp')">
-          <span>Calças &amp; shorts</span>
-        </a>
+      ${navItems.slice(0, 4).map((n, i) => `
+        <a class="cat" href="#" style="background-image:url('${htmlEscape(gallery[i % gallery.length]?.url || heroImage)}')">
+          <span>${htmlEscape(n.label.toLowerCase().replace(/^./, (c) => c.toUpperCase()))}</span>
+        </a>`).join("")}
     </div>
   </div>
-</section>
+</section>` : ""}
 
 <section class="manifesto">
   <div class="container section">
     <div class="grid">
-      <div class="visual" style="background-image:url('https://thumb.braavo.me/lamis/0/3989748828.webp')"></div>
+      <div class="visual" style="background-image:url('${htmlEscape(gallery[0]?.url || heroImage)}')"></div>
       <div>
-        <div class="hero-eyebrow" style="color:#7a5a3a">Sobre a Lamis</div>
+        <div class="hero-eyebrow" style="color:${accent}">Sobre a ${htmlEscape(name)}</div>
         <h2 class="h-serif">Moda que combina com sua rotina, do trabalho ao fim de semana.</h2>
-        <p>Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com seriedade. Os produtos são ótimos. Eu só espero que chegue mais produtos tamanhos GG e 46, especialmente, calças. Fora isso, tudo é super lindo, veste bem e tem qualidade. Sem contar que enviam super </p>
+        <p>${htmlEscape(content.about?.slice(0, 280) || "Trabalhamos com peças versáteis, caimento impecável e materiais que duram — para você montar looks que funcionam todos os dias.")}</p>
         <p style="color:#9a9089">Peças desenhadas no Brasil. Coleções limitadas. Acabamento premium.</p>
-        <a class="btn btn-primary" href="https://wa.me/551139005060" target="_blank" rel="noopener" style="margin-top:18px">Tirar dúvidas no WhatsApp</a>
+        <a class="btn btn-primary" href="${htmlEscape(whatsappHref)}" target="_blank" rel="noopener" style="margin-top:18px">Tirar dúvidas no WhatsApp</a>
       </div>
     </div>
   </div>
 </section>
 
-
+${testimonials.length ? `
 <section class="section">
   <div class="container">
     <div class="section-head">
@@ -666,25 +680,15 @@
       </div>
     </div>
     <div class="quotes">
-      
+      ${testimonials.map((t) => `
         <article class="quote">
           <div class="stars">★★★★★</div>
-          <p>"Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com seriedade. Os produtos são ótimos. Eu só espero que chegue mais produtos tamanhos GG e 46, especialmente, calças. Fora isso, tudo é super li"</p>
-          <cite>— Elizabeth C.</cite>
-        </article>
-        <article class="quote">
-          <div class="stars">★★★★★</div>
-          <p>"Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com seriedade. Os produtos são ótimos. Eu só espero que chegue mais produtos tamanhos GG e 46, especialmente, calças. Fora isso, tudo é super li"</p>
-          
-        </article>
-        <article class="quote">
-          <div class="stars">★★★★★</div>
-          <p>"preço bom, entrega rapida! e roupas legais Cláudia L. 14/05/2026"</p>
-          <cite>— Cláudia L.</cite>
-        </article>
+          <p>"${htmlEscape((t.text || "").slice(0, 220))}"</p>
+          ${t.author ? `<cite>— ${htmlEscape(t.author)}</cite>` : ""}
+        </article>`).join("")}
     </div>
   </div>
-</section>
+</section>` : ""}
 
 <section class="cta-band">
   <div class="container">
@@ -698,18 +702,18 @@
   <div class="container">
     <div class="foot-grid">
       <div>
-        <h4>Lamis</h4>
-        <p style="margin:0 0 16px;max-width:320px;color:var(--muted)">Eu já compro nessa loja tem alguns anos e super amo tudo que tem. Trabalham com seriedade. Os produtos são ótimos. Eu só espero que chegue mais produtos tamanho</p>
+        <h4>${htmlEscape(name)}</h4>
+        <p style="margin:0 0 16px;max-width:320px;color:var(--muted)">${htmlEscape((content.about || "").slice(0, 160) || "Moda feminina pensada para o seu dia a dia.")}</p>
         <div class="social">
-          <a href="https://www.instagram.com/lamisoficial" target="_blank" aria-label="Instagram">IG</a>
-          <a href="https://www.facebook.com/lamisoficial" target="_blank" aria-label="Facebook">f</a>
-          <a href="http://tiktok.com/@lamisoficial" target="_blank" aria-label="TikTok">TT</a>
-          
+          ${social.instagram ? `<a href="${htmlEscape(social.instagram)}" target="_blank" aria-label="Instagram">IG</a>` : ""}
+          ${social.facebook ? `<a href="${htmlEscape(social.facebook)}" target="_blank" aria-label="Facebook">f</a>` : ""}
+          ${social.tiktok ? `<a href="${htmlEscape(social.tiktok)}" target="_blank" aria-label="TikTok">TT</a>` : ""}
+          ${social.youtube ? `<a href="${htmlEscape(social.youtube)}" target="_blank" aria-label="YouTube">YT</a>` : ""}
         </div>
       </div>
       <div>
         <h4>Comprar</h4>
-        <a href="#">NEW</a><a href="#">BÁSICOS</a><a href="#">PARTE DE CIMA</a><a href="#">CALÇAS &amp; SHORTS</a><a href="#">SAIAS</a>
+        ${navItems.slice(0, 5).map((n) => `<a href="#">${htmlEscape(n.label)}</a>`).join("")}
       </div>
       <div>
         <h4>Ajuda</h4>
@@ -720,21 +724,22 @@
       </div>
       <div>
         <h4>Fale com a gente</h4>
-        <a href="tel:(11)3900-5060">(11)3900-5060</a>
-        
-        <a href="https://wa.me/551139005060" target="_blank">WhatsApp</a>
+        ${contact.phone ? `<a href="tel:${htmlEscape(contact.phone)}">${htmlEscape(contact.phone)}</a>` : ""}
+        ${contact.email ? `<a href="mailto:${htmlEscape(contact.email)}">${htmlEscape(contact.email)}</a>` : ""}
+        <a href="${htmlEscape(whatsappHref)}" target="_blank">WhatsApp</a>
       </div>
     </div>
     <div class="foot-bottom">
-      <span>© 2026 Lamis · Pré-visualização Seu Site 2.0</span>
+      <span>© ${new Date().getFullYear()} ${htmlEscape(name)} · Pré-visualização Seu Site 2.0</span>
       <span>Visa · Master · Pix · Boleto</span>
     </div>
   </div>
 </footer>
 
-<a class="wa-fab" href="https://wa.me/551139005060" target="_blank" rel="noopener" aria-label="WhatsApp">
+${whatsappHref && whatsappHref !== "#" ? `<a class="wa-fab" href="${htmlEscape(whatsappHref)}" target="_blank" rel="noopener" aria-label="WhatsApp">
   <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><path d="M20.52 3.48A11.93 11.93 0 0012 0C5.37 0 0 5.37 0 12c0 2.11.55 4.17 1.6 5.99L0 24l6.18-1.62A11.94 11.94 0 0012 24c6.63 0 12-5.37 12-12 0-3.2-1.25-6.21-3.48-8.52zM12 22a9.93 9.93 0 01-5.07-1.39l-.36-.21-3.67.96.98-3.58-.23-.37A9.94 9.94 0 1122 12c0 5.52-4.48 10-10 10zm5.47-7.46c-.3-.15-1.77-.87-2.05-.97-.28-.1-.48-.15-.68.15-.2.3-.78.97-.96 1.17-.17.2-.35.22-.65.07-.3-.15-1.26-.46-2.4-1.48-.89-.79-1.49-1.77-1.66-2.07-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.07-.15-.68-1.63-.93-2.23-.24-.58-.49-.5-.68-.51l-.58-.01c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47s1.07 2.87 1.22 3.07c.15.2 2.11 3.23 5.13 4.52.72.31 1.28.49 1.71.63.72.23 1.37.2 1.89.12.58-.08 1.77-.72 2.02-1.42.25-.7.25-1.3.18-1.42-.08-.13-.27-.2-.57-.35z"/></svg>
-</a>
+</a>` : ""}
 
 </body>
-</html>
+</html>`;
+}

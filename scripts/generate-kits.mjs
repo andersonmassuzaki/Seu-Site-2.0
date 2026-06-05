@@ -8,6 +8,19 @@ import {
   buildVideoStoryboard,
   kitSlug
 } from "../src/lib/kit.mjs";
+import { buildEcommerceFashionPreview } from "../src/lib/templates/ecommerce-fashion.mjs";
+
+function pickTemplate(lead, brand) {
+  if (
+    lead.type === "ecommerce" &&
+    brand &&
+    Array.isArray(brand.content?.products) &&
+    brand.content.products.length >= 4
+  ) {
+    return "ecommerce-fashion";
+  }
+  return "generic";
+}
 
 const root = path.resolve(new URL("..", import.meta.url).pathname);
 const outbox = readCsv(path.join(root, "data/outbox.csv"));
@@ -38,10 +51,27 @@ for (const lead of outbox) {
     } catch {}
   }
   const hasShots = fs.existsSync(path.join(previewDir, "shots", "desktop.png"));
-  fs.writeFileSync(
-    path.join(previewDir, "index.html"),
-    buildPreviewHtml(lead, brand, { hasShots })
-  );
+  const template = pickTemplate(lead, brand);
+
+  if (template === "ecommerce-fashion") {
+    // "Depois" = template premium dedicado
+    fs.writeFileSync(
+      path.join(previewDir, "index.html"),
+      buildEcommerceFashionPreview(lead, brand)
+    );
+    // "Antes" = preview com screenshots reais
+    if (hasShots) {
+      fs.writeFileSync(
+        path.join(previewDir, "antes.html"),
+        buildPreviewHtml(lead, brand, { hasShots, beforeOnly: true })
+      );
+    }
+  } else {
+    fs.writeFileSync(
+      path.join(previewDir, "index.html"),
+      buildPreviewHtml(lead, brand, { hasShots })
+    );
+  }
   count += 1;
 }
 
