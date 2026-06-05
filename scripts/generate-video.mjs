@@ -12,6 +12,24 @@ const only = onlyArg ? onlyArg.slice("--only=".length) : null;
 const musicArg = process.argv.find((a) => a.startsWith("--music="));
 const musicPath = musicArg ? musicArg.slice("--music=".length) : null;
 
+// Resolve music meta (sibling .json) for beat-sync
+function resolveMusic(arg) {
+  if (!arg) return null;
+  if (!fs.existsSync(arg)) {
+    console.warn(`Music nao encontrada: ${arg}`);
+    return null;
+  }
+  const metaPath = arg.replace(/\.[^.]+$/, ".json");
+  let meta = null;
+  if (fs.existsSync(metaPath)) {
+    try {
+      meta = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+    } catch {}
+  }
+  return { path: path.resolve(arg), bpm: meta?.bpm || null, offsetMs: meta?.offset_ms || 0 };
+}
+const music = resolveMusic(musicPath);
+
 const VIDEO_W = 1280;
 const VIDEO_H = 720;
 const FPS = 30;
@@ -73,6 +91,12 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
   const previewUrl = "file://" + previewFile;
   const clips = [];
 
+  // Beat-aware duration. Quando ha musica + BPM, cada take dura beats * (60000/bpm).
+  // Sem musica, usa fallback ms.
+  const beatMs = music?.bpm ? 60000 / music.bpm : null;
+  const dur = (beats, fallbackMs) =>
+    beatMs ? Math.round(beats * beatMs) : fallbackMs;
+
   try {
     // 1) Card de abertura
     clips.push(
@@ -87,7 +111,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
           big: "Sua loja<br><em>hoje.</em>",
           accent
         }),
-        durationMs: 1300
+        durationMs: dur(2, 1300)
       })
     );
 
@@ -98,10 +122,10 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
           tmp,
           index: clips.length,
           imgPath: beforeShot,
-          durationMs: 2200,
+          durationMs: dur(4, 2200),
           // zoom-out + leve dessaturação para o "antes" parecer pesado
           filter:
-            `zoompan=z='if(lte(zoom,1.0),1.18,zoom-0.0018)':d=${Math.round(2.2 * FPS)}:s=${VIDEO_W}x${VIDEO_H}:fps=${FPS},` +
+            `zoompan=z='if(lte(zoom,1.0),1.18,zoom-0.0018)':d=${Math.round(((beatMs ? 4 * beatMs : 2200) / 1000) * FPS)}:s=${VIDEO_W}x${VIDEO_H}:fps=${FPS},` +
             `eq=saturation=0.65:contrast=0.96`
         })
       );
@@ -120,7 +144,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
           big: "Como poderia ser ↓",
           accent: accentInk
         }),
-        durationMs: 1100
+        durationMs: dur(2, 1100)
       })
     );
 
@@ -131,7 +155,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
         tmp,
         index: clips.length,
         url: previewUrl,
-        durationMs: 3000,
+        durationMs: dur(6, 3000),
         prepare: async (page) => {
           await page.addStyleTag({
             content: `
@@ -151,7 +175,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
         tmp,
         index: clips.length,
         url: previewUrl,
-        durationMs: 2000,
+        durationMs: dur(4, 2000),
         prepare: async (page) => {
           await page.evaluate(() => {
             const el = document.querySelector(".product");
@@ -182,7 +206,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
         tmp,
         index: clips.length,
         url: previewUrl,
-        durationMs: 2200,
+        durationMs: dur(4, 2200),
         prepare: async (page) => {
           const top = await page.evaluate(() => {
             const g = document.querySelector(".grid-shop");
@@ -208,7 +232,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
         tmp,
         index: clips.length,
         url: previewUrl,
-        durationMs: 2200,
+        durationMs: dur(4, 2200),
         prepare: async (page) => {
           await page.evaluate(() => {
             const el = document.querySelector(".manifesto");
@@ -233,7 +257,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
         tmp,
         index: clips.length,
         url: previewUrl,
-        durationMs: 2400,
+        durationMs: dur(6, 2400),
         prepare: async (page) => {
           await page.evaluate(() => {
             const el = document.querySelector(".quotes");
@@ -258,7 +282,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
         tmp,
         index: clips.length,
         url: previewUrl,
-        durationMs: 1900,
+        durationMs: dur(4, 1900),
         prepare: async (page) => {
           await page.evaluate(() => {
             const el = document.querySelector(".cta-band");
@@ -288,7 +312,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
         tmp,
         index: clips.length,
         html: waCardHtml({ accent, accentInk, name }),
-        durationMs: 1600
+        durationMs: dur(4, 1600)
       })
     );
 
@@ -305,7 +329,7 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
           big: `Quer ver no detalhe?<br><em>Responde aí ↓</em>`,
           accent
         }),
-        durationMs: 2600
+        durationMs: dur(6, 2600)
       })
     );
 
@@ -333,16 +357,21 @@ async function buildEditedVideo({ browser, lead, previewFile, beforeShot, brandP
       concatTmp
     ]);
 
-    // Mixagem com musica opcional
-    if (musicPath && fs.existsSync(musicPath)) {
+    // Mixagem com musica opcional (com offset do downbeat + fades)
+    if (music) {
+      const videoDur = await ffprobeDuration(concatTmp);
+      const ss = (music.offsetMs / 1000).toFixed(3);
+      const fadeOut = Math.max(0, videoDur - 0.6);
       runFfmpeg([
         "-y",
         "-i", concatTmp,
-        "-i", musicPath,
+        "-ss", ss,
+        "-i", music.path,
         "-c:v", "copy",
         "-c:a", "aac",
+        "-b:a", "192k",
         "-shortest",
-        "-af", "volume=0.5",
+        "-af", `volume=0.55,afade=t=in:st=0:d=0.3,afade=t=out:st=${fadeOut.toFixed(2)}:d=0.6`,
         outMp4
       ]);
     } else {
@@ -428,6 +457,15 @@ function stillClip({ tmp, index, imgPath, durationMs, filter }) {
     out
   ]);
   return { path: out, durationMs };
+}
+
+async function ffprobeDuration(file) {
+  const result = spawnSync(
+    "ffprobe",
+    ["-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", file],
+    { encoding: "utf8" }
+  );
+  return parseFloat(result.stdout.trim()) || 0;
 }
 
 function runFfmpeg(args) {
