@@ -37,6 +37,15 @@ export function buildBarbershopPreview(lead, brand) {
     { name: "Hidratacao capilar", price: "R$ 40" }
   ];
 
+  // SVG icons (Lucide style) por servico
+  const svgScissors = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><line x1="20" y1="4" x2="8.12" y2="15.88"/><line x1="14.47" y1="14.48" x2="20" y2="20"/><line x1="8.12" y1="8.12" x2="12" y2="12"/></svg>`;
+  const svgRazor = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3l5 5"/><path d="M8 8h11a2 2 0 0 1 2 2v3a3 3 0 0 1-3 3h-5l-9-9z"/></svg>`;
+  const svgComb = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h18v3H3z"/><path d="M5 11v8M9 11v6M13 11v8M17 11v6M21 11v8"/></svg>`;
+  const svgStar = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`;
+  const svgClock = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>`;
+  const svgSparkle = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/></svg>`;
+  const serviceIcons = [svgScissors, svgRazor, svgComb, svgStar, svgClock, svgSparkle];
+
   function galleryGrid() {
     if (!gallery.length) return "";
     return `<div class="grid-gallery">
@@ -76,7 +85,12 @@ body {
 }
 a { color: inherit; text-decoration: none; }
 img { display: block; max-width: 100%; }
+h1, h2, h3, h4, h5 { text-decoration: none; text-underline-offset: 0; }
 .h-serif { font-family: 'Fraunces', serif; font-weight: 500; letter-spacing: -0.01em; line-height: 1.05; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
 .container { width: min(1240px, calc(100% - 40px)); margin: 0 auto; }
 
 .preview-bar {
@@ -148,16 +162,23 @@ img { display: block; max-width: 100%; }
   position: absolute; inset: 0;
   background-size: cover;
   background-position: center;
-  filter: brightness(0.55) contrast(1.05);
+  filter: brightness(0.72) contrast(1.08) saturate(1.08);
   z-index: -1;
-  transform: scale(1.02);
+  transform: scale(1.03);
 }
 .hero-bg::after {
   content: "";
   position: absolute; inset: 0;
   background:
-    linear-gradient(180deg, transparent 40%, ${paper} 95%),
-    linear-gradient(90deg, rgba(0,0,0,0.55), transparent 60%);
+    linear-gradient(180deg, rgba(15,10,7,0.15) 0%, rgba(15,10,7,0.55) 55%, ${paper} 100%),
+    radial-gradient(ellipse at 15% 80%, rgba(15,10,7,0.78) 0%, transparent 65%);
+}
+.hero-bg::before {
+  content: "";
+  position: absolute; inset: 0; z-index: 1;
+  background: radial-gradient(circle at 90% 10%, ${accent}33 0%, transparent 45%);
+  mix-blend-mode: overlay;
+  pointer-events: none;
 }
 .hero-content {
   padding: 72px 0;
@@ -197,14 +218,19 @@ h1 {
 }
 .btn:hover { transform: translateY(-1px); }
 .btn-wa {
-  background: #25d366;
-  color: #fff;
+  background: var(--accent);
+  color: ${primary};
+  min-height: 48px;
 }
+.btn-wa:hover { background: #c4986a; }
+.btn-wa svg { width: 18px; height: 18px; }
 .btn-ghost {
   background: transparent;
   color: #fff;
   border: 1px solid rgba(255,255,255,0.4);
+  min-height: 48px;
 }
+.btn-ghost:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.7); }
 .rating-chip {
   display: inline-flex;
   align-items: center;
@@ -266,15 +292,16 @@ h1 {
   width: 56px; height: 56px;
   flex-shrink: 0;
   border-radius: 4px;
-  background: var(--accent);
-  color: ${primary};
+  background: ${primary};
+  border: 1px solid var(--accent);
+  color: var(--accent);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Fraunces', serif;
-  font-size: 26px;
-  font-weight: 700;
+  transition: background 0.2s ease, transform 0.2s ease;
 }
+.service-icon svg { width: 28px; height: 28px; }
+.service-card:hover .service-icon { background: var(--accent); color: ${primary}; transform: rotate(-4deg); }
 .service-body h3 {
   margin: 0 0 6px;
   font-size: 19px;
@@ -292,18 +319,37 @@ h1 {
 .prices {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0 60px;
+  gap: 0 80px;
 }
 .price-row {
   display: flex;
-  align-items: baseline;
-  padding: 16px 0;
-  border-bottom: 1px dashed var(--line);
-  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 0;
+  border-bottom: 1px solid var(--line);
+  gap: 24px;
 }
-.price-row .dots { flex: 1; border-bottom: 1px dotted var(--line); transform: translateY(-4px); }
-.price-row .nm { color: var(--ink); }
-.price-row .pr { color: var(--accent); font-weight: 700; font-family: 'Fraunces', serif; font-size: 22px; }
+.price-row:hover { background: rgba(176,132,84,0.04); padding-left: 8px; transition: padding 0.2s ease; }
+.price-row .nm {
+  color: var(--ink);
+  font-size: 16px;
+  font-weight: 500;
+}
+.price-row .pr {
+  color: var(--accent);
+  font-weight: 600;
+  font-family: 'Fraunces', serif;
+  font-size: 26px;
+  font-feature-settings: "tnum";
+  letter-spacing: -0.01em;
+}
+.price-note {
+  margin-top: 24px;
+  font-size: 12px;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
 
 /* gallery */
 .grid-gallery {
@@ -319,7 +365,9 @@ h1 {
   position: relative;
   overflow: hidden;
   filter: saturate(1.05);
+  transition: transform 0.5s ease;
 }
+.gphoto:hover { transform: scale(1.015); }
 .gphoto.wide {
   grid-column: span 2;
   grid-row: span 2;
@@ -327,7 +375,50 @@ h1 {
 .gphoto::after {
   content: "";
   position: absolute; inset: 0;
-  background: linear-gradient(180deg, transparent 60%, rgba(0,0,0,0.4));
+  background: linear-gradient(180deg, transparent 55%, rgba(0,0,0,0.5));
+  transition: opacity 0.3s ease;
+}
+.gphoto:hover::after { opacity: 0.4; }
+
+/* stats / proof band */
+.proof {
+  background: ${primary};
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.proof-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  padding: 56px 0;
+  text-align: center;
+}
+.proof-item {
+  position: relative;
+}
+.proof-item + .proof-item::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 20%;
+  width: 1px; height: 60%;
+  background: var(--line);
+}
+.proof-num {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-weight: 500;
+  font-size: clamp(36px, 4vw, 48px);
+  color: var(--accent);
+  line-height: 1;
+  margin-bottom: 8px;
+  font-feature-settings: "tnum";
+}
+.proof-label {
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 600;
 }
 
 /* info band */
@@ -371,18 +462,31 @@ h1 {
   gap: 24px;
 }
 .quote {
-  padding: 32px;
+  position: relative;
+  padding: 36px 32px 32px;
   background: var(--card);
   border: 1px solid var(--line);
-  border-radius: 4px;
+  border-left: 3px solid var(--accent);
+  border-radius: 2px;
 }
-.stars { color: var(--accent); margin-bottom: 14px; font-size: 16px; letter-spacing: 2px; }
+.quote::before {
+  content: "\\201C";
+  position: absolute;
+  top: -18px; left: 18px;
+  font-family: 'Fraunces', serif;
+  font-size: 100px;
+  line-height: 1;
+  color: var(--accent);
+  opacity: 0.35;
+}
+.stars { color: var(--accent); margin-bottom: 14px; font-size: 16px; letter-spacing: 3px; }
 .quote p {
   font-family: 'Fraunces', serif;
   font-size: 19px;
-  line-height: 1.4;
+  line-height: 1.45;
   color: var(--ink);
-  margin: 0 0 18px;
+  margin: 0 0 22px;
+  font-weight: 400;
 }
 .quote cite {
   font-style: normal;
@@ -394,23 +498,46 @@ h1 {
 
 /* cta band */
 .cta-band {
-  background: var(--accent);
-  color: ${primary};
-  padding: 88px 0;
+  position: relative;
+  padding: 110px 0;
   text-align: center;
+  background:
+    linear-gradient(135deg, ${primary} 0%, #0a0604 100%);
+  color: #fff;
+  overflow: hidden;
+  isolation: isolate;
+}
+.cta-band::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 20% 40%, ${accent}33 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 60%, ${accent}1f 0%, transparent 55%);
+  z-index: -1;
+}
+.cta-band .cta-eyebrow {
+  font-size: 12px;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 18px;
 }
 .cta-band h2 {
-  font-size: clamp(34px, 4.4vw, 56px);
+  font-size: clamp(36px, 4.8vw, 64px);
   margin: 0 0 18px;
-  color: ${primary};
+  color: #fff;
+  letter-spacing: -0.015em;
 }
 .cta-band p {
-  margin: 0 auto 28px;
-  max-width: 520px;
-  color: ${primary};
-  opacity: 0.85;
+  margin: 0 auto 36px;
+  max-width: 560px;
+  color: rgba(255,255,255,0.78);
+  font-size: 18px;
 }
-.cta-band .btn-wa { background: ${primary}; color: var(--accent); }
+.cta-band .btn-wa { background: var(--accent); color: ${primary}; }
+.cta-band .btn-wa:hover { background: #fff; }
 
 /* footer */
 footer {
@@ -464,11 +591,22 @@ footer {
   .section { padding: 64px 0; }
   .quotes { grid-template-columns: 1fr; }
   .hero { min-height: 70vh; }
+  .proof-grid { grid-template-columns: repeat(2, 1fr); gap: 32px; padding: 40px 0; }
+  .proof-item + .proof-item::before { display: none; }
+  .hero-content { padding: 48px 0 40px; }
+  h1 { margin-bottom: 18px; }
+  .hero-sub { font-size: 16px; margin-bottom: 24px; }
+  .cta-band { padding: 72px 0; }
 }
 @media (max-width: 540px) {
   .container { width: calc(100% - 28px); }
-  h1 { font-size: 44px; }
+  h1 { font-size: 42px; }
   .grid-gallery { grid-template-columns: 1fr 1fr; grid-auto-rows: 130px; }
+  .price-row { padding: 18px 0; }
+  .price-row .pr { font-size: 22px; }
+  .quote { padding: 30px 22px 24px; }
+  .quote p { font-size: 17px; }
+  .service-card { padding: 22px; }
 }
 </style>
 </head>
@@ -495,9 +633,31 @@ footer {
     <p class="hero-sub">${htmlEscape(tagline)}</p>
     <div class="hero-actions">
       <a class="btn btn-wa" href="${htmlEscape(whatsappHref)}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.52 3.48A11.93 11.93 0 0012 0C5.37 0 0 5.37 0 12c0 2.11.55 4.17 1.6 5.99L0 24l6.18-1.62A11.94 11.94 0 0012 24c6.63 0 12-5.37 12-12 0-3.2-1.25-6.21-3.48-8.52z"/></svg>
         Agendar pelo WhatsApp
       </a>
       <a class="btn btn-ghost" href="#servicos">Ver servicos</a>
+    </div>
+  </div>
+</section>
+
+<section class="proof">
+  <div class="container proof-grid">
+    <div class="proof-item">
+      <span class="proof-num">${rating ? rating.toFixed(1) : "5.0"}<span style="color:var(--muted);font-size:0.5em;margin-left:4px">★</span></span>
+      <span class="proof-label">${ratingCount || 0} avaliacoes Google</span>
+    </div>
+    <div class="proof-item">
+      <span class="proof-num">+5k</span>
+      <span class="proof-label">Atendimentos por ano</span>
+    </div>
+    <div class="proof-item">
+      <span class="proof-num">15min</span>
+      <span class="proof-label">Tempo medio de espera</span>
+    </div>
+    <div class="proof-item">
+      <span class="proof-num">100%</span>
+      <span class="proof-label">Hora marcada</span>
     </div>
   </div>
 </section>
@@ -512,7 +672,7 @@ footer {
     <div class="services-grid">
       ${services.map((s, i) => `
         <article class="service-card">
-          <div class="service-icon">0${i + 1}</div>
+          <div class="service-icon">${serviceIcons[i % serviceIcons.length]}</div>
           <div class="service-body">
             <h3>${htmlEscape(s.title)}</h3>
             <p>${htmlEscape(s.description)}</p>
@@ -534,11 +694,11 @@ footer {
       ${priceTable.map((p) => `
         <div class="price-row">
           <span class="nm">${htmlEscape(p.name)}</span>
-          <span class="dots"></span>
           <span class="pr">${htmlEscape(p.price)}</span>
         </div>
       `).join("")}
     </div>
+    <p class="price-note">Pagamentos: dinheiro · Pix · cartao em ate 3x</p>
   </div>
 </section>
 
@@ -594,9 +754,10 @@ ${testimonials.length ? `
 
 <section class="cta-band">
   <div class="container">
+    <div class="cta-eyebrow">Reserva express</div>
     <h2 class="h-serif">Pronto para o proximo corte?</h2>
-    <p>Agendamento direto pelo WhatsApp. Atendimento rapido, sem fila de espera.</p>
-    <a class="btn btn-wa" href="${htmlEscape(whatsappHref)}" target="_blank" rel="noopener">Agendar agora</a>
+    <p>Agendamento direto pelo WhatsApp. Atendimento rapido, hora marcada, sem fila de espera.</p>
+    <a class="btn btn-wa" href="${htmlEscape(whatsappHref)}" target="_blank" rel="noopener">Agendar agora →</a>
   </div>
 </section>
 
