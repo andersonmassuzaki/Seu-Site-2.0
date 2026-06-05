@@ -1,0 +1,372 @@
+{
+  "id": "ChIJq5Jld3NRzpQR9fmzF9cCocI",
+  "types": [
+    "barber_shop",
+    "chiropractor",
+    "hair_care",
+    "body_art_service",
+    "doctor",
+    "store",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 5686-8666",
+  "internationalPhoneNumber": "+55 11 5686-8666",
+  "formattedAddress": "Rua Comendador Elias Zarzur, 379 - Santo Amaro, São Paulo - SP, 04736-000",
+  "location": {
+    "latitude": -23.6489732,
+    "longitude": -46.700409699999994
+  },
+  "rating": 5,
+  "websiteUri": "https://barbeariadoalto.com/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:00 – 20:00",
+      "terça-feira: 09:00 – 20:00",
+      "quarta-feira: 09:00 – 20:00",
+      "quinta-feira: 09:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 243,
+  "displayName": {
+    "text": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Rua Comendador Elias Zarzur, 379 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twSmJIZGZPRmQ2TmxaTE16YzRNbk5ETUY5YVlWRRAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Simplesmente um lugar incrível. Cris é extremamente atencioso, cuidadoso e o trabalho dele é impecável, meu filho corta com ele desde 1 aninho. Além disso, do manobrista, recepção e todos os outros barbeiros, todos gentis, educados. Recomendo muito!!!!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Simplesmente um lugar incrível. Cris é extremamente atencioso, cuidadoso e o trabalho dele é impecável, meu filho corta com ele desde 1 aninho. Além disso, do manobrista, recepção e todos os outros barbeiros, todos gentis, educados. Recomendo muito!!!!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Andressa Lopes",
+        "uri": "https://www.google.com/maps/contrib/113078552975698883646/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWY6g_05n5NG1insHlCIqs_D10m5o5J8Ni-UT3hHXIW_jzczD4KOA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-14T16:33:26.587989824Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twSmJIZGZPRmQ2TmxaTE16YzRNbk5ETUY5YVlWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twSmJIZGZPRmQ2TmxaTE16YzRNbk5ETUY5YVlWRRAB!2m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSWU9UUkpRVlozY2xJNE4wOHdRak5EWHpSU04wRRAB",
+      "relativePublishTimeDescription": "5 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento excepcional!\nO atendimento é muito bom, os caras são gente fina e realmente entendem do que fazem. O corte ficou do jeito que eu queria, caprichado nos detalhes. O ambiente também é bem tranquilo e agradável.\nCom certeza voltarei mais vezes. Recomendo!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento excepcional!\nO atendimento é muito bom, os caras são gente fina e realmente entendem do que fazem. O corte ficou do jeito que eu queria, caprichado nos detalhes. O ambiente também é bem tranquilo e agradável.\nCom certeza voltarei mais vezes. Recomendo!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Matheus Nunes",
+        "uri": "https://www.google.com/maps/contrib/102961202350534927944/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2ymtGRbrLc4zovJH6LtGu2ZbmySTA1AnvR1CxohXLYPZc6Zo0=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-09T19:40:22.916590458Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSWU9UUkpRVlozY2xJNE4wOHdRak5EWHpSU04wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSWU9UUkpRVlozY2xJNE4wOHdRak5EWHpSU04wRRAB!2m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taWmFFVlBSbGxWUms5T1ZqYzJNVTFrYjJseVptYxAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Barbearia muito mais do que completa! Profissionais extremamente competentes, experientes e com diversas especializações. Os tipos de serviços vão além de uma barbearia comum. Realizam prótese capilar, possuem consultório para serviço de podologia e estúdio para tatuagem. Mas além da diversidade de serviços, o que mais valorizo é a experiência (algo que eles valorizam muito). Me sinto muito bem atendido desde o momento em que coloco o pé no local, sendo recebido pela recepcionista muito simpática que sempre me oferece algo para beber. Café, água, refrigerante, suco, cerveja, e tudo isso sendo cortesia da casa.\n\nEnfim, se você preza por qualidade e bom atendimento, não vai pensar mais duas vezes depois que conhecer este local",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Barbearia muito mais do que completa! Profissionais extremamente competentes, experientes e com diversas especializações. Os tipos de serviços vão além de uma barbearia comum. Realizam prótese capilar, possuem consultório para serviço de podologia e estúdio para tatuagem. Mas além da diversidade de serviços, o que mais valorizo é a experiência (algo que eles valorizam muito). Me sinto muito bem atendido desde o momento em que coloco o pé no local, sendo recebido pela recepcionista muito simpática que sempre me oferece algo para beber. Café, água, refrigerante, suco, cerveja, e tudo isso sendo cortesia da casa.\n\nEnfim, se você preza por qualidade e bom atendimento, não vai pensar mais duas vezes depois que conhecer este local",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Vinicius Santos",
+        "uri": "https://www.google.com/maps/contrib/114580473995663433101/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzepIB1rJMQGclbSic7L_f4NRgHQXAiqMfrwPtlExzF6LiIKcRNA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-11T14:11:57.250808135Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taWmFFVlBSbGxWUms5T1ZqYzJNVTFrYjJseVptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taWmFFVlBSbGxWUms5T1ZqYzJNVTFrYjJseVptYxAB!2m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTFZIQnVNemgzTWxrM2VFUkthRU5VZG1wdU1VRRAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Quero parabenizar o excelente trabalho do Victor. Profissionalismo, atenção aos detalhes e dedicação são qualidades que ele demonstra em cada atendimento. Não é apenas um corte de cabelo, é uma experiência completa, com cuidado, técnica e bom gosto.\n\nAlém da habilidade com as ferramentas, ele se destaca pelo respeito com cada cliente, criando um ambiente acolhedor e cheio de confiança. É raro encontrar alguém que una talento e paixão pelo que faz da forma como ele faz.\n\nParabéns pelo trabalho impecável! Profissionais como você elevam o nível da barbearia e fazem toda a diferença no dia a dia dos seus clientes.\n\nVICTOR obrigada por \"cuidar e cortar\" os cabelos dos meus filhos e especialmente do meu irmão na última semana!\n\nA Barbearia do Alto meu muito obrigada!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Quero parabenizar o excelente trabalho do Victor. Profissionalismo, atenção aos detalhes e dedicação são qualidades que ele demonstra em cada atendimento. Não é apenas um corte de cabelo, é uma experiência completa, com cuidado, técnica e bom gosto.\n\nAlém da habilidade com as ferramentas, ele se destaca pelo respeito com cada cliente, criando um ambiente acolhedor e cheio de confiança. É raro encontrar alguém que una talento e paixão pelo que faz da forma como ele faz.\n\nParabéns pelo trabalho impecável! Profissionais como você elevam o nível da barbearia e fazem toda a diferença no dia a dia dos seus clientes.\n\nVICTOR obrigada por \"cuidar e cortar\" os cabelos dos meus filhos e especialmente do meu irmão na última semana!\n\nA Barbearia do Alto meu muito obrigada!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "monica souza",
+        "uri": "https://www.google.com/maps/contrib/117887855828999804880/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU52lIv3es-V4w0mBK16a5DDEMl85fmLPFfOLLGRHju_mENHxFCbQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-14T19:48:51.276869315Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWTFZIQnVNemgzTWxrM2VFUkthRU5VZG1wdU1VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWTFZIQnVNemgzTWxrM2VFUkthRU5VZG1wdU1VRRAB!2m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVU5HcDBaMXBqTVZZdFN5MWpZVXhFVjNKWWRtYxAB",
+      "relativePublishTimeDescription": "8 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Olá, Equipe Barbearia do Alto!\n\nVocês estão todos de Parabéns! Atendimento Excelente 🔝 Nota 10!\n\nProfissionais dedicados, cordialidade, empatia e simpatia extrema! Sensacional os serviços de Vocês!\n\nParabéns pelo Brilhantismo! Pessoas como Vocês fazem a \"Grande Diferença\"!\n\nCordial Abraço a todos!\n\nSaudações!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Olá, Equipe Barbearia do Alto!\n\nVocês estão todos de Parabéns! Atendimento Excelente 🔝 Nota 10!\n\nProfissionais dedicados, cordialidade, empatia e simpatia extrema! Sensacional os serviços de Vocês!\n\nParabéns pelo Brilhantismo! Pessoas como Vocês fazem a \"Grande Diferença\"!\n\nCordial Abraço a todos!\n\nSaudações!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Cleber Marques Moraes",
+        "uri": "https://www.google.com/maps/contrib/111352823354268035315/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJtuJEczJ6R2kj1LGFrI1ERy-lqhM0u59cxsJzr7KsFLppOoh4=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-10T20:23:12.430793032Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGVU5HcDBaMXBqTVZZdFN5MWpZVXhFVjNKWWRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGVU5HcDBaMXBqTVZZdFN5MWpZVXhFVjNKWWRtYxAB!2m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-tLnlkoFNXGt528oqK8wATSlVeASgyMKn259CMXKQovBsQwYOgxrAkOybdOaVOHgrjp-IPEUmQHF47GfSq0I1WwRMt9b7EU3wBYQZRpkRekNgAHpAytiFnW2LCGcPgbiRCAkXHN7trHt40b4lMRwnH7jb6EkWXKg9hz0vdMczxNmXQNMHvPUv67ah235TJqWXaTxHRCfAdF9-G02vfKl3CuUMsMbs7u8NEAj5UN3M7ysfExLqohQDNg3qt2RtNM6NoNiovFXBoeICpUU5IQJoS0USse0Rq5ptpXTIi6hNnF02UFiH9Tzg96DQecT2xaVqcU42pquZ1tXOjpV3fmc1ZYnTrxkOPC3KO1tK41zcxBu4mF9GbdvcSn9RfyEc-nQdPaCEYh-byiK4KCV6a27ZbOeNarVwCztN6iPOnoRBNFt4rQXWJv2BCwV6XaEUHz",
+      "widthPx": 1170,
+      "heightPx": 1638,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC02BFWeUqAOKImpDaUvTl7&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC02BFWeUqAOKImpDaUvTl7!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-ttuomuiXDcj-Xu_bIhO_uYHz64QacgJQnmyzERa2Ozqf5v556-rFU8rUXNBB5U_H6wuXKq45hRM_2QFoulw6ll8hawxBg3DGXdhUt6DCgjKSlDPuter4RH5FuJ8VIxDqpWCUKhjrCZGrpPRULM-nUe2PCwv4lZZ347C5Y-ChTwt1Jolah9qnhRlGfZNZPSNVhsJZPaAgUyKc2MemUzStUHw-tgJkAk24spAfIS7D5o2x7-GqX6HK3YqEwLqIz6iAv6C7Q1zB24WA8pyyMumdIgggVQfFhAKFCPuwaHNFNbxIzDs6fnpe_oLNNwk2Ht23mWaDInoU8JK0j9cQjder0Cy2TEJPXDJTG9A0mMyn3iQ9gJU9VkIcMZr3CZ7tGqLq_q7jLLgR8eAUybN4hnvoxJPrp2R0NsbbPASG7EIrGx7v5BkRCfTQ486o0GIzD0",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDFt27JF9Aturepax2psH7M&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDFt27JF9Aturepax2psH7M!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-tLqZswrizrudPXCPxiDPa9xtt4lVZJ3fUiOFoaewkEXSXrcEFsBPpN-1FxRRZh8WIkwhuJsOWPOINpdlVHeAlNyaOW6voh9-9pUZ-KxEaR8SRyiMzuGV9UB8iM4Tjx6w1MQaNJb0PxpcpnyAqIUrqnyJ9JzGvj9UmIoOJkVBNzyfZva6fNpPB-TH-IuZsNHTmXyjiakbdLljZl-GTPWwaCCID1_EsKZ9aZBpwrIqFZ-TKLUx6twKUxromrlBhQQzrA1cfrVr_QmJDG_fXoUS4dT_Loksp9M4TtuUL2t2RtgNDz1emydIgPXIpJWhy6rwnGLIOFQEurw9z4lpPPQ1RuRkpyGlCbTOPC0KkvvLD97chJHqquEXrCm7wUf6ZYiC7llAzcnKBc9nHS4E0EW6NBUiVNvupNyQbPcl49nT1myP9b7pQ6UnhVYVhkBg",
+      "widthPx": 780,
+      "heightPx": 767,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydVgTAiII2gCuw0AB_jv&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydVgTAiII2gCuw0AB_jv!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-so05a-gkz42FZ1CIaZaz_024nZf0GdqNEPMsWPNeyEZdLYtb8IJTIGCa44MG5Q8dGDI3jOMw4lTdw5YBlRvKTB7xNozNENyvIbm1kdP2EiOaMlFOW6fIYnUVm7rlgDIS11bpocQb7uXjBXzVZJyz9-Mbi2tUSe_TxPi9ybpbTo_Q_Dw_ZBnWQXA2wLoyydKx0WaEwJDt3Ez7CMYxlz-2RCD7FMXv9CChK5apVmL7zi1y-AeOtS_FJ3vtV0cN0cXMMRvL-0cudPwFzFlN5fzEgHL5v7ykltooDnyMItijH-R2a43Fj_N-w4n0Zpz7zTPwQuxNoxMIjC8EN4oyo6Ja0ta88FM0NOtZZlqHNLMVmd7ntg64588GopL4qBRpG6wgsI9afcUrrPQDP4kxK4wtU5RDvQTabQ7HgV1bLPDHVpbmb1xEdY9SoDEmKNu5JU",
+      "widthPx": 780,
+      "heightPx": 1040,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqYSuekGgCv3EABxEd&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqYSuekGgCv3EABxEd!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-sgztVoUjzSadFbbHUyEEWBqC9Gegnatq_eEcSQz5ox8OOnVbxajl7HH2bzwDZGUYIvrc9dfbfLKOH3dBFJ9LdeSDYWB21KL6tc2zcieax9D6c8nmOIgtOqCeS1Nfv8_z6fwj9dPd6Kvz-VQ4untT2zP7tMI-DfWjpSylOmWOuM3dteJjVzKFsVQk_kcdgU4wNSATe_UDUX5BuEGmh4iKXJZC15yVLgeJBgSgEJrImu_biWOmyJH1vrCJ7F7iP_IHwJ-4Hb9ScJa5yk3K_CtKAQ5u4bfqPg8d9SgA4HMwXmGQNHsuGiz3zis--bqkwY2H9fPTGQyxR7P9NLpnHyYUnMPqpwHNFQQJSbEhpnZ7bdP5yGeOemoDQoALEfDQaUYLnU68c66SR4cOgUerW8FI3EXye2QB_tcabWQ1i5qBCLCihW_WJK3ALkP1QfFpPE",
+      "widthPx": 1165,
+      "heightPx": 1445,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydVgTAiII2gCrIEAAALy&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydVgTAiII2gCrIEAAALy!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-tD-a91TstdoAK2nD_BHo7XglP5vqX0WnyK1Fy1NmCXtu1MoIfSg3r4CdGyHb1fakOGIETn5vL7mOtsGNn1F7wCw5YMwfiVdkFUr4i262IUS_cn7E9AyN2V2gIdiI2sohTcqESVfVmhUCEMMyequm9pTsZKsBKzTFfJ-IqSZHALgLifViFEfBwX62V5kixUvFqannZ8FweLAPdJHQLGwudU387NQ8B_gWhXO3k1KNIRtnl6YaU9FoTQWvoGhU3WttIyp8UPpnVU4ACihcY11jddJSAPhmzrAmzObx8Maj6G7S2XMGrQpbhgUkZG7dG_SUGFvYL34gha-58qVZEALmDi6z2pJNsGCqiShiFYgf1V-faRf68auhqxeyFQDEZDz_WD8FUr6xJCvpYJU30f3t_xBPFOpTvsyHhaG8Lgn96YYJymE5NjbJc76D19e3Hr",
+      "widthPx": 3510,
+      "heightPx": 4661,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIrxAZ3gKds4T4iQK2AxIh&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIrxAZ3gKds4T4iQK2AxIh!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-vs9oTFjXCxvq6-oZ0V52jZ1uZJLzxdzcg3L_cmDLw1eBn1jDwVidICGgCu4iIULt-9dffXMuEDexWrQ1tU_KGRHWSi0a5tEuTGaEq7rdyK3oEqpmYFkO0uSMrWkX1nqXXzG9aWtxhLcrituIFYLkGMh0ytEO572JeLhK3Dv-PC1inUfhVab9NTjPHd-NARSgF2qqUinYFt4XVQ-_Kc6aivbQDWUd70jsH5zjGOUFHgizWXxQ0rToh6d38IJQJv5GndnGALMpQQ1ETGC4Th8tm9o9BfXYXbzmlOKZlc8Apt7K1QFPlTs9ptjaE3ZUMxwZEoNM3TvqI098TXcTCdGcsPrsyonhT2zMbp8OH24xX6te6HJVZNeqWSKPQiQoc2WrlZ235VhYrHyj4eqjXf2iFVCI87HAvh5oneC35duUr2pYIbc00OOZaHYGQqwgVF",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Andressa Lopes",
+          "uri": "https://maps.google.com/maps/contrib/113078552975698883646",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWY6g_05n5NG1insHlCIqs_D10m5o5J8Ni-UT3hHXIW_jzczD4KOA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAiUiEoxiB4kY7HwvfOe5Io&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAiUiEoxiB4kY7HwvfOe5Io!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-uL0MKRxr99SZEIC8-xX_smZyOYKrcbv1ZPXFfJEsoqdToBrAsl8nbRIjJEFdX-yeuJJS4iOC1bl7VBlNnsQcpt5QE8J0U3X5sHQCAOjt2mSwfd2HR0RfGSVfNggiXrNfKUPhexP7_BNPK5Rda4sHLJb-MI6JEB6NWlcdmkMgtSK3a3C3ElruC9msaH_VKjl0fXXmxTnEoRhM2I5rmURBVEd_ExXpfSRFKxk_LTxOC16ypwkvEbt8N7CiN61zwp3A5uupNATzABLJBWO9JMPovcRF8Ga03-YYKHx2LkZ76_JL2hnMfWK4CRr_fcRxfsfmT75UOGj2Z_bgOGBrz_lCd8IXTUltJyqs77fEgjSS7dLTonk3UIl2dpoJ3oXyjS4K-4ETLr4rcNQ6hH0Rf5DWJG6LJ2bmbYcm7bRmM1PymhOWEvbmVRiCoO1j0Ga8ma",
+      "widthPx": 1080,
+      "heightPx": 1422,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC9PvAmf5-8ao5Vk7r0q8LU&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC9PvAmf5-8ao5Vk7r0q8LU!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-utZ9rrwNEPq65BOzL8Q-1LEaeIJn9R0eUJVk60JwtHkfCYcmZOzE320QQdsxXVB_Q4QPut3ktO8ycTaKyXx2r--LRlH3gd5KK22ffoVW28hH1madzdjmV_FdKYr4wdEkJ5DFtesYY07abMnpOEcr-93MitBcR2ngL40DhDx-7c1dp6zqd28VJcJoC1u6NctAFe1z64gYnmfW8JrsY3uRQ_uJV4was2ET3fOjjP7ZPAAcjV0XU4vjlX5SEMzVCdX3mUww7NLg9O6ldmHJlqSb5ekLtjRiLtBSfkq3lC_Bqq35D8C7bQB5-WNCC93MtKVyD2t72gGZUSSwDhDp8uXxJ0W3WRtmGRXqOiW4hUsYvB9GUns3qvox5ZeKaw5UQpBYMe-OcrAHn4uxhTp7rCYXSs2HzBqoFA5wGZ_l9Mn88g8t26ukZzlGTHmdLkdzWV",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzkCXwvmgCv2wABcRY&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzkCXwvmgCv2wABcRY!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    },
+    {
+      "name": "places/ChIJq5Jld3NRzpQR9fmzF9cCocI/photos/Ab43m-stXshmDofvtRyz4jm7WR6JVk5ZNoq07F_uKVFzf_uc7UHxd8u4C10mbt3CxnKf_XLHY8sjKkfAGN9Q5fhu7nE2YOxIuQ9nmbO6O_I-i7TCDbAAeMzTTRVC3KNYl_PkJ59z5-8yqUwGOsGSATHNWvxPu3a9XuTpBLl9deDESLJ_thl4CdpXrUbaIhy3Auly8y23-qrQMI-5TfX6sNjVITxWh1pzF1tnqz1EF2qVx-mrfqNuc8eynoPAGMO0EyHT084oWykYMOamaU5ysF5lo7l3b1ImLs3Y9-oTUUxQRDxsBL2vmq_TprbYIUK3sCVQvpZIvDui29FMq4BJTO7lD3Y8IpUXXj2AqFVV0KZWvB7JUQC7C8P_HneCtC04K5EQblBqVKFzcQPQAfDkp-tV-cCy7MZFl7cCjooNll3VCKWqerSs5iiM2Ya28Xa_hlyG",
+      "widthPx": 1166,
+      "heightPx": 1455,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia do Alto - Adulto & Infantil | Podologia | Prótese Capilar | Tatuagem",
+          "uri": "https://maps.google.com/maps/contrib/118168185074968472511",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuj4IbzX4m8BXUb6P2TDf8ruHD_z0obryECfDrAa77XhjZQXkw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzkCXwvmgCuXEADUDV&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzkCXwvmgCuXEADUDV!2e10!4m2!3m1!1s0x94ce5173776592ab:0xc2a102d717b3f9f5"
+    }
+  ]
+}

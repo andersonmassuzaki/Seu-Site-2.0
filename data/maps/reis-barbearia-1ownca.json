@@ -1,0 +1,327 @@
+{
+  "id": "ChIJA7MWBfhTzpQR4swvqEmTvGY",
+  "types": [
+    "barber_shop",
+    "hair_salon",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 97732-6974",
+  "internationalPhoneNumber": "+55 11 97732-6974",
+  "formattedAddress": "R. Flávio Seabra Pires de Campos, 232 - Capão Redondo, São Paulo - SP, 05797-280",
+  "location": {
+    "latitude": -23.6547312,
+    "longitude": -46.772982299999995
+  },
+  "rating": 4.9,
+  "websiteUri": "http://instagram.com/reis_barbearia_",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 0,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 8,
+          "minute": 30
+        },
+        "close": {
+          "day": 5,
+          "hour": 17,
+          "minute": 30
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:30 – 20:30",
+      "terça-feira: 09:30 – 20:00",
+      "quarta-feira: 09:30 – 20:00",
+      "quinta-feira: 09:30 – 20:30",
+      "sexta-feira: 08:30 – 17:30",
+      "sábado: Fechado",
+      "domingo: 09:30 – 16:00"
+    ],
+    "nextOpenTime": "2026-06-05T11:30:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 80,
+  "displayName": {
+    "text": "Reis Barbearia",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. Flávio Seabra Pires de Campos, 232 - Capão Redondo, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/reviews/ChZDSUhNMG9nS0VJQ0FnSURTeF9qWENREAE",
+      "relativePublishTimeDescription": "5 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Super indico fui com meu filho la e fui super bem atendida. Ele tem muita paciência com criança ainda mais quando é bebê que chora para corta o cabelo. Esta de parabéns. 👏🏻👏🏻👏🏻",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Super indico fui com meu filho la e fui super bem atendida. Ele tem muita paciência com criança ainda mais quando é bebê que chora para corta o cabelo. Esta de parabéns. 👏🏻👏🏻👏🏻",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Sandra Miranda",
+        "uri": "https://www.google.com/maps/contrib/115946496295998148823/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKLzlOjwvzZxGhUnNzM_SYNGa06jeOd1anT4kG3MyQuGi4voS8=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-01-11T15:34:16.625129Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURTeF9qWENREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURTeF9qWENREAE!2m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/reviews/ChZDSUhNMG9nS0VJQ0FnSURLcklDVGVREAE",
+      "relativePublishTimeDescription": "5 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Sai do extremo da zona norte, indicado por um amigo em comum que mora na zona sul, atendimento 100, trabalho bem feito (com toda atenção), ambiente aconchegante e preço justo! Na simplicidade de tudo me senti como o melhor cliente! Sucesso Raphael já sou cliente....",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Sai do extremo da zona norte, indicado por um amigo em comum que mora na zona sul, atendimento 100, trabalho bem feito (com toda atenção), ambiente aconchegante e preço justo! Na simplicidade de tudo me senti como o melhor cliente! Sucesso Raphael já sou cliente....",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Fábio Souza",
+        "uri": "https://www.google.com/maps/contrib/113967955988208441347/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXk-mcEIoMcb70XagI074Uhnf2ocGv7ssZCfbnzqgnEhjTQXrc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2021-05-02T22:48:16.403883Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURLcklDVGVREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURLcklDVGVREAE!2m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5cDgtTDJ3RRAB",
+      "relativePublishTimeDescription": "5 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Opah! Realmente um dos melhores profissionais que tive a oportunidade de conhecer, desempenha um trabalho excepcional, sempre cuidando de cada detalhe e proporcionando a melhor experiência possível.\nConversas agradáveis e construtivas, gerando mais cultura e valor.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Opah! Realmente um dos melhores profissionais que tive a oportunidade de conhecer, desempenha um trabalho excepcional, sempre cuidando de cada detalhe e proporcionando a melhor experiência possível.\nConversas agradáveis e construtivas, gerando mais cultura e valor.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Thiago Costa",
+        "uri": "https://www.google.com/maps/contrib/105322644959638701289/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkXVA7pAozqdg69i4Nm69P6XwR7eZMOsgPSyitVI9AWt4JPVo57w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-02-15T23:36:05.654896Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5cDgtTDJ3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5cDgtTDJ3RRAB!2m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/reviews/ChZDSUhNMG9nS0VJQ0FnSURLckxTWkR3EAE",
+      "relativePublishTimeDescription": "5 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Meu filho foi SUPER BEM ATENDIDO PELA SEGUNDA VEZ!! Ainda ganhou um voucher fidelidade para os demais cortes, onde ao completar 5 cortes, terá um gratuito.😊👏👏👏",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Meu filho foi SUPER BEM ATENDIDO PELA SEGUNDA VEZ!! Ainda ganhou um voucher fidelidade para os demais cortes, onde ao completar 5 cortes, terá um gratuito.😊👏👏👏",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "RENATA DUARTE",
+        "uri": "https://www.google.com/maps/contrib/109822915885343841046/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2mxwbksBVHfl9BQgAZP2lAvmjLvWzPXlQNaGYwIfiV0piba_NRw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2021-05-03T00:18:29.847780Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURLckxTWkR3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURLckxTWkR3EAE!2m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2OTR1QXJBRRAB",
+      "relativePublishTimeDescription": "4 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Lugar de respeito, corte bom e papo legal, se vc quiser cortar o cabelo ficar no estilo e ter não só um cabeleireiro e sim um amigo o lugar é na BARBEARIA REIS 👑",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Lugar de respeito, corte bom e papo legal, se vc quiser cortar o cabelo ficar no estilo e ter não só um cabeleireiro e sim um amigo o lugar é na BARBEARIA REIS 👑",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Augusto Soares Caldas",
+        "uri": "https://www.google.com/maps/contrib/105595404315174583006/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOsVEbJ8V2EssqgLBMVoHvLgJGJ8oNdajkEJYpdEPu6w-Iiw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-09-15T18:20:45.101332Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM2OTR1QXJBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM2OTR1QXJBRRAB!2m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/photos/Ab43m-uxQctj9bbIaSQAGNHrg0mEbPeh11-dfuWulWtzEPcGtDhwwCYjVHSZO7PhiGu3tpUB5e9ce63A3r8NMTyZk6T3XPJZraHOXAp00Mzv5nj4WBotR0z0bMpHrAsq_UeahOETtoyWAU4PLMTLEhaN4CWZAaO-b7raePFSiwNdwqdYhhz1xEfy_-m8jeP2lyx9RZFRcF6NUpxaVESlENDC6-cZZqf24PoHVCg2aGZQ6SwfhtstUkS9VipdLzYAKAax8P5Cq4z7XpS4qF16dkdb_dNJsslH3CsOWMUTFhkkYyfi2uWuNnkCRoJpjmp_mBNxDYQcAXMG6-Jb7i6A63m4WJggs0IdnAe8l5UUStn9bSEtUIBeSjqYPXO7mL3sXr5LnzHQter3dMBdZgJTv_sW0rLLMtpulB3hxd3dlyxmw5-tWcDO",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Sandra Miranda",
+          "uri": "https://maps.google.com/maps/contrib/115946496295998148823",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKLzlOjwvzZxGhUnNzM_SYNGa06jeOd1anT4kG3MyQuGi4voS8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSx8SDiQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSx8SDiQE!2e10!4m2!3m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/photos/Ab43m-vwVHL9ZyZmLCCAgxuWxmMhaGdbpcLGPFbopZVVHatFLyrH-_ZyJdRztZHauFiU0YwIjt4zjkG4f5LNdxTUd_4VlcFrHr1vfX4uZ9jPpwXZNeIid6_GYOIkABLyLcyQ4RAhnuCJmXc49HrTx-4TkAs8cypSzgp3-Ydk89fzi6T1xcY-4KdqvoDul3De9j5-otD7AqFBC53V3pbMZHPnAaRI220TMjptJWVg2dkYsGtv8B_AZCQKC6XgrH3-gTu5cV6MfXlRb0hofvdq9eT0Q7f-QFKHr9T9gAKufag1S2CsrNhklNbd0Fc0Gim7_CNdkLygZoNg6gjfjud3PmHuYP_lCcwIcFwLFUEhfHzv8GobR9kX2N_de0tyU5TtOz_Ow-GjtuoWindxlnjaetu7w5AThbfY7O40HmFz-YVlRqP1aM2d",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Sandra Miranda",
+          "uri": "https://maps.google.com/maps/contrib/115946496295998148823",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKLzlOjwvzZxGhUnNzM_SYNGa06jeOd1anT4kG3MyQuGi4voS8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSx8SDyQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSx8SDyQE!2e10!4m2!3m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/photos/Ab43m-uElvBWaCH0Oq23KmlHF7ETmwYz2bFv4NjcdLtMeWtRjlmvUbeMMUybNA0rfiaqSAb-xf0gIR71yUV4Cfoogckwjsr1mL5mLgJFs_norcoqeczqIjvInYT4CoD34ZTuuCIEEus_bO4LyIj048bYjv3GH5HYpslwLqSatmiIB-8JR94as8t_RsM9Pt4uIx0LtnC3AUS8PUmrdtCAwCeRgSuP45UrV8vtRmnZC2ExIBBJldYTV8nEjyLTfTYyH59oAVJB-bwaaQHshvtzsJVDx2vOaQRN3nYbU6Ie-r9rEY1n0OO-8lszRrO57fYFB4PA5B9RNhRGBTS0GKdoIGVNZ7C-Lx05jFMbAczDmH1u9LNI88e_N5Mt42JWVn5oAsUb5F9chqh15HRiAZB6Bpr9T0qrD4MYDwwc11w17EfMOk0",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Sandra Miranda",
+          "uri": "https://maps.google.com/maps/contrib/115946496295998148823",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKLzlOjwvzZxGhUnNzM_SYNGa06jeOd1anT4kG3MyQuGi4voS8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSx8SDKQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSx8SDKQ!2e10!4m2!3m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/photos/Ab43m-tqdrGXDmRSXOiy5837CqQdBKUhy1ez64_PB25qGM4mRa6BeZl1WIh3_3zzvWoCQvoyNE6MbTIAfKUjjz0vbQDwey2ZiHJVeqApUqkK3965XRi2V0tvF4wK2oOux-L6CQv38Lgc1YO_HtLR1v7Fwi4HhSHroM1rv4MipkhZC4yxFEH5E-FeMEJDPuhir3PDp2TkJfiSriHqvNzv4OYo_HY-ajMMxN1cKoOVVsZb-PagNtTRRZoKdbDNFSR8WZDEqyVFnHAKitHpTeeePJWwbrxddcfR-4biPrzIy-4H8xHPbC62UUa1i0uOx9HsqUINu_xJN46keenOSt0W-txFd67W5iMzD27cMnqWLvUGFjkue7w_cTdxLWZ4DhsnfnRVE0MBzfAZIhQJ8QJVywpPJZFRemzDBWstfeLmkSRDOy0_hg",
+      "widthPx": 3461,
+      "heightPx": 4623,
+      "authorAttributions": [
+        {
+          "displayName": "André Luiz Da Silva Bispo",
+          "uri": "https://maps.google.com/maps/contrib/112333037537795078496",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0OT-v1c2fWnc_MDb3GbNSbMiebGDjJnafEilhFki0pMyhkJO9yw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSx8S6Jw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSx8S6Jw!2e10!4m2!3m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/photos/Ab43m-uPbzpjiHQtW3HF86jqX0nYBrNllxuBRqzYZvq5MzQzUqGwOlIAUIpSqo1YI0s8I273GFijg1uWCkbxu6iS1oyAjfWGOTxmUBSfbN6vcxAInKha-8Bcx2ChRr7LL2oXQv-yX8Siwv_xxngHVL5Z5NW2sSxdrhZaMJ2ict4N0dOpB_m49XGrtVuasXr6yWiEG168uR7qNriJhpEw7kdI3c6f1M9XklaFMA6GfR9zuuT9P1do8jKBIwZy-ZOv4AgVB3-nIMRDphBc49NNlhaXn_TEm5LFLbWyIHgqrtslJdrhtYDlJrx68DQagJg5C5qoWmx4BKGss_Ksdgl36gMtE0pZ0DNJXY0KTYu-15cTH89fBYKBLCFAonHQLEHjoMb6bbIxVrdryVhK2MI9cxmHMOlkYZwfFJXz10_hFNfOa3abLg",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Sandra Miranda",
+          "uri": "https://maps.google.com/maps/contrib/115946496295998148823",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKLzlOjwvzZxGhUnNzM_SYNGa06jeOd1anT4kG3MyQuGi4voS8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSx8SDSQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSx8SDSQ!2e10!4m2!3m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/photos/Ab43m-tw2-cjPiSl0hIHjcC-sB3JusRkmKsr_spo7_QTAzsun3T18hKaa9PCnKZH0W3J4PbVhyOQL5aIwK-A1huCz7XgJW_FCNWPmnskIbjeb7mCozvmUuHChFhn48tXSIb_9PKuwlLGtrNpZqc-Xbgh1HzGdvItorbHodFg416RV9hHhOHHD21GxOKkvu3Am6Etp8vBl0Iv_d3nDClgVBhAGfEMt2Qg33HAgzLnxCc_2mlj9MkDGj8v1S-lyQdyyOzvikL7itNNS7grJS90npwBYRtzu7gfSIMa7NBpIXBihz0vWj3612WlyNL8E6dc2e-hkRVUBw9U91jDyTPy_NxRbGtiPvzHI56XQ_0WDFMIdDG3teH6skd5wFIeDcaWFRhEfnu6_AOr2IQ-PJNG0AJdf646zSZ1UmD93Ix6F134YE3bMg",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Sandra Miranda",
+          "uri": "https://maps.google.com/maps/contrib/115946496295998148823",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKLzlOjwvzZxGhUnNzM_SYNGa06jeOd1anT4kG3MyQuGi4voS8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSx8SDaQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSx8SDaQ!2e10!4m2!3m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    },
+    {
+      "name": "places/ChIJA7MWBfhTzpQR4swvqEmTvGY/photos/Ab43m-tTCk71Tni6IUzxSntHn1ZhTeQG2S76ltAAy2_pBbEs5TqeQrSzaUjuKN2cmJxT55AqWfU5w90NF2ReFf_NEfO3sjn_8XAHGBBzLzVU8qM2znKKRp-JHAa50eejqHy_-3m9LUqz82gIWJ3JH9Cgd3hch6HnCS4o721x1XgAIqTq1G_9dKmYcqT6VLPHKhNFs9X8lSMoUkAIV0Nxc50VkOhqHKxp2hRtm5b2GABstegBHHs-f6zME5RSGyTdPI3GuUbKLAcbMLl5sWFOAbft70TzPIxUmbwu1oSISGmTnKZWJWLGFd5VJ_KBvp2h6pDIWExJg4yaNpapJFib4Oqn5yn-53XtuI0L2x-ZKcAVNdCL9DDscJfNZF_tHMKwXiZepfHAwusHipLw24cOKx8CeZJaqQkPX-kvtmpbWzDvzbZRjg1c",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Sandra Miranda",
+          "uri": "https://maps.google.com/maps/contrib/115946496295998148823",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKLzlOjwvzZxGhUnNzM_SYNGa06jeOd1anT4kG3MyQuGi4voS8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSx8SDqQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSx8SDqQE!2e10!4m2!3m1!1s0x94ce53f80516b303:0x66bc9349a82fcce2"
+    }
+  ]
+}

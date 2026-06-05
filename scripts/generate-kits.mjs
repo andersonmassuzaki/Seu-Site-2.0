@@ -9,6 +9,7 @@ import {
   kitSlug
 } from "../src/lib/kit.mjs";
 import { buildEcommerceFashionPreview } from "../src/lib/templates/ecommerce-fashion.mjs";
+import { buildBarbershopPreview } from "../src/lib/templates/barbershop.mjs";
 
 function pickTemplate(lead, brand) {
   if (
@@ -18,6 +19,10 @@ function pickTemplate(lead, brand) {
     brand.content.products.length >= 4
   ) {
     return "ecommerce-fashion";
+  }
+  const cat = brand?.category || "";
+  if (lead.type === "barbershop" || cat === "barber_shop" || cat === "hair_salon") {
+    return "barbershop";
   }
   return "generic";
 }
@@ -53,7 +58,12 @@ for (const lead of outbox) {
   const hasShots = fs.existsSync(path.join(previewDir, "shots", "desktop.png"));
   const template = pickTemplate(lead, brand);
 
-  if (template === "ecommerce-fashion") {
+  if (template === "barbershop") {
+    fs.writeFileSync(
+      path.join(previewDir, "index.html"),
+      buildBarbershopPreview(lead, brand)
+    );
+  } else if (template === "ecommerce-fashion") {
     // "Depois" = template premium dedicado
     fs.writeFileSync(
       path.join(previewDir, "index.html"),

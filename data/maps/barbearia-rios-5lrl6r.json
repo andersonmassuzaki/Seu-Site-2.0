@@ -1,0 +1,228 @@
+{
+  "id": "ChIJDS6ZQkhTzpQRFSDATmxxUdk",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 96451-4138",
+  "internationalPhoneNumber": "+55 11 96451-4138",
+  "formattedAddress": "Estr. de Itapecerica, 8579 - Capao Redondo, São Paulo - SP, 05858-003",
+  "location": {
+    "latitude": -23.6827263,
+    "longitude": -46.7972556
+  },
+  "rating": 5,
+  "websiteUri": "https://www.lista11.com.br/empresa/beleza-e-estetica/sao-paulo/barbearia-rios-barbearia-com-melhor-preco-no-valo-velho-barbearia-com-relaxamento-e-progressiva-no-valo-velho-/8862",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 20:00",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 3,
+  "displayName": {
+    "text": "Barbearia Rios",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Estr. de Itapecerica, 8579 - Capao Redondo, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJDS6ZQkhTzpQRFSDATmxxUdk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxaFVDMDJjbTVqVERWdmNHWTRVMGx5Wms1bFJGRRAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Excelente atendimento, bom preço , estacionamento amplo, horário agendado atendido, indico corte com a Amanda excelente profissional, na verdade todos são.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Excelente atendimento, bom preço , estacionamento amplo, horário agendado atendido, indico corte com a Amanda excelente profissional, na verdade todos são.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "jefferson felix",
+        "uri": "https://www.google.com/maps/contrib/112038753858225173634/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUviq_V3cN676N5lAZKcqRJDBBXuiaKiv8GRAN4YEXNjKaNxxum=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-05T21:15:34.888602872Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxaFVDMDJjbTVqVERWdmNHWTRVMGx5Wms1bFJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxaFVDMDJjbTVqVERWdmNHWTRVMGx5Wms1bFJGRRAB!2m1!1s0x94ce534842992e0d:0xd951716c4ec02015"
+    },
+    {
+      "name": "places/ChIJDS6ZQkhTzpQRFSDATmxxUdk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNeVFXaHNaVWREVm5wWk9HaHNWamcxYlVkMlUwRRAB",
+      "relativePublishTimeDescription": "5 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Lugar incrível! A equipe trabalha super bem, o ambiente é confortável, com ar-condicionado e café. E, acima de tudo, o preço é excelente, com opção de assinatura. Recomendo DMS",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Lugar incrível! A equipe trabalha super bem, o ambiente é confortável, com ar-condicionado e café. E, acima de tudo, o preço é excelente, com opção de assinatura. Recomendo DMS",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Walter Renato",
+        "uri": "https://www.google.com/maps/contrib/115532662447246151187/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx91PvTAde9xNIXs4_rwCuKxGH5NLKKT0qsT30DwWrI62g99KrEg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-19T15:33:20.299890873Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNeVFXaHNaVWREVm5wWk9HaHNWamcxYlVkMlUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNeVFXaHNaVWREVm5wWk9HaHNWamcxYlVkMlUwRRAB!2m1!1s0x94ce534842992e0d:0xd951716c4ec02015"
+    },
+    {
+      "name": "places/ChIJDS6ZQkhTzpQRFSDATmxxUdk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsNlIwc3liRFptVXpsT2VtbzRhME5vVDBKUE1GRRAB",
+      "relativePublishTimeDescription": "um mês atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo ambiente e ótimos profissionais",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo ambiente e ótimos profissionais",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Felipe Pinheiro",
+        "uri": "https://www.google.com/maps/contrib/113843068173387089409/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBIinziT5y107Ab2X3WQ5IIkGxKxmrnP7lqVhKdi6PO0_8zl5_=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-04-08T22:01:13.769695483Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsNlIwc3liRFptVXpsT2VtbzRhME5vVDBKUE1GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsNlIwc3liRFptVXpsT2VtbzRhME5vVDBKUE1GRRAB!2m1!1s0x94ce534842992e0d:0xd951716c4ec02015"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJDS6ZQkhTzpQRFSDATmxxUdk/photos/Ab43m-uuty1D5G_DcOUO925Et9o7EwvPVo3Ob32atK3QVKKgAEcHu1m9GtLurQmlEjLU_ouUbCZAd7VzrdVhsKV1fxDIs794UvyWX_ELGeN2PhxlVIduGRHi_JMTQyznl_ePdY13rpjhXJ_hM7S_MKH3s4iaV7TeRbSZ2uZVBzDClplBRQIJj93JTeo4ni5RYYyMIz9rN0lQyQlYsir5YKEeIpn1c8rPq5x1kByex50hDD7Ji-LR6ve-cw_ivBi2KVpvKzkguy-1KvoLbid28uYpc6xCqgU3csdbH20yhO3bWQcifsfwPx801hHOxOg-5eFEFb5uNmW6c9OQsaGnIoqIZba8s7OYrpRK0SFVoUsXinmTrIrE-ngsfCjRDjxbUMsxmA3rlieuIBq67vroxwJVNTtf-76Q7PVPtoDVhV8bdVB5IQLfMTmNRgUYkNqkzN_o",
+      "widthPx": 2268,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Rios",
+          "uri": "https://maps.google.com/maps/contrib/117171293860915006683",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXr9DeWiuwWjRR7RKSEJsgCfmIdtGmY3PRn2tiNg3btC-CNcSM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCpXcIb6-69719xjtHIeN1C&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCpXcIb6-69719xjtHIeN1C!2e10!4m2!3m1!1s0x94ce534842992e0d:0xd951716c4ec02015"
+    },
+    {
+      "name": "places/ChIJDS6ZQkhTzpQRFSDATmxxUdk/photos/Ab43m-vInqTohbuI7ChHJupNJFrnB9YhFXnT42-ftgbbew0LXQzm17Z1X8gfDMqBLN6odkZ0X5GwXfSsOr7OS3_hDR7F-OI9UnY5HFeD-zR281T2GgFa8EGTvl-Fz_sFW5edRfaEmsl9hPPl_tWZHFwpGBgeXz5_QQcbSBe0ATdt4NpKxdcZM_SUr87pkfxCD6jLeX2nJWGLHZ5B0cvr3p7UlJHyqdZrl23EWLofOgO-50rObnlIra_g9qnRtKh3ASyKCTulxwvp3Jb7sf-KSE522YkhuamdaQW6PNskjSmwGIfn_LXU55SkmJwWBXerYrgLYWkCV6LdqPHuUQTVgV-NETUtbROko38k31vkja0H098GltKEzPd_JPgDsw5Vf5NI-_iCjCk3_Xwam3nLzvvUSc8KZnv_9_DhGIWam1Y4GqSiv7ukG_SC61CMlLg2zg",
+      "widthPx": 2160,
+      "heightPx": 3840,
+      "authorAttributions": [
+        {
+          "displayName": "Felipe Pinheiro",
+          "uri": "https://maps.google.com/maps/contrib/113843068173387089409",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBIinziT5y107Ab2X3WQ5IIkGxKxmrnP7lqVhKdi6PO0_8zl5_=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCX3G1dcYwJcwxeYTjuPcO9&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCX3G1dcYwJcwxeYTjuPcO9!2e10!4m2!3m1!1s0x94ce534842992e0d:0xd951716c4ec02015"
+    },
+    {
+      "name": "places/ChIJDS6ZQkhTzpQRFSDATmxxUdk/photos/Ab43m-u65Tmj9YrOmXGwi49n-jzHcXGh6WwsxYzLf_zSSku4N7d-OABo6aZogZDOPjkGz9DbNRYGoR1uJMIZ42OeA3TQBW6kWPfAEvk5CxDRMlYCGbDHQB2Rr5Hwb_JonEsdc5Dfc_zYq-JWCWSwHst4y8xzEL6nSac1QCHK4p_-fmf02Uh_VXvPgEroUiw5Xz_IELEp2846DOpcDAmlAFgznNMeEC8mzWTfbd85GYUBbq_WJtJl-dfiZ8Q6wfOMG44-3P5fUUP_GIawzPnmFyZlXxEQVqXt8w7jis9B9FhhaoW8LjctaYYl4iHPa2y-s8F9WX9CkifTuVQSSxwA9oUfLjht33wRUgOcGfle_rcryqXlrS7aCEElisMu22etU_GQepbVCljJSJ7TGZfIXWGU-CGIwt5HsBZHKZ6dSG4dt4FmtVhCiB9TtdfKrrxje4xi",
+      "widthPx": 512,
+      "heightPx": 590,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Rios",
+          "uri": "https://maps.google.com/maps/contrib/117171293860915006683",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXr9DeWiuwWjRR7RKSEJsgCfmIdtGmY3PRn2tiNg3btC-CNcSM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBw0Aej_rKLmU_uhd-vTHRv&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBw0Aej_rKLmU_uhd-vTHRv!2e10!4m2!3m1!1s0x94ce534842992e0d:0xd951716c4ec02015"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "id": "ChIJQRzwgvxTzpQR_TSpN9tSIEw",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 94835-6930",
+  "internationalPhoneNumber": "+55 11 94835-6930",
+  "formattedAddress": "R. da Idade Média, 23 - Conj. Hab. Jardim Sao Bento, São Paulo - SP, 05886-470",
+  "location": {
+    "latitude": -23.6795953,
+    "longitude": -46.7934938
+  },
+  "rating": 4.9,
+  "websiteUri": "https://strongbarbershop.com.br/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: Fechado",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 10:00 – 20:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 43,
+  "displayName": {
+    "text": "Strong Barbershop - Barbearia no Capão Redondo",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. da Idade Média, 23 - Conj. Hab. Jardim Sao Bento, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wNFdGWnhUMjlsT1RWVVoydFZabmxGUldOU01rRRAB",
+      "relativePublishTimeDescription": "9 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Melhor barbearia da região, já corto a anos",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Melhor barbearia da região, já corto a anos",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Carlos eber",
+        "uri": "https://www.google.com/maps/contrib/109848587766119987579/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQ2khZjD0bOJbNl3vGS_WaEWEtjJKNbuF9LlMZ8OyLnuHbhQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-08-29T18:24:05.310843626Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wNFdGWnhUMjlsT1RWVVoydFZabmxGUldOU01rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wNFdGWnhUMjlsT1RWVVoydFZabmxGUldOU01rRRAB!2m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/reviews/ChZDSUhNMG9nS0VJQ0FnSURuNjR6VEZnEAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "fiquei impressionado com o atendimento! O ambiente é super acolhedor, e a equipe é extremamente profissional e atenta. Eles fazem\num trabalho incrível, me deixou com um corte impecável e atendeu todas as minhas solicitações. Definitivamente, é o lugar ideal para quem busca um ótimo serviço e um bom papo. Recomendo a todos que experimentem! 👌✂️\"",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "fiquei impressionado com o atendimento! O ambiente é super acolhedor, e a equipe é extremamente profissional e atenta. Eles fazem\num trabalho incrível, me deixou com um corte impecável e atendeu todas as minhas solicitações. Definitivamente, é o lugar ideal para quem busca um ótimo serviço e um bom papo. Recomendo a todos que experimentem! 👌✂️\"",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "André Santos",
+        "uri": "https://www.google.com/maps/contrib/114670921563194218344/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdwgBao3kh2TkS4LDHofeouNLj1Ao8NayKNdNHFAe2vSWT359r=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-12T16:09:51.993441Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuNjR6VEZnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuNjR6VEZnEAE!2m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbnV1TkZBEAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Tratamento vip , uma das melhores barbearias que já fui !!!\nGerente super educado !\nBarbeiros que dão aquela atenção monstro !",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Tratamento vip , uma das melhores barbearias que já fui !!!\nGerente super educado !\nBarbeiros que dão aquela atenção monstro !",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Eduardo Carvalho",
+        "uri": "https://www.google.com/maps/contrib/101177434022676917402/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJf_IAg-aq-meFL0YPwXKRW6QwqIoorEA2wvzOe9TZaTca4BEzDA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-10-17T00:07:02.247405Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYbnV1TkZBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYbnV1TkZBEAE!2m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/reviews/ChdDSUhNMG9nS0VJQ0FnSURuaTg2YXFBRRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Barbearia 💈 top\nMeu filho ama cortar o cabelo nessa barbearia rs super indico atendimento e o trabalho são maravilhosos sempre super atenciosos cm seus clientes tem uma paciência enorme cm criança admiro muito o trabalha de vcs !!! Sucesso sempre🚀🙏🏼🥰….",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Barbearia 💈 top\nMeu filho ama cortar o cabelo nessa barbearia rs super indico atendimento e o trabalho são maravilhosos sempre super atenciosos cm seus clientes tem uma paciência enorme cm criança admiro muito o trabalha de vcs !!! Sucesso sempre🚀🙏🏼🥰….",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Thais Freitas",
+        "uri": "https://www.google.com/maps/contrib/117782529919620034783/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWecNbNPif6SHAm-mC6Bv2U_pbwWEmRcJll9BHaMuseGgi90t-4=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-10-10T01:19:54.629312Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuaTg2YXFBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuaTg2YXFBRRAB!2m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/reviews/ChdDSUhNMG9nS0VJQ0FnSURuNjhfRDhnRRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo local , excelente profissional e super recomendo.\nLugar de muito prestígio ✌🏻😎",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo local , excelente profissional e super recomendo.\nLugar de muito prestígio ✌🏻😎",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Valter Almeida",
+        "uri": "https://www.google.com/maps/contrib/101486251592940100470/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKP-GrPFMGDtTqCAW3y321JddLN6F6NdWXEOS_PJPHhD79Z=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-10-10T09:21:05.596262Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuNjhfRDhnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuNjhfRDhnRRAB!2m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-v_jHFMaSheg-xlomsg6OOYvYttJfTlzEMOSWbC1kWfaLVL80bDtVYBf-55FXfU-vPj97yGvZxpKNRUZtMti6brhsuWwP6dF9J0mmPO3rtnIZoR0nH5NBigF_8nMB7YBbKMltOYf81Qnhd8EaECEtwMhwe1BlblWX6lju7itcIryXT7_fXbVb_fnMZDYvIu0KJfC2ej1d3SX4rH-yQrZyg3LLZdyw_h_haxT2d9cPH3RYZdqu59uCqnvzTshkOG8IxoSF4AGjk5K2fmQNKzw3G0SXKKi4qxbu1zQAdHg87BGCZcY1dkdsrJvUKiSNwbV2wbHnSxC0nardehNQs8xFXfkatEuyiGay6hMVqL8kDer6mU94dQ5q_uB0QfVqlXRXEZu2Itb7HFRwBXXKhzl5KeCp093Ftl95kFQr-53KU1t1vm",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Strong Barbershop - Barbearia no Capão Redondo",
+          "uri": "https://maps.google.com/maps/contrib/101769657058807207189",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILUNsXAfTe7XsWHylzrWbhKOJzUKc_IL5mEFKwNrjp1jt4-g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDny776ugE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDny776ugE!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-tr7ev8UBelHjIl0Iiu92RfNMk3fWuE1pRWWoPAz6fdG_i2h4o-ShU9E7wYdo2CBKKxcqTBOFvxzYwS5PLrzYix9Af1geTKh8WXUDhDySgmvZcES0M4a030jLVWV5Te6Olpy5NgkJJcpvIYWATFe5ODvj3hytG0nOBXJ9Ufnm-EZPfRxchUWIfoJ30hpcHA7rm-Xx4teYFdc-otEOPNZiJ3IXT4SHmdJtcHiP4hZE92B6upK_GkKU4U-8e2Rr8aP6H5WxWNxYgi7J9E1WzpOQ6oDHGREVR3T1i3IbWdPU7PDoD-vM53sJHatuDfPqoIlGiB8tl623R0rlIAw1EBeBH5VFZmCj8FD15I6CMwglpm0Q26pvAk92VgWyzw0BaJ-56sgNRBRIYz-PkCcHIDdln9O4KQ9Ysf40xHGWutvziShQ-v",
+      "widthPx": 1440,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "David Da Silva",
+          "uri": "https://maps.google.com/maps/contrib/104173844683480695473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoG26dH94FTCZNWzcV4Olp5L2jdJAwK4ts7KFmoZeXo6G6kxIvIw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnk8-C6wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnk8-C6wE!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-tVmBcKLe2FgH9uZ2U2xW-0zfN30_-wLazrQ-_WC_G2F-0BB2AKRH3MsR4B026hfVqK7Mz3dUOtCJaS39ps5CoF0ibCIRQ8iP1PFKthR3aF3l0jm-5sR16DmUD3_NF-btSM6MLaCiQ-zitvGJAP4zPB2r-5sqX6cABVem_cpztZXDLm5jGvCr_kNaq8cVRk9jGNSHrBsGM-zXCXRYVaX0Wqh59CxzLpUvtfryDTL2eb7iWXRcSIclL1wwFWZGtohJyCJoKjVtWF81pHHW4-3TURIQ6gYLGvVgUmkN2nqb-KWIiZ1jqXv16kQDFshaE7bjcX6x6NrP1G6dUdz98wbZD3Sau3nWSI8y-dQs0OgLV0DImp6Q7Y7UI8AP9lBq-k1caXsot_KQkhuNAQ75zN5-ba9NBTkzBISXhdmJa4ikaDCMIS",
+      "widthPx": 1071,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Strong Barbershop - Barbearia no Capão Redondo",
+          "uri": "https://maps.google.com/maps/contrib/101769657058807207189",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILUNsXAfTe7XsWHylzrWbhKOJzUKc_IL5mEFKwNrjp1jt4-g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDni9uQ9gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDni9uQ9gE!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-sj6vQ3dDMqkaKD3YRYkAVLzFDFcxknwDhMY27driqJUY262PucyWBj3umKv0nLsxNmjGlfK3DoZp7PsOBZA9LQAMABTx5aMRv__R38HDLItTXxQfByheR1_fPNFKAAKmuVsGu1jO_C_hpfOAor-131sjAj_jyW41oJQa0TREiY0g1ffRnf1vxbRLm_-d_Vm6RuJig0LvNjShK02swT9fSo66S-ZV63a-ZwEz5im9Qu04m-62AiP6zWXp5oMDmjgq7B4tBHmvZKcAYO9wTjYb-451yvHq3pCAheiOPK7pVENVOjlb_scJK2t6roTHmdAbDFN2YHK4379To3ArvqPPlBeRMce_dD1xMAViMOUo4Xc8qaBM1UVtIlKeiiLSuti0vr99D8QRLQvehY4zt7nExj0H1C_kpEQyviTDPiFOlA_w",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Strong Barbershop - Barbearia no Capão Redondo",
+          "uri": "https://maps.google.com/maps/contrib/101769657058807207189",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILUNsXAfTe7XsWHylzrWbhKOJzUKc_IL5mEFKwNrjp1jt4-g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDni9uQeQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDni9uQeQ!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-tZ97gpLruBjRmUQaBCPuRFTk7h1V7pluKe8H5rgE_LvSbjAU5QpaMmPxF_QDsbefbZWD_LOscbwqAsLxge8zyug9BW-tZRYdIGVJynwaaO5zW_4YTKEFpCFx8YAbViK4B5OsmOK02RG7jGmgKmPYM5E_sAZXToH4MSYXajJBKmrKhvag0jbuNzSOgcVbOaxgeBEr9HzruZwyrKbYdX3P6YZuqLkSixHzcgUKRwAynJAm6TQnNI7SvwH8JD9hAoym59Bos0ZXeo6_YAV5i7Q3uvJvKXLtZE2KysqU-OqS8z0THw0Gd3oe5xrKVJMP5ol_EtPbd3ORrF47ZDwfOptNGTXrSATSp83BKlK1OelEhqrVaMRn_1jXciGJK6DTCShbu0moZSMB6652vMlxYJ_mt2F3iK4Z-QJGN46BhxYb-R-XPC",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Strong Barbershop - Barbearia no Capão Redondo",
+          "uri": "https://maps.google.com/maps/contrib/101769657058807207189",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILUNsXAfTe7XsWHylzrWbhKOJzUKc_IL5mEFKwNrjp1jt4-g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDni9vYsAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDni9vYsAE!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-vv795OBKES7fk6eSBX1PzpaHZ4QRKR-pJ3TWDsJF-G9cCJvI_JJHqG0TpktqsHRWmg6fGuCB_l6BB5LjmWwhHLuZGzPj9JdDGrnwYDBykmpEfE-TeRSdIXTPXRmueY8QQj0wY444Wanf-EZdwJVIye7ZwOqQJZJKfkao8zG9r4AD5TAPFpHyQMHEoDFUhfNjVw5u9ya2zXHCJXiLVxI4cQQjVMXR9MO_XDAh1gMkkp5VaVqkK92_MTBz5CALunQIQq0a0TRD4Bur_JvzRmHlyBAbzcasLGZ6Na5xnDUDIAn3BRoD1TPB1wjIcyTwwL6Sc32CrzqQvohq6VbmmEUUFJZtOc8B6p3NywxlQ8VjL4RcpDiu7PExhM_W8HD0scZPyIEvv-0nxhspz4kwL2DfGvEr0L6Lsea7Kj0TCxLRV6jtEW",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Strong Barbershop - Barbearia no Capão Redondo",
+          "uri": "https://maps.google.com/maps/contrib/101769657058807207189",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILUNsXAfTe7XsWHylzrWbhKOJzUKc_IL5mEFKwNrjp1jt4-g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDni9uk4wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDni9uk4wE!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-tgfuK-5rK3u-ryexSPLX-I-4NNByRuEOXlm30rlwgcUtq37ZULydp_G28abW6hE6JAgorzpsmOql67n1N0V16YheVCsPpezCDbvAjxZJCs6CKjKFWdqgTA3c0pHV-XWuXytvYaI22v0MFRtkZJYY9ea0nDYOiK0mKYQzv446GERAX0M3C5qA4PjNNFXeQXb7Hwhr6cGXKx8R4AP0HSrHQv13mQOZwqVJjVsXmrswINrz23l1pUv5sajGZmowqFLaZ3YWzyiJTs2ztpDed5DQdmvIUMB55t-0tZbu8k5psd4Wq3ayIU8Z3K1x1DhQ6L4nCFD4BFuE-ExhzHGeB_SOUDOphHCbhTdgyVkRCSD7rw-6UJ1l3rHsxv1uQbxWGq8vcGcRbBpUru827ayz6B120WvVWiOJxWkDpd7iviPZtVdQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Strong Barbershop - Barbearia no Capão Redondo",
+          "uri": "https://maps.google.com/maps/contrib/101769657058807207189",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILUNsXAfTe7XsWHylzrWbhKOJzUKc_IL5mEFKwNrjp1jt4-g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDni9voNA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDni9voNA!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-tpW-6QJJlAMEAGd5rwPSMKvEuXwECPmjPAfZYsg5I74n6N5vA0tZ3FFpF60klbSZGgR4FK8TxTbEZ_NwwNXvdr2301i0usA2BzV4l0PzIDqO-J6Fr02x-GVTndqG0MPubMYICu_5FKsRv0fhoGSK6lW1JO2YiBP48foZYDE-JIP231vAI_hzPWuy0jxWlkzzgdzP5z2qcBDr1s8g_Kq0Iut9Vgn1Z14r4r1udDSek4ihyzgRJQwD9GS-W17vrX_aRfIpWIf4d8u5VcGN2gDIjasqD8XaEbcxyh34-KLYWQonbFKIP1RLMjGVjme2rYkr329hnMEzhV79Cm-3wiXsjFNrykdvJkNXswq5YdNtfFkeqkzyznwYgdTVgUBlg6KlX8KG_IlGrbaQuh5MVOmb-2rEswPmLmWXRNQuiKbIJlLC4Sp5-PcM3-mlqLuQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Carlos eber",
+          "uri": "https://maps.google.com/maps/contrib/109848587766119987579",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQ2khZjD0bOJbNl3vGS_WaEWEtjJKNbuF9LlMZ8OyLnuHbhQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA3kwhrfZw7j1tYF9pJFhWL&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA3kwhrfZw7j1tYF9pJFhWL!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-uX2TTCW11HVgXrKfjnClPnOjzJX53zykBJEYCTDItL21-i6zcXDiN7tFWh3gQjz4Bx6PaHOnz2pq8DCFCxWhE2eC5NBRUIn2DiK4XpugMjEBVo7Z0EdJ0i4K6oFjTYZDJiMpqTClFDDiGc6IKDiYvTgcJB5wNegSiesYw4zCmEiL6QBIWArAv5UExnQltd8ZFbTfG6ko5xqhOeNy_SyqCbWFF6NSKc9XGEqzjZE2XLyXikFQa_kFSSqTUFPDqLVX6GzQWoDJ-JsgD-Si7jT8tvthw6hnaxRKvwWX56Q8O8H2QHUmB50YMQm-YC7-kEy0prR2ZEd47UEjFRQorKgH_xVoXOeq2fXOABVFXUXteYy5A64oF-KHoN3g4Rox-Jws3wga0PydZzTa3rfCu5Sv7u6RjqxytxYAw25JbuDXDvv3JA",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Lorran Cerdeira",
+          "uri": "https://maps.google.com/maps/contrib/114678547653710646290",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7M7ltNRx5CVrZKjQx-Kd_APht9p8FTjhQhpWZQIJkD6yu0nY=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXnr2n4wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXnr2n4wE!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    },
+    {
+      "name": "places/ChIJQRzwgvxTzpQR_TSpN9tSIEw/photos/Ab43m-vn0YtrnuDftkt9jXtDQmiAd78nZwL3ggo7BBH-j4WqrNIDoB60hlWo6P1vmxKx9f7ynnq7I9S6-Ns7JByyDXFpaUr5V_eqE97DPGFn9ymMQYrJgY9M9GOm6p_hIMOneWosf63nGxwa9ikrWSeOJftapWGal38KmQ8CzUzG4kQvNHX5ClwKuVXUiKdWgekDs3reBwTdXWSN2djkkWYze6isa9fBL2DpjarMcH5Kl3BR2pUePbxSP2KQgVpl9vrasBEzZKu9dzv3m3YO878cHRmDEkOmBDG7ieqwu8-yBdjb8Vv8qscfQBy6t-bC-d8-zuP7PzqRU4x-OhHMcG2ncuMFalAtkTOxqeUao8owcEotfFDafs0Nx2bEEQEbHJiIapbgVVoy0L-O5jYiILKVjdp1w83vTIW3aKkKwR7IgG6dHkc",
+      "widthPx": 1290,
+      "heightPx": 2293,
+      "authorAttributions": [
+        {
+          "displayName": "Strong Barbershop - Barbearia no Capão Redondo",
+          "uri": "https://maps.google.com/maps/contrib/101769657058807207189",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILUNsXAfTe7XsWHylzrWbhKOJzUKc_IL5mEFKwNrjp1jt4-g=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDni9vo4gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDni9vo4gE!2e10!4m2!3m1!1s0x94ce53fc82f01c41:0x4c2052db37a934fd"
+    }
+  ]
+}

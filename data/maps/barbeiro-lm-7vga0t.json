@@ -1,0 +1,239 @@
+{
+  "id": "ChIJpSf930xSzpQRWdSUC5_TQJw",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "formattedAddress": "Rua Professor Paulo Assis Ribeiro, 18b - Capão Redondo, São Paulo - SP, 05884-140",
+  "location": {
+    "latitude": -23.6740471,
+    "longitude": -46.774434899999996
+  },
+  "rating": 4.8,
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 18,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 18:00",
+      "terça-feira: 10:00 – 18:00",
+      "quarta-feira: 10:00 – 18:00",
+      "quinta-feira: 10:00 – 18:00",
+      "sexta-feira: 10:00 – 18:00",
+      "sábado: 10:00 – 18:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 19,
+  "displayName": {
+    "text": "Barbeiro Lm",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Rua Professor Paulo Assis Ribeiro, 18b - Capão Redondo, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJpSf930xSzpQRWdSUC5_TQJw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRbzhXYnp3RRAB",
+      "relativePublishTimeDescription": "8 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Um excelente profissional ,corto meu cabelo com ele a 22 anos e não tenho oque reclamar só elogiar sem contar que ele manja muitoooo",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Um excelente profissional ,corto meu cabelo com ele a 22 anos e não tenho oque reclamar só elogiar sem contar que ele manja muitoooo",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Diego Tocha",
+        "uri": "https://www.google.com/maps/contrib/111208384677811263110/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVXlKCH2zpztr5QL1fGv-tCmuVezGja5EX_fZ3Ecd7xifV4yRY=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2018-02-08T00:24:02.140Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRbzhXYnp3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRbzhXYnp3RRAB!2m1!1s0x94ce524cdffd27a5:0x9c40d39f0b94d459"
+    },
+    {
+      "name": "places/ChIJpSf930xSzpQRWdSUC5_TQJw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRMU52dm9nRRAB",
+      "relativePublishTimeDescription": "8 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo barbeiro corta o meu cabelo e dos meus 2 filhos deste o primeiro corte de cabelo deles.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo barbeiro corta o meu cabelo e dos meus 2 filhos deste o primeiro corte de cabelo deles.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rodrigo",
+        "uri": "https://www.google.com/maps/contrib/110037450884175346012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMwo1aubnhlG6ofAbOhGxffnLRuTxeaZ0HNIPvvJFCyGZb=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2018-02-13T23:45:57.942Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRMU52dm9nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRMU52dm9nRRAB!2m1!1s0x94ce524cdffd27a5:0x9c40d39f0b94d459"
+    },
+    {
+      "name": "places/ChIJpSf930xSzpQRWdSUC5_TQJw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRbzZMRHF3RRAB",
+      "relativePublishTimeDescription": "8 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Excelente profissional  recomendo. Corto à mais de dez anos.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Excelente profissional  recomendo. Corto à mais de dez anos.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Sebastião Rodrigues",
+        "uri": "https://www.google.com/maps/contrib/117982738127698228412/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkwkfgRsuhpjzk4106kLodDUsuK9vAL-QTlxk1DUwkVAYy6U9D=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2018-02-10T19:35:20.017Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRbzZMRHF3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRbzZMRHF3RRAB!2m1!1s0x94ce524cdffd27a5:0x9c40d39f0b94d459"
+    },
+    {
+      "name": "places/ChIJpSf930xSzpQRWdSUC5_TQJw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSaWNYVV9BRRAB",
+      "relativePublishTimeDescription": "3 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo barbeiro e muito detalhista corte perfeito 💇‍♂️💇💆",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo barbeiro e muito detalhista corte perfeito 💇‍♂️💇💆",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Mirele Campos",
+        "uri": "https://www.google.com/maps/contrib/109645715445607571372/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKg_1YraXjRtzboX6jrM86ZVtEIQ4wvQHR08dMr0amJZ0QTow=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2023-04-04T20:07:04.983879Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSaWNYVV9BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSaWNYVV9BRRAB!2m1!1s0x94ce524cdffd27a5:0x9c40d39f0b94d459"
+    },
+    {
+      "name": "places/ChIJpSf930xSzpQRWdSUC5_TQJw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBeFBmeDNnRRAB",
+      "relativePublishTimeDescription": "8 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Salão muito bom , atendimento personalizado com ótimos profissionais . Muito satisfatório.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Salão muito bom , atendimento personalizado com ótimos profissionais . Muito satisfatório.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "cirilo faria",
+        "uri": "https://www.google.com/maps/contrib/104909960567256590895/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3zw-wjaaQWtMfIR9oKABG1NrP2LKpiwxm5B2h_g2cYXcWPg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2018-02-05T17:50:59.360Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBeFBmeDNnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBeFBmeDNnRRAB!2m1!1s0x94ce524cdffd27a5:0x9c40d39f0b94d459"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJpSf930xSzpQRWdSUC5_TQJw/photos/Ab43m-vScfvKpbiGUZjUeuRbYbseIpWYQ8iWWbPuM_JtcfDRG2V_0tn4XhhERnM6IWrGWUNs00BilUVgkxB-U0qxV20SmUrQxe91ySZqlkg0dyUOL_fv6t0Vnv37dhcoZaQdaSmqkO-kdHY4A4MdTIxOPMEcx4mjGluBzNN0QkjHy5QhT6I6QSx_JqS5QZLsfvg8zQP3Z0dGSKRT48pl7Up54XMCKotX_RHQreW_4zCna8AlAnR8l76m2yhbQskOpS2BF3xfD1fRiKrJgxf_OqqOjBYDbJGQ5DiyRuwX0Y_3rBiusz0rtkXvl8mVUtDYEglIrxI5qzQEponLqbUWjdKVY2vcJDvSrgsiu_CS2tPr6JNYOjs_4u5kCKeRAyVZETRRIr83_epNwuOfoegGQ0Isyt0qPaOHfVdFSj4z91BWDEsJCqBy",
+      "widthPx": 4128,
+      "heightPx": 3096,
+      "authorAttributions": [
+        {
+          "displayName": "Lailton Castanha",
+          "uri": "https://maps.google.com/maps/contrib/107468436570302473733",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeoZSCZuc8LWXOJuX5FJ9fGviIHgO3IQuEBHiPv35K-Fg6W6M0hw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx8d3siAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx8d3siAE!2e10!4m2!3m1!1s0x94ce524cdffd27a5:0x9c40d39f0b94d459"
+    }
+  ]
+}

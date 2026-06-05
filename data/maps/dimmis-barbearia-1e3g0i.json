@@ -1,0 +1,238 @@
+{
+  "id": "ChIJ7zF7arhTzpQRP5Xe8gpXr_8",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 93335-0640",
+  "internationalPhoneNumber": "+55 11 93335-0640",
+  "formattedAddress": "R. Paulino Vital de Morais, 115 - Capao Redondo, São Paulo - SP, 05855-000",
+  "location": {
+    "latitude": -23.6602438,
+    "longitude": -46.765768
+  },
+  "rating": 4.6,
+  "websiteUri": "http://www.dimmisbarbearia.com.br/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:00 – 21:00",
+      "terça-feira: 09:00 – 21:00",
+      "quarta-feira: 09:00 – 21:00",
+      "quinta-feira: 09:00 – 21:00",
+      "sexta-feira: 09:00 – 21:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: 09:00 – 15:00"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 28,
+  "displayName": {
+    "text": "Dimmis Barbearia",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. Paulino Vital de Morais, 115 - Capao Redondo, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJ7zF7arhTzpQRP5Xe8gpXr_8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCR1MxRllaelZVZWt0SlNUVnRaWEpXWkZWa1JYYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 1,
+      "text": {
+        "text": "Quando você for fazer clube, não faça igual eu, que, o barbeiro me explicou como funciona, eu aceitei, pedi o cancelamento do plano, e no dia seguinte, foi cobrado a mensalidade, no aplicativo, eu não estou liberado para fazer marcações, e o whatsapp da barbearia não responde, o mesmo para o whatsapp do responsável, foi cobrado o valor, me bloqueou para marcações e é isso aí, perdi. Muita atenção para não passar pela mesma situação.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Quando você for fazer clube, não faça igual eu, que, o barbeiro me explicou como funciona, eu aceitei, pedi o cancelamento do plano, e no dia seguinte, foi cobrado a mensalidade, no aplicativo, eu não estou liberado para fazer marcações, e o whatsapp da barbearia não responde, o mesmo para o whatsapp do responsável, foi cobrado o valor, me bloqueou para marcações e é isso aí, perdi. Muita atenção para não passar pela mesma situação.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Carlos Menezes",
+        "uri": "https://www.google.com/maps/contrib/109265393692280223730/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVQSpYq2Xr8DrXdxIQJ5qF870Hmp1TXxt2B5RmZe6ZL73fmeHaDg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-15T20:03:24.139751025Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCR1MxRllaelZVZWt0SlNUVnRaWEpXWkZWa1JYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCR1MxRllaelZVZWt0SlNUVnRaWEpXWkZWa1JYYxAB!2m1!1s0x94ce53b86a7b31ef:0xffaf570af2de953f"
+    },
+    {
+      "name": "places/ChIJ7zF7arhTzpQRP5Xe8gpXr_8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMjZfYzhnRRAB",
+      "relativePublishTimeDescription": "2 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento perfeito, parabéns  Ramom pelo seu atendimento  e trabalho,  obrigado  ficou da forma que eu queria grato.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento perfeito, parabéns  Ramom pelo seu atendimento  e trabalho,  obrigado  ficou da forma que eu queria grato.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Carlos jose Silva",
+        "uri": "https://www.google.com/maps/contrib/100444678096008267809/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6iOhTcXWMtLHaYCSx8buiQZP_BQ2SaOKLy02Jk5GzcWploNgp=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-09-18T22:20:17.415525Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaMjZfYzhnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaMjZfYzhnRRAB!2m1!1s0x94ce53b86a7b31ef:0xffaf570af2de953f"
+    },
+    {
+      "name": "places/ChIJ7zF7arhTzpQRP5Xe8gpXr_8/reviews/ChZDSUhNMG9nS0VJQ0FnSURCLXRheWFREAE",
+      "relativePublishTimeDescription": "3 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Local muito amistoso, funcionários dedicados, fui atendido pelo Bruno, muito atencioso e se mostrou um ótimo profissional, recomendo!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Local muito amistoso, funcionários dedicados, fui atendido pelo Bruno, muito atencioso e se mostrou um ótimo profissional, recomendo!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Leonardo Gadelha",
+        "uri": "https://www.google.com/maps/contrib/107955176337025622922/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnV12f91ncxbLXWPWt67gKd5wxXjbVkt-mpMfp5hQeSqoEmIac=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-01-17T16:50:32.914542Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCLXRheWFREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCLXRheWFREAE!2m1!1s0x94ce53b86a7b31ef:0xffaf570af2de953f"
+    },
+    {
+      "name": "places/ChIJ7zF7arhTzpQRP5Xe8gpXr_8/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxNk15cGJ3EAE",
+      "relativePublishTimeDescription": "2 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Pessoal educado trabalham muito bem ambiente tranquilo e profissionais de ponta adorei e sempre voltatei",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Pessoal educado trabalham muito bem ambiente tranquilo e profissionais de ponta adorei e sempre voltatei",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Fabiana faerreira oliveira",
+        "uri": "https://www.google.com/maps/contrib/112452117770807339729/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlF7C4VJ6T8IEX5V_wU23aDUtfUe0m-UBo0fsDD3SSA8tg8w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2023-12-21T20:45:34.174481Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxNk15cGJ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxNk15cGJ3EAE!2m1!1s0x94ce53b86a7b31ef:0xffaf570af2de953f"
+    },
+    {
+      "name": "places/ChIJ7zF7arhTzpQRP5Xe8gpXr_8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwM2VIMFJREAE",
+      "relativePublishTimeDescription": "2 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Melhor da região! Ambiente muito agradável, com barbeiros que atendem fielmente ao pedido do cliente.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Melhor da região! Ambiente muito agradável, com barbeiros que atendem fielmente ao pedido do cliente.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Vini Teles",
+        "uri": "https://www.google.com/maps/contrib/103829703291982519120/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbAyi09I3gmC4bxce1c7ecgV0quXLlB-v0ULuyZyDN6TJSsljbkQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2023-08-08T20:13:37.260105Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwM2VIMFJREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwM2VIMFJREAE!2m1!1s0x94ce53b86a7b31ef:0xffaf570af2de953f"
+    }
+  ]
+}

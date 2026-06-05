@@ -1,0 +1,368 @@
+{
+  "id": "ChIJ2dT3ylJSzpQReGMPfagP1o4",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 96582-7014",
+  "internationalPhoneNumber": "+55 11 96582-7014",
+  "formattedAddress": "R. Antônio Alzelino Guerra, 55 - Jardim do Colegio, São Paulo - SP, 05883-260",
+  "location": {
+    "latitude": -23.674368899999997,
+    "longitude": -46.7782321
+  },
+  "rating": 4.8,
+  "websiteUri": "http://facebook.com/barbeariacapaoredondo",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 13,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:00 – 20:00",
+      "terça-feira: 09:00 – 20:00",
+      "quarta-feira: Fechado",
+      "quinta-feira: 09:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: 09:00 – 13:30"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 93,
+  "displayName": {
+    "text": "BARBEARIA CAPÃO REDONDO DESDE 1986",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. Antônio Alzelino Guerra, 55 - Jardim do Colegio, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/reviews/ChZDSUhNMG9nS0VJQ0FnSURnOWVENVZ3EAE",
+      "relativePublishTimeDescription": "8 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Alef, Gilvan e Mário! Ótimos Profissionais, ambiente limpo e som ambiente top.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Alef, Gilvan e Mário! Ótimos Profissionais, ambiente limpo e som ambiente top.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rafael Sales",
+        "uri": "https://www.google.com/maps/contrib/115835267870224803216/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWuP593MODd91zmrqceTe90yTHhfbM5IB_0RiJ_UkjhgMnhSM9mA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2017-07-10T01:02:24.597Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURnOWVENVZ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnOWVENVZ3EAE!2m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNva29ubGx3RRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Muito top frequento ja a alguns anos e não vou em outro lugar!!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Muito top frequento ja a alguns anos e não vou em outro lugar!!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Amarilson Santos",
+        "uri": "https://www.google.com/maps/contrib/108744269850002617971/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXun10mDuKRaZ3L_hRS2kxPiPTe5BE1DP_NpIkseh19OyWfcyc=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-11-06T18:32:28.281181Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNva29ubGx3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNva29ubGx3RRAB!2m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZOE5IRFZ3EAE",
+      "relativePublishTimeDescription": "7 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Melhor cabelereiro q eu conheço, super recomendo, além de bom, é barato, rápido, ótimo atendimento, simpátia total dos funcionários, o cortes de cabelo saem impecáveis, se tiver com tempo, passe lá, não irá se arrepender, e eh muito fácil de chegar, lugar super acessível, espero q tenham uma boa experiência no local, obrigado.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Melhor cabelereiro q eu conheço, super recomendo, além de bom, é barato, rápido, ótimo atendimento, simpátia total dos funcionários, o cortes de cabelo saem impecáveis, se tiver com tempo, passe lá, não irá se arrepender, e eh muito fácil de chegar, lugar super acessível, espero q tenham uma boa experiência no local, obrigado.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Guilherme Morais",
+        "uri": "https://www.google.com/maps/contrib/103127490501880312162/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4Du-eheyeuEBtdLmWMTWeDuW1DSmdmeG6Dsn5OErSLl26kbgNPA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2019-03-30T19:28:05.391388Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNZOE5IRFZ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZOE5IRFZ3EAE!2m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDeGZQR3Z3RRAB",
+      "relativePublishTimeDescription": "5 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ambiente respeitoso e serviços profissionais de ótima qualidade. Recomendo!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ambiente respeitoso e serviços profissionais de ótima qualidade. Recomendo!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Odiléia Ramos de Araújo",
+        "uri": "https://www.google.com/maps/contrib/101426657825614970209/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9AJELsNXwtsfaS7dy_kzHFu1dLBjwiS231RigAUoJTygV7LlI=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2020-08-30T01:11:04.538939Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNDeGZQR3Z3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDeGZQR3Z3RRAB!2m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4aDhtNWVBEAE",
+      "relativePublishTimeDescription": "3 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Um ambiente familiar e um lugar bom para encontrar os amigos, bater um papo. Atendimento de primeira qualidade. Obrigado",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Um ambiente familiar e um lugar bom para encontrar os amigos, bater um papo. Atendimento de primeira qualidade. Obrigado",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rui André",
+        "uri": "https://www.google.com/maps/contrib/105131552714572935067/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ21UolYCXTFjLTpckDk6LgXcoB3PKnlFWz1hiIz-E9PLUNvQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2022-12-10T16:35:39.353320Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ4aDhtNWVBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ4aDhtNWVBEAE!2m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-vpFU4rLUhxJI4tKRV270Q-qmmrNwlzcwPQl8cd4Ep3fl2Rc4O27cHTJpyCi1k9or-8MwoQZrfFC2xba-7oSCu6RlH6UL5bJHL96dH1mXbIymxwoE_Ig7VzHvdGg1iNFH60ku6SU5ZTSOKSr65tMusNY9yEF17ma3W_2tYX5p17fB4rFRQ3xvccaY_nVYPwpt65SXqW4YFDrT8KdxC9T9GedkzlaPAhsRT30HFbon3GqSLxw6EljOEK7ZXk85LYEBmMwHCUCIxmlnZ6rMGiXkOSbY_MfxmIbMh7NlrZSUc18--GVd8QOz3RgGG8lG6eLTwrWr62fthT_n2J9G2UJArN5WsiI4KuDBJ_Vptm4Iat405E-cu16bDW5yUNhyLjG9DUv1NRW0gQAlKywo_EXTpuKfRtzk66VeJQGAQ7-r2TzIH3",
+      "widthPx": 3264,
+      "heightPx": 1836,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA CAPÃO REDONDO DESDE 1986",
+          "uri": "https://maps.google.com/maps/contrib/105889967345948420940",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-H2QCPSQZ9L62o_jFDEVb7QrdBPEPSbzMW5-V67QRf_njI4U=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC85cW-zAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC85cW-zAE!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-uMNZxJ6CDsE9nDUzztikKpWOpc0ymYEgknF3Y289MaB7hNf2cDJ523k5WHzl3yKS-zX_P11sxvnJ0PkHL6QmDkK9mGqkJHfkXb8GqBCyXJGkuP62CsApzB4Xyk3NXbwX0y7Z8qD_dLhdLCxXDIcMP9G7HiRfpWhfE0ddH8CmRCAbon-bHkyXHjZrkxJLSEWfjjrFZEThLnyOraig0vlll4XxbwauZtAPkWZjIjvZ3v2LyyBLQUHpVrfhahgKVb_AR7jl1DU4CWjcpAesTMoSt586chirp0SqRkMc-NHnFzZ6P0uRkG-BWjVJluIslJ44LRTUWVDMLjbE_94VN5HyI21zPDGjSG1DjxDyWdGzrorRdTpNpyBcpcPuf9-IvtG0lOnAGmXXy8nArZ7oRIudq0cezN7wL2zzr19EeW58NfDKS_",
+      "widthPx": 1836,
+      "heightPx": 3264,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA CAPÃO REDONDO DESDE 1986",
+          "uri": "https://maps.google.com/maps/contrib/105889967345948420940",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-H2QCPSQZ9L62o_jFDEVb7QrdBPEPSbzMW5-V67QRf_njI4U=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC85fnflwE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC85fnflwE!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-sNjg0E3L_a4jm7OKIpZ-LRzKy0tif7IZw73irA-PZGIPvRY67s-AP5HqtOkvOWhLzGitPhwQDDXvupn4f2Tmdx8f_fSHc4KMVzAbk9mpxEiSewEWu_QK6-yZipcGFzBDLZqMi1b5Pbr5DptHjKLKZ1C6xknOM8R1mrJ5PnHkTZOnEAQPg7DomzrSriTpCbhPROGNsD0F26vlHSc2jIMIx36A7J2tVLci4Zs1Mxbhimm4NTXnQcT4UkSwsU5ZAVkyUD22ZNk5eRE2omCpTuZMBxtigrcI-72fsaOv_bAiVitWO5eO6wXD_d_JfX7VoYkshpVZ4DR5wVFJ6NoBomyashzFLPy-dyjI5JZsvYJkE9S_oDAMdfZn3io_JWg-JgZQDEKSj5PVZsvmaU4FdIZh8i50EguHWJDqCNK79-xbaofb-N",
+      "widthPx": 526,
+      "heightPx": 394,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA CAPÃO REDONDO DESDE 1986",
+          "uri": "https://maps.google.com/maps/contrib/105889967345948420940",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-H2QCPSQZ9L62o_jFDEVb7QrdBPEPSbzMW5-V67QRf_njI4U=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC85cW-jAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC85cW-jAE!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-vpi2aSU15eWhzIjGHAEA48nuQmLn2Aq58sbzUEbhSYVFzwbfTjLazYnw55jb2UdcSvrHXMtKYUGL_gajrvxuE86qmNEvHLymnHzoi9XA8h_6e0wX4sg_lJepktG5Mdll9G5R-SOzt5Yy_seCNfa_wqSIFMoxSQp6hTjXGdlAwautZieuVU5aJWIG83lnrH2pjcQv-PyPSPP5PmW7XueL75jLC8B6mi8fcGn4CG_OBncyeFhU2q_yvJcqmsCYVjSYtGoGHqiIkNf-9fCfSca552vqrPoY2xPezDvUiyC_SozLXibqvwq_AhcoFw7bIgiEgglj1-Wvu9FaV6t-TOEBv5ZQ9olq4yVfgrYJoXOXj0T1J7-ajCAZ2h9Gm0qXuazxESERa4qfjra4rLs7TORsZOHk0NNo3zGtcba0BbAa1Jxg",
+      "widthPx": 3456,
+      "heightPx": 4608,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA CAPÃO REDONDO DESDE 1986",
+          "uri": "https://maps.google.com/maps/contrib/105889967345948420940",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-H2QCPSQZ9L62o_jFDEVb7QrdBPEPSbzMW5-V67QRf_njI4U=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC85cW-TA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC85cW-TA!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-t5CWW5JpQsQo6MCaMdoOgECq9vVwoaPiTy8Bg_0OJhCvfd-ZXeNsn1bz751wXPTfQkfHbEBPh4MahLDc4-T6Z5oKiusai6KIKjDXutqUudxwt9I215rcVp1ftIOs568mg8ZTjlh9f6_fCaH9KBGbcXmsnzXq6HNjTbQkiL0CmPkn5fxsSR84a6MgRn8BCCYjugfJpslduFbQJayzhcgXOQfkvgN2SE_0P0pWNYd7x6z53tkCAmquEqldDY4HMpCnfUt1ss8KzMjR03FXanGbL-dw4oObZF7YR9PosJ9nMc7QGbw3ZCab7f4piHL5lbd_Qkl7hUK2TatTRoDwfekA2FG-JJMWABJspgmNqgu5dHY1PnV6e0pn_r2sIVh8rjJtj9BpgBvnQ5a8coKbjubbg6p38l-Uyj1DsTWJLLwpbN8M8",
+      "widthPx": 1836,
+      "heightPx": 3264,
+      "authorAttributions": [
+        {
+          "displayName": "Rafael Sales",
+          "uri": "https://maps.google.com/maps/contrib/115835267870224803216",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWuP593MODd91zmrqceTe90yTHhfbM5IB_0RiJ_UkjhgMnhSM9mA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID49Yvr_QE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID49Yvr_QE!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-vTtBxsrFp6bqxbKpk_6SWL8zZ9B5MQwNa_6TspsjlFS5JFAnQvh3pbWpLQVWWSPE_oZpokNksm05mLRJIzTAgzsPeiiP-mZGpyOo0A9nLbzTdcC8qnyI8VPwKZsNuEQojhTznARKgYF_rwo_ApQwdaJDhYNkefwmyD15C7lSN-Ipy5Nuda9RvBtChf36mwdNmO-EvMSWFw_pxz5jj1HWJQP8-KqP7eF_UHE4I4O4VgLKHr5cyHIfl3Qg9OvZRvwfej_ofBn4BDtPjMMZb9SiGZzXndIEYmnguiQ-NrNZcsdXKCDWDKJZjHPzIFYXPAxOY9jdT1eZFkw2T4T0huGO5Dn95l4CFRJoPPvKbTmBpiO2v7lgTmUgFDqTV4Rae8GeqgUJCuZ985xnmOJaC6OS8JnQUni-rnX7yeb6G19K9XGtc",
+      "widthPx": 3264,
+      "heightPx": 1836,
+      "authorAttributions": [
+        {
+          "displayName": "Alef Ferreira",
+          "uri": "https://maps.google.com/maps/contrib/109798241846774096748",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0Jj01umoGjNC-IInnRvOKYic7GaC2xmkJxty6TT65zg7n5J5Ukg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC41pfnwAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC41pfnwAE!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-swwEFPwZGOyV015WbwgEiWjJ3_yjN6vt1bD-k-6oruF7wW1VojlZAN-TL_dSkZxAdh7uVQLipUcH1DdERkm4MxKNTcFsb8D11Mr1CwEtMNqJWZOFu-wInWvkeAyMKWXppk7BDqCSb4iDX6ae8WlgGe29UsKbL9wFhEGO7wmPlEXaVoMlkleObtx-XHHSroVgKnPhahpRf6w0y2KzIUqolLFJ-woOszl9L7Ndrv2HiuNmFNw3US4ESbCwASZ1ZBV1KHrgGPHrD9zl0IbG44lVUMxET2KLUJosu1e2zBkbl4ZOy75Sc71kjbEznXN1YyF8gFBLQkO83HuQ2-tZxiGTRYlzWxM4ffDDoCPqpBOFBWhWvjSHpz-lYJimaK3Q29UuNKyLJIcCde54svuSw8NLnu1Z4hw-H0EfO2B6yhBRyc1w",
+      "widthPx": 3096,
+      "heightPx": 4128,
+      "authorAttributions": [
+        {
+          "displayName": "Gilcele Anjos Anjos",
+          "uri": "https://maps.google.com/maps/contrib/116682394257924745856",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzJnVEpXe-DJI7tr2dKZBLCdmJZncFR1vWa-nGiC2UeeDFbQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk8uG9LQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk8uG9LQ!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-uZF7cUSjIOK7oWAOlrnvPU4cxrH07RehJBnIyRUN4aso2vKDd29hEwJK4DbODAijgRf2u9iSW4Z67PlHprnMQIFjeOUsUq3e1r68R3Pta-PNwl_bJdqSNTc0tG-vLcx7pcmgvwFAT90QXFTpTnU89htUroyFkTjVqqx-lg-L8BMFiLYh8brP104GZ-Bh6thQAYYqzZqebOP_-6sQbRNAucW_0KGIolWXTk5JhiUDIKHtDV4dqQ9TuBnmesHPqg4KxRT78fl4Pu4Dcqnpu2D_qPZ_kJ2y54BOFd5r5D8a44Qw3-LpvygN66_SxHvgdSwRX6aHgTUs2W9W-BHyDhXqIYh3pV5eXHXxMGPbUKW3p4WSRukJdehLIOYEla7DarhLRgBUKWxCf3gK31elIPEijT3d7BUbvCi12JkLo75oI",
+      "widthPx": 4608,
+      "heightPx": 3456,
+      "authorAttributions": [
+        {
+          "displayName": "Alef Ferreira",
+          "uri": "https://maps.google.com/maps/contrib/109798241846774096748",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0Jj01umoGjNC-IInnRvOKYic7GaC2xmkJxty6TT65zg7n5J5Ukg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC41pfnIA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC41pfnIA!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-voR0cMJ4n8GPOk7hzJtRqytxTRbxubu3KE6jCjxONY506C16ZN5bmE1E3CqyvWoUJrWQWHbfMZ9FQv99yi3Bz6QB33Jbi-WLo-baeYZUuBC1Zk0_cEMXP2gUl6X43ouvEaAfkVPxSwmjkjqHSZePd6qQ1kmvdGn9M5RSCvnUpX1Zo17hz9HlRpHkgMmt48aRntD92fbrl7bDcVvPZL7jIvMmDA2kB88OmXJv-J8m6tZQSV0Q8JkE6QKu9jXyBH6V5A2j-iGvdCrLq3UT3opndjtWc_lxQL0gnkSYYTLGwKXeTn61utpBJVNOqZHufDSvpDf2DzUZ2ma5Z9NloRlbN71bEXrgHJrA3gTrwHocFq1z-e0hEiQVzh2c-t4G2ufcKXCkzsNJHTgDJ8zn36sxwpvrVNeDFwFlyoY-SPPnuChMU",
+      "widthPx": 2250,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Amarilson Santos",
+          "uri": "https://maps.google.com/maps/contrib/108744269850002617971",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXun10mDuKRaZ3L_hRS2kxPiPTe5BE1DP_NpIkseh19OyWfcyc=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3ie_guAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3ie_guAE!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    },
+    {
+      "name": "places/ChIJ2dT3ylJSzpQReGMPfagP1o4/photos/Ab43m-vIS_A7xIK_TLTnjc9MTX1OWP3k_70kI_1TfWYm0u1qm5xmsGfLrL-K80PK60V9wF6aVff-5I9KUI5qHCJ9gkdeKD8tVctC8EIdd7dTnab14T3ELwc1RS-yBGDb_ZmejwikQ67CJKd1fbVyOYAyPkA_pJ-u8Sp2FQv5p1QWhowcrjKvcFiCr74Fk3QroNGPes_5hTcvN367kgCyoPlhS_0wFNQKBbXGw7Cc9zTcKqsoaWEr1rEPocVaM67SvzfLL_pG5MdXgPLfTNnUf1ZwibZN2wCoDHb5_rc6bZ_ybzl5qJAkES-LhZXBTD4R5UuhkIk6w4VV8oSviIbZQnans_NcRTYF6Kp5ss03aHRsNVtNZDg-AcBouzccDX2A1ADTZxofmd7T_oZg9k_fEcu7g8ykDrtFDRe1pf9tMlGdCsqvtg",
+      "widthPx": 1836,
+      "heightPx": 3264,
+      "authorAttributions": [
+        {
+          "displayName": "Alef Ferreira",
+          "uri": "https://maps.google.com/maps/contrib/109798241846774096748",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0Jj01umoGjNC-IInnRvOKYic7GaC2xmkJxty6TT65zg7n5J5Ukg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC41penfw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC41penfw!2e10!4m2!3m1!1s0x94ce5252caf7d4d9:0x8ed60fa87d0f6378"
+    }
+  ]
+}

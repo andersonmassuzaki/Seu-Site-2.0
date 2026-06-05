@@ -1,0 +1,415 @@
+{
+  "id": "ChIJZwP5gzFSzpQR_OPk3nTBfy0",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 98155-4636",
+  "internationalPhoneNumber": "+55 11 98155-4636",
+  "formattedAddress": "R. Comend. Antunes dos Santos, 1591 - Capão Redondo, São Paulo - SP, 05861-260",
+  "location": {
+    "latitude": -23.672815399999998,
+    "longitude": -46.7596004
+  },
+  "rating": 4.9,
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 16,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 16,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 16,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 16,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 14,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 16,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: Fechado",
+      "terça-feira: 10:00 – 14:30, 16:00 – 20:00",
+      "quarta-feira: 10:00 – 14:30, 16:00 – 20:00",
+      "quinta-feira: 10:00 – 14:30, 16:00 – 20:00",
+      "sexta-feira: 10:00 – 14:30, 16:00 – 20:00",
+      "sábado: 10:00 – 14:30, 16:00 – 20:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 37,
+  "displayName": {
+    "text": "BARBEARIA DO EDU",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. Comend. Antunes dos Santos, 1591 - Capão Redondo, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GUlkybHdhVWxIVlRkaVJraFhXVVU0TnkxTFUzYxAB",
+      "relativePublishTimeDescription": "10 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Recomendadisso atendimento maravilhoso eu meu e netos somos clientes de carteirinha do Sr Edu!!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Recomendadisso atendimento maravilhoso eu meu e netos somos clientes de carteirinha do Sr Edu!!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "JORGE LIMA",
+        "uri": "https://www.google.com/maps/contrib/111881448720360136892/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPNbiao0cWlCv5i_XOJ4dpLU8LjsbTOEIoPU44A_JAkQopaguMIw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-07-15T21:26:51.394004277Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GUlkybHdhVWxIVlRkaVJraFhXVVU0TnkxTFUzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GUlkybHdhVWxIVlRkaVJraFhXVVU0TnkxTFUzYxAB!2m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKbjVHWFh3EAE",
+      "relativePublishTimeDescription": "2 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Muito bom um excelente profissional vale apena vcs vim até o salão de cabeleireiro valeu meu amigo coti tamo junto",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Muito bom um excelente profissional vale apena vcs vim até o salão de cabeleireiro valeu meu amigo coti tamo junto",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Laercio Sena",
+        "uri": "https://www.google.com/maps/contrib/107557774219958885193/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZ_aaeC81jvf3bsJks6N4IrCmmJmKoP3X8y4pIgIGEmfOhH5c=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2023-07-07T23:08:04.716028Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKbjVHWFh3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKbjVHWFh3EAE!2m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CM01VUmtVbEJxV0hReGIxSTRRbGRSUzA5UmFFRRAB",
+      "relativePublishTimeDescription": "11 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Barbearia show, Edu é top,\nDeus abençoe..",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Barbearia show, Edu é top,\nDeus abençoe..",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Danilo Silva",
+        "uri": "https://www.google.com/maps/contrib/118442295756205107794/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKG-9kMrGj6eMG0HcV0gfbfSTGTOxHcewlsUIGAOQatn65jnA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-06-26T17:00:18.992717765Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CM01VUmtVbEJxV0hReGIxSTRRbGRSUzA5UmFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CM01VUmtVbEJxV0hReGIxSTRRbGRSUzA5UmFFRRAB!2m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1MHZiMkx3EAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Pensa em um lugar top! Começando pelo nosso glorioso Edu! Gente top! Serviço excelente! tá de parabéns 👏👏👏",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Pensa em um lugar top! Começando pelo nosso glorioso Edu! Gente top! Serviço excelente! tá de parabéns 👏👏👏",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rogerio Gomes",
+        "uri": "https://www.google.com/maps/contrib/103126577063874379266/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKq2z6yq_BelX_hA_jDBuFzFE9nFD3Z7mT39d8jqzCKIqD8WA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2024-11-23T22:09:27.895273Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1MHZiMkx3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1MHZiMkx3EAE!2m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSei1IRlp3EAE",
+      "relativePublishTimeDescription": "3 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Sem comentários, barbearia nota 10 e  preço justo!  Recomendo",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Sem comentários, barbearia nota 10 e  preço justo!  Recomendo",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Luciano Nascimento",
+        "uri": "https://www.google.com/maps/contrib/106273124634023891456/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWv74PO-DJVWp2nenAyWWKj3OPtnmlB8lqPKO0yBXO96-yhXITkjQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2023-04-13T14:15:34.566246Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSei1IRlp3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSei1IRlp3EAE!2m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-tajuxJAK9cqZ2Dt0pD_u64gH5z-FEs1dyy2IgjBOQ3y8A-x5l7p76bVAVtOWqBs5kgH-C4jU6kNlXfxC-nsnvO9AZm2RuTka5a0aocHzF0KrAR3HuN61rDJKHJGgrE9Hk4ht-XJdqwZThe0qVAdNCwhSildNfcskl-slvYTls_JyDJPTUUERVhmz9VYTfwL4WWpU5D-3df81Bb7_GE40H2rtOQrby-mvTWD6IA1Oz3DWXru-ZIZUChSMQ3g0GsxmI492AH2Cve2vyknKESUj9cBrqARoFUIwb3RgSplqlN9ueBps0a2mv3JhxkkTpHjCKvpIFXJjMMMASy0zybB_oXnH2WmcSNs4l49mjT61xCsdBn-HTz8UxXtvT0H-rh0N_s82GkF80jdpe6y9-XJeIvmkgCcaoAkaFlJGMdKM3hCg",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRwquGVQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRwquGVQ!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-utDGSnyZ55tnsg8prn5b33bYni2x2VCACkZUxAYi8C2og47iVU3OOfV1lgiGk6CgRQ78VoPW_8yKpLLqCNt9nl4zW8rqKPtIrrqwmxG6o4kDZasluUsXNB2CyJq0S9Mnbl7KRS62YVqk1j-ygAJupNPfY1CybSnxHwOw3yGUlXMFcNrWF1sn_ZVrrv_I8X2MXkOUh_tR_DN7izrhg0M6FU2SZKRS5hIALpsz7dcW9l3AdbOABwwrJK-Ct6zb1Z3aGmtN95a-cvgUtWv6uu2641AiAf3nCFyoyQkhIUGkuzASunIO35Je5gzZcp3y1ZV5y1XkQYe6k9KZ14DSyDV9lBvjOxgVXXVWeY6P8iB6f093Qj-ORzDa3XkN9P8pj4R8YZ9ADb3WDceQdw51FVcFDNzFQZ9EQBUUHugpaldhpv7k7s",
+      "widthPx": 1280,
+      "heightPx": 960,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRkqSk1wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRkqSk1wE!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-uOmIU70H2CMT5nkGN4YhMY-EPgXGuiicN7KJ8fRhWDnObM6Vkdmrm6Thk7Gv_gCIWbXeX8K9MA2FjudSYcqVYetrBOx3ny5OdtEYXV7Hc8DwM5LwSX7n4cSaPPZiTtupeCLtru-_tHS8ClQL_0D-uwaBqc2RlAFna67UjWXbf77POQTuwxpN-GszbRo7tliv9XbcCtLbnASZ6nIpUUqDJX13SrLRhGM3khdA3n6-VSmQK6mNz1h2Wvz2d-XWbTJehB4kGurNXDprMihSMZ08S664SldbthUJh4QyRCGGwlnnfPaLGDZzKX7fo1IUzvwiQqqlw_ebqaERKqmIn-cayGDd_YxxbrDxLx8hJt71nP2SsHG2BTH1a8qBVpXr9oIkcCwtxfK0LnXR0GQjwwvFOKNNLkZrGiC3Bjaf7_ZLa_qw",
+      "widthPx": 1280,
+      "heightPx": 960,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRksShRw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRksShRw!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-shnOzyWHG4xcG_YP9QN6LH1xTavw9DUQFz4xFHYkE2IV0GzYC4t9IH0Y7cCZE1dFA41gJQ9tGSXtnsvl-tespaJFAH6L8ENoV8gNOokvJite2GgKZTPjNkBA-x-RjYrupT6G8OcikAdfaPFXXW680Z-HGK-_XixPCFY_ykGGa26OcwwGhJiTzPX8oD7Qairas5C-nqCnDLHionlJOre6dh4RFzmyb7pXINPDYdbUZwmKLHzSeK3Sf3A_JkOjCbjjDEv7dXVRT4zwNO33h3PArkPOkSlmu11x9jS98bjoeDUEOu0PZXg0bbbY9t_3nMp10_oZ3CwLqjruRcG3V8QQj6aZpSMsOq94-ToPEQq3eqlWTwCnyItyjy6tD1QGA55poBNoE1Pt2plb7Y8Sk82Q_FHBmcw9Qnt7vfUPXXdA6WMVlT",
+      "widthPx": 1280,
+      "heightPx": 960,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRkqSc6QE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRkqSc6QE!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-tApkI_S3unchL4H9RSRmGJccqRG5yqdQq-CM-luMcDzH_UhSxC3ZDQBwNxPut0udcYzFVl3dfKCNbGPgKiIUwtn3DFDyNbnsTwTVYL9Rt_rRqFcuGzLAvXIeJgtmECZIxLPDXqiZW_sDqQVg9IIM2M6wcMMqB8ULW2wBeZOaF8D4HPnDd1PWf0BKXrfVbw7aEm9fB8IX2Hv8SULnS6VSYjvt4jhgcb30eWyP25Rg2UmRImn-84IlW4mdi_afZKYcUQqg3xY8N_blr2VZ6V3r01GY4LRRC31T0FBFRwjnMoh2N400GhcK8Z0qptvNQR-qM0LX9MCEBbeVc30H-z6_dS-C19CDb7-SMzhW-vZD_OgwYX5VuMxIyap9A58LG5fYMzFQaq44PJQQ_1OUW7D8POD-j8nWLEzePGdQ22Qmc",
+      "widthPx": 1280,
+      "heightPx": 960,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRkqTiHQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRkqTiHQ!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-sj0u4_qY73B2rluG1jOysVVWmxbR3Ou1A3iuPLiNV-WYg8Pq4hWrnH8wtu5W9C5GrSlsHqBl0u3R0EXTN8TSJ8TvtVBmScM6ACegKF6qi1YN6na5w1E7qvJ74knDu5UzWexyMmNY_f958cMPMEORlAusezErJXWpiodDebxJvVe0Uzah65ceLcg1v1nVu8vknRaRG4_hoR11zb9V_bbYTyif__Pa7MzxHVXnZq8bBwvLoinSk0_UsyQB3eGZMILE9jorgDiIRUMYe212KWc4QikgOk6IiCrulqCsU8dCzYhZdWkpthYJEJfZIhza2mWNbygBqiU6QiDvtA43_Kv8urFungJSK3xuDwjNnh7IduyDQc0Iscnnfr1f0McEa74vvNRwmP1NMmw_bDoUwIHZUxo2Rpk0GXEFEBFywsWTD5VxbD",
+      "widthPx": 750,
+      "heightPx": 750,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRvIuLlQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRvIuLlQE!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-sbvNM6s2MBS-XRg4ToVvysdepPcrh4n0Mrh3O-V2AMYsY2Xro9TMR0VYRIAAtSv9h7Ap257o7kDvCrvbFWIzDrw6Kijw5wJBTqcVNHZXQ9FUoCpE-8eSPg9yTCqXulLlI2Vll5kvBE_iPMGwPdEvKgceGWfGHYIS592KQhMHkY9d7tbbZIgNBykNDAdEKBqR9ZASl2DyUnADrbE6flsKHnBWOg64ZeL-NQXEvZVy5XFBx8H-CidMXQXXjXim3gCddcJhQGZUlJT4YqAc9_V7Npdr-SGLJXyPAAXnIpURJ-atga-Xlp4TrGMS4EqDhbBR7rqaFZyxBNc88yBRZl0F4tbSWXdI7QD07hGKG6pHB2rnTgYokY3kTiq06AHp9A_ghMJJcTkVbzCas1WB132tsaB2-g_puJyIQR8jGQRRoyIC8F",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRkpLW2wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRkpLW2wE!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-spCgt07HEjJt2mHuvQp1LWT8kaLbUBzzN5ioAa95WB0Zqb7qpvffG8g9MHA-OUCzxrvrHFaAOfXSjITRTURThEzvLl-z6oJ6-iCxcnsKte1tFBWoYTDZu2jDAfXG5JbN8JdXSrTQiacIp2vG2MaP8fWHDbXdkWeXGzBT1O5EucmRT-0cao6Ih6o8qaiOTpet2_-Yho3vfYD3BhApF-2yWWj2MNeJRRDrx8j69ar-tz3__39uM1dzLRTC5yt5NsmovP1mUXHbSljWU0osM7uy1JkedrpxpXfLvZeiIEQLOWY5ekslSd0NCQK62ImGitqCU8wW1t4LWQcQUUlX_MjIecXOo1QhmdmsWFGorwFsSrUbpvaaEbszwsqLRH9cfzSb6yLj3TtmxeFP6cctbLchALh1GELGDdhEsRXIhxoIwbTg",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Eliane Sousa",
+          "uri": "https://maps.google.com/maps/contrib/101632992162086559888",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTzwgsw1L1lDAl5MMHlaoyR3LYnvFfBP22JdOF5xpCJMwbGuKv=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICVzPjIYw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICVzPjIYw!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-t3xgy32n1B9RX8sLOhJWXw43577fCNoPTJA3465RHuz1SbJvSxldb5oZTl7nVsdaNxDtQXQaDfZtgVOvPTAjoPI8a-KPbV-TQ-FKR2DQw_vffs_idTsW04nTahgcKNllpdZn1oS20G4VhBpntgwmQwgHQSOeow3TiL166-HKsqNj4OULE25TggGy5hC7gyeP0PCRGJmLJ9YuLpETF8sEKerIfzSJXjJcWYgWvme9etUnLJ4Af_gcXGidlW0M6Zfyu9d3ErXe7DHdm-ywPzqv2HM_CqBpUNBSMH044XWj8aiEUg9mJrlJXCT9DlJMFgDvQWcEPkBxPiCZLTJ-cg5Mpd8ORgXrnfi65NLkLcABntbE3A-A9291OcJtHV13L-g_WM4RDUB8JyBJ7ftCVrWU9zvLHiJzQHta7AibaZucrTNPdV",
+      "widthPx": 1280,
+      "heightPx": 720,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRkrTvmAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRkrTvmAE!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    },
+    {
+      "name": "places/ChIJZwP5gzFSzpQR_OPk3nTBfy0/photos/Ab43m-sCcvEXMr1kL4IZDMHgAf4383W9FzzQf0MqLubQovBOuGEUTaCbA7f4UShfuOn0Jnsb3zE9pdYL50dozk3QTJN0OfWI_O1sNxjl3nY7AssNXFoEChYsmojpVt46KiaDL7jRSvoKvfUaM-5sH4msM8wdCmIn6Vt_GnnzTQm7Wl8D5nveDH6lZ7WHkbM_Tq_8D0kIOTffQTm-mYU4bAIyoKrfVfUkzqD68fBMxexXyd8An_MaCIgZCw4rzr7bHMR_kdJtfwnzQb9EZyZ2dUhkgGjJgCn6vLcGVSinfIjXbfix_4xmKAskmIs35wavtQiHUcW0nohTq_WQzGpmJkApTEuGb5UjSs83GwM1Tob-3uEre-kTXWOJTzMHWjXpBWsL0z4Gx1q_Yyz1BiAMlsg2a7hT4ZrJ6Rzj6e1z_i4EOxIqmJEq",
+      "widthPx": 1280,
+      "heightPx": 720,
+      "authorAttributions": [
+        {
+          "displayName": "BARBEARIA DO EDU",
+          "uri": "https://maps.google.com/maps/contrib/108859479417943416635",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU4t1w0ehukyUh4N09cOuBvXtW5i75vZaSPJqzYMNJjpCPmPo=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRksSvzAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRksSvzAE!2e10!4m2!3m1!1s0x94ce523183f90367:0x2d7fc174dee4e3fc"
+    }
+  ]
+}

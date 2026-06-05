@@ -1,0 +1,368 @@
+{
+  "id": "ChIJTTsy351RzpQRNEYjdglFim8",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 96182-9349",
+  "internationalPhoneNumber": "+55 11 96182-9349",
+  "formattedAddress": "Rua Domingos Antonio Ciccone, 180 - Santo Amaro, São Paulo - SP, 04710-220",
+  "location": {
+    "latitude": -23.625354899999998,
+    "longitude": -46.700535699999996
+  },
+  "rating": 4.9,
+  "websiteUri": "https://studiothecut.com/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 30
+        },
+        "close": {
+          "day": 6,
+          "hour": 17,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:30 – 20:00",
+      "terça-feira: 09:30 – 20:00",
+      "quarta-feira: 09:30 – 20:00",
+      "quinta-feira: 09:30 – 20:00",
+      "sexta-feira: 09:30 – 20:00",
+      "sábado: 09:30 – 17:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T12:30:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 252,
+  "displayName": {
+    "text": "The Cut Barbearia & Studio - Barbearia São Paulo",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Rua Domingos Antonio Ciccone, 180 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25reVNHd3pWekJLZEhwVmNFeEtjMEp3YUVOdE1FRRAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Hoje quero deixar um agradecimento especial ao profissional John, da barbearia Black Zone.\n\nUm cara dedicado, que trabalha com excelência, respeito aos clientes e muito profissionalismo. É muito bom poder ter pessoas comprometidas que fazem a diferença no ambiente e elevam o nível da barbearia todos os dias.\n\nParabéns pelo seu trabalho, John. Que continue crescendo cada vez mais! 👏✂️",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Hoje quero deixar um agradecimento especial ao profissional John, da barbearia Black Zone.\n\nUm cara dedicado, que trabalha com excelência, respeito aos clientes e muito profissionalismo. É muito bom poder ter pessoas comprometidas que fazem a diferença no ambiente e elevam o nível da barbearia todos os dias.\n\nParabéns pelo seu trabalho, John. Que continue crescendo cada vez mais! 👏✂️",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Deivid Marques",
+        "uri": "https://www.google.com/maps/contrib/105374358652529204763/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILdtYYlKHb3GiM3fzeShipWft2BBKrLu6AAYpLLPW89wzfpw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-06T21:04:58.303050442Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25reVNHd3pWekJLZEhwVmNFeEtjMEp3YUVOdE1FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25reVNHd3pWekJLZEhwVmNFeEtjMEp3YUVOdE1FRRAB!2m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2padVNHWjNNRFZuUlVOUVVHbGlhMEZTZWw5alRGRRAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Super recomendo, cabeleireiro super atencioso, educado e paciente, ambiente limpo, com ar , TV,  cerveja e refrigerante, me senti em casa , preços acessíveis que cabe no bolso ..",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Super recomendo, cabeleireiro super atencioso, educado e paciente, ambiente limpo, com ar , TV,  cerveja e refrigerante, me senti em casa , preços acessíveis que cabe no bolso ..",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Geison silva",
+        "uri": "https://www.google.com/maps/contrib/111726740723876534135/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWq56p41EZoxGhAez43PdzbaWjkXzFImBkjisY_87nf4l-E3sfQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-16T19:33:26.098764723Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2padVNHWjNNRFZuUlVOUVVHbGlhMEZTZWw5alRGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2padVNHWjNNRFZuUlVOUVVHbGlhMEZTZWw5alRGRRAB!2m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5MmVYaHZaV1pCV2pOdlNsWjBjemwxUVVwSVlYYxAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Um dos melhores lugares, barbearia raiz proficionais exemplar.\nSó corto com eles desde a primeira unidade, indico muito",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Um dos melhores lugares, barbearia raiz proficionais exemplar.\nSó corto com eles desde a primeira unidade, indico muito",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Kevyn Anselmi",
+        "uri": "https://www.google.com/maps/contrib/115268933962481528841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMq8MsLcZRMsJg1m30KuAL6XcRlr_TO-RukTI9BxTtSrnB=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-24T21:37:23.564190171Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5MmVYaHZaV1pCV2pOdlNsWjBjemwxUVVwSVlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5MmVYaHZaV1pCV2pOdlNsWjBjemwxUVVwSVlYYxAB!2m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xab00xaG9hak51WHpkcVpIaGpUbmwzUTA0M05IYxAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento excelente! Recomendo o profissional Vinícius! Estou já a 1 mês cortando com ele meu cabelo está do jeito que sempre quis!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento excelente! Recomendo o profissional Vinícius! Estou já a 1 mês cortando com ele meu cabelo está do jeito que sempre quis!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Ivo Junior",
+        "uri": "https://www.google.com/maps/contrib/118174332906389347351/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWatBA9wlgb26wjsc-hq0dMBnqLYPm_VjyJz7vLG5SC3Qd4rrs=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-25T16:23:25.349546340Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xab00xaG9hak51WHpkcVpIaGpUbmwzUTA0M05IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xab00xaG9hak51WHpkcVpIaGpUbmwzUTA0M05IYxAB!2m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKR1pVZ3lYMWg0YzNWWmJWSXdYMnBhTjI1eWJVRRAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Precisei cortar no horário do meu almoço e quem me atendeu foi o Douglas. Excelente corte, vale o preço pelo cuidado que teve. Vou voltar mais vezes!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Precisei cortar no horário do meu almoço e quem me atendeu foi o Douglas. Excelente corte, vale o preço pelo cuidado que teve. Vou voltar mais vezes!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Diego Augusto Lisboa Damasceno",
+        "uri": "https://www.google.com/maps/contrib/104135558102371988691/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkL1951mf-JP37Nu9CBOzYdZwnS18R3d9V7yss1LIvQHVFxZbepw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-26T16:08:09.497605873Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKR1pVZ3lYMWg0YzNWWmJWSXdYMnBhTjI1eWJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKR1pVZ3lYMWg0YzNWWmJWSXdYMnBhTjI1eWJVRRAB!2m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-t9uCgYW_zAvn79pm_YCzlZXn0JOXMTMYENzesRggSUQkOhxycii919z3--X_5IBM-ZNbDE4tMgQiWaEuiGUmB8Rfr9yNvWQv0dZjRkEuex-qJweldeF-l8W197WA92vaZbrv3lBp6HDMN91lE8igekhXGl5fbq4RyMaJlQAVsarxojga7Fov9fiJPmz91x5aCS8GndZXO9WVakdMIcm08rd1lkOS7jxoHmblqEfwIxl31FBbRHV9IzQSi3F9bJGjhtKgIXh1P419bcScVBF4eigIDodoRK6aEhnkC8BSMlqL7MLCGzGZyXUPwuf_-LGvXteFDkHaDXuqSjBt5Am08bqWx5puY8sj7if3KBuqtj90WjYDR9RkB2IJMEEsVKQhqFHfZjkbOgMbuLwSFmZfWII3632MvS9ZFNQggAqrXHdTj3be66pZIVUKFs_2ai",
+      "widthPx": 4800,
+      "heightPx": 2700,
+      "authorAttributions": [
+        {
+          "displayName": "Marc Witarsa",
+          "uri": "https://maps.google.com/maps/contrib/108307423364012455790",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmd0nznWc9_K8AjgFeZguFzXV5fD4rDncTqBtjc7pceO13q20Y=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB1Vu7HxXm828QA8I9xPq3Q&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB1Vu7HxXm828QA8I9xPq3Q!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-vGVSb5NS4rh7uZavlqiZ6n-aN64Kl7Lk-6gPkX_dgwJG5o_VlU8J7Y1xmf7zEXnDXty4P-yS76DGqjzsSJXNcuw1_7o9JtLwI4MbFzxkmdBAwOfu1IhyZ7qqMxF8LZuAPb1rLW8gPbm-lVTjU4jOwe8wFl2azFdbllhunTPNxM920AIC9cktNHhMAYEvrq3Stvmu8hTyys5teYAlz3Uo3HYq2nHFCoiTUU6JPurUb9fckMOuESMWaSsmqxymo0GbvBC1guutHEMdfNs62TIiyRkdtWG9Yeff7zxSauyZ9mr0T44mohd1px0RqwlFU_xjIcCGEK0-MzKSiVl8dykFm8_8dAcUg_Hx9s30PxoiZtIi5WHzGKEIBgjjTFOqx_R1gtpdUBoLZkhSL3caGf9netgnom-Ao3oFkFWVk1dTuqAsO45YevyZr0tjgTUERx",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "The Cut Barbearia & Studio - Barbearia São Paulo",
+          "uri": "https://maps.google.com/maps/contrib/117148533505370661248",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJkciidKEXHTexz901NrQpt9ZsZnALvOz7qD6GemNXekAFUCeh=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBSyxH9OZCxwSjPNu43Jlkn&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBSyxH9OZCxwSjPNu43Jlkn!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-uu2l2DelhK9miAxeQ3cOCTIiThrCUB8BRxle5Daj8yH_ezmPhG08RaucCpdKjZD75h-wdPPDYtBo558JGwGgrlScEg_Ne5wAX8bEsxNjEgGiYGNKmaJBNAnih8XlAj47CDf4LV0uFp56FhIE9zI7GdicqyqogUe8dBGACiAfmcWPNW45l8zRcGlipg32mdjRC46bFkwMAhm_7SVnMmoX9UAF8AWjwUscjZQnxPeM34beAFMd71DipPCp0C9Cm6lv9N72hD_8_YRUYib8d5Fc9-UZwGOB7hA0A9DjqoLE4qRjp4zdn4Rkjob1A1rp9HqJGqAXZlPGUrUr8-1sxlCwY2ZU1ysPb6Gkqx8kLFiljmFy96t0i812ZarSUrjnVKJUmntvoL496fLMRw2t8KhCEYBv_1I1N7yQNBbNQHj_hKJA",
+      "widthPx": 1600,
+      "heightPx": 1202,
+      "authorAttributions": [
+        {
+          "displayName": "The Cut Barbearia & Studio - Barbearia São Paulo",
+          "uri": "https://maps.google.com/maps/contrib/117148533505370661248",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJkciidKEXHTexz901NrQpt9ZsZnALvOz7qD6GemNXekAFUCeh=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXoIK9eQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXoIK9eQ!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-sQMpefaGO6GpfGDLnlIP8LZld4f_QY8Z7PFVj1MZufylXhqAHw63lbYTJpenGrekd4FQWQiqGXKBk4MaZWka9JRgOKTXXwBkYlCVrKi9iaUxoT2aDnpnNQJdkVstfQMMZi331PpDycDr7ewCl2_UZuL5pyWtI8Ioq6vHx8lufH9ZPiPIG0YrQE58BUvwf45Fg06JO64j6om39u0xcrCX5vS6ZxGRAdv7RLpun37vDVveScdzZCyn1LPX_xNYGMBITIY6Jd4nW6jQ60PNGGcs0_tokcBT76qG9b3oy6jRW9qgb28hkFPDz-uwGxATynCHJ9ZWWMOMqzpLnpEuM8LQ4oJFZgxZgSUq6Ebj7E4nobzX2VrmxdyT-AKxK44K8kssOd_5Tdnm9YzMJYibd5RbvTb2on3YygFbe7HCJAxukGlrrj",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "The Cut Barbearia & Studio - Barbearia São Paulo",
+          "uri": "https://maps.google.com/maps/contrib/117148533505370661248",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJkciidKEXHTexz901NrQpt9ZsZnALvOz7qD6GemNXekAFUCeh=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDyqj77gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDyqj77gE!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-vRrfXOyJbkTKAk_2s04y8D6cGvMjM0s6eDfYQ2h7pn_k8J1yLr2qA40Hk7-9fbRRZHnjsQHjTL6y1fw02lDsatu3ggX9oSf2pT8122udZjqszNz1FOEj930VR_3tRcxvi1z1JgShUC5-TPUE8Z3BBSDLWSZMQaHWy7ud5WTW7ehkS0UF1AA7SSqvOMXkz9rQUKVpRazyBcbSkwdwu4f-sd61HEvhiwlwTQFFIsBrocJq8INdGXzcGMCkdmFQ8NRRYZfpDpx7xn_3zJC7lFDQkPZoekAJ4_LIOyjCou4JrtZoGVFvVXA53jSPJGG_x-psFOet6V2m8kUEf2LqrnjFVBagxDWd5_dhZeYUa1iz7SjTGcBbHtCkYkaQ9UVRuH3oF6myvgdNFqdOexKINBex-eR3dgy8g4TheOA0Z129TCRgEbxStCVM8lG3THiTQT",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "The Cut Barbearia & Studio - Barbearia São Paulo",
+          "uri": "https://maps.google.com/maps/contrib/117148533505370661248",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJkciidKEXHTexz901NrQpt9ZsZnALvOz7qD6GemNXekAFUCeh=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCUITDbtQJ_2xeDuuoJwarx&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCUITDbtQJ_2xeDuuoJwarx!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-ugBAmBbdD5KdifjWM2qdTKJB7cnqH1M9CB005dQcRgqBgOY3lFEyxCBRZPPsj6opjzQDV3qO9CfSORlYgx_CNSkUzugx_YSZj_LUrAHoeCjL0e-ugKotUyuSLBTXOGto4JJtSClD0txFntWNWREGjwyDxKl1k3OpVdCNd6PxEsAuKz2NPZh1c3F7dHW_9d6rEcrxCXc26fHttScn1DtRHr5rcKDPzHeLqVmbv0u7Owk2aw194_Y2NDEaAqbA-tmJxhYeu3lQAuSrkGJsZ_WsaCeAV-bemGZ8IPIOZSUOW3I_B-rVGXFPbKxqcwNegZNu8AvbTv5LjNTFtGDaeQuMS_3Nr30UT8yi8Ymxq4Epf7eIL3p98q46am4vIG9Tk8b4RYetG1dxAU3hvs8e6Zx4ax1oGmkBdBFPbL2ElBfvz5IsuJur0TTnB6Wc3dHGqb",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "The Cut Barbearia & Studio - Barbearia São Paulo",
+          "uri": "https://maps.google.com/maps/contrib/117148533505370661248",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJkciidKEXHTexz901NrQpt9ZsZnALvOz7qD6GemNXekAFUCeh=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDL9GldKXAQzmNX0Hsp5bUO&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDL9GldKXAQzmNX0Hsp5bUO!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-v_5z88qoledl7fqFc1-6oqfKP9Y5_-Q8XuXsIgJUZKBeAYgk_fBcxAWSdd7Ff-aV1C-RKdIhHIMBiHa-ObSOJqugCACm1A-tjlcKjHqvAmIAX2GdkN0rBs8iX_uTpNjmnigiR-Bb3j1YZrJNoZ-ljEMDK8W6OS0e26Kozc0hYQ29Nd--NNJSVYkWS4Ar6YuEMeOmIUqn3-W98zOxIxBgtFeBnkXeLerxbcX468nIIdMDxdDAGfvm5cun__wwSk28TWUXw02JdJ-3kJq7WO7__sGimXdKHNwUCHxIVcEVOkKKPU2f6fyqLusXzInBCwdL3V9_B6MHsCsg6_h_SyPWSgxFRB9y_TgIw6vjtxdYgmU4QsrRwKLbh3KgQLKGnMr-prdN34zkrhw_a2d4q4yTcfwXeCXSLxzt598bUaDiTNSQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Js c",
+          "uri": "https://maps.google.com/maps/contrib/115543531938295586872",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJSrIlsYByzEnYAo24XukA-nE7DwcfLURhoVqv7ZsfqiwVLn3eVw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQ47vDNw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ47vDNw!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-vYwZToJ93T2vhltYRarBL54ZFuZujzOKM3ycxiffFp65CTa-ELqRLux1piIjWlXLTVWJfKOynOV1-dHR72DL80wzXzfdPRjNHT7CyY2P-aV69rjaEsPqs89rvfnBtAoJYudy-rM3HcAv-YqVbUK-or_npCTAxfx53NZpcGKk7TFBvgcnkH3dNgoOyhTv1VlSpKuj-blNBbXMh_cxGlkCeR4fwg0M5fhbjiRcRJQs6KOsg5FJN_1LzBw2VXv6X8zU9KSieC1ZC7y_twoBNT2DHT1gNMUPs3Yi3BqjdSwpS4ZSKiqO_IM9BMkBEV4DHI6Xjxtblpb1aRs-M5X7J6FY3cTgmS8X62psj31wTlhE3I82OYxjdGwjhKb0ugTEduYW4oDsq_E_d7W73GHl_-rkNzp5oHSbgcPqZ7a5lFQ_bkCtWN",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "The Cut Barbearia & Studio - Barbearia São Paulo",
+          "uri": "https://maps.google.com/maps/contrib/117148533505370661248",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJkciidKEXHTexz901NrQpt9ZsZnALvOz7qD6GemNXekAFUCeh=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDlqjIjAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDlqjIjAE!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-tRoJ8uEjjpUDCEiqskP_e-WbmUIcFsgHDrtanJ33H_gP8X2xFBwlTSB5CeG3VVdyQlgQbzZ3vsxtdhn8ePrhB-H0LGEucX6xUujUyDnmE8j60LrJmauMKPHKNj9xVkVcr1QNd0_0ASxo3xQU3m8txIkQO9eafmVTEEWrXnFM1ZjI106SAenSYasQ2idlw-Q9fU882W_BlGX7WLc3OSY6l8PuoPaJFPnJXm-DAphzeDUmCAviOVzhOCDMLw049W3Lo97iYLsXYIsa_0BRn_l-wms3DgMR192rGI8eTEzlyFUOu5dbvTvIv9tMXHMUAjycbu69JiamxTcrWEbdXcSZtsOJPysSc4mbnEdKoW7ZxsmnEEGzgZn-VJQMaOQH3eGar8C2qmPdsbGoWhzZOoEqeB3loYXHEEKbitmoW9Qt4fDNgR",
+      "widthPx": 1170,
+      "heightPx": 2080,
+      "authorAttributions": [
+        {
+          "displayName": "The Cut Barbearia & Studio - Barbearia São Paulo",
+          "uri": "https://maps.google.com/maps/contrib/117148533505370661248",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJkciidKEXHTexz901NrQpt9ZsZnALvOz7qD6GemNXekAFUCeh=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDjY779wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDjY779wE!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    },
+    {
+      "name": "places/ChIJTTsy351RzpQRNEYjdglFim8/photos/Ab43m-uWBOkatWrrKYH3GEJWkh-TLB8psjrizxEFDXHPlCeqBdCKAbgwklnNFhz1eo4AuhUXumGoOGAMZK12wzQLxgvTseOHDqaIx0kvjiifKJYp2vfOHGphcAc0CyWnEaxN0d5KAjalV-V2cg-OcrMssE7LheJk469Ss313tFzzZivXPdsPEE4REEwn-tTvIqetSucTRBgr_j06OUafezp_3ZxOJgeTCCTw8caV7yOTcp1A5hi60QT31LsAj-ppmgSb-HN8mCc-8O-r7Qt2z9oM8rm_qtXTGeG01qnDYnwaIAs8WBp1xfNIjy-JzVldXfbJX07PYjOoiAcvPpvVWd3Kkq8u9V8aHwgywhqcFgf3LqLr8y2Ypeni46Uq70-ZOhPuBQfTYYHMwV8uLY1kAmQPSWUndbfxFPYUhTz6TFMfd7U6_ZH2",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Renomobile Ltda",
+          "uri": "https://maps.google.com/maps/contrib/100527106543562897385",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKarpBIru3V6AMXnXWQEKqE1zqFTLEuem4vz-xeQx6fA0Ly9Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9gs6unAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9gs6unAE!2e10!4m2!3m1!1s0x94ce519ddf323b4d:0x6f8a450976234634"
+    }
+  ]
+}

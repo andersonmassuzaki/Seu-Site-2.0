@@ -1,0 +1,369 @@
+{
+  "id": "ChIJJW34UlpQzpQR-FGWsCgW3Ic",
+  "types": [
+    "barber_shop",
+    "beautician",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 5694-0209",
+  "internationalPhoneNumber": "+55 11 5694-0209",
+  "formattedAddress": "Rua Darwin, 590 - Jardim Santo Amaro, São Paulo - SP, 04741-011",
+  "location": {
+    "latitude": -23.6528816,
+    "longitude": -46.69697
+  },
+  "rating": 4.9,
+  "websiteUri": "https://www.mbarbearia.com/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 12,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 19,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 12:00 – 20:00",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 09:00 – 19:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 201,
+  "displayName": {
+    "text": "M Barbearia",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Rua Darwin, 590 - Jardim Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSaWFFbzJTMnBVWDJkVWQzaFlRVTFQTFhkSk5sRRAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 3,
+      "text": {
+        "text": "Não consegui nem a ter a experiência do corte. Processo de agendamento é tão complexo a ponto que eu desisti.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Não consegui nem a ter a experiência do corte. Processo de agendamento é tão complexo a ponto que eu desisti.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Fabio Scutare",
+        "uri": "https://www.google.com/maps/contrib/105778496102824986292/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDkVgkr4rR8BaO4PkWWF1786Y6ElFMv9rIdYbqBtnfrrcLRglLgQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-06T11:56:51.914148238Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSaWFFbzJTMnBVWDJkVWQzaFlRVTFQTFhkSk5sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSaWFFbzJTMnBVWDJkVWQzaFlRVTFQTFhkSk5sRRAB!2m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5bEstSkNREAE",
+      "relativePublishTimeDescription": "2 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento de excelência, excelentes profissional, ambiente maravilhoso, cafezinho de cortezia, estacionamento enfrente e bem localizado. Amei o corte, obrigado Marcelo pelo atendimento!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento de excelência, excelentes profissional, ambiente maravilhoso, cafezinho de cortezia, estacionamento enfrente e bem localizado. Amei o corte, obrigado Marcelo pelo atendimento!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Luciano Araújo Class",
+        "uri": "https://www.google.com/maps/contrib/101324535682394796893/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUqjDqS1M-HRftY9Z3TmQwFh75pBgIRa6SNgPfyep7ULBpAF0=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-03-13T15:30:56.401620Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5bEstSkNREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5bEstSkNREAE!2m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1aDRxaFNnEAE",
+      "relativePublishTimeDescription": "3 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ambiente top muito bem limpinho , pessoal educados . Fui super bem atendido pela Samanta e alcimar manda bem no corte . Super indico",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ambiente top muito bem limpinho , pessoal educados . Fui super bem atendido pela Samanta e alcimar manda bem no corte . Super indico",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "panabraks iluminação",
+        "uri": "https://www.google.com/maps/contrib/116827042893242630382/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAoOZ4LnFnpItxvvmSiexQEUbz_FMPPghpxvcgytZaBqq6-zwlkQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2022-08-30T20:08:15.128965Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1aDRxaFNnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1aDRxaFNnEAE!2m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/reviews/Ci9DQUlRQUNvZENodHljRjlvT201emRXcHpSRGRtYzJsb2VFSlBkV2xSVEdWM2VWRRAB",
+      "relativePublishTimeDescription": "8 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótima qualidade, conforto e ambiente super bacana..",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótima qualidade, conforto e ambiente super bacana..",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Dry Bike",
+        "uri": "https://www.google.com/maps/contrib/103080480847558809223/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9GlZLg_G4hCyyulKYkqSns5oK6oXQ8QSIqR0gop5-tqnq=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-11T19:37:09.048798411Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201emRXcHpSRGRtYzJsb2VFSlBkV2xSVEdWM2VWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201emRXcHpSRGRtYzJsb2VFSlBkV2xSVEdWM2VWRRAB!2m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/reviews/ChZDSUhNMG9nS0VJQ0FnSURYeVBmRkpBEAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 1,
+      "text": {
+        "text": "Péssimo atendimento! Marquei as 10:00 horas hoje (23/10/2024). Além de estar fechado em horário comercial, não me responderam no WhatsApp.  Fiquei sem atendimento. Ou seja, comprometimento zero com o cliente.\nEste estabelecimento não tem sinergia com nosso bairro. Não recomendo.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Péssimo atendimento! Marquei as 10:00 horas hoje (23/10/2024). Além de estar fechado em horário comercial, não me responderam no WhatsApp.  Fiquei sem atendimento. Ou seja, comprometimento zero com o cliente.\nEste estabelecimento não tem sinergia com nosso bairro. Não recomendo.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Vinícius Raiel",
+        "uri": "https://www.google.com/maps/contrib/105704574132449585277/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHF3gzcUVNuif0qM91kAsjmr4Xt5TKVPhUGQQj_NfrdSsPi9mfkA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-10-23T13:25:17.361146Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYeVBmRkpBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYeVBmRkpBEAE!2m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-sUVK8ZDPe_SjC9J_v74HDg5ljwVrmgpIaeY4GhTfkt0oaANNhI2sDnGwoHJc5NQj5P9N6W7ElZMVLIfBU1D76n_Y-T8ARwYYrmDPAjwD9d1xpYVtt_0rugnYCyvKo6NEsNUIsJQ5vQwnkaCO7dYPiQwxlqOZkqnUPClIQBcpsKh4JxLWiAYMUo7yEpebaLrp-PrGQUXVjZR__yIcSJMAk_oE4oATx0QVMMo7lbfPx0gapROX9zpLq2GD45GAjFfWZvux95Kb2cjds-PXNhtpM03pq7UyMqRVklpsH5sFTh-7s9KBmBPb5c99gEERZY3Zd6GykP66fwzu6l1uxAPeX_NkQcJ6_SZu9E6hWVZXWDFXftv_hLdSNgjUVNQMR40Q0EUwLMXVmJaWYtKp2p8q6ZVWk5Jxeij2JFwtDGPcrTQsok",
+      "widthPx": 4458,
+      "heightPx": 3185,
+      "authorAttributions": [
+        {
+          "displayName": "Marcelo Silva",
+          "uri": "https://maps.google.com/maps/contrib/104865797163200421544",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmpDp7zVrOuPEl-9r7URXa1k1IkYx07jNKBQ3Jcn-p_r8YENcCvg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC8xuXFswE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8xuXFswE!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-v_Sy3aficMyYaPR0ItVuI1NhuMOreTDB6bMCLp-oxjDyw4KJb2ENUHLU5d8tuomglqQwlcfcKBi7T4XKoCCSGA7r1Db6Afy3vy_7Ux3q0BsiJTpOdE3kB8MBobx5ALyppmtaI2VsAiZaAzfKMhAvJgkjUYYrpOrCcRKxS8QFkhUXIrZq6Dz-oS-1ywqZ4A5CFj4vfb2mQwm8evwCcA_ZVukGekdmhpZK_BM60WTCGLmgcukAEKfW5w0B2WI7d2NKBROyFgAXbNLVthVdQj5Bs27C9J1mAGiEATEaLoTl4K8pP25Yd28Te5ft5PoixralneOT_gKxqs0_uzUjc3JIZD1jWBLjCHiVsy45gj6vbzsqn9ueV-cpupRO0zRrTP-tB9Ecb-xYhItfItQSc5BhnLg2jDCQ9KvkWRSbVBIx0",
+      "widthPx": 3024,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Luis Carlos",
+          "uri": "https://maps.google.com/maps/contrib/104166761309290549813",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKct0JFEQXQouo40-VHSLHltKpNN3yLyQ0_SBMD7pvoRPP-8xCz=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICO1MD-Mw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO1MD-Mw!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-u5sN70_2cmoGCI4gFjBywLgfm9G_hj75dFtb0EEaUh6q9nHU5bmkd3-sQ80D1aEJW2Gz4EB6o9ej8WTlpEC6VWxIzeBizPwRtrHZPvfl2z5mAhyH_ZtyUsjRKmQ4yjS8g9kXxrpz7qeVTlcE1VBfFjm3twY-39Z71DhpePmZw4Mb6WwYauOo_ay_sfjhiBfxlbt-6Kc5zMt5MMaoSbG0or5qZaNkhUI3bpFSh_qaIZsxJBgImwQidbp1QH1Kdr-i-_gKnM_Tf1mgbleVAIPb_ZenmiZyQB9MMflkwOM_f20heHTXWS6M_Iz19zgaFaeC6xnIMpdOOfVZxSSF_OJW6b__MfCg8YFwp6TRZmPo_e8oJTCMqblibMRs4PFDxlXNUEjDBOuJWDrJZESqRsBpkc7QqjKZ5n0t8ed_zzuyUFTA",
+      "widthPx": 750,
+      "heightPx": 744,
+      "authorAttributions": [
+        {
+          "displayName": "M Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/103972837305908530588",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYDDQnofbsTLMyKghsS4OMbySi1nLE8_Da5LwlA3r3uy34ygxS=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh3PGxUg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh3PGxUg!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-uLl1rQR6h7iv08O8Q03gb7-451zgiAcOcg23VPrZqKDwdPsZD97oEnH3iZ-8BSa-N9LW5_Si0xx4PgABzX67R1uHiafp1EGp_w12wNNunpYyeMAls6HTZlEOEDSlzOP3QVm2dmuWxnC0Ch6nK4878xJmh9ihr7vqdia5vKgUgcJDInHXKwvkpH24t57bZU0K0loX0n5uZorLmKzDdK09Oif_wweqUYHllkGyWZpHnfkO5LOlKQthGyfyoNepKaZ4oJHl01gJgLyPdDv1ZoMKJGsHz2I8AqAynWi0dFbnhHwgQA4AziCii4BzL9budfUX-eQOaac22O1j_3P4X2FYwUzvxBx_lW6TgZWQlpzpeQjOkTFv5EyjT5hUOU2tPxCR4zuNRlI1aNIvnaMRtNKmcwRsGQ3A0c-brj4JilXFbXDUhM1xAiY1n2epAxuCv6",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "M Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/103972837305908530588",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYDDQnofbsTLMyKghsS4OMbySi1nLE8_Da5LwlA3r3uy34ygxS=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCdDZr3i3mjvm5GTExVx6A3&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCdDZr3i3mjvm5GTExVx6A3!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-trXrHccqzmzgq3mbp9tbnBc_-ZwW8pWhTXPa2gE6rjvb-4g3147SW67V8uYAG4SLfz4wTDEr4lS_AaMk6hcbIbcvqD448KHYSztq0hrCIv5G8Y6qArwPZyin3MBBxMdHhggfTydnSIvRjpRdgwKQoa7Kq7QyxXm779zuZMcIay2Sy54ethpNlbscANURdxW8qKoiT4ed5WbqwnEFbfw3LtjxF6L2P4AvC2H5p4-bJrU4Fanlsyq_CcHfFbHiNuTdu7ZoW2xUNn99ffz8uN_H0w_pGK1HQuH1cFMnRM8W6HUN0qRkseElg51kCQOY3PLtK7Q91mLbMth_7l3kuPIJZUl0C_iF9ggEmLmJ8UC_XxTp9kFgoZU-0Z9jn3sQ-x0luDZKrHlI7lElUGTPUEsOpmKIeN2rKiI2pfES52lOVIdA",
+      "widthPx": 1440,
+      "heightPx": 1800,
+      "authorAttributions": [
+        {
+          "displayName": "M Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/103972837305908530588",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYDDQnofbsTLMyKghsS4OMbySi1nLE8_Da5LwlA3r3uy34ygxS=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICN_6Dteg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICN_6Dteg!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-uY3LZdQ5PGRiEtgKniAl8CSPISDnYiuHCBb7SPKGL2iWcuro0pSqcPnm7Fvb0MTQkSHN7hnSmDS59PCyuCJI05xiC9Wjh1uXhd8m5VHVtMFqbORbXvfyfm71p3EfGc_S3V7wK41e-6nE_1zjMI2i4WJr3kVBWEA6cWgQFgeVgqxqV-5vp4vbB64AzHCLbmQfBM_eRGv5JyGPyZHJB9pMhOTF8Eu9mbR56BLfvR4YpsgpBdtIqJf8OdTcx-R0oXh7PBlRAKNY3fM5EWDy0BvMbsKZlM2YvqsoQimSCA_vVN5QcW5tSVScGoAt1d_WMXGicfkyTLbF21sXo7HDFSCKH3bjb81aiZe1EoOeSPmFNFOft6UBS0l3NAFL9cNErda5boNdDe-JbNVbsGz15YcMxcptgnKjnAarL9v5P8LMxJrKylBK-hmWdT64py6dY0",
+      "widthPx": 750,
+      "heightPx": 1334,
+      "authorAttributions": [
+        {
+          "displayName": "M Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/103972837305908530588",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYDDQnofbsTLMyKghsS4OMbySi1nLE8_Da5LwlA3r3uy34ygxS=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBJ8472BmU42fDOYDB3hPF6&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBJ8472BmU42fDOYDB3hPF6!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-uxdbptXnRdZL2Hnb-Myu86yVY_sySahHGmBivlXqW2FnYy4dtg54rGG6SC6FpNfY_hbb_GrHKpIle94f4CK34OBWkjOR7E6MQpSBw4UqfegqFDi8EgA65c5OwKjhxvkxIInol8HQM0TtdqoFp2SIsrr8y-roRVyAX3BBJkwVgPe7MHMasQ7SfauRTmXDH6SvYxAZmCqFvvOdRDaP5-GQEDzkZ3sLbEgMmbtGRtmYVZdm8teFz2KpPvilQlTEEoa4d-4Txq0XRvQ6esT59L8c2ec4f-U04pSDeTlMHDO5vzN3vtl5cb3D0_wsA3O593O0uTFUlib4qN79Mq_9R7ufe0etedm_b0WlgWrmDcdzDvtiwaVzGQnFiE_2_jaRKsUG7bOUCYQAZQwG449V86jP1Gxo73NZE2iQSBkStnAuBLkvk",
+      "widthPx": 649,
+      "heightPx": 889,
+      "authorAttributions": [
+        {
+          "displayName": "M Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/103972837305908530588",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYDDQnofbsTLMyKghsS4OMbySi1nLE8_Da5LwlA3r3uy34ygxS=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpvtuw7gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpvtuw7gE!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-tgmeR9nASKufwU4BOYs3FbA6nqo4gFBAu09kJjLSA3lvtaXnwFXPhMFK0TEd2Y9dSw9qVQJFBW_J3vGNCcLxoQJM7Zit-O9aqF90Fr33vY8yD0uegCxXK59v5D8K7vkl3s12z64OK8EM6gaF35RUjm5tgIunTeNWqhF1NHP13xymMmKPYPzrNjKhEAa2HI5HCyFV7rtEluBQcfNWX5gZKAFKck8TnGYNZqzai_Qz1TcNl05WI5NLOLwEMwm9TgHQXi-UKFP1fiQSw_XxURKGjPVaL5-cb6HungHzJBPYp8ttF3AwjI1BXHbrja06Lebv_wPG9Rw04sFloB9FFkDnSP6XE-laF3c1NxMOCpwjn4rSNbbIGCSOrV3OvUmBVurGS7wYVUOVaIvD6XtKlb2P8BRS-iMUoH-Uv3gQI1xZ4",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Luciano Araújo Class",
+          "uri": "https://maps.google.com/maps/contrib/101324535682394796893",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUqjDqS1M-HRftY9Z3TmQwFh75pBgIRa6SNgPfyep7ULBpAF0=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9lO-wag&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9lO-wag!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-vu6gZkfnyRUmW1i6HAsK1HMyMcp_LZlOwxvP7HGAdar0iUfeciyPSOVLB5aT3QN7n1TlHUbgfIdVmdi9fZk_4WqKIXN-yrMwPzS3Fgt5djc1O_IWFk_78299ZubE0D3S8xU-sgYkqWce2vMaKss_jBau5kk4poBDJYMg27Q1usmGUWAB17aUZtF6HT0hRqoRxtLufph9jFYcnauIBhgMkEzawv6ggBifs7Yh05PPJzvnCltd4N5gp36THmJtZbHUPDqW21KLfcet-gyJmDIoU0nr-Yety_QQZUwaFFYpRv4umdIr1Yu9_g59LygORr8NfqqJq-QvM6f6FjRM-d6eDDzk9DtkByHJ92Tc4rVnnY9t8mQTcfmluCS4GBjXVeLdpR-mWbOjskjRwKt54ohe23DzjUuasW0NsrEa51VO8z5_r8tGNV6OWxQOQW8f7D",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "M Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/103972837305908530588",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYDDQnofbsTLMyKghsS4OMbySi1nLE8_Da5LwlA3r3uy34ygxS=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAZEAAcx7PuAzsJt6mTICqF&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAZEAAcx7PuAzsJt6mTICqF!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    },
+    {
+      "name": "places/ChIJJW34UlpQzpQR-FGWsCgW3Ic/photos/Ab43m-vU6c90qJ6p2BSOuUhl7yaRWVFsByU09nNP4tdm0_kN1TuDooxchOXsrXB0miYawvghTmo-6MG4m2Sx6k5QJRXFAnFMqO_O-APs8SH_FnzlUqtM9kq4NuVuC6udKjv3bPZG-iREfD6mHowkaovZa25Y3XhvMt24U9OK-Og2Ol7CpF7zCV_5k9plcukvauSU_g9dmHwcWaFf5KudSCxYe7vL-2VIfKTi9bnFQ_G9AncdynqtViuhO53lKKA8dBSt4-bTLXMu5wCRbA4tWXYezfXGLz0TBPipgrfmhDnUgFsInKI8DXkFgMnL9ulyhJxGJe8mmWRVkgcaWt84JOQOqmeI928jCPCJv9ZOXg4ANSRyz4J--GdCpMfP7JtG7dyV9CmgfhyeTi5cJsVz9orxLAxicNLoU-XDNMQsJocyIKEi8Q",
+      "widthPx": 750,
+      "heightPx": 926,
+      "authorAttributions": [
+        {
+          "displayName": "M Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/103972837305908530588",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYDDQnofbsTLMyKghsS4OMbySi1nLE8_Da5LwlA3r3uy34ygxS=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh3PGhLQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh3PGhLQ!2e10!4m2!3m1!1s0x94ce505a52f86d25:0x87dc1628b09651f8"
+    }
+  ]
+}

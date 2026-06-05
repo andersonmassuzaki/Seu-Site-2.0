@@ -1,0 +1,377 @@
+{
+  "id": "ChIJ0-ccsBhRzpQRvfqvRIO3ec8",
+  "types": [
+    "barber_shop",
+    "massage_spa",
+    "hair_salon",
+    "hair_care",
+    "massage",
+    "body_art_service",
+    "cocktail_bar",
+    "bar",
+    "spa",
+    "store",
+    "health",
+    "educational_institution",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 94550-3069",
+  "internationalPhoneNumber": "+55 11 94550-3069",
+  "formattedAddress": "Av. Adolfo Pinheiro, 294 - Santo Amaro, São Paulo - SP, 04734-001",
+  "location": {
+    "latitude": -23.6502385,
+    "longitude": -46.7039098
+  },
+  "rating": 4.9,
+  "websiteUri": "http://www.pier7barbearia.com.br/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 18,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:00 – 20:00",
+      "terça-feira: 09:00 – 20:00",
+      "quarta-feira: 09:00 – 20:00",
+      "quinta-feira: 09:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 18:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 202,
+  "displayName": {
+    "text": "PIER 7 BARBEARIA SANTO AMARO",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Av. Adolfo Pinheiro, 294 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aMVFqQnRNR1JOU2s5RFgwaGthRXhvY0RWU1ZXYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Levei meu filho de 7 anos para cortar o cabelo com o Luiz e o atendimento foi excepcional. O corte ficou exatamente como queríamos, o preço é justo e o Luiz é muito gente boa! Podem ir, recomendo.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Levei meu filho de 7 anos para cortar o cabelo com o Luiz e o atendimento foi excepcional. O corte ficou exatamente como queríamos, o preço é justo e o Luiz é muito gente boa! Podem ir, recomendo.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Júlia Franco",
+        "uri": "https://www.google.com/maps/contrib/109197793010259076802/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyLliNuxWl7T-fyp0AkbDjCNE5bHHa3m1pzOpTDU4Qd00wYw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-21T11:30:06.687198779Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aMVFqQnRNR1JOU2s5RFgwaGthRXhvY0RWU1ZXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aMVFqQnRNR1JOU2s5RFgwaGthRXhvY0RWU1ZXYxAB!2m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRNWFFMXBPVGxKYzBNeFgydDBWVEpoYVZVdE9IYxAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento do Luiz, excelente, corta muito e tem fácil entendimento do que você passa pra ele, super indico, foi difícil encontrar um barbeiro bom em santo Amaro, e finalmente achei",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento do Luiz, excelente, corta muito e tem fácil entendimento do que você passa pra ele, super indico, foi difícil encontrar um barbeiro bom em santo Amaro, e finalmente achei",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Welison Souza",
+        "uri": "https://www.google.com/maps/contrib/102584719219225740557/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2gF78RQYjtmORcWKRARPSvEVo5DHE3PZJPbWHL-7v07FNCo0=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-03T19:04:53.946670461Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tRNWFFMXBPVGxKYzBNeFgydDBWVEpoYVZVdE9IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tRNWFFMXBPVGxKYzBNeFgydDBWVEpoYVZVdE9IYxAB!2m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oQlVqRlRXSFpPYTBWdmVYRmpTWFJDY0dKRmNrRRAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Barbearia muito legal, bem localizado enfrente ao metrô e o atendimento dos meninos é nota mil.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Barbearia muito legal, bem localizado enfrente ao metrô e o atendimento dos meninos é nota mil.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Cristiano Gomes Rei",
+        "uri": "https://www.google.com/maps/contrib/117550624746629102986/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUueQfs6xKGffmh7xBkQYoe25FTJVSm3F5oHopH2NtP7Z5Pu7t7Rw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-31T19:34:23.050058934Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oQlVqRlRXSFpPYTBWdmVYRmpTWFJDY0dKRmNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oQlVqRlRXSFpPYTBWdmVYRmpTWFJDY0dKRmNrRRAB!2m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RNGMxWlNUWE5KT1VWRVFrNWtValJQZG1aSVNWRRAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Meu filho foi atendido pelo profissional Luiz , um profissional qualificado, um ambiente limpo , e organizado, super recomendo e claro voltarei outras vezes",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Meu filho foi atendido pelo profissional Luiz , um profissional qualificado, um ambiente limpo , e organizado, super recomendo e claro voltarei outras vezes",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Ana Luiza",
+        "uri": "https://www.google.com/maps/contrib/116956029927113816541/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIA5HQxDPRanMRydmnk6PQyygXCm6835zyPWzIDDvK987_ZtQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-27T23:07:39.528232192Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RNGMxWlNUWE5KT1VWRVFrNWtValJQZG1aSVNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RNGMxWlNUWE5KT1VWRVFrNWtValJQZG1aSVNWRRAB!2m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/reviews/Ci9DQUlRQUNvZENodHljRjlvT210c2FXRjZVa0Z0VjIxVlFUTkdTVlJRYTBSMFptYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "foi ótima o at entendimento é rápido com profissionais preparados ambiente limpo e organizado",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "foi ótima o at entendimento é rápido com profissionais preparados ambiente limpo e organizado",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Sarah luiza Silva",
+        "uri": "https://www.google.com/maps/contrib/103716173586534968670/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKh1Q_72VLNVza3v9TU2KQ8cIUWhVpdnxXMPt64N-h5mecW6g=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-29T23:26:56.366793305Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210c2FXRjZVa0Z0VjIxVlFUTkdTVlJRYTBSMFptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210c2FXRjZVa0Z0VjIxVlFUTkdTVlJRYTBSMFptYxAB!2m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-uz3wg-tuK2yEsjO8nfnNkOX5Gl2I6f2_N5420EwYYmCep56qXSHiJTC9V6NKI88yC-NXuBv-9OsV7tviLR0Y-7zFjEAjiUaFGe7zspEt3RSOfZFre6zOedbkY3FUD9pdXO1qGShhqoVjx4-Qhdgv-1P8-h5l2Rf1iLOcn-trp2zPSBEzw1agYGx0HTSIeFDIzMAgf46IxqEtNXDlzWW5dVi0b0mm4X8tfnusAFm5Sbmuiri3nP9ZI1_dHFZRYOa_Tgq6vTwtvz_yVePsN5OxLT9mlUjQmZYFAzS_nFR8q3t6_jC4OlkwBrP_UnAvvOkHQyUFdME-cBNDlWj4H2KmNZz5s_ZQQnGTfeZCsyIR4vyE07v-CqPrJaGy2gqbdXowHc7NjCFQjJ8L0tIzNX-8ZQ7Ye4hRXKDQOF10vriqP81_PooSlK2eziRa7Y_g",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBZw41sdvsuyLfp481y3DBR&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBZw41sdvsuyLfp481y3DBR!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-uiQky2yfY4vLOEiLE86diRkgEW2V_bmv24md97QnKs6AL6xDcPGMIHM3OfwxhCWKJF0Bh0wFXCCH6a4BSyGJckyFpvoHoagAvhjVm64NN1ctRItLypxIU-CHRrSxDAboTT77sMhfuWYjmOhFCtDM_xR2ClSbsJScvE9yvaahrrN4PERC-R3BsLR7WT71TQLGJzloBFEQ597TCsCxVSIyHTz8S1iv_9RNVTIEdkMHR_pJypnulBn8wQ_nPODjS19Ehq-NgpVPh3YUDilivOVmYkDHcygsC9mqcX45FCNQ0qh8rxeUvGHMEVcDafJSI9lekCiF-3R7A37i6xgcWdHnLv7bY2yZJZ4By69EZBtdESLddSbuqQfmiGXmyAWAsR2IwZMhgGvwIL7YV_yhLv2k1wYwLqsUlBams4VzgjttD3VH05",
+      "widthPx": 600,
+      "heightPx": 750,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBssPdvQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBssPdvQE!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-sQx3a9ohN6gI7lE-ixik0JvnglxHc6x-3CnzoPmLcB1PJCaFOHbOIkKXQd8Jrggfi3H7M9WAU1oBqnDF1U_a8EZUWNtusqVR_jDMW8DDsh8yFU-wV7_TT7qgR3vMtuhavWMgsV2RW8UZPH-Y1pZd3Hui5L_e74jJaAk3TyjHPLtokQPpozdYC1UYbKMlgEdQo0J6bTGGgsjjsO8t6hnYCEGFRreHcqMbA1T5KiVBpXjkbmYkBwWAFOmTj62Xgvyoc6aVfE3sr-29B2SUNZu8SRQYqTGgm2yT83spwwFp2pxEMj6AAmQbkDJsgLlF6E5_20rqfp_PCHRKBHHzuEchrkKRnj_7hmiLgXU1EChBCGZceTUAo2gURxJSTwo0f9_LC6pfckW8vVApH2KHXdBRCE6r6f4RHGxBDx1Wtw_2MAsmog9nyqoYisHn6tfpAI",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDacwaVkX8TEmTPTp8Ec3wB&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDacwaVkX8TEmTPTp8Ec3wB!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-txeDyyVcHnTRMfCYMqda0kFmHDy3-VnA_BSQk_-YI5J3TBq1_mEFenB4KFFt72Da1xKVCo6PkU1T0neFXJsG8_ebSAI7o3NBAHsuzPmqfaxvMoUaOZUeNFnpLs8R70AwpqBsG0i2Qu8qivoRNz0zdf5S7_dJSuZQ6vw058QIIKdHtfUF2rI9GbkyJNOJG4RKGugszq9Ho4YDKOdvgHuWEtxUZCH8cf41AQT7ycMdEqMOHIC-BlStdX0QqCBvKuCpie1lCi7T1RL3a743IhWMZ-Joif9XbRD2Vc1XwAcceFjIxilI7Rf0Uslaz0Bk_0duWlykHi3x4uaJ2C5KcQVhqIfQ98RDUltSeFlpwdoBNTBepl0t3BCHLpKiXXcXmElIK5gXZEkEEVX2bjCNAeHs4cayvlCXA2NvXBLbAd-Lpy4tAsozq0HvIN0iHKpvNF",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhD4EOonan6JrnQtU2kPIEB5&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD4EOonan6JrnQtU2kPIEB5!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-vTnNtkTAt0ciSHZNYh7NJoo7_LhH508stE8VJGOvSJ_WeFTmXzwz9A-vFebyZXtzEH68ngyPmrITglAIECSIOuGymc1hYqD9tzgW4PCQjcH2jcQVMIApRnVGsxRaxGJ5MFZ6y9S9CspVL6GGS48KVsDNN77d5ZYYdaCgmfuiF0GjsZu1KhzGfGEgIlZeXDjecw4LahCakR6CfsJMWm5VdNP3xpiljU-qMkx0VdnmkprPkdJ0UChX2D0TEwF5mrQ49SlZxnJStYxS4SPgmBeWBcIWlJ3fY7zpihpyLTi2lvZYAIDNowapFbSOTCf7AOBq6htSdwnxSGoD23Sr_OYY-Ti1T1QfT_hGSJiBD9JXgrSHySVltH41fB03r57gr67myNuVfH4pk_fugIv3tZJst6gaCggwR5bXXf2_UGx0E1Svtv12nevGBIETwH-WCp",
+      "widthPx": 1656,
+      "heightPx": 2208,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ilWHiVegGgCMs4ABJoI&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilWHiVegGgCMs4ABJoI!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-tq0ovjZZxn9L6KJImffyMuNCt5TtoFccoXyn2KbE0paoZRwqPqN3Av7PrgqR-6Lu1ry6aqf1yIkzKUB0IdueNAkS1wxSYyRcBVr9UbJMa75Tn2RwVYjQq7tKA9OeBVcRdCx0hSInupgqnUV6sdSZoUIb5f7nR7ZQz06dEmv4AOqnjngoBq_swEiFl4ya3Axouf-u756yghcmmQojA2GEfQQZvvm2fIDU86LDzo-i274Nd4wvZSKQ5pMXRrdliodJRL0p-FHLFfMAMgg88Llc4osAneC3RMctRIhYMp1qOq9FYzv-ZwpO_h-PC6o_nwqFl8yGfaGxLcoszSa41zaCXuoEE_8ZwNK5WIk1boUZ3RMH89aAc0Q9-7ZvspXFGC76OxKO9iEI9mwH8LqgiLr1WARjsNek1hDJtr2jIeOnnsIVhC9-CDcHUI8oy5vQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDrjpbENJOKTKa-BX8N5pby&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDrjpbENJOKTKa-BX8N5pby!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-sAZG9r38Mn_f984efZnwlexNuT7lo5qfvnzQtcQF3CaNBXb30B26QhAmOlVZhM_MQI17KptCS_5DU6w2Yk5TTLBpDv-eJ6B5IA_FvxkRD5rsV6VtBTVS6QbCFpwz7Bl2g8giAVn85R0pN0QZaWkfaBwJt1WsyVI8TZiT5HgzIUrMeRL-RRFVAO9jBtzetX2qy5LQae60hISZBmB_D2r8in2q9Kn7LK1kISRiw1MbnK4ZctONDNoRep2kKgQq0dEgntEQA0VPI8s9fPfb1dYs6_GQms2lyH-7BA6QP56DlhS8hrtA0lXn1hI-B_j6NuxwFZ2hY043IWnDnnZE1iMZ5alBsnZuduWcJzxqzpkj58KFGtknzHzzScAe5uj54-ka3CuaDzDcD2skDw3FGynNnFyYNrYPJGTHry3OPp2bjx5FM0",
+      "widthPx": 1440,
+      "heightPx": 1800,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpz_GJ3gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpz_GJ3gE!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-uYjJu4WarfY-myx18Sg_lfGbQmjPi8l9raTf8Qw9vo2KjUJ4YxuA4bP2BGZUGfy1js8_rvRM5qyRsarh7Mfs6VdosxICwB8F68zT5I5M8Y60ZzQHYW2I_hftH62nf_H4G6pxakaTegadKZkcUEiC0urHocNCkTTLkleBsQaEb5ReeXkuQgOqVg7vp4iCtPCQo3Iimzr0o8xpw7noIKHTYWZlXSsKr2njwHPp7bc3Te8Ge1mNaupehvMn-24Q1ay_qGkQzeKpQ8D5yANwS5gw-Sp0ewrbmXEbIml9tIvICJwVCMT47gIOOKKv2acaJqKQ_OYHZRh9Zy6I_lag6iCefS37avVWgUfdADqkeKJCVKncXrV59ExbJg9SO7-aZAJF3oVjD4RSvJkXbxw7OqVENNk5FrGXBNaiYxHalbTPAELQ",
+      "widthPx": 3024,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC8lKLWCQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8lKLWCQ!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-utnCsyr-nvFmwMfB7jWmcda4Z6mEReF6jbaLT_9mDaXhXMShUS_aDoqpYG2fjI540JheV-YF_RbRRY6UYjiJWMxND3Qj32B38KhhMN9heFN2kQeTA7GBR8RlcaDwS31nW0nhiqBaZTgmpONOwi4Z2BpberHySXuKm3MlcArwmMfF3GKoSeLQew6c-UCMalzX3Ah9-K4x3Q4GCEHGoZbKiCnK3qmEqNuqX19s2E2S7Krt5ynEIpZ723RFpJrS2u1NhS16LulNg9OaF6KXeVT-yxQnbUPINplnoexiAdXnd62iZNUpdnvdbVGTYkuP99WZOBU6-18PuwBRN96WozoWvsCJIJYj-36o78V5V99VYpsrPiN4-jVAIqgJAR5qDfG4sz1bNtYBCMIY18tryaYY1jjqIBpi0yw5qoEiU1aBeWeQ",
+      "widthPx": 1656,
+      "heightPx": 2070,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTtvrMbw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTtvrMbw!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    },
+    {
+      "name": "places/ChIJ0-ccsBhRzpQRvfqvRIO3ec8/photos/Ab43m-vec-QWiQv_CHQ8IdLCfI1aOG8kjwcGLmhgrqoFWAoRGXTh0S7z8apfWbIsErbE7tdSukGberCmZuVCs_d3VpCcjIH5XonoLwhSE7qQ3yussdd5W8Sd-mqH9-N9k4ucJrIiqLHFB54Xpl3WK_IQDCkpf304C3lyzeT8uQHIpd5LgMuHuHZ6aX3n-_e_0NO2G3HOJrCOT6vPWEJbRfnMiNM7cQo1hDKjTz62gRt3LIGVWCJ7meDdjoiVFdFt6y39A4oh-wjRn1J5L0L-YJVnQ3j1pz5BrbH64hrET-1kYabKOl1fySscG4X-ZC0eIgc45g-tfoA-OdhoMjBgc5qOO13scQALm9Y1foIMHatj6jrljPchu945CN-4pXbHzQP8n4dKOKNJ7PWq8ENdO_1NEZUq8Le2h_5lUCu-hOYuMamZF8Q",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "PIER 7 BARBEARIA SANTO AMARO",
+          "uri": "https://maps.google.com/maps/contrib/105635216191366381473",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3DaYDdlyL2sHzKcUnkmi6Aq7pQG0JJhpiju5F_iUItcTaizN-=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDGvPPJpAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGvPPJpAE!2e10!4m2!3m1!1s0x94ce5118b01ce7d3:0xcf79b78344affabd"
+    }
+  ]
+}

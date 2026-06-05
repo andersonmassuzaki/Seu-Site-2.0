@@ -1,0 +1,368 @@
+{
+  "id": "ChIJj-qstqJRzpQRYESfM_CeOtk",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 4306-4050",
+  "internationalPhoneNumber": "+55 11 4306-4050",
+  "formattedAddress": "Av. Santo Amaro, 5460 - Santo Amaro, São Paulo - SP, 04702-000",
+  "location": {
+    "latitude": -23.6302101,
+    "longitude": -46.690661
+  },
+  "rating": 5,
+  "websiteUri": "https://www.nybarbearia.com/contato",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 19,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 20:00",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 09:00 – 19:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 102,
+  "displayName": {
+    "text": "NY Barbearia - Borba Gato",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Av. Santo Amaro, 5460 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tScWFFTlVkV3R3U1hKWGVrUnFNWFpJTW1aTVZXYxAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Moro na região há uns 4 anos e, desde então, nunca troquei de barbearia nem de cabeleireiro — o Richard é simplesmente impecável! Sempre muito atencioso, profissional e gente boa. Amo o trabalho dele e já virou mais que um cabeleireiro, é quase um amigo. Confio de olhos fechados e não troco por nada!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Moro na região há uns 4 anos e, desde então, nunca troquei de barbearia nem de cabeleireiro — o Richard é simplesmente impecável! Sempre muito atencioso, profissional e gente boa. Amo o trabalho dele e já virou mais que um cabeleireiro, é quase um amigo. Confio de olhos fechados e não troco por nada!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Vitor Brait",
+        "uri": "https://www.google.com/maps/contrib/110481544556100043607/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkMYoSecuwXfTTFrZVwZyWeauxc5c2Ag-xSjHujwrpJhkXMHVcVA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-07T16:35:40.033459214Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tScWFFTlVkV3R3U1hKWGVrUnFNWFpJTW1aTVZXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tScWFFTlVkV3R3U1hKWGVrUnFNWFpJTW1aTVZXYxAB!2m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGM1duQkVlbEpJZFdGWGJ6QXpkMUpQUW0xQmVFRRAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Richard nota 10! Atendimento excelente, profissional de altíssimo nível.\nAmbiente limpo, organizado e música boa.\nIndico a todos!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Richard nota 10! Atendimento excelente, profissional de altíssimo nível.\nAmbiente limpo, organizado e música boa.\nIndico a todos!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "André Carvalho Penna",
+        "uri": "https://www.google.com/maps/contrib/108146186878034638083/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrSimYZAMfIXWgtSMym96oaxXcTUT3eE5q9ESyPf7m5YfqQg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-11T14:56:17.484101440Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGM1duQkVlbEpJZFdGWGJ6QXpkMUpQUW0xQmVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGM1duQkVlbEpJZFdGWGJ6QXpkMUpQUW0xQmVFRRAB!2m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SWFRHMW1iRU5oU0Y5dWMyOW1WV3BrV1UxQ1IzYxAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "O Slogan \"Os Melhores Barbeiros\" é verdadeiro. Principalmente na Unidade Borba Gato.  Mais especificamente um Profissional,  ou melhor, \"O\" Profissional. Falo aqui do Melhor deles: Richard, vulgo MegMente. Muito mais que um Barbeiro um Amigo, um Ser humano que vale a pena conhecer.  NY  e Richard é uma combinação Perfeita. Sou cliente e fã.  Sempre.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "O Slogan \"Os Melhores Barbeiros\" é verdadeiro. Principalmente na Unidade Borba Gato.  Mais especificamente um Profissional,  ou melhor, \"O\" Profissional. Falo aqui do Melhor deles: Richard, vulgo MegMente. Muito mais que um Barbeiro um Amigo, um Ser humano que vale a pena conhecer.  NY  e Richard é uma combinação Perfeita. Sou cliente e fã.  Sempre.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Paulinho Barato",
+        "uri": "https://www.google.com/maps/contrib/109949168585581757498/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqgGYrHz1Lj9eKZaKkjNKHpVT0Fc1hp_3VyPvS1C19GyclpaMJ7Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-06T23:16:45.710522263Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SWFRHMW1iRU5oU0Y5dWMyOW1WV3BrV1UxQ1IzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SWFRHMW1iRU5oU0Y5dWMyOW1WV3BrV1UxQ1IzYxAB!2m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rNGJtRkhPRjlRTkVrM1Nrd3hibEU0V2xGR04wRRAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Muito bom o corte de cabelo e barba. Corto sempre com o Zé (Mineiro). Cara atencioso e muito cuidadoso com o trabalho. A trilha sonora também é legal! Recomendo.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Muito bom o corte de cabelo e barba. Corto sempre com o Zé (Mineiro). Cara atencioso e muito cuidadoso com o trabalho. A trilha sonora também é legal! Recomendo.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Plácido Berci",
+        "uri": "https://www.google.com/maps/contrib/111956501315166319010/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1uUXKIud3ksaNAvfP9YLgu6cF3OFcgw14IO8fJrycXhOE8vYa=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-21T19:55:33.762592869Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rNGJtRkhPRjlRTkVrM1Nrd3hibEU0V2xGR04wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rNGJtRkhPRjlRTkVrM1Nrd3hibEU0V2xGR04wRRAB!2m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkdGN6bExhbmRIYkdzMVpHSjZURkpyZVZCc1lYYxAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Já tem alguns anos que sou cliente fiel e fã deste lugar! Richard é muito bom, mais de 5 anos que corto com ele",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Já tem alguns anos que sou cliente fiel e fã deste lugar! Richard é muito bom, mais de 5 anos que corto com ele",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Leonardo Madeira",
+        "uri": "https://www.google.com/maps/contrib/103382570907465793679/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPJJ99JUyGFe0DSjTeeXUps1GVsxkS2OpLdVqQ0PXq-surdnAu=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-05T21:34:19.856374726Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkdGN6bExhbmRIYkdzMVpHSjZURkpyZVZCc1lYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkdGN6bExhbmRIYkdzMVpHSjZURkpyZVZCc1lYYxAB!2m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-s5PdFej4mCG37iJPpm0ig-ZDXA-Dbqo345JGmWnU4YUqndkF-nqrfcvZDzd6d-lb4rUrWuFuvwfg8CLfRnv3TFWMR39nW_GyG2xVnemngOxMCKPKO2n_6ksRVX5v0fBRBA5-abmm5Qo--FyNNSoIULVEqqcrJrehuQgOIjYOFQQzxNf5nVeOqzUrVDodIpjjoO5ALV1CklpM51O0JIRHiaH3pDyEuFdbY6UL7DDTHnf4pJpoI9T4PpSb63BM8-LnLUQcd5ZM-dauzRAf-UfOb47API_x_46juRLfHi8dS97zzqAcbEqZgyrfNisVByFgWdHlbrC4WVMw4xAMP5B5kfOjpVrNpo2b40beREfmA2KgCsYdk8qfYj8QLy5lyuqMIYKYnAlv-isjWwMkDN9YQOQva49WMsx_3gikjzwhuxx1Ij5VRkiyf4eXCIImwB",
+      "widthPx": 2791,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "NY Barbearia - Borba Gato",
+          "uri": "https://maps.google.com/maps/contrib/111055651147455421275",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRIqxLSw9XH_oSJQVqaiOn67wLgMyrc3nOQriR4d0t1GqF=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCStzdkkuuUenZfK9RMt8Vn&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCStzdkkuuUenZfK9RMt8Vn!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-tERCFfqEJw5eIxmw0ILh5QxMQhRd3L038OJLg7VqY9q8Vh0nRsGbNMJ0PyeXIkXn8FZMSNw4C1WjyxyR9zsWfRn0iCXefrr-AyhwIe6Ht23OitvxMRL25Qp7Hq20sIgJ-O1d8WLFxER0qjLNlo7hJU7KNHnszBt5osaijYTP_UUspBBZ0FPzB_t7Uf5XMvTM9FAD6prly2DX739mH82oHNdhqLlaWCIYXk_FoVX1Do6FOVZcY5j7-nHjIiNRxlego9dlBcQeIBWH54brX5Y4TmVOFXwnUGETVctUle7WiL5Fr21mGqe8lp1Wd0KV9J5KVuYfRJ2ZWaFZzE2Ech9EttDLLj6oahTqNdoTXXPpxTozOqkbcVl5eZUYIFusH_46G5S4_ZX6t1wXBwZYHnmF6ePHUoS3yRjlwzohRsLf7xuv_G0_KfGiDKMbkyrZCw",
+      "widthPx": 1440,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Sergio Bicalho",
+          "uri": "https://maps.google.com/maps/contrib/109748462022506223805",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPD3CrxezHDiKieKgyYB1s6siBE-OHyaMt7gBjBWsQTAwbYlMbFQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCn9jSV2U61SgtSIhypjYqC&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCn9jSV2U61SgtSIhypjYqC!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-sR6NhASP64gIHdXNQ7hs_3EfAnJ2VvkWXACDN75qLVpFoEi2lFSo36LDiDuoCaVr85Eyzh0TyUtERCD4EheP47x2L6jfrfGiKm0pziYWUiBRzWoi1YoolQZZDKWqdkVoaAUxyXF0aQTd2EOHUkIwfz__GZtwbbJi-O1KVrsq8VOLstONvtPuLRbRTofyzt_sQU73dPajyV86M1fvnzsLKpCrXUoRV45yWU-y8b5EgxTb-y8EiTjfp1CsP534EXt7iZaBDnXekXALjTN5vMs2zSn42x1hIrkAWZiyQgvdXECTogO68Ba_E5jAWmBuK-pIwTYuPU2pvHx5NT36eqn8Sz9kyTnOykxLv3nLZvZeuQaEN_36DZ9nI5bUWMRtEsD3iUZgPLanu_4t5F6kDibQTxwHlvcej_NneB5kZ9MJIaZJUmWqSPVHdHNVOdNA1V",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps 011",
+          "uri": "https://maps.google.com/maps/contrib/118305688045791971071",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl2uwfJpZUrvswrESJvjVqGUr4iG_kK2tSzGQgmzfaIsib7O8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDxfUnHZOav2bJ0bg45m50p&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDxfUnHZOav2bJ0bg45m50p!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-sF-4cxtHdl6XADC9YjmdI9_kmr_vH4YdjtmEKT_KXuKnG8I7pvKrIBe6Fwq_tqLPmSXc60JmE9raAwiu_cYrIEpNW7uDgFQMP-vUXx5FXJHwhMzrTszcV8F63kYzKT0liimuiDxNeZN1SUbV80dfQfOnfb97xMs-FzuG6o8eUkFK4LlU9oEquH8Ytoe_kOXx46d9HICGfo5BXI1l56woilfNdgNx-QfymJyll7-kCDEKxgyY557CDCJrO4IQEujcDG5gsaA97sjn6_Rf1fk_4bLt3k4J6F-MfbH81SpOap4Ka70BVUee4rYoMq9IrFqALaA7sM6mwzR286WMqQLVjyqjEIIVPV8C8jEpbOea4TQDJ9911euw7d2caKoz-HwiBnUQMUkzvw4ETtEL_1UyIdx3KS6mI5_H21DG0mwGOQdXkps5OPEQbiAHTwCpwY",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps 011",
+          "uri": "https://maps.google.com/maps/contrib/118305688045791971071",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl2uwfJpZUrvswrESJvjVqGUr4iG_kK2tSzGQgmzfaIsib7O8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhACgtDjaKG7HFwOdOIDgG5m&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhACgtDjaKG7HFwOdOIDgG5m!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-tAueZXUlqWrufS2Xo84-rBsFKRXDub1tdJY2YXJlYAivp1rbjFTraPyTS57rPlGg0xwCFyTkp87EaioVjFoINxeRM-swqSWzOY2cCL3GvkxzU1sK7w8LOm_kNcaYT53k9fcy3343EYMUaCkb8z7_170pcVl0tQCyBcAKI9Q9-REmzs94HbdS5ptUdPRiDWm4P5UAMIKkUVkBW7HMXL2ieXtRcGyFePCl3hKitLUDC3CR-_1ZMzSYvB7va2Kz6Qx5aTFINfsE-12pLq-WwjNRxHafv-7aOu0ZpkJGzYblYq6Cn4v6f0OPjdVJHXijKXNM8H1zPqRqI3wrO2JnYsPFqHkFYLR9DpWRlDIaDIveWswM9vc0VPHDqFLrK7xiFy7IddQ1EinsMzll5TGvEia8HQHjo61zp6X8ISf5OSLmoC9oq0R4uo4-V63KJ_SQ",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "NY Barbearia - Borba Gato",
+          "uri": "https://maps.google.com/maps/contrib/111055651147455421275",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRIqxLSw9XH_oSJQVqaiOn67wLgMyrc3nOQriR4d0t1GqF=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAiaD3t3v1kM08R_FbzbhvA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAiaD3t3v1kM08R_FbzbhvA!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-vbzF7rNEh4lg_rVGEttD3vFDH-1s0OLWbFe6UPfwf0ZZLjT-Bdu4PFxtmS_DVuTEPJWdIMOSw1vxXSCEu8HXabbEiwlZCbBzQCJZZf_ZU5Z6XcNp3VUoEGxn_16oJ2IuiJ5jxrfxYuSQ3NrduR6HcFZ_ok1ZiNI16ANz2HPMkeOOhkVYCY7fkxDcndVpdSKW2qiRW4f1eVj_TY4jq-lN6h9aL3xJxk76Iq02edeYX1oBGAV86LkUvDL4wIbc1piPL2dkY3RfkuwWurEtJUUzGXfY5l0IOn7zs1YPYLf8IanV2VXj4e3ca54Vz1CTpeVeNbw-Aj1lrA87-YCQGNzD7PbGGI3MCw6oYhZtzuBDORbPB4RSTcakJm7ua49hkm-CxMDIw6MRiPGz54l9q6apCa_rYpNP_-J_OoymowXC7rExb7zL7o34ANYZbTp3tm",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps 011",
+          "uri": "https://maps.google.com/maps/contrib/118305688045791971071",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl2uwfJpZUrvswrESJvjVqGUr4iG_kK2tSzGQgmzfaIsib7O8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBXHVAB9dZSW1FS_ymnPj2w&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBXHVAB9dZSW1FS_ymnPj2w!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-sa9SQo37dMDtR9vTRO6YJHkjrsMpmu5FXjAeb-C2NlnkIjkaVr8rjWAvO7DDycUQfOCy7bscL5SF1RmQ7gTBBrHPe53xcl6T3hghKEhPrtWDvAAh-Er4DvhjE69B06w6rOWLnKxk9OpWKoE9u3GXY19E66MOV6OqXg--RMEfWglg3gDPZFXWrfryRVJdsGQxJatF1TDwi3aToXAlH0YcHsH26wMHl-9_BhXHkp-pbdN3j6hE-Nw9gNp8ZXkTGHNgH55pRqHaw9VDih7OzHOuKj2NHiePITKk_WrxBs0xUsWBKF2Cgo1j7NGGVY2PY60NmW-Y0x1W9vmP3QFc6yiPJAayIzYbWC8vAOsM57e-siQmkENgbupF9EmcNLhsZNZJBTXG_VGe85G9N7YLgeEJzpjKSrygKKl43gibDOE340fYNh4PBaj4dIgy8iGsoo",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps 011",
+          "uri": "https://maps.google.com/maps/contrib/118305688045791971071",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl2uwfJpZUrvswrESJvjVqGUr4iG_kK2tSzGQgmzfaIsib7O8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAL3v1sMX_WAXc_j3vz2Mya&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAL3v1sMX_WAXc_j3vz2Mya!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-vEnM9VubEyUP6LRrNAHklpZ2gexWPIwVjDdSQY9amzpwKWqrtEEDVDHhYbLw_Gv07dqj0PN2roGMRJyErf8YnRgMx3LHKBRoQkRQvGCKPGqDCcCPGHab_hWZBHFQRYFug-CYbhsGrr45bCHDyZT96q8pPXI-jqnlI1QOnTVateNqnp0ew76FcOkLwea-GWFSyKJx877SeHrqqLdhd26ntkpdtzCOCTKShEv2Gb5GKfxw99m03w_Oj80DJxzs7yEAj8VFb_BAdtB6PlHlpF4Dkisp--0ywBOx0tcpXtSqN5zln5-1h73MktQbxcpmDzHDXSx6PtZQldVXYxTHlRpavjBSY1i8tfC8GtUvFJnDsDLRzZNyuaLT3brXhbxaC0rzA4zZbHirzLjCqQbVoNf9jZZr7KX31cjmWmpWkqnB3rDeTZyIIbL0j_VHVjfQ",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps 011",
+          "uri": "https://maps.google.com/maps/contrib/118305688045791971071",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl2uwfJpZUrvswrESJvjVqGUr4iG_kK2tSzGQgmzfaIsib7O8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCOX8uOjfFUS-Xvhh2tqEQ1&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCOX8uOjfFUS-Xvhh2tqEQ1!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-uh-OkmP8GKePiMb2TJNCFgIrWTpcqM34xrhb2Vgmx3VDCMyXQixVzunpCeCLUodq8QUUlGyMG-ZyQw7B3CKUpPkhzDtur4i14Xk2hKQrIQazMHWBlQcxDjJnprxHHXLsNCdL0uULmNMYblH2ueKaPXiqTPdEr5C6tU5iAnWUcXPGqrX8kcpVzocqB2oPSI2qdkzKN3Sk-EiUthk1PiBeU8CA7PQWqOblBzyOVqpXynn6udeMQkfGXychh1Cj9PSaNRY1L8e4Jg7o6vZtNNFke8iobf8pYQ1kUBpETem2lS4KW_8fiqVr3rjiwR2mZrNvPmeg3Z3oHMYCqfcip-dLa0csj8JHFnimu6ST-Nh60_RaPDRVT3kJwQYBDEMuJASJs1x93nGPJTssp9TrrHeilw6l6z_0WwCEXP957tqKh-BcHmiVbHRmYOJfNQIg",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps 011",
+          "uri": "https://maps.google.com/maps/contrib/118305688045791971071",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl2uwfJpZUrvswrESJvjVqGUr4iG_kK2tSzGQgmzfaIsib7O8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCYytf1uKMWON2lj3538sUy&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCYytf1uKMWON2lj3538sUy!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    },
+    {
+      "name": "places/ChIJj-qstqJRzpQRYESfM_CeOtk/photos/Ab43m-uKRmwbR0ROSlhuMl3-0NRqt_4MjDvMF9paAWryDAt4FxPftnh5tChZWv7U46oBVbX58j5-n9SN99jGsl1Z4wEE3Mh_j4iWdr29kXcyiXeAtkUSJB8WJQcW8CtR4noYFSnjjjro3aYGELu5-Z8DamUTRCjoH17T3uj43xenifNxbLU8x1gcuUiF3e3s0aHGPXoSnUeuu_HvmMG_Om1_9rZGZNLjG1NmsIdesSmVvksxlme70Yv3GUGi_ssoPAz3YWOcK-6JnDMsOewb_8ovL3zGuOD9zT_2bUq5E6lWNy5RkzedaTfCyWeUMcTJdoPnPQWMcm1yUu3ZUabndKEY6-BU3Dy7ogj5mVdW7rGZBVIZADu1AKYKePW-3f_FavJojQht3-wu-2-SKoaErRZxkf1G3zKdgVJsC4sOZ8F0Jtoe6bX7l20eD0IAEmv6UVSp",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps 011",
+          "uri": "https://maps.google.com/maps/contrib/118305688045791971071",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl2uwfJpZUrvswrESJvjVqGUr4iG_kK2tSzGQgmzfaIsib7O8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBCwsg72XmQF5eauZtieoqq&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBCwsg72XmQF5eauZtieoqq!2e10!4m2!3m1!1s0x94ce51a2b6acea8f:0xd93a9ef0339f4460"
+    }
+  ]
+}

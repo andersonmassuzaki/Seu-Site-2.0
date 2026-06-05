@@ -1,0 +1,370 @@
+{
+  "id": "ChIJJ8UAIZBRzpQREivOtIaBrNU",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "body_art_service",
+    "store",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 96635-9902",
+  "internationalPhoneNumber": "+55 11 96635-9902",
+  "formattedAddress": "R. São Sebastião, 486 - Santo Amaro, São Paulo - SP, 04708-000",
+  "location": {
+    "latitude": -23.631102799999997,
+    "longitude": -46.692144899999995
+  },
+  "rating": 4.9,
+  "websiteUri": "https://barbeariamuchacho.com.br/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 19,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:00 – 19:00",
+      "terça-feira: 09:00 – 19:00",
+      "quarta-feira: 09:00 – 19:00",
+      "quinta-feira: 09:00 – 19:00",
+      "sexta-feira: 09:00 – 19:00",
+      "sábado: 09:00 – 19:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 139,
+  "displayName": {
+    "text": "Barbearia Muchacho",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. São Sebastião, 486 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1emFYbElVa1ZQVGpSclJtSmtVVGhzZWs1bVZVRRAB",
+      "relativePublishTimeDescription": "9 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Sou cliente da assinatura mensal há mais de um ano e não largo. Atendimento impecável desde o agendamento até o corte, sempre no horário e com a galera mais gente boa.\n\nVou toda semana com meu dog e eles recebem super bem (pet friendly de verdade 🐶). O ambiente é ótimo, confortável e o corte sai sempre no capricho.\n\nÉ o tipo de lugar que você vai pra se cuidar e sai se sentindo novo. Recomendo demais!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Sou cliente da assinatura mensal há mais de um ano e não largo. Atendimento impecável desde o agendamento até o corte, sempre no horário e com a galera mais gente boa.\n\nVou toda semana com meu dog e eles recebem super bem (pet friendly de verdade 🐶). O ambiente é ótimo, confortável e o corte sai sempre no capricho.\n\nÉ o tipo de lugar que você vai pra se cuidar e sai se sentindo novo. Recomendo demais!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Luis Vanegas",
+        "uri": "https://www.google.com/maps/contrib/113794714713664079302/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLwwRnB-M5DWYCaAx7ME6Fb6HZEprJv2aL5tB7Qgby3S-SQe1w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-14T21:51:58.818854057Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1emFYbElVa1ZQVGpSclJtSmtVVGhzZWs1bVZVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1emFYbElVa1ZQVGpSclJtSmtVVGhzZWs1bVZVRRAB!2m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEeTkza29BRRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Adorei o atendimento do Jhonny, quis fazer algo diferente no meu cabelo, raspei atrás e pedi um desenho para ele, fizemos uma flor. Simpático e carismático. Todos são bem simpáticos. Lugar limpo, organizado, tem bebidas para quem bebe, tem água também. Podem confiar, recomendo. Obrigada pela simpatia e bom atendimento.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Adorei o atendimento do Jhonny, quis fazer algo diferente no meu cabelo, raspei atrás e pedi um desenho para ele, fizemos uma flor. Simpático e carismático. Todos são bem simpáticos. Lugar limpo, organizado, tem bebidas para quem bebe, tem água também. Podem confiar, recomendo. Obrigada pela simpatia e bom atendimento.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Alessandra Haneke",
+        "uri": "https://www.google.com/maps/contrib/111337953736853036435/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOw0nAygDpuMCBKeGBN5HbuV9B2itLVy_EIr7BVUGYa1V99peW=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-02-27T15:51:22.501654Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEeTkza29BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEeTkza29BRRAB!2m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KTGJFaFJiVTR3TTFkS1FVeDVPR3RsY1RCSmEwRRAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Muito bom atendimento e hoje em especial tocou rock anos 80. Ambiente estava excelente.\nErick (barbeiro) sempre garante um atendimento e serviço excelente.\nParabéns a todos do time!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Muito bom atendimento e hoje em especial tocou rock anos 80. Ambiente estava excelente.\nErick (barbeiro) sempre garante um atendimento e serviço excelente.\nParabéns a todos do time!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Tom Fausel Koch",
+        "uri": "https://www.google.com/maps/contrib/102181818934649686236/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmBj55MaRG9yqDrxRjP4wBeInUXRKXb2_tmcLs-PQ4ZnxRuIHizA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-22T12:24:31.760414109Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KTGJFaFJiVTR3TTFkS1FVeDVPR3RsY1RCSmEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KTGJFaFJiVTR3TTFkS1FVeDVPR3RsY1RCSmEwRRAB!2m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCbVZteHpUMFJvWTFWSWJtbFRZelYzVFdOclNIYxAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Barbeiro Jhonny é muito simpático e eficiente. Assim como a Eusa. Muito satisfeito.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Barbeiro Jhonny é muito simpático e eficiente. Assim como a Eusa. Muito satisfeito.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Diniz Fracaro",
+        "uri": "https://www.google.com/maps/contrib/116620670440117766835/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhYNKxbmJf9hosbBh6MCvyF-2TVbOuWmatDNDYJ2RkZtaYF1oe=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-03T19:38:39.025191773Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCbVZteHpUMFJvWTFWSWJtbFRZelYzVFdOclNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCbVZteHpUMFJvWTFWSWJtbFRZelYzVFdOclNIYxAB!2m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25seU5UUkdUbXR5Y2s1NFpYcHdhR1pqVEdOYVNtYxAB",
+      "relativePublishTimeDescription": "10 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Acredito que já fazem uns 2 anos que corto meu cabelo aqui. Geralmente corto o cabelo com o Arthur, mas são todos ótimos profissionais. Recomendo",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Acredito que já fazem uns 2 anos que corto meu cabelo aqui. Geralmente corto o cabelo com o Arthur, mas são todos ótimos profissionais. Recomendo",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rafael Lucas Ramos de Abreu Moura",
+        "uri": "https://www.google.com/maps/contrib/103083367149555507592/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXp2jWvYrjWP6QyLZfIX8dHIQrYWfh_oQZFvipfJtwVb1HQH7fx=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-07-25T20:46:18.588478357Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25seU5UUkdUbXR5Y2s1NFpYcHdhR1pqVEdOYVNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25seU5UUkdUbXR5Y2s1NFpYcHdhR1pqVEdOYVNtYxAB!2m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-tFDUn7iSdBhitaRTMlx_eKwxUzEP0rHFCNv1IqOZlowLhUAOyWhv5j_BO2tapGoFq8X9UHvUdDXyLCWo8NbPAK2KJfCse_OQHh3LcU72xiB68yeJjm6YfVryzHIHgD7qG5P4yx5HUsUpyiJ6ptD4CxqIlkrkghA1c3WnqDQN8xtbqoY_HttKoR27uMPe8e_Qrlu1cmc7VD7g-_sR-Xaj06nCoP8xdCPlHF5SvpQmL88hElWtKopZ0dh1_GB4SqewhBdFACR5kRAQQwOEk7O2MRkgTQetto-_zvmNbwVzkPbopOWOcADtPS3zvi_j1eCvkDDc1RB8c5QRaD5lQeaALRtreN98lo7xENnaLURMHrfcaMmCFIFBmAGzsAMAT1EUz2JndjyOk90xD74vGBC5pF7Qo3YBmv2t-jCYTMjJuTbo7NyNTNkYoP0ecsKg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Luis Vanegas",
+          "uri": "https://maps.google.com/maps/contrib/113794714713664079302",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLwwRnB-M5DWYCaAx7ME6Fb6HZEprJv2aL5tB7Qgby3S-SQe1w=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDHKBYA5PM9nd0ChrXJLc3g&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDHKBYA5PM9nd0ChrXJLc3g!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-ukINrhRkuyNqsxZV-stg4phklpC3TMwK3dOIU6sB5WLy_MAv7fQQBtMhjg1a0rBAWYMifDjd609ZT1xhmhlaqucKC3EB6PONXRmF6AcZTPwuUnb6wD9WCE72leou_A3udHrtwc0iQUSofsDMv-cHXUHSpI791rnLpOEgg8gLBedENPvzR8p7rx5V2LiwNh7rPLmp5U3cRG-wIwtWKFlTc1LHp8WNZ03N0U9g5bYUR2DQA-MFR4okw8LTbBMm0vuvUP7-iYXvKs0_xNQVQSvh5CCiaZ-mKK5jVt0wkmIUMJUlJ-qAH2ddv68tXtp9VHoBJS3eDjhAkq4J1IjjqgthE61Z6FpoQNU9uvwTyV6Gd1Lsj969NbjAgSkU5bkS4VBZAOYa3CVmwVRDS23VgQjaFUMKy78m9Ec6mMXyoUF1N8299I",
+      "widthPx": 4140,
+      "heightPx": 3472,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps Atualiza 360",
+          "uri": "https://maps.google.com/maps/contrib/102127447166045266865",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDNK15v6w0FIf4NxACWB5YNnVr13Mn5J-djXsoXbFeQ3ZEQg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpqaT0rAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpqaT0rAE!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-sU89LwFBq_qGahsWQFunEv2ji7FdWZffp3Yg_5blD3PqI3Q2f5lTjJIsRL7aPDSMiECF2ZrKe-q6kjReF9bVu_sJy4viFm59ctnXvLc-NOWF9EeVgCmCtqgJxpBeEWbpLpzPwcO3rXn1m9S2KKobt7divIjYx-pw2CZkFwiNKLiq6pQR1n7-EA__NkSC9PV5cWwjKVn-s7abnEk-bSTrO8urYTQh0mb6liSaqaWP7lM5VumsJojzAZ4-euN-lys8WPgno0eJ-UDaOJNrAbnRTNHXTsdBZxDKVL83xCpYTODrN0vFgN9dG_il-b5oQgjoKoP8BJ-tDvCAyoelZBjSgKzPvXDdN55SmXqcxtTtOFegBdudkZkDiLIkQmW8xBUwGinh5wGxRO1N14F9wQJAnwFLoos5-DWqVj3XvrzntcTw",
+      "widthPx": 3472,
+      "heightPx": 4624,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps Atualiza 360",
+          "uri": "https://maps.google.com/maps/contrib/102127447166045266865",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDNK15v6w0FIf4NxACWB5YNnVr13Mn5J-djXsoXbFeQ3ZEQg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpqcSuTQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpqcSuTQ!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-sz8cROTH-59Y-yE-AJkoD488eG7N_UZUg2wwquNZNJ2DB-3prI8gDVp_hEQtMI4Az-rS9aRlMGx5DerDFUMACwBptNVm6cePJTKIottN8reP4Wfy3Hak0RArhdLZOnYmEqa8fnRUMxxZAYXpa-0H1PO-ePnQIkPdab2oIB-iFMksrslAUSXFg2w96IkJFAIpxthy3DY0z4mqCj3QkBSqZbbViJfE51r0yo0xSs0INffuS5xyhqPTg9umBDn0hEGoCIOwXcOUuvxtYZvqpWatXMKZsE6kdQjRu_5-TtY_7gN_ASBdtTz7YoRkWv5KmHGeVkpwvJ56NjLgO0AWwmIbp7osT_S-X79lEUIW0RBnMkqjSYYtyKDQPToqNYDGz6SKAw1_csfDAah-_P0X7x21L6HcnErebAEH_wX7OcPuI",
+      "widthPx": 3472,
+      "heightPx": 4640,
+      "authorAttributions": [
+        {
+          "displayName": "Alessandra Haneke",
+          "uri": "https://maps.google.com/maps/contrib/111337953736853036435",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOw0nAygDpuMCBKeGBN5HbuV9B2itLVy_EIr7BVUGYa1V99peW=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDy93kSA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDy93kSA!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-uouoUals6Ez8pzjU1ft0GaF0EWsXGDf0gGh9rzESPdiXUfLumhXqLd2Ve4YgOtv78j1PVI-JHD48qui2_cl5PlfWjaCXgYnXSvOQtQzbM2fICWF7Y4WSrUrg7siavmn4qR1HXUzNp7TCxdE3kRE0QKP8lXb7ol0uyinKmHSzesvvMbxSmMJDTC3vTKg2NkYZ3_BSfn4LLFE5GBQ8dpOyuHojrPCDnsWLoIogBWVY1ZLANbEFWAsiY3-SFX0xwctgM089a9mOpPizm0XGmE6a_y89San2vlSwqrLRIRc0T2-nywKr1v_vJhuiD-ntAFVX2JC4-JCbZHC5JJ9Arh5K3KPn1iPx1KW6H0AQsVbVG8OSNb4ktKr4jzl2BTXPUUfVOWqdLJc0KidT5DtLPDP_7-hAlZLfDCfTi-cpwBsCLOiwU",
+      "widthPx": 3472,
+      "heightPx": 4640,
+      "authorAttributions": [
+        {
+          "displayName": "Alessandra Haneke",
+          "uri": "https://maps.google.com/maps/contrib/111337953736853036435",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOw0nAygDpuMCBKeGBN5HbuV9B2itLVy_EIr7BVUGYa1V99peW=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDy93kkAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDy93kkAE!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-s-yNE3VPH__IUT3OZM94WLK6LZb30hSt4XCMum_JpIEB3COcELF0kdju9hYcNjhaxbR3E5dqUhkJATs8dQCH9RnL5OVUfJKKKMgZOyrlBo_S0LFwcR4BVek38zI7ATZxp7fjB1mIDT7g5RsoA6wD1iDzp5EXpdHdFGbYcbEl02s55kNWePYRJNJxqe-87NXGdlQX3Bhj_rZGroqWDD7Ms2cvK2E3nv2vNaVmsUwg3LofvdL1IlXyTwsaxBXjGIERy5wdhs8twRKy1fmHPWFm8vhE1IebvN07w7cfS9Eq2YaopGYjMzS-3jcur56Um_eEU-gQSTQOe0F7D4KAksj57H6yLwwO4wfaPUVboa5PKQ76_MNInSFj2MTG8YOY5s2pivGbKgEqVLhTbEmdPkVnZsnUm-3CO53n1Uco603J1Rhd0v",
+      "widthPx": 3120,
+      "heightPx": 4208,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps Atualiza 360",
+          "uri": "https://maps.google.com/maps/contrib/102127447166045266865",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDNK15v6w0FIf4NxACWB5YNnVr13Mn5J-djXsoXbFeQ3ZEQg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpqcT_nQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpqcT_nQE!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-vxi11Gm-jSbSST3A7AnZgPy-F5PqbrV8luWdzNCvnUd6DYgQOcNalDH32IS1CsyNkjZI8tW5Aq9qADxZp-C_Kt-MKgEYSOjF6sSVul4LZubrfQUm7xcr0xDakRsHUbLqjkV-oFFA3XkQyjt1qCUS6B0fBqXTT6GOOX3Bc2U5yRIleVBlk8BqBl468d0G8D8Aw1hAMvaQbn0GiuQqzUhqIeWjQXBzITof1CPhPAOMRL1BpUNCwJGh7VBDaK3XEELrCM4Azgn7eNV_t8GXqje3EhcIFRFw_RLYIb3kQ8jaIxBkXN95qHvB68bhVeMMgOiH9pRswhHuSQkCG8Em7KeN7coKWdnb317LQuxoigjtKoqH7N1Tw7RuCAyO_vZR0ch-7w9SUAaa8ZypC4Qd4HLm5AtvRyYiinL2DM7E05Dau1MqL7",
+      "widthPx": 3472,
+      "heightPx": 4640,
+      "authorAttributions": [
+        {
+          "displayName": "Alessandra Haneke",
+          "uri": "https://maps.google.com/maps/contrib/111337953736853036435",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOw0nAygDpuMCBKeGBN5HbuV9B2itLVy_EIr7BVUGYa1V99peW=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDy93kyAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDy93kyAE!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-t1VrkskRpKvdOJpmPgoszFX6NM5Rn08eRbzrHFh-iJBsWzxiis6XpJRez8PIYcamD9cpX26wg3PNb_bFNHUAE5W4TNlt7TC4B8dZWuibBxipLHrJtee7pd13J6hTxnWfH7fERoL2K8DbOQeELW8gAlo49AnE8s9DHfYIc9cBze0M7qXS8f8oB4ojfjUIGNHVH9fZ4Cz1dhpUvBgAB6RwNNFUqsEmr4eFd5nYC7oDMdju9bscxL6nZ-kNkP36ZkKJ96xYGGLVhc9lhrEROZzdv8XyAHCxTsYgKnsh3Cv_LVutVxHPjaf1calQHZ6fqzx8kBAt_EuCoGw2dCNtICc3Mbje-j5aAM_7gPJAReDkjTKg2-LSU0gKFriauqnBhMgFrvKjO7Aquae06da50w6clRQnkcjEPTQb8J9jKnuFgogT3E",
+      "widthPx": 3184,
+      "heightPx": 4487,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps Atualiza 360",
+          "uri": "https://maps.google.com/maps/contrib/102127447166045266865",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDNK15v6w0FIf4NxACWB5YNnVr13Mn5J-djXsoXbFeQ3ZEQg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpqcT--wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpqcT--wE!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-sHpO-AbCqJuIIaWV1EPxjT3EmMBjquTinz9-G5tkMH1ijrep-JhyzdmItWLTqQHHZc8mX1ioYZs2xLMpSc6J6QI48Bxout28xZowFGikr0TNzV4yi3mvRb4x3kIN7aWTd5WtgiNGQDb410orogZSXPJqQI4qGZ_jvDLMIUMFdSJtHacrjSQ5ccnm4t-84YcIG6RebcwjaL0Axp5lGFDFIJhmsKBW_du3behz8cPVKID8tjSx_6IiMfFEv0aZbRgijDTnfM_WwFqgdXm8PitnvjZfthbrBNe-et4jm0He6D9a396vXsgJi_5fFUx66IxgFbzsbRGRlEaXAhTueCQimAOg2XHo8wXJR72u4BTWffcGPY5nKDACk6A1eKZhR5Ot612izxohB_J2HTiBpJf8T1LGzN-GHHLPGR0RW6wNc8gKwN",
+      "widthPx": 3472,
+      "heightPx": 4624,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps Atualiza 360",
+          "uri": "https://maps.google.com/maps/contrib/102127447166045266865",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDNK15v6w0FIf4NxACWB5YNnVr13Mn5J-djXsoXbFeQ3ZEQg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpqcSB-gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpqcSB-gE!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    },
+    {
+      "name": "places/ChIJJ8UAIZBRzpQREivOtIaBrNU/photos/Ab43m-vrVLmHWZ6jJ-38Fo2LHxrdEPLkn8dqOsI1KxieWy5aDS63_8Wu-8CXGGZQ7hOKEHckUMVbWyhN8_6TVU5ughl3tXvzzyWB_xb2eCpZuB0QR3kDTIYHDT8b3uoM9iPuvZVVj1WvOGVNHqeLBPfYR9uFARHvVtUZWs4sGssSFwCMSj9chHEmvQMrkXM1Cp14XwfvtyDwPqJZesemltgDOQPJYiW7pqaGyGbzT-pYshCqXRr6Owj9n4lHk4tjoVuSvHFLCXnCnz-X3w4lBg5btFtW10cxXz7SLnVQ8iB9TYS3ydbwMXv5r7mWS7jju8jun3m3dxcu8e5PagNqkJuBC6zcSugC9Qbz3jLUgNnAncC5QDegBwpJs-oa3BY7Z6A09O10EAV7mgZPR7Jei2SWEzDPlWIF8HG86Oo-2R1fIrH6EFCZ",
+      "widthPx": 3242,
+      "heightPx": 4249,
+      "authorAttributions": [
+        {
+          "displayName": "Trade Maps Atualiza 360",
+          "uri": "https://maps.google.com/maps/contrib/102127447166045266865",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDNK15v6w0FIf4NxACWB5YNnVr13Mn5J-djXsoXbFeQ3ZEQg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpqcSuiwE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpqcSuiwE!2e10!4m2!3m1!1s0x94ce51902100c527:0xd5ac8186b4ce2b12"
+    }
+  ]
+}

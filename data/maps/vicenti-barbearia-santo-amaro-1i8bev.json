@@ -1,0 +1,360 @@
+{
+  "id": "ChIJHxvF8pZRzpQRdQUSvFXBDB4",
+  "types": [
+    "barber_shop",
+    "hair_salon",
+    "hair_care",
+    "manufacturer",
+    "supplier",
+    "store",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 99329-3715",
+  "internationalPhoneNumber": "+55 11 99329-3715",
+  "formattedAddress": "Rua São Benedito, 326 - Santo Amaro, São Paulo - SP",
+  "location": {
+    "latitude": -23.649955799999997,
+    "longitude": -46.7023127
+  },
+  "rating": 5,
+  "websiteUri": "https://www.instagram.com/vicenti_barbearia",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 17,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: Fechado",
+      "terça-feira: 09:00 – 20:00",
+      "quarta-feira: 09:00 – 20:00",
+      "quinta-feira: 09:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 17:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 49,
+  "displayName": {
+    "text": "Vicenti Barbearia Santo Amaro",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Rua São Benedito, 326 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wVFUwbGxRbDlCZDJNeGJtWnBXVkJZTjBkbGIzYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo atendimento, corte impecável.\nAmbiente limpo, organizado, o dono e o barbeiro gente boa, simpáticos.\nAtendimento com hora marcada, perfeito pra ajustar na correria do dia a dia.\nSuper recomendo.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo atendimento, corte impecável.\nAmbiente limpo, organizado, o dono e o barbeiro gente boa, simpáticos.\nAtendimento com hora marcada, perfeito pra ajustar na correria do dia a dia.\nSuper recomendo.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Juan Faria",
+        "uri": "https://www.google.com/maps/contrib/115925967202182872197/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrn8GjeQ0cP-J3PZbFiog3pB0JPJ5r-KxpJSkfdQVALoe1Wsew=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-30T20:58:32.038371470Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wVFUwbGxRbDlCZDJNeGJtWnBXVkJZTjBkbGIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVFUwbGxRbDlCZDJNeGJtWnBXVkJZTjBkbGIzYxAB!2m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CM1IybExiRzV4T0dveFNGZHFPVEEwYlUwM05XYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Muito bom corte preciso e rápido ambiente super bonito limpo e descontraído e o atendimento do Lucas é impecável! Minha primeira vez e com certeza ganharam um cliente",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Muito bom corte preciso e rápido ambiente super bonito limpo e descontraído e o atendimento do Lucas é impecável! Minha primeira vez e com certeza ganharam um cliente",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rafael Machado",
+        "uri": "https://www.google.com/maps/contrib/101891186620595672832/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJb_YdV2ckkZU5TaquLEwBIWrBKWLPpCTuBK2u25cNfXj0m3g=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-04T14:28:02.516156228Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CM1IybExiRzV4T0dveFNGZHFPVEEwYlUwM05XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CM1IybExiRzV4T0dveFNGZHFPVEEwYlUwM05XYxAB!2m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT201T0xUa3hORWhDUjJ0aFEwaFdaV1ZGTVRCNVozYxAB",
+      "relativePublishTimeDescription": "5 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "FUI NA DATA DE ONTEM DIA 23/12/2025 CONHECER O SERVIÇO DE CORTE DA BARBEARIA, CHEGANDO LÁ FUI POSITIVAMENTE MUITO BEM ATENDIDO ME SENTIR CONFORTÁVEL ME SENTIR EM CASA ISSO ME AGRADOU BASTANTE. O SERVIÇO DE CORTE DO BARBEIRO KLEIVER ME AGRADOU CAPRICHOSO E ATENCIOSO BEM EDUCADO E DETALHISTA PASSA CONFIANÇA NA EXECUÇÃO DO SERVIÇO.\n\nUMA BARBEARIA NOVA BEM LOCALIZADA, E ESTÁ BEM ESTRUTURADA PRA ATENDER QUALQUER PERFIL DE CLIENTE ISSO É O MAIS LEGAL PREÇOS EXCELENTES AMBIENTE CLIMATIZADO NESSE CALOR É EXCELENTE COM CERTEZA É UMA BARBEARIA QUE VEIO PRA FICAR EM SANTO AMARO TEM TUDO OQUE VOCÊ PRECISAR PODEM CONFIAR E SÓ IR VÃO SER BEM ACOLHIDOS E VÃO SAIR DE VISUAL NOVO PARABÉNS 👏🏽👏🏽👏🏽👏🏽👏🏽🙏🏽",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "FUI NA DATA DE ONTEM DIA 23/12/2025 CONHECER O SERVIÇO DE CORTE DA BARBEARIA, CHEGANDO LÁ FUI POSITIVAMENTE MUITO BEM ATENDIDO ME SENTIR CONFORTÁVEL ME SENTIR EM CASA ISSO ME AGRADOU BASTANTE. O SERVIÇO DE CORTE DO BARBEIRO KLEIVER ME AGRADOU CAPRICHOSO E ATENCIOSO BEM EDUCADO E DETALHISTA PASSA CONFIANÇA NA EXECUÇÃO DO SERVIÇO.\n\nUMA BARBEARIA NOVA BEM LOCALIZADA, E ESTÁ BEM ESTRUTURADA PRA ATENDER QUALQUER PERFIL DE CLIENTE ISSO É O MAIS LEGAL PREÇOS EXCELENTES AMBIENTE CLIMATIZADO NESSE CALOR É EXCELENTE COM CERTEZA É UMA BARBEARIA QUE VEIO PRA FICAR EM SANTO AMARO TEM TUDO OQUE VOCÊ PRECISAR PODEM CONFIAR E SÓ IR VÃO SER BEM ACOLHIDOS E VÃO SAIR DE VISUAL NOVO PARABÉNS 👏🏽👏🏽👏🏽👏🏽👏🏽🙏🏽",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Wallace Nascimento",
+        "uri": "https://www.google.com/maps/contrib/105514856916376293301/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwwnBpF3k2Qy2lzVWkoo_hzDmB7FzyeQSwc7O4gOmAjloTgRzm=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-24T17:26:38.526987823Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201T0xUa3hORWhDUjJ0aFEwaFdaV1ZGTVRCNVozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201T0xUa3hORWhDUjJ0aFEwaFdaV1ZGTVRCNVozYxAB!2m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Gd1dWUkpNalZLU1c4MFRVVlFVMjkzU0RKMlNGRRAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento excelente! Fui muito bem recepcionado, café delicioso e o ambiente climatizado. Fiz a barba com o Kleiver e nunca me senti tão bem cuidado e satisfeito. Parabéns a toda equipe!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento excelente! Fui muito bem recepcionado, café delicioso e o ambiente climatizado. Fiz a barba com o Kleiver e nunca me senti tão bem cuidado e satisfeito. Parabéns a toda equipe!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Wags Bittencourt",
+        "uri": "https://www.google.com/maps/contrib/117456161418546065943/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV06Dhv6_x4FDkllyp6sZrklPMrUYSDLGokpXeTyEKdWEA9vt_N=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-14T13:38:25.631970308Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Gd1dWUkpNalZLU1c4MFRVVlFVMjkzU0RKMlNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Gd1dWUkpNalZLU1c4MFRVVlFVMjkzU0RKMlNGRRAB!2m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkVk4zZE9jVEJVVkY5Mk5VODBPRWgzY0ZCS1RrRRAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Gostei muito da barbearia, muito limpa e organizada, mas principalmente do barbeiro venezuelano Kleiver! Que profissional! Uma técnica impressionante para o corte, um cuidado e atenção com o cliente! Vou voltar, com certeza!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Gostei muito da barbearia, muito limpa e organizada, mas principalmente do barbeiro venezuelano Kleiver! Que profissional! Uma técnica impressionante para o corte, um cuidado e atenção com o cliente! Vou voltar, com certeza!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rodrigo Dorna",
+        "uri": "https://www.google.com/maps/contrib/103349280373987418056/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJxYdHdRPxDvLyLcYuz_GHVavKAaio58Zj6RBQV2PK3aCkTaQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-10T14:09:29.900804826Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkVk4zZE9jVEJVVkY5Mk5VODBPRWgzY0ZCS1RrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkVk4zZE9jVEJVVkY5Mk5VODBPRWgzY0ZCS1RrRRAB!2m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-us6MH2KeRgjrrbZkGBEISjst_gbPYZwn3S98XNX3SJMmM3fgKcCV4xIH39XL-O-RHnMT8VGd_GcGurGpI7jOuA55DC9gxZB0JSCb200GqZNHXyfQiUn6KiVdu9wUxWLN-alv248Id2OMyNrIfeHwKCwOzSmXVrsjXbO-3kb3L7Dp4Y0BTOGkvD_LAntkspKo2C6WWxL3KhmGr3kMrFP4H8Yj3NgdmIgTNdtqTEeXnsaHGBgt-Jvq-uEojC-b7nOZD9rWzrMA2-IzoUu3Eo008rRrC73N9Ljd2jSzUkLFANmg58tVOG5ayLBLOFfGpSMliAz0zaaMaMLd5Gf2By0rBhIsm1atCkTNJCn-BknV93tvv-ytD2uT5bkZ35Pq8bDn-HdZhFm_PHVlvbmPzTiqU-bc_-JnZGIDEnXS1zjnK_yXialTrg6XLSTC2eyAbE",
+      "widthPx": 2268,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Vicenti Barbearia Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/114318990025481635271",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYOnPsf88agutUbFpTszjROtdDuywVw8qXxZpQOvMMG3XcOXA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDg4OILls06HaAEekn8w5x8&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDg4OILls06HaAEekn8w5x8!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-tadriv8IAVQb0PsSPcez02AW_Cdj_i-jYzIswAdo2ryfTMvTyns8ucTeaSd2fw1ecRCDxZIDmNTeXxO2wuBDki2DBgp854PmbnIOr6tpYQUoxNvIKu9pSGNY5EDZ5x0VeujzL-mEQSxdPibX8DRzdUajnC11MqKgA5qj3TMSDxEr6ipTN2ZoSe0iM30zSnSDvOJurJhHe5hRB3S9wiXmg5piiOBqO_sT_BolXsm-i4jJXRMVPobxzSWEuHwWqr6UvOlKxoAWwUqCrO7kdC1qE6h4yegD9r09J-XQWWS9eRQnXV2Uy09_3hzvljKffdyjT6qTX7MP7NYzpIL1ZJXClOmozn9AzVgj2Pazj_HIC9w2Sy8BqQzNVwzbr2-zdm0zz0TAeSUnwclFqLgH7xIIAZlSpRe2pRLVcn0kf85rrLRwd7fQJxF3CXDIgnhQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Connect Maps 03",
+          "uri": "https://maps.google.com/maps/contrib/101494206290131427771",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDTb58Nw_akdX4cLzOJ2Ov3ouqp9A1StLcRHtuol0M6yX_K_I=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBm6Lm2jqSd82bM3WDYnBcN&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBm6Lm2jqSd82bM3WDYnBcN!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-uRrPK5U6FVkEt6XLOr5WVqqQXg-Y3_knhu9-1-iDUiYGzyMsYkGwpoPTtghLs1t4kWoYMGh7CeIrSwH8LJry9rgY-bsGnBJS1q2Ba6rb1LGFwLIkFxN813ZUYQ7Bmvzsqlh0Hrqu0ZxuFUCf0yI41_KZmdO0Edkh7azc0F0EGrZ3yg9uVtJj_PYHBi275O9BxCY9ideBDfZ9VeEXL3BX0Cm_c8tNZvC5BWJ3UPXnsL45D_RE4EN6KQpduV0wd9vz9DOyRDkhnEJ2XD4mvgNYnAhPJjhFyoRbj9kpY3z9904dh9U1M_SzYBCbBLudyzlf3zcGVBL-RonFs2AoPDszetcw_BW6G6kKCefvSrzp3vFBeG4g1fERB6AMsexVsJtHC2NDfwxCQob4i-pvQYhGsrha0Zd5sONF-x4jAquRKgRX92heNSywcFjEh8NaHD",
+      "widthPx": 2592,
+      "heightPx": 3021,
+      "authorAttributions": [
+        {
+          "displayName": "Connect Maps 03",
+          "uri": "https://maps.google.com/maps/contrib/101494206290131427771",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDTb58Nw_akdX4cLzOJ2Ov3ouqp9A1StLcRHtuol0M6yX_K_I=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBDdDv457olg0GfnmFa3b4Z&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBDdDv457olg0GfnmFa3b4Z!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-uCWK-iJQwdfAAymRLnUPIThQRV8pLHqIBElWfFCxi5EzKTjEQ8UqsnRC2ekOstn_oYg-IIrGtuCcKL4_GFaku167IP3FvMGcvaX0R8FbXldVqS0YItVqYWf9sR7Ugp1xtj30mCV6T8s36KdfH_mQdGw8slBCS97ofJQgofGY4beiwLmgkLqHwq7ZHwZrN2yYvCIO6FrSd7mzIywe2ZsrzXiZ7KUuVCBoAmjAj-m58lWi9vfjcHbVNYSQeuCQdtAvZOGPjEnz-9gT0SevLOnOcek6NFEkxajHxMP0NnJmb87kPYbobe9uJ81h9MXExG5XX3ihhDQAfvCGwqz-TBlfTsQ3UawcGCsQeI3luTtoaev_dULbuBmtPb3_NzU1O8b_WpbwPmoIqVRuPIJ1EqVCXFh-vYedIHAuIVlYpmRtHIFk89HTZYySSbUl1Fa5aR",
+      "widthPx": 2268,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Thiago Chagas Vicente",
+          "uri": "https://maps.google.com/maps/contrib/105885022311456541398",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVsyZ0vHie2f7mmGgueHZgs-5eot41Zx0ZYdvimmbmrqnjtRajpQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCLFRKokvxcl7cKVZOzXryd&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCLFRKokvxcl7cKVZOzXryd!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-vhvXw7rqPWBFq6iFXlYTftpY0SDwdxmxD5XVJl81Zu-50dtu6IMKbRfDGGczOHkxlVo-tuar9HrW5bg17XAnwxuFZMb2f7KXzNNFHWWqfvycKj2w-qfCHiJtWyzP670ixOcayB75bfUisVXvaEGMR5Hmbl5-iLzQRkCd8s6BL1fXPaXNnDLxs5xiaPbOXSoXvC-kf0UrRE9B5oMMAaYGLAj3-OyY_K6EjL4NYHhQdOtL2NCIezYVUYUL2I9p4b2XbDkP7nDwQnz-Ws11mQqThZ-1PFB5jDGzFw6MPLuvMOEwgMtvdG_aSbqHIltElwYDYERG8GEJFrHFsM80BlTEJFETtQM4o6XUFfbhEjbeqeiH5dnTuzmqz55x4f4A4Y2FEBaWyBz1Ag0RHx5w1OyDMZ4ONcYtbCmLxn4SdZUFZxnJsIndKVnBW_BFOAKQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Connect Maps 03",
+          "uri": "https://maps.google.com/maps/contrib/101494206290131427771",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDTb58Nw_akdX4cLzOJ2Ov3ouqp9A1StLcRHtuol0M6yX_K_I=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBN6biuJLLiDSJAYnEoxMZD&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBN6biuJLLiDSJAYnEoxMZD!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-skdN2e1YUWFynASyjfdzFBVHmyzYDt2yOZpY0f1bjkASiDIDG4PBhnyaaCNLheiARa5OfwRr2PX4jA7uJue7SCCR408kzstwcWROJNOuuMOMM3PQ0KHf1P8LuVurOjaABkvJn5WqzXZiv5L4BtrOpFGN2pMKIB95nNlB21pClL004e-KQHOur9ZAiWuYLZnL8GD3AgRVWnzRWmZCIwSm5_LB-Yh7H0KNWqAPbxkLMlD7Kob0QksugtBPzxJ0xrRKpAaa9JW1LUWze-EwVplXK2qTzGHy9eHVphswi-zD20EvDkXuD253fExJuVrGNBoOzPqk0KQxrM2iUp8yu8fWw_wOxd2nunGx0HT7UXyaGdUFo0mn1bfuMpmuyYgwUeWELCItqKO63JP-Qz_f7v7Ijr17p69dnG2BaasZnSd8KZ6qV-ZY33V4gkDJYjVg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Vicenti Barbearia Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/114318990025481635271",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYOnPsf88agutUbFpTszjROtdDuywVw8qXxZpQOvMMG3XcOXA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCikSxPmp3t5z4IBEy1EkWH&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCikSxPmp3t5z4IBEy1EkWH!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-vARpOsSlOIcohFzDxlkSa8YWplcMDjE8HqlJLTwm1Rp406GpOKIAhJOwFNr6WRL2N8UHtEtko9XQ1wh-FRZYx4ehtcAEhwTLya_T4GoH6zNJ3a5pF962fwX0-qLVUlAGhrP7Q42_dHmG_KyGdxuax0Wwhju_xTkS5Lp71v4ORlrc0873yVGgVT8JAN4ptvZmKVhnDKaUW5P_JdD7Xb5GsIFx1MGU12TDkHlcwa6ZDutghysVNrk6hzDD8tYrxkyb_NF8XTj1O77U-AHSbyQATk5i9yHFx9qKjc7pKb9c0moOGkaJCMW_DQ0KIw7GaR3lTU7xrhOhDOh_KHVgAgSlWMWaPATtFYZR47B0FlbwNTPyBrqs6_p11RQ5Ilag3QZ3cCFbgxy0F2q_d7IHJtF636wZBSBoO_Bp3cQDFtIaed_vaN5p0VHJ5hdcIYcskF",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Connect Maps 03",
+          "uri": "https://maps.google.com/maps/contrib/101494206290131427771",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDTb58Nw_akdX4cLzOJ2Ov3ouqp9A1StLcRHtuol0M6yX_K_I=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC0tLmFqXJJPC4bzzgPbrXy&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC0tLmFqXJJPC4bzzgPbrXy!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-u6bxB18gacM6r4l8jfFO5cKGflE0IlvmfsdMMO8IfSf6pbx2JyWi4gc238B7hFISJr5ePAP2KPjngkVmqd_aH6YNTBj7bFdtBFPKEDJvyW6qKUm2eM6kvgAVS_amVtnm3HKE9gFHQB_OG1s5sCa6icSGzMvbNqlIfG8_PggIwZS90mxxjGl6LmYZAlrSTnk-nQgN8IwV_3SJ73e8silg4MSF5eStFU7mqdEjbBp8XaVXoWFCe6X6UNR_XFbPc2_5WT5J_pSrIW3dfR0_kg7pRdgiMg5jmI1t2KApWup6FZalW9Ye9ZpoLczyTD6VMsHd0h_87Lnm0rYa6LEXPDnxr71Og5qbyURpwnqTm-M5JNks1BFtbaHkiDHDbyFSNQ9fkMBwcvthVvPq0yCp_kLLSfSEWFDVLdSt1MRDhFd6srVQrAaNWKPCPimLTsD9Ok",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Connect Maps 03",
+          "uri": "https://maps.google.com/maps/contrib/101494206290131427771",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDTb58Nw_akdX4cLzOJ2Ov3ouqp9A1StLcRHtuol0M6yX_K_I=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhArg36YVD_DUi5RqhBNxdGr&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhArg36YVD_DUi5RqhBNxdGr!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-s-cYNz1qAp-KWVnyFvyq_oVWBMWl_Wgf0rcNGBS7u8l4zsezCI8_G_AUuo3-G3_z47m1RbYYqJ9d4TwwAycJqvAcfEpc1yoYNsM7xzAy7yI-Xs0Vl29yvO6DXVjVpKC5OFrvMfmXE8XluZO9GDZGKstYIXDlDo_djWKwZ6B49dVC8DL2XSfVZSS8AACKfkoNukgSGF_FS3Rs21AfzOZIOwynkUvWn8rMo1LPax288nC3UcX_X3dfYekRzCpVQVTTQ6kNcD9wnBUal_BRK3wq1kYXr3GbDMDWUKG3TWRWbpJ0QeInKjE7wHPBSe5SdyHd88BnYrf0BaFnA7X6hkt2S6LatyFILdDxvKrAb1_oQM5pRMzLp9xLqk_T2H8khFVTMPbY-4gx9MId3a4ot-584dG7NRtQfr2vtGXPjyNCFn8kA5bAnQd01o2XgxR5RU",
+      "widthPx": 1844,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Vicenti Barbearia Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/114318990025481635271",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYOnPsf88agutUbFpTszjROtdDuywVw8qXxZpQOvMMG3XcOXA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAXh95wKUH3Gz0w3DfDWQrA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAXh95wKUH3Gz0w3DfDWQrA!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    },
+    {
+      "name": "places/ChIJHxvF8pZRzpQRdQUSvFXBDB4/photos/Ab43m-vgOSfTcgbapDiZDxQS7oFLl7xgAtSrQLLRNB7pxmaWNf9ds9cLGCZ5ev4W3lC0yg7qiLBjRCQ5zv1GZ93aouloQZwAFw65-PUtA35jrHIbwVvWbN19xSozxS0VTAXtwm8QiFicc6sebDs9qOq0zIQ83FK1jbEJ7P9uKu3Ng5EFr14N3i1R8ZdYDyMFDG3UxQ0shP1QyqP_Jtu95EMCOC7T0-IeOuD_Y_gt4H1lypsKZxoOyZ1oP23-QvPDxqJu2nKjTHcEIlhaIYp4jllvt_evUr2pCmm9dRS38wtM1Lf736tNr-8rh-nbZ5ipKYE279XymxuiuDpLJPueBp9_GgbhsVtoMdgIDoExsCrpl4Vt3iSzMH-ltzi07Lss_xVh1e2uYzzOKti5P3JNW3RC2wXArEj5LuL_cEOSG_EAJJUrTJ-rp1R539664O_iQgLA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Connect Maps 03",
+          "uri": "https://maps.google.com/maps/contrib/101494206290131427771",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDTb58Nw_akdX4cLzOJ2Ov3ouqp9A1StLcRHtuol0M6yX_K_I=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBZCGfgNwH55qqi69iCJmxP&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBZCGfgNwH55qqi69iCJmxP!2e10!4m2!3m1!1s0x94ce5196f2c51b1f:0x1e0cc155bc120575"
+    }
+  ]
+}

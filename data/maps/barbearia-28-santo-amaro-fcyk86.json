@@ -1,0 +1,368 @@
+{
+  "id": "ChIJJ2tL_IJRzpQRqNSFeiI4mls",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 98067-1372",
+  "internationalPhoneNumber": "+55 11 98067-1372",
+  "formattedAddress": "Rua Desembargador Bandeira de Mello, 496 - Santo Amaro, São Paulo - SP, 04743-001",
+  "location": {
+    "latitude": -23.6534463,
+    "longitude": -46.7022127
+  },
+  "rating": 5,
+  "websiteUri": "https://barbearia28.com.br/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 19,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 19:30",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 504,
+  "displayName": {
+    "text": "Barbearia 28 Santo Amaro",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Rua Desembargador Bandeira de Mello, 496 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGV2IwRlhVSEYwZDNsM2QyMW5TVTlhYzFreE1tYxAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Qualidade e Conforto\nAlém de Profissionalismo\nSou cliente a Muit tempo e trouxe Meu filho (03 anos) e saímos muito satisfeito se vc quer um lugar de confiança para cortar o cabelo do seu filho\nVenha com as expectativas altas!\n\nBarbeiro Jorge e equipe parabéns!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Qualidade e Conforto\nAlém de Profissionalismo\nSou cliente a Muit tempo e trouxe Meu filho (03 anos) e saímos muito satisfeito se vc quer um lugar de confiança para cortar o cabelo do seu filho\nVenha com as expectativas altas!\n\nBarbeiro Jorge e equipe parabéns!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Alisson Queiroz",
+        "uri": "https://www.google.com/maps/contrib/102778392677903680150/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXs36UGEOFhfnh4wVwCBBgWjBpglGQ0RgqsydAkNxlC-zfo_oPc3w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-16T15:23:50.280939169Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGV2IwRlhVSEYwZDNsM2QyMW5TVTlhYzFreE1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGV2IwRlhVSEYwZDNsM2QyMW5TVTlhYzFreE1tYxAB!2m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sa2JtaHdNMXBRUjBwWWVVTktjMWhVYUdSbVVFRRAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo atendimento, ambiente agradável e profissionais excelentes!.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo atendimento, ambiente agradável e profissionais excelentes!.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Felipe Santos",
+        "uri": "https://www.google.com/maps/contrib/110949204190612574225/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXsWmwEv4coyfNrdrVH9SBhShDbvCuMfCoxOxJyVYI434VDsbE=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-26T15:49:33.136427941Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sa2JtaHdNMXBRUjBwWWVVTktjMWhVYUdSbVVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sa2JtaHdNMXBRUjBwWWVVTktjMWhVYUdSbVVFRRAB!2m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSa01UUkRWVWx4TTB4NGFrdFhNRlY2VkY5TGFYYxAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo experiência, podem marcar que vale muito a pena. Paulo parabéns pelo atendimento e profissionalismo!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo experiência, podem marcar que vale muito a pena. Paulo parabéns pelo atendimento e profissionalismo!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Julian Orneles",
+        "uri": "https://www.google.com/maps/contrib/107049085902856372099/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUE3YS_pg1WYvGw50y-F-DURuCgIPhV4DGT-fMR7dDcsM4BJzf1g=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-18T16:58:54.040152681Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSa01UUkRWVWx4TTB4NGFrdFhNRlY2VkY5TGFYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSa01UUkRWVWx4TTB4NGFrdFhNRlY2VkY5TGFYYxAB!2m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUkxXRmxSRzFoVkd4TFNFdElMVE5zVlRFdGJXYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Melhor cabeleireiro da região! Ambiente agradável e profissionais extremamente competentes. Sempre sou atendido pelo Paulo, profissional demais!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Melhor cabeleireiro da região! Ambiente agradável e profissionais extremamente competentes. Sempre sou atendido pelo Paulo, profissional demais!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Murilo",
+        "uri": "https://www.google.com/maps/contrib/102955629436780881809/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXS5qe9PglPvvQVIVTAipyNTRXhc8ZveZZQFgLkv-95XgcIBHpI=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-29T20:52:11.991538309Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUkxXRmxSRzFoVkd4TFNFdElMVE5zVlRFdGJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUkxXRmxSRzFoVkd4TFNFdElMVE5zVlRFdGJXYxAB!2m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pReU5sTktWbXh5VFdSeVdrWnVVM1ozWjBGSE5VRRAB",
+      "relativePublishTimeDescription": "10 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Meu filho ficou lindo e amou demais o ambiente e os profissionais de lá, principalmente o Paulo, que atendeu ele e fez um corte incrível. Lugar maravilhoso a unidade de Santo Amaro! Obrigada 💚",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Meu filho ficou lindo e amou demais o ambiente e os profissionais de lá, principalmente o Paulo, que atendeu ele e fez um corte incrível. Lugar maravilhoso a unidade de Santo Amaro! Obrigada 💚",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Camila Giesen Vasconcelos",
+        "uri": "https://www.google.com/maps/contrib/107167365141283992758/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLqPwDXbN_jsbR-K2nPQhHmCEJJPUyhAMfVSmoy8dnV1FwuDA4SA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-07-30T23:08:04.998366875Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pReU5sTktWbXh5VFdSeVdrWnVVM1ozWjBGSE5VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pReU5sTktWbXh5VFdSeVdrWnVVM1ozWjBGSE5VRRAB!2m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-shQaLyrZ-nu2FhtJDbaLpVVtUpR47ggTITBLMf-nLlE6IUoSrLBOdsePZ9ThmLcFjn2qQ9W2dVG3RrE3HIHqKOs2VbojvL6NM7hFwGRZDnfy1mW-gZN4ZvJPnhZS_Cj2l6LaZGYEcktZwee0xNqs5RVxyLJug7zNTt0Uh852mXisJJ6IAF6cwdHJHXs1iy_ZXJth0VMky9GihFGpekneLvkj1Nsul7PYvmedJbf8hIDeWjUe3bodqoFQtLvSzLpE42bNbWFheU7tREIiv8qa-iMf1KlZckRxpGjBLOekLBqes76ycfkIF9ntghB_SKphOQGhfa_9P3mIDE9p_1Ux8s0rR6DJbmf5IohOnZTTK5nJI8UgE3YCGxN8ef0kvc4z1tO1YV_jACz4YpifXAWvkRF31MHd2LWge-I--IBpdWKA",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAj92RHg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAj92RHg!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-ugPLlKpupzkCzQYDf8eZ1gz2N5axKazqcoC4WbvnTQjb3EF7tvhZ6fB1TI9EOSrcWhTk3OZPZjD3VToYdYO9LnnEu7s8rVISBSVAeaoT_p8hzVhZo3iN47nNOeUw4kCzvDFlSjBhlWEDHrCpUrF3Fi1rZZ3u7WAgWln9SAZ-JQagrspr-WcSQoKH3Yd7CZ1F5Gd4o8tdXWtE95fyMv89AqHGOMD-5U6Ke8mIq8rWuysb_YQaT8u8hqxKeNeobAuNIV8vr_ot3Or4LlSKRxXyfkfxu2kZCeoJwQMyHwJrY9tuX2Ok01NgWHu9efMjuYU_fwNx_mGg7sLlTp9rQ532DboVOL-3hO7Kixq-wxP7727k1nwUlfp_875c7qQ-6uanK3cRXBrgA3ZPfSlXbf6t_a_8y2pSWFzjCZecuVNlo",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAj720KA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAj720KA!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-snuOQs6ahPTxNVh4WLEXOYi7o57pc7gI9dCQif8B_7sTut765LOjGRpiZXSXDIVvs285239YhEfRj3jVZLuxMuBmpxCz9I7s52Z59B2ZDwWr4RvMNxD9Dad1e5l53rAD9xqT3jp6vgJWQ6jhI8N_2ezImoSw8SLKQkf3-dJ0fBh86FWajuyxn5Ofj-BWLWhH7NJJVeCH9p5qf4zk72LfyhYH-I-vbIyLLUp9vAiIZkJEqGyfFHHi-VzFunVDSPvMmw7x4fd9FqQFrxmnMymKgFthS2pAxs7TKH8jEbaKvEnqLwFFKbNknZ2CpCx8Y15KCGNdE_c2Vh1wUhEEEHVJ-DTG8iviC3wqhZI20GgB0eJ38rrW6nGyylhB4m4l1f6fkHUw7Fcs9qTJhCK5rHIQe-rj5Ao1g_Xwlua0TlyPyCB170",
+      "widthPx": 3416,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAj93RkQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAj93RkQE!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-tqIyCnEIss4GLhI4XyUgeYYYBjZ63Nrc93yLDBVya_apLGF8h2hKVqxMZij-U0pbAKMH4oCZA9jfGv3gSVfVzDL2sc_oYhzE5HW6zMwNRc4IxW5S8dYFUjo4H59iPBwj5AvC3cmbNDWcb14Pu_F4MyJSPU_1S6b0yo-f-oBuCBZd_D9NLfDdtTDpAasfXnp9V2XKQ_gi_39SmnPPgAJmnzhkikvr66gBoqY7tV0ZVRzwuNSJ2ZnND4BIXx4KqNiG5byfKMLb54IDqh5_Br8Bl_42euJ8UwIKOrt1gJGPkwXw3TqIj7JvtExTL1PsDQ6bL57Z4h7oT6e65L_0F6kpEjVUsqX_Pc3mhz2c9n29xrK8pVMOdkPd4RnysF5dkl4KyCs4nlQCB48iSK-Ajb4XwdPG9PelBgMGTmaNtwv9qkMTGgO7pIZn8IRTbgrw",
+      "widthPx": 960,
+      "heightPx": 1280,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCAPgu-eE7p8VhcHW3HU_j-&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCAPgu-eE7p8VhcHW3HU_j-!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-vxY_OfMXb1fLVZCcS0jILdF6UD2PFOo4459-y6XFqFyfGOk5mf0lRqjzEDQrktJzTI5INwOGng2nCK1R3EhJhrBtnzObb7NUjZ9nkoUOs0hmM-WzaQMR5NHLAphnWj4FYhA80paY-K8lgI6ltIi6tI7zIGUs26uocV3cSQ0mlUJGzNt_l9ZiWt2UIJ-niaqBQ3jAybDBZm21LZHgJk-FdWiJkiVh4gZPL9GDn_lTn4v_C7q13iLDGIaYOvUHrNztnqhF1oUBIte9oQigarQUB3ugzbknP2GHSvjy2Hi-i7s_R7Y0nJ8TntQwA4XMLUcXiqUNZ2vS5Ur_MhSkjnimkgtudfKiTn9XFLBf4HNsT_rbqgA0hjCY-ZAiiysGoRJIzkobYEaK58BjmCnR2Q75a92IQAWkds5YpmchnVeZeo8PCHftNMDEH_uFvijHm2",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Guilherme Marouf",
+          "uri": "https://maps.google.com/maps/contrib/113402768524450952789",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqTLY88EkwLRbFTuDFzW5lWAaFG0-lCCOAiKzb3wxIOcu2iA0r=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCBZtN9SzomhAsZYefpB2uz&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCBZtN9SzomhAsZYefpB2uz!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-tV-IA3MW-BePde6FLEBEgst1TW-Hlyq5Mq1ddkl-NXSgvlVZDzkjMY2ODkqpjQo8Z2tEhTdgYefLP_JgIbs6Rfmua-daQHKjsnIHNVNtVBwzmv3Kd8WMuWClg3UWgDriHGu7IYgW1HBZ-U8A0Dux7j_HwepDpvMpoLW7Iqx48VtxZja0xWEeHk04kIP2xu8rI1N7ttKtcSQNOjFPjgnv8pw2TjSQryF4pxFnt0-bqjeP4ptitm0My60X4lUEXDqlgRxZgbxJKaKen4PwYks0FjF6pjxswjJg0Iuzq_3bQaNwGGQwVlm4mZEd7KlZE9ECvitUI6GHayZC9_CCfYx1J2V5j5zW9R_D0MxcoYh6_S-lPp3ybK6gEh8Eh9hEozGtmwbmY5I06SUi4p5Bwypq7i26Bhq81P8ckhP-n_PotDAw",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAj53UUg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAj53UUg!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-uBxP0yO6TY-IAaeo9nQ-qQQ9eR8mexH3DBTy8FausKdkfnyl3D1IY0MmQtAsOSrqIHRYc6UYoEqTFh34G7PEWl3itKAcv9GgCzinAJ1PQm2iYvH6PG_HJN_pVNPS2btxp_ZNGTtNe3grosw11jujeDmAJQOHehFAGO0F3PUaaJ-iu4_Hma-wScEeHTqQh9islW_xlBo8_SRZeCV9tSMzT6PHLcbRSuQriHX4TvP33hbYnITN5qRh2Wpp4oDoYDRFM1dQYryU4Iz4BN9CVgzL52Ky0wct34n-rQsBKgzSVj1zMlCNieLDKi-bagcEcxe4EhyxJ_zjdZ9H5wHWRAfvoVLHypWwIXduvULTGUNiFg_nqmR25RCHFcx08IX-8VgdRq-8X3Md7AGVSVNBQAelwPazBgOKgrNGi3lbZ3Y147UMk",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAj72i3wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAj72i3wE!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-uLHJPPEpHfdfNk5kR_FKnwdn4T5avhYQzP10RnRV3dUt4ydbcP6uKwFfq8iCkLSbmm8thwHg7OeQmJQbhBaqlZQ1Fq3gsrtrnA5D_PCdi9LkFSYTWDBsBoFUPDsmSnLXkkUbz4UHrB3q-Ta1aqxWU52mADFriHoz2-V6OoocNXSEP6bJBq3zmvMV7Bkcb_zEshQqMBGSVpA3RSnfsNWS48EWwMW5-f3ePqOp_nF6peme5Yetgxk0wxQnsRsj6vON2QtBXbYQxolntYw_O3zqD8G-p-clVm1Y6U-v080EAz9O3DD2mTW7h5IxX9wZ7tFp9VKjd7dzwIl8tUAcXSNjxknL7DTwsbHIU5RSWzCqVQ1JuFNyl3Qapq3I3C2U3RBQy1G2A8qpx3CIgu-tbIvaMZ5Ou0iNZLD8K0fNDu_VV0aQqA",
+      "widthPx": 3200,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAj62j9gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAj62j9gE!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-vUk9Vj4I_QBriWjyKNNI94rioMTudrYw2vIgWEFKBbZBttTeIsXoB074vT0h-bJ8mRtfpDKbOpMU7kssj5M_ziJUqCUi4At1A5-Z1rETrPEGPCPqGKCziVw6rJ0c_I3-SMMAYTEQYM3dFlKfxxg-2uwSOOo1U-Ny_m35GVSirBKbppCeTqdZ2bOwgrzV5Z6LbwOnnAxYxLcf_0XBY0JjWJqL3-mz1HsYCybxJiOZNUf6xfQCUT_xlpBQh15nQF3VrDqYylk8I7J4nJeVAo4xHW3JfL97dSZI3fdt7X1jbRXwv-_GHcVPGS_i6qQt4GEyqkD_zLCUjWlLqgelN7xm_m6TiHUcQdvnuTg5CP5cDhS8TxIW7E8jhwaN18u7GqYNh7LX5Cc2LJthtqrxHVojc3p_QjtShMG5oVXJjDn6d3Cw",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAj4PEcA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAj4PEcA!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    },
+    {
+      "name": "places/ChIJJ2tL_IJRzpQRqNSFeiI4mls/photos/Ab43m-uMNCsN75TlIGBR_TGPfhOS1abHy0ML4mvjJwfM2BfFddlgRobQBzogiEGrGK2cHjHBhM-zT8NHN7EZsxtHwOQo8P3J-ovS4hzZwRv3fXNFlujNtC-2AZqRl0ue-m6OE8MJ0KKvumsdQSBpIPbFqFNVwcrAy0WbBgAjEDj1MjoWkPVsv2_JLtOycbT0bVr6LvEaTrcS3ezVFZrfobfwn4XJRpZcMr7RfMc0xp5LvGd5_G_YBTe1K4-PtrOuaSMjZFQUMiR0xAD6r66x_KlVTeG9dN5yA4iMIBRf4t8VPYZ36TmyvEPekAVFWzYn4FWNI0a6Cuq6G26XF_6xV3qi3b4DRYHg9eJbOg3E0Q95En8Oo3DCad8nzXgP0jOeo7OfEkMF8nYtcVKRZ0ONrk13pAGyyoOQNSuNV3HbU_K-J4XYXzY",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia 28 Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/103224863973064177241",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIqJgxxt2kconYd_xjLiKdw8O1ZxUa_twLAHt-GNYA1W5PaPQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAj93XgAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAj93XgAE!2e10!4m2!3m1!1s0x94ce5182fc4b6b27:0x5b9a38227a85d4a8"
+    }
+  ]
+}

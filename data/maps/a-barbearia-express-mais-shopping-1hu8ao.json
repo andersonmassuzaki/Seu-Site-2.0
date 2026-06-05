@@ -1,0 +1,380 @@
+{
+  "id": "ChIJhe-BPXtRzpQROKpqpis3BM4",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 91306-1616",
+  "internationalPhoneNumber": "+55 11 91306-1616",
+  "formattedAddress": "Mais Shopping - R. Amador Bueno, 229 - Santo Amaro, São Paulo - SP, 04752-005",
+  "location": {
+    "latitude": -23.6534552,
+    "longitude": -46.710493299999996
+  },
+  "rating": 4.1,
+  "websiteUri": "https://instagram.com/a_barbearia_express",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 12,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 22,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 22:00",
+      "terça-feira: 10:00 – 22:00",
+      "quarta-feira: 10:00 – 22:00",
+      "quinta-feira: 10:00 – 22:00",
+      "sexta-feira: 10:00 – 22:00",
+      "sábado: 10:00 – 22:00",
+      "domingo: 12:00 – 21:00"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 174,
+  "displayName": {
+    "text": "A Barbearia Express - Mais Shopping",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Mais Shopping - R. Amador Bueno, 229 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4eFdESXlkMUpzTWt4cFgwSmtOVTVaUms1NFdWRRAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 1,
+      "text": {
+        "text": "Nunca vi algo tão ruim. Corte sem acabamento mínimo, pezinho totalmente torto. Querem cortar um cabelo em 3 minutos e fazem um DESASTRE. terei que usar boné até o cabelo crescer novamente.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Nunca vi algo tão ruim. Corte sem acabamento mínimo, pezinho totalmente torto. Querem cortar um cabelo em 3 minutos e fazem um DESASTRE. terei que usar boné até o cabelo crescer novamente.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Flavio Lira",
+        "uri": "https://www.google.com/maps/contrib/104322691488901104786/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFxCd50TNSNOLobapKqCfmcz6Y5mjJp6Oewm4YWO-kHD2hAg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-07T20:24:39.668332034Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4eFdESXlkMUpzTWt4cFgwSmtOVTVaUms1NFdWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4eFdESXlkMUpzTWt4cFgwSmtOVTVaUms1NFdWRRAB!2m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WTmNuZHBhbDl3Tm1sclMyWnVSekZXTFV4NVoxRRAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 1,
+      "text": {
+        "text": "Um dos piores lugares que já tive o desprazer de ir, não é a primeira vez que tenho problemas nessa rede, hoje decidi dar uma nova oportunidade, pois precisava fazer a barba, gastei 60 reais num nos serviços de barboterapia + pézinho, pensa num dinheiro mal gasto? O “profissional” fez a barba de qualquer jeito, era nítido o quanto ele estava querendo acabar logo para atender outros clientes, cometeu erros grotescos e agora estou profundamente arrependido, NUNCA MAIS piso meu pé nesse lugar, uma estrela é muito para avaliar.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Um dos piores lugares que já tive o desprazer de ir, não é a primeira vez que tenho problemas nessa rede, hoje decidi dar uma nova oportunidade, pois precisava fazer a barba, gastei 60 reais num nos serviços de barboterapia + pézinho, pensa num dinheiro mal gasto? O “profissional” fez a barba de qualquer jeito, era nítido o quanto ele estava querendo acabar logo para atender outros clientes, cometeu erros grotescos e agora estou profundamente arrependido, NUNCA MAIS piso meu pé nesse lugar, uma estrela é muito para avaliar.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Matheus Maurício da Silva",
+        "uri": "https://www.google.com/maps/contrib/104184475702816445300/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIHgk6_ORwJIQFB0iHsP1ORu2RN8C1ZgDGe6ItuoFwTJdfidg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-09T01:44:37.095814881Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WTmNuZHBhbDl3Tm1sclMyWnVSekZXTFV4NVoxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WTmNuZHBhbDl3Tm1sclMyWnVSekZXTFV4NVoxRRAB!2m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ac1dHTnZSVEZLZFdGdFdVaE5TV2xyZVcxMlpYYxAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 1,
+      "text": {
+        "text": "Vim hoje no shopping mais, cortar o cabelo, fiquei quase 1 hora esperando, saiu dois barbeiros para ir almoçar tendo gente na fila, teve um barbeiro que atendeu outro rapaz por fora da senha que estava disponibilizada. Cansei de esperar e a sorte que tem outro salão bem de frente, sem contar que aumentaram os preços, e tá quase o mesmo valor do salão de frente. Cortava a ano neste estabelecimento não volto mais!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Vim hoje no shopping mais, cortar o cabelo, fiquei quase 1 hora esperando, saiu dois barbeiros para ir almoçar tendo gente na fila, teve um barbeiro que atendeu outro rapaz por fora da senha que estava disponibilizada. Cansei de esperar e a sorte que tem outro salão bem de frente, sem contar que aumentaram os preços, e tá quase o mesmo valor do salão de frente. Cortava a ano neste estabelecimento não volto mais!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Diogo Macedo",
+        "uri": "https://www.google.com/maps/contrib/100070318320865330445/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjw0io0-BlEPBfrtv_gDYIEryywv_voG-fbqGhMflFubPeAOuJkg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-13T19:22:47.544465094Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ac1dHTnZSVEZLZFdGdFdVaE5TV2xyZVcxMlpYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ac1dHTnZSVEZLZFdGdFdVaE5TV2xyZVcxMlpYYxAB!2m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3MlMwZENTVXBEV0daSmQybFVTMUJ5VUhoWVVGRRAB",
+      "relativePublishTimeDescription": "8 meses atrás",
+      "rating": 1,
+      "text": {
+        "text": "Não volto mais, fui cortar o cabelo na sexta, falei para o cabeleireiro cortar na máquina dois na lateral e a tesoura na parte de cima, o cara entrou com a máquina em tudo, não sei se ele era novato, não fez o que eu pedi e ainda ficou se fazendo de desentendido. Deixou meu cabelo todo desestruturado, agora vou esperar esse desastre crescer novamente para corrigir. E pior que não é a primeira vez que isso ocorre, só que das outras vezes foi algo aceitável, mas dessa vez foi a gota d'água.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Não volto mais, fui cortar o cabelo na sexta, falei para o cabeleireiro cortar na máquina dois na lateral e a tesoura na parte de cima, o cara entrou com a máquina em tudo, não sei se ele era novato, não fez o que eu pedi e ainda ficou se fazendo de desentendido. Deixou meu cabelo todo desestruturado, agora vou esperar esse desastre crescer novamente para corrigir. E pior que não é a primeira vez que isso ocorre, só que das outras vezes foi algo aceitável, mas dessa vez foi a gota d'água.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Matheus",
+        "uri": "https://www.google.com/maps/contrib/102273355980980111233/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqKwVY8FZc8q6EWk1uza7OPs08j2Vho7WoDCgoqULX1-aSzQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-27T22:59:16.825380914Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3MlMwZENTVXBEV0daSmQybFVTMUJ5VUhoWVVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3MlMwZENTVXBEV0daSmQybFVTMUJ5VUhoWVVGRRAB!2m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/reviews/Ci9DQUlRQUNvZENodHljRjlvT204dGEyaDBWM04yU1dGa1QyNVdjamh3YkZaSVIxRRAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 2,
+      "text": {
+        "text": "Mesmo mostrando a referência em mim mesmo barbeiro fez o corte como desejou, além de cobrarem mais caro para cortar cabelo afro, mesmo não tendo o mínimo pra isso que é um pente garfo, inacreditável",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Mesmo mostrando a referência em mim mesmo barbeiro fez o corte como desejou, além de cobrarem mais caro para cortar cabelo afro, mesmo não tendo o mínimo pra isso que é um pente garfo, inacreditável",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Giovanni Barboza",
+        "uri": "https://www.google.com/maps/contrib/100238985459286995181/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNT_HQckWpLK6Au8YBCvILjUihyvb6_ZHgyfKHHsB_6nIkhsbc=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-14T23:11:07.012898488Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT204dGEyaDBWM04yU1dGa1QyNVdjamh3YkZaSVIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204dGEyaDBWM04yU1dGa1QyNVdjamh3YkZaSVIxRRAB!2m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-vEa1cnC4ZKjukwv1vLROLjMyCobTOC1C8Nt0NKnDivh-0TwBHlXdqgxbdK5BXBCRDthZ-1kc_DmfUcqQW0DjsWCWp56rI19bCvV3_3-uJbUozQWwHJ-VJ2QLewmmxokUxw7fHp8dGAUZi101OFnQajSm2oJsEkMOwqpDCElXMIqqWyN8-hFldd7Mk3-RBJNZCHWPYHUv-SehC0zu6EQqNCzbm_zFkKdyqVBfanPA5qZ1IChKJ5CBjcQBNDVAsnRCLHC45ulz7bPn_4-aKDnMiJdwv8DMccgX4anDuklzEBF8nNrkvpXJLnMRSRH_x2sH6zlc2MXCrogis2axFqQGGF2Fy_FtHH98HW9lPv6hxiac-NgwprIwzn8TbnhsNvdppwyxCOHI5Cw_Vk1VZ2uNiCNF1v_j37wQb8oAVkEDH-5XXT5-fh4NnzOe-Uea6S",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Smith Alves",
+          "uri": "https://maps.google.com/maps/contrib/105567771759378559349",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHfLXCEeEsQUK4M6iCvIvxpglEcKMHQwGks6_YQ9Ti5JVHIA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBwojId8V_zER_p1NrrG32C&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBwojId8V_zER_p1NrrG32C!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-vf-dTRdApyJ4_UmrmKLDDWsni-sg84PnhryGVtCHnxu8BFm2A4jptzAWKrsx0NtR5xi0PzWovbL_JatemalpmYs8z6B1PyHdQmBPPM2rkCAsacpUSzIvTm0adK5VzMcY19BHhg_g20wQFsxCn3ScbF5pbjsb4CqHqhgiJIomx7nq9rK7oQe--qjZyvISUPMQz6nkJ4aYHDuV-aHxNGlUqkw0IxoIo2zU265m8oFj5wk4rWGRYBeUcMyMDMJoeblHy3TVgsnkZjOnmoR16QoeSgcGu0wfyklfBV2oJMu2Fprmjaoq6DI-rgH_onQgwbO-V7sYAOvg5wiq4khWpprJBEDzPFmoMnPzxLmShhbZHJM1fxnAWsanGbtZSyXqaf6iZtOxq_qmiqD8QwlME5Cv5SQbWe4AdF4wRuh5An83LwGU8",
+      "widthPx": 2048,
+      "heightPx": 1365,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Mais Shopping",
+          "uri": "https://maps.google.com/maps/contrib/110980771606819130910",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRgL9WOmSoBD-pS0H7hS0bhB4_TyR1_9GiQeIk6O0R0PYxLso=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICpvqOXxgE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpvqOXxgE!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-seT47D5d2j99WVtxA06OG4TuS7jvT5em-Aj3pamlkGxdeqxJ3qIDGyP-qiLwK88ZjgS3Ll-m4F9mmYfbz_QHRVbW3qf10ho3hfuUqDJAOClEIHYj5BMXTHEq_TY_6Fwc0tNvSHMMOygorzJzWzJWXOY7VW3fdfLLBC8jV4ZVcgqR-NpZjquhccrquCZ2fLkLtKpCNdA51nWhkZ62lPOGMs1-EQyOeKDe4627QuxE8nF7RxkOMafbe7utarHSllbJtA77-uaLLqcTNV3GS5QpxmrNCfDPHtEjbPeAUVOpYr3Tm6cqfjM0VAC918IN73LTCQjACRK5bfll25KRrnYpHN10646ymMNJUWyO93EfFpUuxg2siIdk4dzQrCU607fgdL5CxnsWGAusKWR-z5Ja1s-Ggcn3Coog1dvnr50nURPnwT",
+      "widthPx": 899,
+      "heightPx": 1599,
+      "authorAttributions": [
+        {
+          "displayName": "Marcos Borges",
+          "uri": "https://maps.google.com/maps/contrib/105444738654215571781",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbAmYoFyw1L-RYrdsIj9hZLBxQiyULN62V8MCFdT_-p6zJ3RUj=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwpILosgE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwpILosgE!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-sVgJKBcTOG2qQlfKRKm2CLd5Cu740Ox4vBwIBvTACqHGo3Gi4yaI7JU-A87wtGILZYBIuBIrP9VVNr4yrxoZUruWLkWGKZYLXCY0h-DTQbFMfbFAbDXOPjqFCpbWRpKBAwSaTTV5mddY3h1ERfHqAJ5utahwYtAEY6w9eOaevtjsxaN-dod_PARa7mOxMmMg7V0KnRzubdlL1lf3TsBFk0oelwzWNN--lMRueb5eNFcqYjPo02kvG0aZooOGCWbmwPmJCEKFjonWNxXmMcjQPKwICa8vOGjXWBO7-r2qVPaa_JRjUjNuiUQKEqf1mFYMFaCa7MSvbftUcCQBGdArOBRaA-4QIyDadx7sdbIwP38d2UHoQEtuEIBXPFPMmokdskf9Q-zlxUIez5OEQadn94oIzJFgj1takQlLatFHq1FMsu",
+      "widthPx": 3000,
+      "heightPx": 3750,
+      "authorAttributions": [
+        {
+          "displayName": "KLANGO YT",
+          "uri": "https://maps.google.com/maps/contrib/114707314587540216732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViOwOagVRFlP27Le9NaH6FvB3-TBX8QzZBOlEFEUYtNmdDhfMu=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrio2ymwE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrio2ymwE!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-tcMYz6RHWhMuEz-2Hi9hJvDz-ZCePOimYMXBXwJOy5X-GrL6gXnaovJAB12F2mz_5eMwZETG1Gpq6HXBg9a9N0P_zDhkuUKYTGT-llAGRfIkFOO2F_T1mJ2PpAUE1UGEUIPNiNGTIg2pHZAxU68fr5umZQK_gUnGJuNr5YM5V0pWupHPIGQIczicG_zRz5dIoIe2uoEv0N1sJiHZIS-8au3ziTviNiNXsER-68vmwZ5Bp6I81Z_XekGvDsj7fSqCuyY-tw7ZK-4ZXLfzBm4lZxVA3iELzo9PI8MZDDAAdVYNRQK8-rYBoeRLxKysXtNFV-XffuguF_zb43ET8uIWYyYjZDJL2_HRC7OrvRLK_3ODbUPbuUT_rGUdiCazTVuS03ztNlHbUbu6Q5OO07-zFGAD7VCuLlhqVWS001nVY",
+      "widthPx": 1080,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "KLANGO YT",
+          "uri": "https://maps.google.com/maps/contrib/114707314587540216732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViOwOagVRFlP27Le9NaH6FvB3-TBX8QzZBOlEFEUYtNmdDhfMu=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb4P-VSw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb4P-VSw!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-u_xY5NkyK9_N8SvqrIVgjMQb2dcalrqQoy-55m4_TUZK48jjYoG6CHrHnx7oCQwlpF8eQr4P_EcPOBYoKbHWnPfQDse3-il5B8imv5byqT_Hs8FtImXhSLovbMulv2_r--hwxNJo4FSP3046_Jb4ILZGqJ0FYLur6968H_3JcTRusJxu7KIY1fK3TiaSRXZ4OHn1-Lb4JrqIkYjgr9PjVjXeXlOeGS78HUkq9BUdWkjezlQ5-o6fmQxantOMKEOdzLMUt2O0CWs6Yat8SAbxzf2OJn6DGX6PRg94jhRHvQMaU0w17zHkd7Fglb3DdC2wt5rJmHRwwEE7gMf6CkqkVsPZl3Q6kY4YZ_SJenUxqWS_LjX6UpmqptllnCdyn0ONCKSRFnSFGIT5IcbdNDhKtz1YNB-ptjkbdVBjptGojwbA",
+      "widthPx": 1200,
+      "heightPx": 1200,
+      "authorAttributions": [
+        {
+          "displayName": "KLANGO YT",
+          "uri": "https://maps.google.com/maps/contrib/114707314587540216732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViOwOagVRFlP27Le9NaH6FvB3-TBX8QzZBOlEFEUYtNmdDhfMu=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrio3MHQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrio3MHQ!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-s7vD5PLimv0jHgaI5vMkO96HLebploGliZwDPtGzjeaClYUb6cjs4Z-0A6A4jD3Q8oHwFAxLYjQhY8-GYE3wAKlcU3ZwNROay8lV-a3Zwo9lhNT084CeUx8MHrK4pZAnXJK1U8G-kplQjVeFgotnbKaC5DtlG0eMUkMOF_2d8uXDJaw0fFvInTgTiIWB9lCsOWtQxG1bDe6Y4PS0RxT3qpRkpxhMMSk4IO-K293ix_THkCwr1PbRsjUKnbOaa8rvEP0q7ItP_btvcHrvYAOG4J7yGJ3V1RARdhNiLZ3i6RpwAaHRI1txyMG7CYVOwE_1GKhJgqObKQWq247h_kS37MdHtqhWfbZhsNc6M0NhJQUrYCemIVnoNVlleVKu6-X5GKuBi1l7DtM6lF89-Pa3avQvC3oeYX_hXN9bYCngtdRay9",
+      "widthPx": 1080,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "KLANGO YT",
+          "uri": "https://maps.google.com/maps/contrib/114707314587540216732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViOwOagVRFlP27Le9NaH6FvB3-TBX8QzZBOlEFEUYtNmdDhfMu=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrio30ugE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrio30ugE!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-vtCUI-mtxg2ErS5UhTRt2NeiplhqB7gKSQqWIyU43qPhg3lTzfGbJes31PBb4OzDgg_rok_soDq6OWYze-X557FMtGA0zbVKpfl0MxF9vT-Bn0vGHTzGMBtFqFs3YMKdQxp7MEnd4ci3Q4h3QKX_PTd_Khoaep4aIoVaVGNWgWK42p40OpvEQbZy2CZ53H3AwvaXft71hE7ueJHJNCd1J69XqCYucRVhmfIRjtu8e3OkYLR4w6Wluz4RpnYrnuz0BfrNwKd2BY5qby3208EZh_0XEoz-x404dYKHWcSIToIsaexhrtrUwl35I0ZAA905JifP47OO4kURNPTziMUr0b2L7waeITtF6ElCREZ4C04KIHYRFeQ3EhCMUp_a1BMtYU3C7jDtA1hlSp2g7uLt0WoesJZDO_2K0ZX3aa9vjur2k",
+      "widthPx": 1080,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "KLANGO YT",
+          "uri": "https://maps.google.com/maps/contrib/114707314587540216732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViOwOagVRFlP27Le9NaH6FvB3-TBX8QzZBOlEFEUYtNmdDhfMu=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrio3K4QE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrio3K4QE!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-tAzNHYnjlPORSJKTroKUG1n-07vn5GvH9lx7dkySMOZHmf2Rv3yptu4FrRKeRt78v2tket35TBXcviTnqMVivRVMcXotYXc4QbiUTCM7Cy7nu2CwiXO8MDFpetOp_YfDBJ4mo-ZpASNce-seucpU5ndhVx_tSgKxI0EHNo-J8EobkSIlAu1aPJdYw3VxZAqDuf_V-tOCIA66KM7NFgeJfVp52ICzfN8HcgDBe__UQY_B96W104Wc2iNpWgG2oijWDMBEp3ceFYosDIJRjOESNXYH-tVXU3YewKwBp7wjG9NIZ-FVp5fGvgyZ2-1fcLXqWod0Q6eh0bpdxJ4RJGvi50KL3iDzxZdVFAZ67MK4BOAdtTC9LjSvlfAGeCVu_JZ8MDWxQdrTZcazvfG0n5Btbni1zUYogDmodZUY-bVp1tHA",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "KLANGO YT",
+          "uri": "https://maps.google.com/maps/contrib/114707314587540216732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViOwOagVRFlP27Le9NaH6FvB3-TBX8QzZBOlEFEUYtNmdDhfMu=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb4P_tUA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb4P_tUA!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    },
+    {
+      "name": "places/ChIJhe-BPXtRzpQROKpqpis3BM4/photos/Ab43m-s92wf1q2MvlthlfGPCzXAx1qxrtzts6zQz97pwviK_k6ySopPLzE7ox5hkurMb3OP_2945wz8oHM9FzXNLWYrYwIX71MDCeEO03bQUZ-lM505JOqCw1Feo37x2PjEBijRz7a_--hnJpVJfQV4OizzDb_W-yjzMKNJ7eC9uzyDftReZSIUXH67ht0QaaO_H9_8hk_Xs_7t42JwbxUF6DDEyUaMb8EgWJKcUTvnmlyTF7GF2aZIerUks9ATFVhxFlQIL8PmvcOwHDqfWXq3rrwdUEmMbxuHHRuWQ-YUfi2rS8rwm2TA094raBCpSpkZIr5Mlfx5I5tweL2v8XhYr1zcTUOdH88OOJsmQEOek5J3poa9XtakZRoS6_aqMmgavPj_v7ntMz4I65uW-xrzdY9VevOn_69JtQDgDfIjPVX7uRw",
+      "widthPx": 3000,
+      "heightPx": 3000,
+      "authorAttributions": [
+        {
+          "displayName": "KLANGO YT",
+          "uri": "https://maps.google.com/maps/contrib/114707314587540216732",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViOwOagVRFlP27Le9NaH6FvB3-TBX8QzZBOlEFEUYtNmdDhfMu=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrio36ZQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrio36ZQ!2e10!4m2!3m1!1s0x94ce517b3d81ef85:0xce04372ba66aaa38"
+    }
+  ]
+}

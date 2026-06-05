@@ -1,0 +1,368 @@
+{
+  "id": "ChIJ3crrM1tRzpQRNn3GhldlS_A",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 5523-2086",
+  "internationalPhoneNumber": "+55 11 5523-2086",
+  "formattedAddress": "R. Amador Bueno, 601 - Sobreloja - Santo Amaro, São Paulo - SP, 04752-005",
+  "location": {
+    "latitude": -23.6531056,
+    "longitude": -46.713639199999996
+  },
+  "rating": 5,
+  "websiteUri": "https://www.instagram.com/novusbarbearia/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 18,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 20:00",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 10:00 – 18:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 122,
+  "displayName": {
+    "text": "Novus Barbearia",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. Amador Bueno, 601 - Sobreloja - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oNVoySkVlRGt0ZUhWQmNWUlZSRzFhVW5WTFNHYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Serviço de alta qualidade e ótimo atendimento, a Novus tem um ambiente extremamente agradável e acolhedor, e os barbeiros são profissionais atenciosos e bastante competentes. Corto meu cabelo com o barbeiro DiPaula fielmente há quase 10 anos e sempre tive total satisfação com seu trabalho em cada corte. Recomendo bastante.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Serviço de alta qualidade e ótimo atendimento, a Novus tem um ambiente extremamente agradável e acolhedor, e os barbeiros são profissionais atenciosos e bastante competentes. Corto meu cabelo com o barbeiro DiPaula fielmente há quase 10 anos e sempre tive total satisfação com seu trabalho em cada corte. Recomendo bastante.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Gustavo Torres",
+        "uri": "https://www.google.com/maps/contrib/104755976283613437395/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLIrxvxxDShdBDhAUFVhALQ7JvspgmFBhpZ_9hDPbHbkjCK_Pk=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-22T23:51:51.500006119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oNVoySkVlRGt0ZUhWQmNWUlZSRzFhVW5WTFNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oNVoySkVlRGt0ZUhWQmNWUlZSRzFhVW5WTFNHYxAB!2m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJN18zc2R3EAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Levo meus filhos e também corto o cabelo na  Novus barbearia há um bom tempo, e sempre saímos muito satisfeitos. O atendimento é impecável, com muita simpatia e cuidado com cada cliente. Os profissionais são extremamente caprichosos, e a qualidade do corte é excelente — sempre do jeito que pedimos, com atenção aos detalhes. Além disso, o ambiente é acolhedor, o que faz toda a diferença, principalmente para as crianças. Recomendo!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Levo meus filhos e também corto o cabelo na  Novus barbearia há um bom tempo, e sempre saímos muito satisfeitos. O atendimento é impecável, com muita simpatia e cuidado com cada cliente. Os profissionais são extremamente caprichosos, e a qualidade do corte é excelente — sempre do jeito que pedimos, com atenção aos detalhes. Além disso, o ambiente é acolhedor, o que faz toda a diferença, principalmente para as crianças. Recomendo!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "João Vítor",
+        "uri": "https://www.google.com/maps/contrib/116255771437793367884/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYNUff9xq-AaKJYnmrISosTXFvUWC4iJDI6NYokfnjunE5tsxF=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-04-05T17:58:58.735696Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJN18zc2R3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJN18zc2R3EAE!2m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSeGR6WTFSa1U0T0VsSFl6Sk9TRzFxWWpadGJYYxAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo atendimento, recomendo 100%\nNada a reclamar, somente elogios",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo atendimento, recomendo 100%\nNada a reclamar, somente elogios",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Deivid Leopendes",
+        "uri": "https://www.google.com/maps/contrib/108891739211881557122/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4BtzfQDHFsbdxU9dU7WROFN3j9vCeVOl74AeiAxuUc8oatA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-27T20:56:43.938258525Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSeGR6WTFSa1U0T0VsSFl6Sk9TRzFxWWpadGJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSeGR6WTFSa1U0T0VsSFl6Sk9TRzFxWWpadGJYYxAB!2m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WGJFSkZkVVp3ZUZGeGVVcG1MWFUxUkRobldGRRAB",
+      "relativePublishTimeDescription": "5 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo serviço, tanto técnico no corte quanto na recepção e cordialidade dos profissionais.  Reserva online muito simples e prática. Preço mais do que justo pelo serviço que entrega.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo serviço, tanto técnico no corte quanto na recepção e cordialidade dos profissionais.  Reserva online muito simples e prática. Preço mais do que justo pelo serviço que entrega.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Marcelo Marques Aímola",
+        "uri": "https://www.google.com/maps/contrib/102573160067495183896/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIiWPi2cxhraDQri2Z4p4eK3DSF6iYrPgv6PRixHdNV15_iFV5E=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-15T08:33:17.471488119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205WGJFSkZkVVp3ZUZGeGVVcG1MWFUxUkRobldGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205WGJFSkZkVVp3ZUZGeGVVcG1MWFUxUkRobldGRRAB!2m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCc2NVSXdTbUZSTlU5eVIzSkRZbmh0YkhaWlZtYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Puts, que atendimento maravilhoso, o Dipaula é muito educado e gentil, pode confiar e ir de olhos fechados, além de um ótimo profissional",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Puts, que atendimento maravilhoso, o Dipaula é muito educado e gentil, pode confiar e ir de olhos fechados, além de um ótimo profissional",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Jose Antonio",
+        "uri": "https://www.google.com/maps/contrib/110403574010146541221/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkMMjSdII3XmBpTV8FYLJS19Gdh5cHyMOB2p-Ks8rXMB43PYJPGw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-02T23:00:47.312762380Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCc2NVSXdTbUZSTlU5eVIzSkRZbmh0YkhaWlZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCc2NVSXdTbUZSTlU5eVIzSkRZbmh0YkhaWlZtYxAB!2m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-tYFfFKwFmKOrtAhib3BdAIkG2R76C4fWp_fDAwNnDgl9CH01Lat727Q0w6qEJO-tYgOfOshZbJKstpoxLnn4jrNFfdsw5lwUBv_ehaMiKoDJeqQbFevz2vCj5mfkuxQm7w6NN1p9p52kuSSMdMMZnOABrmkEYnPe5_uwQYWTm4P3EXGMdElzutIzqz8AM2JnMZEpQcJWdyTtAr8gzp9nyhz-kjE97DkwPe9diK3v6Ks1tG4mwgDGhfXEhTWyyznlc143XAaRFAKmIMBucnf4hhDnXm1oY82A2LS48-5e3zYFa-b2dE_N-TF1s4q8vc0OvtCk8MFKnSA5ZitcWMwLplYtrdlxXjfQmme2VhS0aY0EIemr1qdwX0HtDD0dxkMfmRXK-m_haoIuaSE0o5AgDkxyiPQZLC1Gm70Zt62gm9Ro4uapzf2Mt3IQpXQtLr",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "João Vítor",
+          "uri": "https://maps.google.com/maps/contrib/116255771437793367884",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYNUff9xq-AaKJYnmrISosTXFvUWC4iJDI6NYokfnjunE5tsxF=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDKj6i7QRgJSljQaaw9boQD&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDKj6i7QRgJSljQaaw9boQD!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-vdKyZVHmRkgB9AaX_Dg6QaQsT4auWTti1P8gfHXi3u9cDRaHQw27pPxRx2TKQOAwhmMDHCOQ9P-B2K2eRmS53Q_fzLd77MN1tW1qek5y6IvPd7e3qww7q5KY2FkcrMf0wszdS_1tv5UMVaCO-hs-jTzrtO1pKbiypVbXtFxN3wdinjkRkUwIhQkvkmzYRTdQPP75smYQrYZJdJQdt2h9Z2LDyu5hyY2qY1Hwvaz-ju7cTmiAx_tsAxohFDNJCdot7qlNGOkCUEd9IRgoTFiJmjc7GiHKq2pGyonYIYkaqeiVQmB3K0l9kgjtHTrWPwRmQDapfGN7iXmQUvMH35QgYhYCoRSQQpE21Riq5V6o-pPyb57prc-gpl4Q--DGiNK7VlqENujdSG6CQ3q_KO26XWijbdkK_amY9inVJl65w",
+      "widthPx": 3472,
+      "heightPx": 4624,
+      "authorAttributions": [
+        {
+          "displayName": "João Vítor",
+          "uri": "https://maps.google.com/maps/contrib/116255771437793367884",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYNUff9xq-AaKJYnmrISosTXFvUWC4iJDI6NYokfnjunE5tsxF=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI7_3sTw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI7_3sTw!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-sCvuAWN-unWVXDR9wcmM5jAeXdym5M-U0Xm2TbtsFCUnGGa2n1rc_YlH96UiHOL1yc_PlP9mJ-oy_gLORDYylbLO8-y6AP7elDZY74hGqndQEFNdGOUU5VNny3cYC05IXN1UQUQFf00u4C1CXErOk_rJXRy_KxiI3Xb7pHJt4cYIHezCtWvQuAHoHvXRLryW4sjKOCplnhHcZdvyRJQVa_lkvUvUcLhHWzZzVRZWn616Y2YjnfwT-MMwrhHq_RUVKYW6ikZFjo375sBLdJCEkhFAUWYR7Sm41OdhFaNqAor4p0O6IvPb1UJtrsdNgLD7JDqM2fAynCxF3D1IPCAolXb_ceXzgk1rsVhrYDbC9uvxAWMRI4on5AP5CWt5seZ-3f7s9a1WBMzi61bAJ2Jd_wV-d3WDZ39UbDLEZON69SuztqqdbfxL09LSYz6Q",
+      "widthPx": 3191,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Heitor Dipaula",
+          "uri": "https://maps.google.com/maps/contrib/104654857890705788710",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQP2LiwLS7wIJFl39jyyrspkkipRjb8V6TtCEbcIDNPXTHRw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDjvUvKmt40XGbvyqdJd9bq&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDjvUvKmt40XGbvyqdJd9bq!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-t7rdk4RSi-AlO1NvdoUMVRoCY4tu1DM5fgZeH1m7kes7fC9pxCgsoHwuZbpdFEiSNN4kuT4wg_1mYqG-I7vhFrbZ0oN9o0eMWGf_xy2x0oY9SpPVJrDy8CVtIROvJ7Z8jaWi8A-1nAPzkuOsmCUh_-kvjs261IdgbRPpmOKoDzBBjFvoeBBjrUgyguIzolSWYPIw--b84SA54CgKLk006THaECu106_smWV39Zv3-3w4atLA16ZEbf_vKOZXfWgUb9SpEKogMNHIUi9rc2Z78ncuzAqXk7hgFD9aceILIvf5G6IHA3aN1j2GDGphj27oVAUAcqjsV69-vooOMe_0dgP3Lf2G50jDoI9XvLFemUMqm0TVvVCmCk85Ttf7-9NRkNZvdryo30FZYqU4IGJeK9G_xNk0PImfh8LgtnPJWYePp1b1gPyUPQLTHRsCun",
+      "widthPx": 3200,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Novus Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/101875028105274717769",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAJaxXeeZVRVeHF4LX-w4U6uMpEIspj5zPiQFawlxO1AHX5fU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBAQAU3HhVxAi46e3F7QOq0&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBAQAU3HhVxAi46e3F7QOq0!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-vU2kj35DaQGwCjd1b6baqCutlOsHXKva5FXRCMPFOs2HUV_cKOEOn7LwbGtKuASoxU5mJBcSUJInRAcljhENu4dWjCGityjaFgmU_0qxPagPs7H8VzYxjUJpfYSpi2i_Nz9KXTbvz_aTUse-FEu5TneKnYPHfNbkfiKyHF6FUmSCpyVQdEb3eURlymW4TqI61IhBVhUXwV4IT-_HAkRFb3O8QOlyHCi9gsbYjKHrpnDQc3v4U3YVv_6dQETbk64CWaQUISdWGBhp3578S4GGHquYFrPfJY8DM3o9lnmft-e8jxW10y-D7XgfMCQ7axpHG6ZDWDzgI6ofSROqgvIuWawj1K4xaS0xlodIq7MP568REjR5GhkxDEYkX-4Tggk2jCq-C-nqYVqEhsdeEv4ssbRiBqx5YUR5QYgssixJlZQQ",
+      "widthPx": 4800,
+      "heightPx": 2780,
+      "authorAttributions": [
+        {
+          "displayName": "Heitor Oliveira",
+          "uri": "https://maps.google.com/maps/contrib/102206910263644795964",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyxWMkASKAZ1ZvmpuOV2g9Tcz2DY9WGtaR0N-wKz2LmXyeIpaTBA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR-KG9bw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR-KG9bw!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-vhwB1nsutvI7oaCuQbMwMVicy7im4yXmf6cM1EMvgC9PmfpwogVQ5cdB7owxv6uvyiCwo0vOZW1mhhQkvHT5UR-y1oE7vhxXWUW1DtkORTq_tX647PqXOkzHII40Bt2JNlIbuc3EXkn10kAUNhAFQ1UYPooPpFKYrlo-nVzT9s567OoPahqAvPd8iy81uUjvMud_gWTzKAHUhRtl6JYkT5WyoMtv3E18kdg3bo2GZvXa1evqxO04kPsMUusTmODoRCijnFpIbrilrt8_A_VyeHOXplTYuDZ4BSdQhnieHx-w2PUSSPAfVFYCAbY1NoZJ5AEVCKPnfo94T0BpesU2R5HKmniyxpi5oX7bM-hnQNTt8MQiDlmVlGIos0Z8cg128VPSSYAnBQfRye14ECGiHuokiLm9rPF8tmTSFOVN1bZhaAsC2R_CIod9m6XiE_",
+      "widthPx": 3191,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Heitor Dipaula",
+          "uri": "https://maps.google.com/maps/contrib/104654857890705788710",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQP2LiwLS7wIJFl39jyyrspkkipRjb8V6TtCEbcIDNPXTHRw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBngjJ2XNC2mt4spx6ajA3Z&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBngjJ2XNC2mt4spx6ajA3Z!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-vQTycMCScVbvhI_z5JWrKnRA9K-UBz34i2Wl769gQZlSrG1vAxVPhCZEyAfw_WYoAN7AHpfJBCBurLLMtdAvk7yzglu8Dh8_yzeG2wSa8fwH58Qe36OPTMt8WWuftkP2U8pbE03w649lvmErzUfyPN_VBaoU7khYG7bp01n85jXHa_C2RVIdr7BYCs4uTgOQdeOo5SH-HcFitq9Yau0h51wkHbS-AqJSZiVOG4pXdX_HvVLvD7VVa0S22JsI6f8X-KNwGPw95z5q0n6x4O91jKTYcgrA5gVpOtYo-EP31fT6xdxoLqyM79YeE819PGmRy2btAe-3eBL4HshOtqLBHoO9VCbm61MB1Ch0PdWpIQq5mM_s_mQ582CaEHpa_qzK179kBM_l7cSwlSLL4ZCQ84Oh4kv8xu-awAxIUtpoiyNg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Pedro Rodrigues",
+          "uri": "https://maps.google.com/maps/contrib/103845558304215256184",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocItzovC6lbGL9ZLwSgpVquV73tjKYG0ryRDZ0QBEA0JFTkYFg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZk9q-ZA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZk9q-ZA!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-tmS_Yyq_PZ84k0Tax31Ol55cKN9tdvwr4DN0f5HeXZNdfV4uifLcWBgEkz7H3BeQDimRP1UkIS9fhHcS54bI-1r1pDnFH0Uw7K08KlkLcraNhk6yrK4dWAjcDueCbNB5Cg_iW8PaZ6dHiM_1L4hzxmslO9Q9AtlIUG7OV8bcfPu1y7NQYJOLXUQp79pvS6X3Efhnfr--TYR8fthOZaXo9oBs7J78FVg2L59j8jLRiL9ObVVJ3RiVaM9WLG7o9trtsMmy8Z9AR1mymsRklBzgiWIIVV7q0V3xf7TORxk9WbMkWwQVvHCOxcy9rSeZoXB3U-rTmXjYPB4YM2UJqN2XFveaJvKewGrUhvS9NfRcp2pu9bm1X2sCnmRtNZtA_JEe2xBROV5fRLroz2cGesmeForGseGWncEbok9epHG2TE5y2RQi3BOgnt7-n5sA",
+      "widthPx": 3200,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Novus Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/101875028105274717769",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAJaxXeeZVRVeHF4LX-w4U6uMpEIspj5zPiQFawlxO1AHX5fU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC4B356E6mK1aDynbvY0O-H&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC4B356E6mK1aDynbvY0O-H!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-vsfImchZiqiCPvrstQw-vIMlPly5COYtIH6Xkys7mWlztmM-dphFpiCISTfAKVYTwKkRqtrtS_TBKytqVmJR_P4vGkSUziiNwWteRA0x6ISPjLso_JECBbU9aKCP64JjMgtCPcqWTe0iIgvnZv4FTEPE24DR4uRNxK4_edCRfrMFBaLZbCkGzvALbEmNoBtsVE_6Q1bkWOaIgCkMKKUJzznJRKKbld9_DTHj_6ry8YT34cBHV-X1olOKlqOUaSCqmMKHtHhWpv0zzr34DCyOk730i_wJoWMusZifqIvVMUv1SzcKQRI-Dzv6Tdo_IzRe66196dWRB1mc59RMXWJKwzO_UmLMp99-klfsp0zYu3EKKFNxVDYp7ZxGT1Ihes2aQcZl6JroSjQ_BHpR1EZ7tGTXq9Cwo0rokiCdKPj87gDhTU8aMYFu27xWZRb4n7",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "João Vítor",
+          "uri": "https://maps.google.com/maps/contrib/116255771437793367884",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYNUff9xq-AaKJYnmrISosTXFvUWC4iJDI6NYokfnjunE5tsxF=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDgPwHLrjx4yIYMmLyY_Q4y&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDgPwHLrjx4yIYMmLyY_Q4y!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    },
+    {
+      "name": "places/ChIJ3crrM1tRzpQRNn3GhldlS_A/photos/Ab43m-uzVSpJ11FpPesXvL3QlzJ1LaAtIUtGMAylWKUDCYnaDHxJdCdpmcl5YYzG7Xm6bBD49im4Hegs0zmxHP2iwJ8StcbpVasc4O_riliBfMgKjX8xDFuYsbkjELAdCvar67Xe0YThLlbwScQZOxHLueUzJ_9le-jJonSDB-nrj1Xec0B-EwZd1XbY3xbQe4VdOjWYXhbu5X1zxGk9tY2iIQJeVKajMmF7x0L9ccKPMWzWwtvcsvbOmfkjXcET5KtgGau97D4gVthaO4jUDDa20xIv66IxoM7ZYYlc1oMdBXTKQZQVJH052DOWHcSqn07_KvlwlsRRPfrp8hfy39JVT7YjxA9gPVZ-t123LWTs_vfH7NHe16B8T21RyYivPdWLSj-phTyRKUxAwl_D4qCUc_0S13lDGCMvR5qxn6mTlI_pNw7vZXbXXLDAFOnabqpN",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "Novus Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/101875028105274717769",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAJaxXeeZVRVeHF4LX-w4U6uMpEIspj5zPiQFawlxO1AHX5fU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB37QQLyYx2Q2Pg9b_YLJos&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB37QQLyYx2Q2Pg9b_YLJos!2e10!4m2!3m1!1s0x94ce515b33ebcadd:0xf04b655786c67d36"
+    }
+  ]
+}

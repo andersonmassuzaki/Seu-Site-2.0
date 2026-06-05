@@ -1,0 +1,381 @@
+{
+  "id": "ChIJhyyeoXdTzpQRF1kbxEIwh2U",
+  "types": [
+    "barber_shop",
+    "hair_salon",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 97777-5955",
+  "internationalPhoneNumber": "+55 11 97777-5955",
+  "formattedAddress": "Av. Augusto Cardoso, 35 - Jardim Maraca, São Paulo - SP, 05861-030",
+  "location": {
+    "latitude": -23.671027,
+    "longitude": -46.7684642
+  },
+  "rating": 4.8,
+  "websiteUri": "http://barbearialosprimos98.booksy.com/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 13,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:00 – 20:00",
+      "terça-feira: 09:00 – 20:00",
+      "quarta-feira: 09:00 – 20:00",
+      "quinta-feira: 09:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: 10:00 – 13:30"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 136,
+  "displayName": {
+    "text": "BGK Barbearia. Unidade 1",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Av. Augusto Cardoso, 35 - Jardim Maraca, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNGJubFd3EAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo atendimento dos profissionais, ambiente muito agradável.\nObs: No fundo da barbearia ao lado do banheiro eles tem um freezer cheio de bebidas com um preço acessível. Ponto positivo 👍",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo atendimento dos profissionais, ambiente muito agradável.\nObs: No fundo da barbearia ao lado do banheiro eles tem um freezer cheio de bebidas com um preço acessível. Ponto positivo 👍",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Erick Branco",
+        "uri": "https://www.google.com/maps/contrib/115488662849908756107/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK_vErA-c_JwIYKsOTwrOD0FhRUfCMFPNL_jbWkJHVShT5OtYDuw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-10T15:48:52.992378Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJNGJubFd3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJNGJubFd3EAE!2m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOGVfTlZ3EAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Um lugar além  de barbearia... os profissionais são de primeira qualidade e super atenciosos com seu clientes.....meu neto quer cortar o cabelo todo dia...kkkkkkk.....poderiam cortar cabelo de mulher...kkkkk",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Um lugar além  de barbearia... os profissionais são de primeira qualidade e super atenciosos com seu clientes.....meu neto quer cortar o cabelo todo dia...kkkkkkk.....poderiam cortar cabelo de mulher...kkkkk",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Mara Varollo",
+        "uri": "https://www.google.com/maps/contrib/110370338292437390632/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl905Fclj9Vf1iMa297DVWK56xH5exyIHQOhfZgkWtzNV6uGWXlA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-10T23:25:08.433964Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJOGVfTlZ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJOGVfTlZ3EAE!2m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4cEx5TTVRRRAB",
+      "relativePublishTimeDescription": "3 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Melhor barbearia da regiao! Moro na Piraporinha mas nao corto no mru bairro, prefiro ir cortar com eles pq os caras cortam bem demais, principalmente o thon, sempre corto com ele e nunca me arrependo. O corte sai na medida e o disfarce sai perfeito. É tudo muito organizado, precisa agendar horario pra cortar e desde os meus 2 anos que corto com eles nunca houve atraso no atendimento, pelo contrario, as vezes ja aconteceu de me atenderem antes. Alem disso a estrutura do lugar é muito boa, bem iluminado, limpo, arejado, sem barulho desagradavel, espaçoso e ambiente familiar. O lugar esta sempre inovando e recentemente estava passando por reformas pra expandir ainda mais. Super recomendo!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Melhor barbearia da regiao! Moro na Piraporinha mas nao corto no mru bairro, prefiro ir cortar com eles pq os caras cortam bem demais, principalmente o thon, sempre corto com ele e nunca me arrependo. O corte sai na medida e o disfarce sai perfeito. É tudo muito organizado, precisa agendar horario pra cortar e desde os meus 2 anos que corto com eles nunca houve atraso no atendimento, pelo contrario, as vezes ja aconteceu de me atenderem antes. Alem disso a estrutura do lugar é muito boa, bem iluminado, limpo, arejado, sem barulho desagradavel, espaçoso e ambiente familiar. O lugar esta sempre inovando e recentemente estava passando por reformas pra expandir ainda mais. Super recomendo!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "anderson lincoln",
+        "uri": "https://www.google.com/maps/contrib/108468836776721216416/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmA60jV-Z94wbd3O2ti-A1hPEGesPzCY8kIx6eCqEUcecV0g=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2023-06-02T02:02:51.431584Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4cEx5TTVRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4cEx5TTVRRRAB!2m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdzZfdTNRRRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Top o  atendimento na barbearia! O ambiente é aconchegante , e os profissionais são extremamente habilidosos. Recomendo a todos que buscam um serviço de qualidade",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Top o  atendimento na barbearia! O ambiente é aconchegante , e os profissionais são extremamente habilidosos. Recomendo a todos que buscam um serviço de qualidade",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "André Santos",
+        "uri": "https://www.google.com/maps/contrib/114670921563194218344/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdwgBao3kh2TkS4LDHofeouNLj1Ao8NayKNdNHFAe2vSWT359r=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-12T16:05:35.503197Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdzZfdTNRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdzZfdTNRRRAB!2m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/reviews/ChdDSUhNMG9nS0VJQ0FnTURJd1pXajBRRRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Excelente Barbearia, ambiente familiar, alegre e agradável.\n\nParabéns a toda equipe da LOS PRIMOS",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Excelente Barbearia, ambiente familiar, alegre e agradável.\n\nParabéns a toda equipe da LOS PRIMOS",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Vinicius Bkf",
+        "uri": "https://www.google.com/maps/contrib/117474072379043351812/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjdXogyWSJbP4DOAydkQ3s1pIN4qLINjKhqJaq4wA1bvruw5quRw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-10T12:59:22.233550Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJd1pXajBRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJd1pXajBRRRAB!2m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-sF9k1jPkgNi0iLrFcT3w6jCNmW7gA0WmNAZIHPAo6VDGJLreLUlWi7SglIgB7MPeOmGHsi2zRoMATd8GPgN4Krrr6kD3lLQpR6m9C8LBDcNyZjgiTmt8nps6Te339IjFGySpmwP4iaCPQtV9uu-3zkSEuhbi-UNwk6q9g_omvBwC3OfsnmdMNco2S3Lx-EcGrECs1L1gcBhgLNF1qictDI1ZVzQ0E5ClRB6rIIU5BQ1AteuS1F4Ne_wXPixbmENyxo67uoNN3GrdF_M52WItXKIMOyRmwnFsfcaerBsuKqIVq4K_HxYqsd5Bt03mC843ylB5_ulN0Cm8iWc11za7LjCO3M6ETSX5GmmI5KAfjVWd29gW5KB1IIGyCosK2t1YQyhYs1YX9lDNmE2GX5UP4txObxdLhcgVqcPgHAzS41h9Gp",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "authorAttributions": [
+        {
+          "displayName": "Matheus Santos",
+          "uri": "https://maps.google.com/maps/contrib/112935894915904380493",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWn6L1Qd9K717CB1BqJGsG1N2NjkxnAvjzxP21xwpAvx7np-WY=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx-NCgggE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx-NCgggE!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-sPcDHHB2tHb8N4piI4Zob2UCq2TaNrnuXn5llCzBV7C6MG6gZem0SRBiOkcO8rWNqoXZJHan1fNlW5U9_ZaOkkxK2DVP66yhds1hvBzLfTo_7BFcSsddv1WpocK9xcL_ZQ0cD8CB9LkO1sOMdHwOhuRW-wZJtcoSZccgswawk-MRR35Bbsr3OZ_RnmkTaj98-Kx0fl365rlM_qXre2RalY3EB7BHnHLh17OE0SbUnYcLUi6kG13h3eoJFIbXDo6nbq7DyVUo9_Axa7nb8zoj9g6KsJmVDckUtBwEDzBH9ZUYHqR-QebLYpS1NxlHBHgD4nC7FuxghtyGbeZv4cD3aIV8RhQ4Ra4T5iUeQ4MhrXqx-fPnQdVOSvd6PGNCUSuybHCN4XfLawnqHBCaIUxPn5i_ckM0afdzQnQzAsigNWQds2I2Qi8HLmPVPqtkVP",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydER2SP-MWf4Zs0AB0lV&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydER2SP-MWf4Zs0AB0lV!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-uQigA1tz6PHjTOQoh4-TjX5w9NVVTSjg9-d1PxXifUgq4u95_i0O7InFWnzzrSibjzBS7Sil_SXuuxBwVMjR3DC1gfbZcUDJtEM2mfnP3uOXuLS9539-agWf0rovpRjcW91ztdDjF9i0qMq8hs4VLEXQm6XIZNwy2f-7Lfjqa6ULnafr1_ooRCYScUF4eaTkYgOxXsDgoG_0NxaAgeRkohX-MKCdDbuRtaFQMwAR1E1RlfJMa7kei4n3ebue6ejGuQKl3mAdBktTwie82HPj00lRTcfvTM06UhOF_Kkx87GkUGJVINMzi9XPqgRXA7i77mZy-UIUnA4wQoPDaVGFIwJVp6urTsnLaOYatNPC23MSkuML8U9uCo2k5N7pEJM1pnl56ldoLPm4HdErt8_BYATubGigxuJ2GITYpfx-LzUTCO7OHaoGlAFQo58piV",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydER2SP-MWf4ZscAB8Is&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydER2SP-MWf4ZscAB8Is!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-vUMpaayxpX2wjutFbOINaBbhQ6Pj-QLb3c8YFFpPuqvI3jqbHFnYYB7LoT2b2C7pW4o65cbgXHDnyIqWJnYng7zPwc-oMMOsnOGTIsVOYUWAVHCIxmHshZnOK4VOcOhWAw75xCusPiyycJcVzMdc0XZ4oCw3v1rr2JCn_YNFW53sEoYtVa6Rq8wVJc0YzaHZyj3OxTMPGDuH-K9hTeR8aQe2QNx_kyd7AYhQT0rDtJgXf3vMxSyAVJeMzi9JCkZaWKt4Q7PJ1byD88vohipJxZ33utP5ivY8dwHriXWXB-1yHCk3ftiOA-hhGamuKhZ6g4-umrFUe375fO-b-BBtZt7ei7QaWqK48JfM-I9sAD59xHExBA2UD3FFh4zBft-MtNzkxKcEDzddA8hnCjk2Rhxu1ytcY_9Lb-s36Ah-42jph4",
+      "widthPx": 4192,
+      "heightPx": 3144,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICq7OXk-wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICq7OXk-wE!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-s_CBAI7_HTgA7FQqPLjtWJL6ZKynVEb6xe2UPk5PLjZv57ybflwyq9zOxLemiMvSMebf75mcsnHfiIsUAewuLD41U2pTasFd4SaC77bOQ5E1mMyCOzAQxllYaX7yPVuKV9dE3aZJOBKTiHW7PEe3peC-n7jPsX0-VXEyWOStoTz1Bdb9Yx-Kmsp4ZH5DeYAaHWEsJ45zQa2VLvUbeEhC4xXXwvFdHs4O73g2I595pdA2j63HiG5sa3Ij-UReUVySs2QYNXoEmxpEqT7do9dyWAn_WRnnGiUiSleSh5h0xwY8ATYgZrbHtP49o6UPrIRWqAufdUaWWkjyh2L14Wb84Sr3oKueENbiDmgQlBg1_SdPjzRbOeUv51rWQWrOSBmuSTWnag7YZzoO8Cp4jNBbhR9uSEX3U2-NmVcjdHNeQhApPImLKmroFMKwZud17H",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ilWdRhOzGf4c_0ABo2n&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilWdRhOzGf4c_0ABo2n!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-vWx-6YBrIAvdadHZdp-npUqdxd4eUP_sQ3WC3tI_R-dBjK5jxQ3spds2hZuFJ-1sja3y01GNvyaHfFQJeQYROY3M_AVSGU9PT9SxeEN3Uia-tUKvmJ1IkFhg6EzVe0sdivM5Ol3jNBRZ5W5pp0JkMVyCSvdkY1U7AVokcagHYVUPAr9ejoFuwpRl-A1tsqCi8XDkSD5MQ_LaO4DoaifmED1VeddrtDsR5hX-ZVuF4Czdn21TZBCSkzL9SCdtVeASa3J_LPXixTQvGr7pM9QjPGCtETEONwYtoOjdQPi7X9vAecCF_EU1y0sWdERQ3pAvLz0n3sg8ZJhdZ4vs-P8zVpYN2FkopsSYFc5zUzBJc5EPssccR6l-tbFL2yVp_jrYwSkgoX5cHz5-ezEiua4bWrNibOv1b_8KOu1AO_5D9ddMB7",
+      "widthPx": 3000,
+      "heightPx": 3999,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICq7MXUhwE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICq7MXUhwE!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-sI83_zbwaFU_8HqOLr2q9adjLukkveI3yg7g4sIQL8Mr5jlcdayzzCQbt0vBF7Di9lDjlUMuAPOHike0F9UOlMHK9_Ih7gTDch8EXcA2YCMFQYibeib-IijAJO45v17EFdlnSY_mBurqgE1bT8I0EjzDj7isD6SPWaYPaej2WFsrAvg1xNWzvVFfOf0R9Ele2bffTIQj5qni92MsIFno0wJZi5t8jnkCBProvMU6m0xtbAPqU1iOBRvqsZG7b2NTD7AtLSAUSQgdM80ddGOYWYaMyadbMkBZJoDmHpt96xpE5QkEGMriklqWcaGQVzkB2d6ZkeZF7P78oCKNE4MpMxybR4wUkO6lwEHuu0Ak0skrmwc16RaMTLhPn1GJPpnk4kFwa7OSpOckUUNDPtmwhL-vN23FVmBzVJFxFocBwqjhksoHzIGjdx9ErgOqPj",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKz6hLSOmf4Zr0ACMXt&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz6hLSOmf4Zr0ACMXt!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-v56UfZTOy-7yOW5x3tlmxdIekYpWg4_oR_dUqhV7Qv4wl15aLLVVGYRbnAwYlIlTWDThzgqVEp_R25Mxuxq2tPrZovABb0E6nn_SwotuS9XRVtukZBMdXUK46tsfthO1BwQK3IDglgZEplKZPbhAvtGWUuoEOogmAZSj4d67VCPwB1swVnV-A3DQrKugwpPntD8XOB4G5morz6qzMcsQ43gRkKT7Jppl0D3ifvahE_aJCzxcAqyI2rBzBYGtsBXnwF_DDolVqX_dFQfweHSerfyN0wZ9gJb1PB2MKN4DaXwYoyN7zLhWGxeHrdKyG-KM1nl9_zw6lFbj4yoV7Zd4UFzn4X_6aqMa4iH4pWMZmk-WdBl2AGVlBYA4G6vq8gdBxcHVJ3V9cSPjd4AayH9rI9BEiec-k3zCJUPfyn0OtyGdEZfAizlCfYFA4VSkBa",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydER2SP-MWf4ZsoAC_bg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydER2SP-MWf4ZsoAC_bg!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-vz_LTqnHldn2O0s3gZBNdiYXymlcXh9BlbJm6DnnqueW8t7_w25T9-hTm8m2kg1y3bMGVA5R44-DT82UVc1Qca6XXHF-RhIU3h-mEqNhowSM6SYwZyrqezDLaghNjwc4WemtK6vGb_jAMjgVBICQ-wEw128dICYkGUMJyJLYbCJOhQVTCr2W77BtBp5GC9csl9GZO-oQbf1DtY1brlNiv_3KRGeuFn7hKoy6rz6CpvFT3zDdDm18XJwQjuN-7lwweukGVoEisF99lnTCX2OY5TPbmbQ-wZANZfIKx8OVWEOUyo1PU7fwTpDpu8E34taiv6SbXCxFI0JAMI8xrQVePPzi2neG66IKtfZ3j2xNc4tbN0ZsaUapyiIOAXa7XhbM52hsonprrSAORnKUDgeLIYzQDmtSsPvuhW00pps1xoKa4oUTXUk7cm9btPWA",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydER2SP-MWf4ZsEAAs1Z&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydER2SP-MWf4ZsEAAs1Z!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    },
+    {
+      "name": "places/ChIJhyyeoXdTzpQRF1kbxEIwh2U/photos/Ab43m-tJiXp7wNSJUInX5W60vsXxh6MKwgNyUktpkKj1jgFQpH12fEMcQu5m3n5oJL13_WWGX7eCwhYQaJym6WwUmm_y0FhEie9LeuDYa468ZAJBqpgQWmz5LZE05bybhPfoSbfKmKdrbgIVSriRcaR0v3FSPKqJ9plrX8to1Hg5shYWrYwAHtrxB5AQjFQWDcqcBzx7lyQD4cXnlk6Y280jY6y8UpT_qt1oUd6lqqZvjALvLVfHF3QT5WAtX0pC154aOEi0DKRWHE0FBsUqXZYiNFfRXB_ZJCbBoyY0Y5i2__4nOziNRdaTkpUlsQgpGeIEvReqpamouNyD3VENYuq7Rth_fKUNvfqHYOLb6ACbTi7rM92pYMYbCmM1u8FparrmJFodCsjGDT-t93VnspVduDRY431GGHf1on2A_I3vdq_z5be-IbNZyMVamD9JNg",
+      "widthPx": 480,
+      "heightPx": 853,
+      "authorAttributions": [
+        {
+          "displayName": "BGK Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/100698076067874210342",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamXsHKUHNZUuEmy0gRCmxWP1BgNKleRCHVyorGbg_-hHWJ0Ob=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKz6hLSOmf4WgAACWrr&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz6hLSOmf4WgAACWrr!2e10!4m2!3m1!1s0x94ce5377a19e2c87:0x65873042c41b5917"
+    }
+  ]
+}

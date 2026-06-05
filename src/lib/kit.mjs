@@ -11,7 +11,14 @@ function sanitizeName(value) {
 }
 
 export function kitSlug(lead) {
-  return `${sanitizeName(lead.name)}-${sanitizeName(domainFromUrl(lead.url))}`;
+  const domRaw = domainFromUrl(lead.url);
+  if (domRaw) return `${sanitizeName(lead.name)}-${sanitizeName(domRaw)}`;
+  // sem url: usa nome + sufixo do lead_id (hash) pra evitar colisao
+  const idSuffix = String(lead.lead_id || lead.id || "")
+    .split(/[:\-]/)
+    .filter(Boolean)
+    .pop() || "x";
+  return `${sanitizeName(lead.name)}-${sanitizeName(idSuffix)}`;
 }
 
 export function kitStrategy(lead) {

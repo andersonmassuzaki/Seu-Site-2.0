@@ -1,0 +1,367 @@
+{
+  "id": "ChIJZya84TlSzpQRTF_TwA2eQWU",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 97728-9681",
+  "internationalPhoneNumber": "+55 11 97728-9681",
+  "formattedAddress": "Av. Comendador Sant'Anna, 1579 - Capão Redondo, São Paulo - SP, 05866-000",
+  "location": {
+    "latitude": -23.679178699999998,
+    "longitude": -46.770418899999996
+  },
+  "rating": 4.7,
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 14,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: Fechado",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 09:00 – 20:00",
+      "quinta-feira: 09:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: 09:00 – 14:00"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 23,
+  "displayName": {
+    "text": "Novo Stylo Barbearia",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Av. Comendador Sant'Anna, 1579 - Capão Redondo, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLM2Myd2J3EAE",
+      "relativePublishTimeDescription": "5 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Sem comentários,lugar super limpo, satisfação total recomendo",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Sem comentários,lugar super limpo, satisfação total recomendo",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Israel Neres",
+        "uri": "https://www.google.com/maps/contrib/105007077860068048050/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1jIFByoO8h9Muj2ycNSd_2U7lngHmIrl7qatTUPFqRTTgAVnCTA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-04-15T15:17:49.118017Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNLM2Myd2J3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNLM2Myd2J3EAE!2m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/reviews/ChZDSUhNMG9nS0VJQ0FnSURVbl9HcmJ3EAE",
+      "relativePublishTimeDescription": "6 anos atrás",
+      "rating": 4,
+      "text": {
+        "text": "Só um pouco demorado o atendimento , mas o serviço é ótimo , gosto muito",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Só um pouco demorado o atendimento , mas o serviço é ótimo , gosto muito",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Mundo mágico",
+        "uri": "https://www.google.com/maps/contrib/109217984044708034969/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMeno2JF5pLxfjlCTiy4m7XAUfNQrHhRpG53oaBOG0vK4rJZ4VUA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2019-09-09T11:17:27.194664Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURVbl9HcmJ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURVbl9HcmJ3EAE!2m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHbl96RTNnRRAB",
+      "relativePublishTimeDescription": "4 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Top demais slc cachorro",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Top demais slc cachorro",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "José Afonso Dos Santos Albuquerque",
+        "uri": "https://www.google.com/maps/contrib/101171926675946149763/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHzOJH50feH0N2Cb-AFr3Goou511TyaWEfM1Ev_eX2-22scn-_=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-11-13T17:27:58.524229Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHbl96RTNnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHbl96RTNnRRAB!2m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/reviews/ChZDSUhNMG9nS0VJQ0FnSUMweTRQUWNBEAE",
+      "relativePublishTimeDescription": "6 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Melhor corte de SP, recomendo!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Melhor corte de SP, recomendo!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Ewerson Araujo",
+        "uri": "https://www.google.com/maps/contrib/113026481021181687445/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlHADmtHIextBXhrfDIeeaN92nW1J-U8XhDHr4JV0OcF_WhSgTmA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2019-10-10T14:25:40.027118Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMweTRQUWNBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMweTRQUWNBEAE!2m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhcDlXUXd3RRAB",
+      "relativePublishTimeDescription": "4 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Profissionais gente boa",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Profissionais gente boa",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Paulo Sérgio Silva",
+        "uri": "https://www.google.com/maps/contrib/101748078205502664885/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5WSbCSxyFASNPHeW3TfC-lNtudQsrC7Px_z_tMNyJiE_5rA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2021-08-10T18:26:39.078485Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNhcDlXUXd3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNhcDlXUXd3RRAB!2m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-udxWbsC4pbtWYWXmrz_R_LQ53HM1j37nl2E65FPo58zgK6hC1NR6WgXFt1FGLMFyjOkWXBYZhFApAfHey-VQVAxQLzLuhUcd9NlPdIWdmKsoyZprEev9GERIjZXw4DbceBlHKQloG47IxBIR97ncKQQJk1aAxkFAapMwEh8AOnpuPjv33sEq5nMOz9yLdXC5rv4nahrc8yWo3kjaBwjlxsa6NKKfPuRh8iksFVt44ztCw9GFI4OVL0H1tRBPIsWrF9fRJol7OhSTlwg6ZFF1N15FHYWiMWBZsTgBHlBu4CVPY2qthn37dpToWoiSwXnA7ML1YHmn7qU4SBRzRm21oPEODqtZw0SmJP1M-rJSmCT54PXG88cwYI2GKlwMh16W6WkPCtuhKiJVqft8fV8loj88PaVVJcffFhvPs9GyG_Pw",
+      "widthPx": 905,
+      "heightPx": 1280,
+      "authorAttributions": [
+        {
+          "displayName": "Novo Stylo Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/117095394727249063871",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaaoRE8E61-6b-vXPdeyk-UDhVW76Lz6TgfrFOZqCVcBsOgB8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDaoZOUXA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDaoZOUXA!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-vSEMJrL45U_nt2sXxcTUzdY1cfQA102EmQQQybbegn9sPTz7U7e9PZnZ8hoAXjUXjnoDsF3VeXdFR7M2M7KCJGxMfBVcArzJ28s7K3m3EOdp2IJ5EwTrlrYly3sXgycoRDwtLWoaAGOMYlcUUPpNuaKS7Xnh5MMzRDv2XeNmGL5nudtTRbMZw6VX7imS9Im8fChqd1nyFnfbsMPCiiGGo3DI5XmyKucC4JtzGvLeQ7AKoBa2G0sBECgyRuxRPPonUVvD7yas0DMSu3rRgCsNL5Irv9gRx1-SeZC2RovTwzF6Yo_suYLRpN5zop59lcQikQhYSxEoSwQZ-Ts2oJVUZ80vlLzI23VpxHmCvfEiWxkP8MsEj0j2Uss4wDMClkX-9WrlsvSpYdfzvwlnyj6TuIy8oe72b1bkCsrjjwtFM2uQ",
+      "widthPx": 4128,
+      "heightPx": 3096,
+      "authorAttributions": [
+        {
+          "displayName": "Novo Stylo Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/117095394727249063871",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaaoRE8E61-6b-vXPdeyk-UDhVW76Lz6TgfrFOZqCVcBsOgB8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8tKrIJQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8tKrIJQ!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-tiBrFCsQA3hOhSKegrpKK4xz88MeC3_fTQQP08vdLoFiYyulPobjC699YvJKnp6lFVcbQ_XMSgTQdieKSER66Vy71JIjljPrSo53x6PRqBLNFnP3slSGhHrL2LqKGUD1PJBFyVwk0_Kte-C2s0U76F8pyPyuYojMTVgZyceeMXWBdKNJ2nfOJ6jsyQDoKc6VfG0UYWX1MleKzI_mFDyqh1QB1XdM85sMWYMnFxzI0GJdOLu1glog71ivK-jIbnJjcVVJSvpD5bI7ooc3ljX3i_iTprayFR7BMygW5437sMha5p22ySMYIZupXgzvu2q5BeE4sBn9giqAXlFA3Xj5wAO_GsDp9TuLUrW1PbNhTQcRXLUYBaHbkmjOuhGfu-jtc-abh3gKNUmTEVR21CYQCjEjyCUIDIA6BpbXriG40",
+      "widthPx": 3096,
+      "heightPx": 4128,
+      "authorAttributions": [
+        {
+          "displayName": "Novo Stylo Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/117095394727249063871",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaaoRE8E61-6b-vXPdeyk-UDhVW76Lz6TgfrFOZqCVcBsOgB8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8tKrIZQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8tKrIZQ!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-t2uhfy_4sPF2RIMVyspWQioPRPy5IIVfbIOXchMuDRuAKn827ybRv4xA_QacRkMwrVOQip74GH2zmVmSj88duQnj50fR3e2GvLn8zZKZdWtVVjy8qTa1AhgY87sCb0_tadYk9zC8apYdUVrLWk-2eWfMeFL1HBnZnCbD19lJX83KbYPf4YIyzSg4BXqy-eXM9Nmku_sXjf-BlgUUf58eOVkw2W_3N6Uzkx0_3tsq5Qo9iVidGunaY2NMR2u71PvuNhQXwRgeIG_pduBOuAZuf0i5OBGkYuzzRAVWqTcoBX7DLj-BVP02Ct4tn8-LFBzsZBWFtSM2zNVyuURERikegKI2OHuh5shUkC6xzCBs_pTpsKWqfKX4dMhjw49ziRf6MHzsEWsoalaKVc6QJz0fEI4mihid9NN0sMJfz7qIqm4dGQ",
+      "widthPx": 2322,
+      "heightPx": 4128,
+      "authorAttributions": [
+        {
+          "displayName": "Novo Stylo Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/117095394727249063871",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaaoRE8E61-6b-vXPdeyk-UDhVW76Lz6TgfrFOZqCVcBsOgB8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8tOrpsgE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8tOrpsgE!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-u-Hd0MYDhax3_qwZ3zZLCY1y4b262gVfD4TLlhQx0CIciHHc6FYLRTkKEL2-wAtoJzc2s7USMjE86tCLMZNUkxDSWUAj_FPJzHBOUgLz-9BJjc-CtrGGOfq340WdOl96c4YwdZeOtZahgdEeQaq1gKvErQI7Ao3EttQBWAuqgdWzczu98le8U85c0Isk3At8bhRKmgxV1u86at0_xkLjqx7RHoDqZ4notHh23Pmpmohis4ilU7ifDuO--ldLctP1GEvSfxFRc3xzmjWUwvbeUySPu-cJBfO3yp8aOiUdLu-Av-FWQnYntkutV2u-eFOtNsJEBZK2fqDOTC7Ypt3ONYDyJ80f3Kw5MVRRvelbuzZfYKxTlX1umbaHmSGtk8QiLmRhuGgHqBrkwvwN6nsdCZ3byEEREskXlgkty_gh7Q0sg",
+      "widthPx": 3096,
+      "heightPx": 4128,
+      "authorAttributions": [
+        {
+          "displayName": "Novo Stylo Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/117095394727249063871",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaaoRE8E61-6b-vXPdeyk-UDhVW76Lz6TgfrFOZqCVcBsOgB8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8tKrIpQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8tKrIpQE!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-vauLsI5UdCBIaNnuhczoS55OtC7vAGcyY4j_a-eT9O1xYDXvbBn5DRwQX4ttyuCbU65F2BqeuE7Ps770ZH2XSey0m37pd-3w8AE6WhBJJu4QKgmDEM8jxhJFAMDYGw_zgPz1CTZw1zG2BgYK_lMPRgdZaM4nCXl1ROsoJHhesFnVF2ezr1mQ29V4JnEwDBTOSZW7KzHPgjRax1R54LsV6-QP029dAiJs-dTt4l6yeBZ3FYPpxbmctog_SyPZANng5gZ2QrECqoKlYtJvM06abXXg9FomHIYGZWNvfSVfxM3JxhbC5DCWXq1mIXtufVQzfQxVRtZnRLWjzmpCm9C1KufxQ_0wwuauqIb57ovtlEI9aIlztwNDINicMGBBHDX8d0nPuyVFhX7zjLqC-G9-P9HHWyF4dALZmkB-k3ODijOWfQ",
+      "widthPx": 1960,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Rodrigo Silva",
+          "uri": "https://maps.google.com/maps/contrib/112194345458296711227",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLh2q-aRau4JFI8RB0f6LdHRhCfJOiriQi7ssuJ4u-A05zKqA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4z_6ytQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4z_6ytQE!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-v9WIvxL_vdJFod8MacKaOrPUuN7Qm3NxFDmRUh4qKwLry2yWXllQVHbminXRAgX0Ier5r8dZuM_VXJttH6nhXeKv8L26OD_Vz2B2XtjCYd3gLAkyQ5TPJzj90_HFMo2-XvbSUMslWHVx1wcLoxUA_BvM8LUGc1WfOaVipUXVjgoEk9FdD9oH4hUQtx9BU6IYK-h5EpNnGhiCvC6SFIjwRpxKAuyahwvZjhOr9UFnTP0JsJ7TJCJPlyC64xg12Dkbj3usvAstPWkL__bl_b0X60szLbOjRA78FacypQ6ZCJPm5x5-NZsjM7v9ixWXYHYRwRfJBgCt7eLeoVYRqXbAfChtEYdUXWfH-OH27P8VpM3Ftfy460xPfnHmcAP1_86pfYSr6BPsUYRbRsY9pnaPBIKNWEt6UWixG_t-vADU1eEAO4",
+      "widthPx": 4128,
+      "heightPx": 2322,
+      "authorAttributions": [
+        {
+          "displayName": "Novo Stylo Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/117095394727249063871",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaaoRE8E61-6b-vXPdeyk-UDhVW76Lz6TgfrFOZqCVcBsOgB8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8tKrI5QE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8tKrI5QE!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-sDTLJu5XVILt35NQyGxJfI54pxM4wFAChJPXimQ_fLlNo4m9iZOVe-5W4bTxNffHU7PlklYx2nakBPSQa-obk18CfYpVS4l1zEiCT4Cy1ryYQWLZJlwKEmwFRtkEEETRQTlMvuNb2z2saWy4luK6KnL2doDUuBqRTDS9Gv1GQjlyeuiW2YxA2Jljd2PkSEVgN4cjsOqaKY7LUbCkKelT1ZmXDkLwp3_8Ea9Nxuw5VMbUFfmslTd49ZiNpgdhWRLPV20qNOKVXYuS5VVmlpf7S8PmXeecG2w4ums-dl9Zg_P0A9ckhFwSrtRMhqKreYdMTg2Uo3YM59zO7_fX0bXcVflpL3xlywFVSkaNZVx_A-jVcPlE2Zt8KbDxYJ1ZY-c0EInUp9bpvjIb9m9fUpuUsK_m59dyyJcgBHcNHzU6sVsfsL",
+      "widthPx": 3096,
+      "heightPx": 4128,
+      "authorAttributions": [
+        {
+          "displayName": "Novo Stylo Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/117095394727249063871",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaaoRE8E61-6b-vXPdeyk-UDhVW76Lz6TgfrFOZqCVcBsOgB8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8tOrptAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8tOrptAE!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-tWyJVuabaevRfShSPjFgeaYUcTfA3Cfxt1t0an0jv18xJ-llFtQG1tU83EBt937E3Dt2PjPj3S8SGybKun_TyAcPdNIRUZc8xnlms5kqYmLQUs9qOthPYaQjZKY37t7aBCYYxPguLAuwuJNklPqF2LGCYPWfoey_2Tmjf1U--sdIrCFANqKKlEVH76tHDFk7i0qPHD8EHmbfNvixHVjnH-Q0vPFxMFe8fCb-AX12f-dVe04nYujobxkJP4K4NyPPGMoQrJkwwGFRvmo94FcApQasRsyShSY6GACOhEkBlPSuT5UrKPWmF7cB1Hr0J5PNB1WHG4H74e_UuBS3jfSonwr5__7cuwkLuqL5yAwW4e_IWIYAeVXWtveMjaclb0sY3NyVhtSMkEcPO3b4ljhXeU_C945u_ULE82MUcaa3AfhPwf",
+      "widthPx": 4128,
+      "heightPx": 3096,
+      "authorAttributions": [
+        {
+          "displayName": "Novo Stylo Barbearia",
+          "uri": "https://maps.google.com/maps/contrib/117095394727249063871",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaaoRE8E61-6b-vXPdeyk-UDhVW76Lz6TgfrFOZqCVcBsOgB8=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8tOrp1AE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8tOrp1AE!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    },
+    {
+      "name": "places/ChIJZya84TlSzpQRTF_TwA2eQWU/photos/Ab43m-ubHMPdCgWiZVvpATgD1yFdslV_0LB21qbDMrt1S7oFI-DEom33qK3D12ZUOe6ItlgM2syCvHh-En4yPm5WtRAaMo7XwlQ_-MuSqdC-tYMGQ-xMln2-IteUXw6m6qzs0y0cE88_CMyYvHngyXOlDdzUV2aNFLyzBa5W3nWtwWyxf30gu3s1XNOzpMeBcZFr4T_bZdmr3zVHuuxqFE1qmdV8EUwWzl-GuIK3Q6sCYcIRZbTOaiER08qWxipcMI65Eosf6V09OzjHU-YFT-abQZhTf2ZJ5SRtpEk4zcTwnGDJNCrGyfmJlTlhpyQlUB3_ZtpewTYo3qSqbDiYIX5lN3CclcKUrO_0j--AqJxLXtQAF4_VWQSp2ZIqS3mfzZTTYYLrV3_S2HDqOb8x5ElmeydMdZL-AfjN37oKLoRnH6qTDQ",
+      "widthPx": 4032,
+      "heightPx": 1960,
+      "authorAttributions": [
+        {
+          "displayName": "Rodrigo Silva",
+          "uri": "https://maps.google.com/maps/contrib/112194345458296711227",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLh2q-aRau4JFI8RB0f6LdHRhCfJOiriQi7ssuJ4u-A05zKqA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4z_6yNQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4z_6yNQ!2e10!4m2!3m1!1s0x94ce5239e1bc2667:0x65419e0dc0d35f4c"
+    }
+  ]
+}

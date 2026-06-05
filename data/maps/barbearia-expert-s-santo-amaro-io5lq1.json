@@ -1,0 +1,340 @@
+{
+  "id": "ChIJB3LNeY5RzpQRQnId2BQh1Ck",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 98102-2267",
+  "internationalPhoneNumber": "+55 11 98102-2267",
+  "formattedAddress": "R. Promotor Gabriel Nettuzzi Perez, 256 - Santo Amaro, São Paulo - SP, 04743-020",
+  "location": {
+    "latitude": -23.6530849,
+    "longitude": -46.7031548
+  },
+  "rating": 5,
+  "websiteUri": "https://barbeariaexperts.com.br/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 17,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:00 – 20:00",
+      "terça-feira: 09:00 – 20:00",
+      "quarta-feira: 09:00 – 20:00",
+      "quinta-feira: 09:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 17:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 121,
+  "displayName": {
+    "text": "Barbearia Expert's - Santo Amaro",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. Promotor Gabriel Nettuzzi Perez, 256 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzNWEzWTVkalpIZWtScWNsbHNTMU5tU21GeU5sRRAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Experiência incrível!!!\nFui com meu esposo na Barbearia Expert's ficamos muito satisfeitos! O lugar é excelente e os meninos atendem super bem, com muita atenção e profissionalismo. Meu marido saiu com o corte impecável. Recomendo demais! Certamente ele voltará muitas vezes.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Experiência incrível!!!\nFui com meu esposo na Barbearia Expert's ficamos muito satisfeitos! O lugar é excelente e os meninos atendem super bem, com muita atenção e profissionalismo. Meu marido saiu com o corte impecável. Recomendo demais! Certamente ele voltará muitas vezes.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Sunamita Liu",
+        "uri": "https://www.google.com/maps/contrib/103728081773209186594/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtTdVUUGQfouK-_mmSskPY7mOw8Z92zUZkA-p7MmxOCFzTtAzylQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-17T16:50:07.358036863Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzNWEzWTVkalpIZWtScWNsbHNTMU5tU21GeU5sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzNWEzWTVkalpIZWtScWNsbHNTMU5tU21GeU5sRRAB!2m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xBMFZEQlRiMjlPYm5CbVluSm1hWEJMTTFRNVZsRRAB",
+      "relativePublishTimeDescription": "8 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo atendimento e ótimos profissionais. Corte e barba Expert ficou excelente. Recomendo.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo atendimento e ótimos profissionais. Corte e barba Expert ficou excelente. Recomendo.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Robert Santana",
+        "uri": "https://www.google.com/maps/contrib/109530437919019179745/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQz9W3_aZPDBLHVcm-pI6UJKKV1unj5PeOf0U_chk6zpM7pzNXmw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-11T21:06:01.442112284Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xBMFZEQlRiMjlPYm5CbVluSm1hWEJMTTFRNVZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xBMFZEQlRiMjlPYm5CbVluSm1hWEJMTTFRNVZsRRAB!2m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxR1ptMDJaek5HVkY5RWMyVlBPSEJJZW5wVFVWRRAB",
+      "relativePublishTimeDescription": "9 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Bom dms, nao troco de barberia por nada\nOs mlk cortam dms tirando a simpatia, corto com eles desde que abriu, indico dms",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Bom dms, nao troco de barberia por nada\nOs mlk cortam dms tirando a simpatia, corto com eles desde que abriu, indico dms",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Cesar Silva",
+        "uri": "https://www.google.com/maps/contrib/113296640493255898880/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2CrPu98eiwG5f7iP3gBuwTbarys9zvlMNeq1GSA5LrLSI1A=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-02T17:56:01.307087514Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxR1ptMDJaek5HVkY5RWMyVlBPSEJJZW5wVFVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxR1ptMDJaek5HVkY5RWMyVlBPSEJJZW5wVFVWRRAB!2m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKQk1XVldiMEU1Y204d2FHVjZNM0pJT0RSelgyYxAB",
+      "relativePublishTimeDescription": "8 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento muito bom! Meu filho gostou muito do corte e achou o Jonathan muito gentil.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento muito bom! Meu filho gostou muito do corte e achou o Jonathan muito gentil.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Caroline Tavares",
+        "uri": "https://www.google.com/maps/contrib/111713589367779822488/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWzJpbTHoCi3tQilJ20uJuPRQrxPQ0_wkcqNYVKLTWTgU75bjc=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-18T20:11:54.598552316Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKQk1XVldiMEU1Y204d2FHVjZNM0pJT0RSelgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKQk1XVldiMEU1Y204d2FHVjZNM0pJT0RSelgyYxAB!2m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wRlJrMHpNRjlOTURaSGMzTnlaamx3WkRKQ1drRRAB",
+      "relativePublishTimeDescription": "9 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento e serviço excelentes! Corte e barba ficaram show! Sempre volto! Vale a pena!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento e serviço excelentes! Corte e barba ficaram show! Sempre volto! Vale a pena!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Paulo Fronza",
+        "uri": "https://www.google.com/maps/contrib/113871781117362161052/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyyNiQTmFAUhA0BbPmoOS5bXveFrX18svUqhN09dlS3jhZ5xY=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-01T17:15:57.450205154Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wRlJrMHpNRjlOTURaSGMzTnlaamx3WkRKQ1drRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wRlJrMHpNRjlOTURaSGMzTnlaamx3WkRKQ1drRRAB!2m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/photos/Ab43m-sl0b3vheV2NLoav-nXKRnPPzOZCFIyDLxe53208g8TzAK1z_go-J4nzJIpyz9LkhjRbw1KsmSMM3xG0Zz0UaNQqQRveM5A8PRYcm6KbEXUimLUzwIO43pPqsL26YKW0uogIAkGyPRKG5wS5WlBrlNNIw-UgYt2EHgWIOAHTqz73imL8tWy7-fVWlVD_KJjnQ7OwjBGAX6yZ5zYaTteREPIyV8xbMDi6wBr6_PAJbM5QxrcCitGPXCUEZacP6FnCvLdmcfylb28M6-5ou0BkvtyTZJaomSsYcDfCfD62QHGSiQ-F-6LcXXQ3wdaO9nYzQI9vPL2__Qy6WdXDtETpore4jqyYBDEYLgkiLMpmYvgt4tLl4s4Kmykl-pr3nyjbAUqRhoelSJAaaR7tZLzwbOPAZOb_XFDpE3sxYwb8Ozrvnk9",
+      "widthPx": 750,
+      "heightPx": 1333,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Expert's - Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/106273608726556079569",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnDSQ9zh-74nk0jkvDXEDIHAMJJicLmMCkR1ahR3b5RzVmUlk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP2LXjlgE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP2LXjlgE!2e10!4m2!3m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/photos/Ab43m-sL-0uk25GUKza9J7PJcVtOJZC13fjvgGzSJucW0MnubmG0_m4OOIAEGEBRUueBI_YSJ-zsjENAw85MkVUwoHI6pb8OwRJVtgocXFw_f_8xWPWQt9VdroEkNpkYoQHYxX7mUoYNu2p39Wwxacn4dP9C3eJI-fh6wMVYfoStBLHOmbckQ1btpLV80oBmKtrLvKF3BfWTpL_0rWxapF_y7eUTJhnwozP6nf1uqbu4yFbtLftI5vCNU5KGovnR0e_LCQZaE4gJerI4ZTP25ZsfR5X5QzyKg0MXeKhcbY95yb5_FpAllAirGM1yGIGfzxOxV8UL_sGjbatawVrN5oHVNh0k2a546dY-L3Av512o0AWpsEBR-HvjtaVfBBoab-Y9GRgDy5e2vzEqGailbl6yB3ZeKvzhRzFLr0ouWdSATat9_Y-R",
+      "widthPx": 750,
+      "heightPx": 1333,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Expert's - Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/106273608726556079569",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnDSQ9zh-74nk0jkvDXEDIHAMJJicLmMCkR1ahR3b5RzVmUlk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP2LWDjAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP2LWDjAE!2e10!4m2!3m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/photos/Ab43m-vPyfWAWaMLBM4mnTHDmn1lrs2COL0eiUuusTA88uDsySTkfdmyPxHmx52E-tKbBzJAV0-jOPrgpgl_D327kullt17WIdrMN51NTttEKjCaTAA9IHuTe4T-qpB9njJIdPLGK-OamTfNIWewdYu7OsWttoqz0UK9DJ0AGo-FAlCuNedly74p_d7YY7lsSvFJ6SxItRkRSio1AwoWjT_YvMZpAH58V7GkcaQaZM7_bIFr8SvjfB4rqnheGro_ijSxaklvOtRWWnRVOO1YFJT9N3cBhCHb9qRw2Bx8c8fGtT-RE67BZDpMXAs3x2wZ_I9KV2zSgL0jkTJ-duEE03-szwuzh3gzBqRV2v7UiRuehNii8d4VpCU4KkvoIGqx5yc7uw4UZAquY_2DgFXAV5ZSpV6g-tWThcysc6sQMJtUZ6Wscg",
+      "widthPx": 2556,
+      "heightPx": 3408,
+      "authorAttributions": [
+        {
+          "displayName": "Enzo Galloro",
+          "uri": "https://maps.google.com/maps/contrib/102999380522756709019",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIGxfzrYmsLjOqEQBiHaOuYaf4Lhs69TaSslkoCY9KJi0KSrM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICv6IGeQw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv6IGeQw!2e10!4m2!3m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/photos/Ab43m-sLD7Qg3ecktsW_dZ7NyhOlQ3vkNYJwW3VilepAoccK75q2bOR4L7znPf9pLIXh2yfstwVKtrp_CdiLImkAT2vcINJ8QLuzexjACjULMbtILcvya-my29YB1fs5qORH3q5M_mQEfULWveBFk-VYdFCUf3EIL7ZQs_pf-OmdEF2QdM_nro5J5Op62CR2Tx8yCd8wkBlSUJXT4KM6bt0B5h_FaELDzbSab0ae5_XH0nbS4poNZTzTtnGN6AJNkKPi5_r1WjG6RtKrEC2D4ugAwc-IgUzJRgUnLYiEIZaHBiG_0038Rgp6TlSgB2-Zok_VQpzhCcB4ZtZTB7LmaeAXu4nqr9gJF74yjYNi_SnE6m6Eyke-OEEf2wArE-Fjwa4LfihZHCJiiJ_P4RC8JizRSCHqJtMEQAvGKMRcKfKbwwDRXby3",
+      "widthPx": 2316,
+      "heightPx": 3088,
+      "authorAttributions": [
+        {
+          "displayName": "Lucas Mesquita",
+          "uri": "https://maps.google.com/maps/contrib/117581528586654065867",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXrK6fCl_DMA_GkDKP-yFsOFiDK6igf_K-rJlQ4ZLmUHU57xk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP_6vX3wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP_6vX3wE!2e10!4m2!3m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/photos/Ab43m-vVzVBZzxivOPOHj0AhhZYAB1s94aa9O-CPPMCjfncSyulWvUdmj_j3iAZ0Eea84UGwiK3DudQ6Ee0neb9mwz2QdLcj4zsTkmw7HTlAA0tzjuxqCkiGMrjCXrbap2ahbnCjaMW-avhn85od5PxEyy9fwvY6voTsMsQK_WsWPLgQwuBf1WC04hdGAgZt2RIdFbV8lvviuEJCA4I7T3OFyUyao6FZ6IeypSr__le75KMXJyGfsSoKug6slO-Ud24CSiemwkr8R9PgBE14osVLd0OakjM35NRQbMqS3HryXs1R4sQeYoy2UCurfaWWuiHEf_Ymx4CVHeaoZmau8QD-HHZC5YET7EyStg15wSI2z1i7LinkW3K6f05Z7xHqO2SdtZvGcSvv0z3wn7mFB1q28kSGAqaSHnw3MbhN6uljqZM",
+      "widthPx": 1500,
+      "heightPx": 2003,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Expert's - Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/106273608726556079569",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnDSQ9zh-74nk0jkvDXEDIHAMJJicLmMCkR1ahR3b5RzVmUlk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP2PWANw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP2PWANw!2e10!4m2!3m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/photos/Ab43m-u2Thix6GzSqqHiaqUYfcYoXihP8PI-ic50IkpSbUj0q0YwvZkCZX6zT6hAVTzjBt8i7BGq5z3ebGXFV7t9C-aT8kW7kfa6jOUlbto4ddec8yqCnMH5TmpnsU1idhIv8XrQ1lQhKJMgFtlx3E-HfeooBWqXeiz_NZBPlACeSA_kI8WbYcQ7PMrr6FJ01W1yAcKaemWQ7RHUYUvKJxQJJeydISzfldZZ2D4EgmeX0ORrG8htGEUJpYru1f03lHS-PYA3LPbsAR2Ma7qsDfYU2Q7LhP4Xep92bM60wfr-nGYfrQgyTrZ3KY5B9ts7-7fcyfHZ0tU5NcqJUtkDTabFoCR_Fc9AD58vxHFrVLt3NHrRMS-JeG69URRFPdLDOf9crFGawQqix8OgCaFqgD9BJUTzCALmXGziMYeDNZiYkq2ygnSxSHfwsaBvxyXKhyp9",
+      "widthPx": 2544,
+      "heightPx": 3392,
+      "authorAttributions": [
+        {
+          "displayName": "Robert Santana",
+          "uri": "https://maps.google.com/maps/contrib/109530437919019179745",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQz9W3_aZPDBLHVcm-pI6UJKKV1unj5PeOf0U_chk6zpM7pzNXmw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBiCAs4k7fsSSZ_-kOdbdBO&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBiCAs4k7fsSSZ_-kOdbdBO!2e10!4m2!3m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/photos/Ab43m-uwPv0j10NFpHKh4MWzFfJn0c3oMdNiEjMsKTkVJ1WFTVu2aOZSM3XetaWdT9l1A-PMx0bpgRBfCxW0szsXS3VsKGxKtUFKqevDtc6LHqZ9ooxNoUN-Rv1dslWr6n7bWlgsJjXATDw1xbEZHs_0o9viHEVTflG-gfn-qyw31DlJjuOE6wUBMLAzY8R5GvwFsPDIsW9aVFPvgrF_q3EqcwZg97xZuZP-13WQkBYrlV-UQN6jNF32Ktfj6PSVJOooEmjKBu4RrMFIa54UqfNoccpYNCEzffqfHHdZ3QGkPApLZScBmUYh4m1Bp2DoWbNX6ofvgf0nzbdI4PtIWbVeVDbvzUgFzWU90H6U3tjjfFZxBLYzNvsVOMm2NidIJA48_mi3nGnu0Z5KMoFL3B5RFhBxJkrLJjaW9jBiSeWflBSJDA",
+      "widthPx": 2556,
+      "heightPx": 3408,
+      "authorAttributions": [
+        {
+          "displayName": "Enzo Galloro",
+          "uri": "https://maps.google.com/maps/contrib/102999380522756709019",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIGxfzrYmsLjOqEQBiHaOuYaf4Lhs69TaSslkoCY9KJi0KSrM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICv6IGeIw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv6IGeIw!2e10!4m2!3m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    },
+    {
+      "name": "places/ChIJB3LNeY5RzpQRQnId2BQh1Ck/photos/Ab43m-tTfq5oz8Jyf0wlCBCv9YuhVBXvlHlGy-TtVqeBt2ufuxz5gR-16TBIZUMaNODh9GtJVgTiUtSd0ZhewijduDLX8631jBtjwRRJXJ13MBfk42xQKzH0jcxSBKGvEl6QCBuITTHMVfRotHBaQ493zfMRjOdMo2CK2vrqxrdptLyFdlRyOr1z2KIo96HhT2NW3M1VL82WDKCcz8mebKns4zj_K-NvLeqwtDM2tMqxKvWvEmffMKByWpESuEywrInm0EZ0cu6FVDGwJiZ4ixpk0hoOpgAPwNrklPLk0tegzt9tTLrT7KpGlqCulU1SQ528oCynzvkCOAaGxNDEno8DRdRPPJB6kr-JV59FIiqmd7QOHxCrecbRjYNRN3TJ_0X_vjQIoWQyvF-IRWzUMdIOx7GOv4pf-s-hgzu0x4V1dVZcKw",
+      "widthPx": 1178,
+      "heightPx": 1178,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Expert's - Santo Amaro",
+          "uri": "https://maps.google.com/maps/contrib/106273608726556079569",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnDSQ9zh-74nk0jkvDXEDIHAMJJicLmMCkR1ahR3b5RzVmUlk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn0reNfA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn0reNfA!2e10!4m2!3m1!1s0x94ce518e79cd7207:0x29d42114d81d7242"
+    }
+  ]
+}

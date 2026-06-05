@@ -1,0 +1,368 @@
+{
+  "id": "ChIJ_bF6crNTzpQRH4gBBbTMC_k",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 94937-9085",
+  "internationalPhoneNumber": "+55 11 94937-9085",
+  "formattedAddress": "Av. Comendador Sant'Anna, 416 - loja 3 - Capão Redondo, São Paulo - SP, 05866-000",
+  "location": {
+    "latitude": -23.6705933,
+    "longitude": -46.773057699999995
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.instagram.com/barbearia_donanavalha?igsh=MXB3bWd5azc1MjcxMw==",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 20:00",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 706,
+  "displayName": {
+    "text": "Barbearia Dona Navalha",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Av. Comendador Sant'Anna, 416 - loja 3 - Capão Redondo, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwMFNsRnpjVVJ3ZFdJeU9YQXhWM1ozWW5WNU4xRRAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Excelente atendimento, levei meu namorado na barbearia e adoramos o atendimento! Profissionais super atenciosos, ambiente agradável, tudo uma maravilha.\nDá para ver que trabalham com dedicação e capricho 🙏🏻 fomos atendidos pelo Nícolas e pelo Dom. Com certeza voltaremos mais vezes. Recomendo muito!!!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Excelente atendimento, levei meu namorado na barbearia e adoramos o atendimento! Profissionais super atenciosos, ambiente agradável, tudo uma maravilha.\nDá para ver que trabalham com dedicação e capricho 🙏🏻 fomos atendidos pelo Nícolas e pelo Dom. Com certeza voltaremos mais vezes. Recomendo muito!!!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Evellin Caroline",
+        "uri": "https://www.google.com/maps/contrib/106238867075381493683/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWr08_mMbLff33j15G2CN7D0dVYLEc3-T9_8O4qWF6crQW82xyv6Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-14T14:44:07.741717542Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwMFNsRnpjVVJ3ZFdJeU9YQXhWM1ozWW5WNU4xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwMFNsRnpjVVJ3ZFdJeU9YQXhWM1ozWW5WNU4xRRAB!2m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aNU9EUTJXa1Z0UWpKWk5IUjRZbXBNTUhwR2JWRRAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Hoje eu tive uma experiência incrível na barbearia, cheguei com cabelo quase na cintura e sai com um mullet curto kkk o profissional Nicolas incrivelz impecável, bom papo, super atencioso, sempre perguntando da minha vontade como gostaria e eu saí de lá com meio 2 kg a menos kkkk e uma satisfação surreal. Muito obrigado mesmo",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Hoje eu tive uma experiência incrível na barbearia, cheguei com cabelo quase na cintura e sai com um mullet curto kkk o profissional Nicolas incrivelz impecável, bom papo, super atencioso, sempre perguntando da minha vontade como gostaria e eu saí de lá com meio 2 kg a menos kkkk e uma satisfação surreal. Muito obrigado mesmo",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Kelly Stevan",
+        "uri": "https://www.google.com/maps/contrib/100003479997592422470/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWCyFNfsS2xiJOrvxCd8rkaZ_YAgoaTwf82lcj3ut1b5IJOQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-27T20:14:24.281715656Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aNU9EUTJXa1Z0UWpKWk5IUjRZbXBNTUhwR2JWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aNU9EUTJXa1Z0UWpKWk5IUjRZbXBNTUhwR2JWRRAB!2m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWck4ySmlTVWRCUkdGRFYwOWtTSHAyU1VOeWRXYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento excelente, meu filho curtiu muito. Principalmente o corte low fade, que os jovens estão fazendo hoje. Profissionais bem preparados, top .\nRecomendo, ambiente acolhedor. Muito prestativos.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento excelente, meu filho curtiu muito. Principalmente o corte low fade, que os jovens estão fazendo hoje. Profissionais bem preparados, top .\nRecomendo, ambiente acolhedor. Muito prestativos.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Indio Rodrigues",
+        "uri": "https://www.google.com/maps/contrib/112296317071352964249/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2mR7gMgK436r0zYlI5-7Z-eQnyFPXeytVCsTGv6lQHa1sQA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-28T16:11:43.606793128Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWck4ySmlTVWRCUkdGRFYwOWtTSHAyU1VOeWRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWck4ySmlTVWRCUkdGRFYwOWtTSHAyU1VOeWRXYxAB!2m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKU1lVSlFVMHMxVlUxR09YUlpaVVJhUnpKdVduYxAB",
+      "relativePublishTimeDescription": "5 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Excelente barbearia! Espaço lindo, ambiente super agradável e tudo de primeira qualidade. Profissionais muito dedicados e atenciosos. Corto meu cabelo com o Alisson e o trabalho dele é simplesmente impecável. Ainda tem café fresquinho, bebidas e snacks à venda. Lugar top demais, recomendo muito!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Excelente barbearia! Espaço lindo, ambiente super agradável e tudo de primeira qualidade. Profissionais muito dedicados e atenciosos. Corto meu cabelo com o Alisson e o trabalho dele é simplesmente impecável. Ainda tem café fresquinho, bebidas e snacks à venda. Lugar top demais, recomendo muito!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Kerolym Gomes",
+        "uri": "https://www.google.com/maps/contrib/115838944784065983504/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdeud10Ve7S2wlBFF8XCQtnvnVTLEc6V4yGoR4_6MKOxxiqymFvg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-13T22:20:20.810769606Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKU1lVSlFVMHMxVlUxR09YUlpaVVJhUnpKdVduYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKU1lVSlFVMHMxVlUxR09YUlpaVVJhUnpKdVduYxAB!2m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZeVMycERVMW8yZWpONU1HRlBUV0kzUlVWblpIYxAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 1,
+      "text": {
+        "text": "Hoje sai frustrado do salão dona navalha o barbeiro  cortou muito mal meu cabelo , de um lado passou reto e do outro lado fez o contorno da forma que era para ser feita .\nPercebo que toda vez que o proprietário DOM nao está no local ou sua esposa as coisas não andam . Muita brincadeira , piada e falta de atenção ! É onde acontecem  as falhas. Enfim sai frustrado e incomodado com o erro não voltarei mais .",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Hoje sai frustrado do salão dona navalha o barbeiro  cortou muito mal meu cabelo , de um lado passou reto e do outro lado fez o contorno da forma que era para ser feita .\nPercebo que toda vez que o proprietário DOM nao está no local ou sua esposa as coisas não andam . Muita brincadeira , piada e falta de atenção ! É onde acontecem  as falhas. Enfim sai frustrado e incomodado com o erro não voltarei mais .",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rafael Lima",
+        "uri": "https://www.google.com/maps/contrib/105921198249425389432/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKbSXf3l-mA3kLJ1iHIoYQHDo1UgsV4ZB-LaNPtdcixEScs_Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-09T00:47:51.718566801Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZeVMycERVMW8yZWpONU1HRlBUV0kzUlVWblpIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZeVMycERVMW8yZWpONU1HRlBUV0kzUlVWblpIYxAB!2m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-s-DaSA-yIuUS2SMpfLvt3mzjKM5NQ4qlivC1qMKsre8OH6aAsN_5suDf76TpuKwwqbSRp1B_pYZsQnL2l_Nm3Uw360cp4CnYjUrGmLckxgssTPX-P0cq3tsO2v0xbbTjnpIwTofQWgW9USslKJnimq9neAjt-7IOteRpjwhsRq6cjrduW2-BdqUKwcogpe5SNaE9SYjQQg--_NfFUiWUU6mumyjSiXJp7sWD5ZULAcEZNNvh2rptlaSnqwmz6I8d4-trroFsCsGIt3S_0RcT_WLU4eJt6cES1bUGxETFXeQTGHrRRl3PgLVNuhiUyNMJS9CWHaa6sO-1wVJDcSQJwnSx-RduUQydJneEnjXAip4xNpgahoA3oVs9-jGDFqngRc3Vbp0tBIQW9uBWD3ECOpwBv8hfQuR9APe1NTAglyEuyD",
+      "widthPx": 3375,
+      "heightPx": 4797,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Dona Navalha",
+          "uri": "https://maps.google.com/maps/contrib/102363589507884654589",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1BrNobqqEB_tIJhA2rTWFO3MhunszgLEC5mYTdVW9E2NehsE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICejbnh-QE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICejbnh-QE!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-vzjnr5T1n66tRT8ho1k7-5Aj7707ETkuXeFNW1mzTG3XdnY79d6VRGqdarxWHksDXr5hbSpEoI8aTkvKHE5bOy5wXaSwz4N-CLynIfVpm3Tup68P8FzpTGDA2wB6GNzrJI_mK1N0pC6XFlT8TgTfRVx2Ze1UeuCA7g3AJ3OnHOK8pcmS2YwRcL9IFSVKRhVpHDwJW3K-qi9L6IClSRlRHQHx8AHdz2nxyDWacS-BtYwHgXFBUsqO0cOmuNOxeB5L5ICUIZXSxJqwVlrjETQUVtgyE60lGR9Ak0EI_iZcp1zaSTaTtXZg-4vh1ARSpXcdJzSekdbJwoLsVFNTTvw45ujrOF2LNHvQ_LHZ2vAKakOj7pz2JWBVaL9rM65C_YtT6GZiucxE1S7duQnfIMTEUmBT4Zj-JyTUqfnSI8YTCGNA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Maxwell Carvalho",
+          "uri": "https://maps.google.com/maps/contrib/106601921867754916847",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9mytSfX6jtOl_Gbxg_Vil8UrNYiRw50a1Fu5eNhAgje2bjQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwgsuTWg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwgsuTWg!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-tt9yUL55ksxddXPjbBaRC94Ddu0feLrmPM5e5TotKcym9ubLv0LyABlnXEMOwM3rnDtdT0AS6-hKuSFBU9lu1sehwOIEe7S8zG8949KLoRLDeDlm-3r0anqMKjx3zGlOf_tLRqPY-M2OhoVHQ2Y41AtSfMshqsWXuv1XWeOAbphUiWBQiVnaa2PfZE6Lz8LQRIMvnvkeJArzbuE7xat0YB6CFuKSBTJe9NKdptaVjiYWNJK2tUX7ahgX9bjE5dHLfZiP6qOQKFbC9E-tEi6Dq_OLIN8VXT3mWrTdBNiqPDIKk5E6IwXy_35gbzGo1jATkms_x6z3JKaFCsBI_MLlSjd70NkamK-SbGOuG04JJWomyoUYPoUOYsNAYj_uS-D1ZMRMyMXMRZPIIAaUCj4Epu3o9ZACFEiHWWyzS4wBmr-7Kt_Lu2gv8ivV3KFIYR",
+      "widthPx": 2448,
+      "heightPx": 3264,
+      "authorAttributions": [
+        {
+          "displayName": "Evellin Caroline",
+          "uri": "https://maps.google.com/maps/contrib/106238867075381493683",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWr08_mMbLff33j15G2CN7D0dVYLEc3-T9_8O4qWF6crQW82xyv6Q=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCumSMjQsrNVnLbmVzAG0o0&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCumSMjQsrNVnLbmVzAG0o0!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-vOtwbxE0UkGA21ns-pKptdo7k4eTnEWsR4zqhodJIc8QQPTB5vnkHsm02hfrGlrr2yXovCj-0YWDcLdpVo5GyEkehGNseokVDcrnqMy54nX_t2Z7Q_-kXKHN90jhd4B4WNXLJ-esBHZ1sn3anoGH2D2h3v7dtSD7nCzbLY2a9CLdc-nNw7dO1F2dhxAbvS9BuYfui26JNV2_4d5ZzKdqrHSrwjkcyj2Dt-gE3FKGVgTLuNhGEPrMqgDhU6yULG7R_Dxyw1n2qrsWHCIKfjHI0T4oEq5QbIBWez9J-dx3ET6W-Zlu3Cea6NQ3eSJQ9_zWONeyUfKSEN9M0L9uJJjtLfmjZjyGTgtR69N5NPYmCmTqO38jlgiJCwpO6BTeuoP6EqLklZedcxcFeQ2lAXNpJm2QZuOJG1u2liYZAeMHWgDnkK",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Willy Volney Wassmann",
+          "uri": "https://maps.google.com/maps/contrib/111011433455883039218",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8RSR9XHqs9fs_JWyzJ28pATjNZgJULT0ozfbhZY_7D0L9PRUQVw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICyu_OvsAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyu_OvsAE!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-uGZlrTpuL11x_7-tapo0sVpI6k2dmg8Iqc3dqgxdbR54UVOYpLPGQz7vOJ86cz-smAgXJItXBSm9Y_fJ-dXquS725DjZ02S2jMBCbBHgnkWev2-9UIzCVp4Cwco8H2cRdoqrBDzeWJ8fbI9qvHUaJOxr-hjn6DHolKUo7A_yIbH6pgW1wfrQM2QNumWO_z6ioSe-5_y6hv9lSaxggT6fQ2LqZGr_7jIF9u8XEaZNF3B3wS0XXIDLI6YSAe-k06S8BoSjFI1KorW8lhif46gMBEmAOL9DEWBXMD6OnFmCQ9mVBc8Co526RS-nm_fk5u5Bq4i9NP3mqp_ac8X-nF_yrQj2WmW6YkAkaddvJ0Yt9Y_YJDe-65LJaL_9VHcstqqSBttxAbNX8tMy3MbQVq9WGukUXK5qDKFP6WIvCdW4M",
+      "widthPx": 1280,
+      "heightPx": 853,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Dona Navalha",
+          "uri": "https://maps.google.com/maps/contrib/102363589507884654589",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1BrNobqqEB_tIJhA2rTWFO3MhunszgLEC5mYTdVW9E2NehsE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC65PvUUw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC65PvUUw!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-uBCsTrlPMZierMTXUU7uExNaGZ1fyjSkDkeLk0w4-onFDd1DAblrCYyUAD2CgZM2zNV5KjipsLdNv8C6s3nHnoU5nha_vsmQ2dfaquAmLPOhvP63p2sitY12gEnfuY4xfwZUiiIv5T0SazwJc7RLvF3hrl9cBhDS1fw2ndEXuRY5SQCk9npbBgAFnuhmQfgpKRvE9edoT-8i3Ya8uRWC73gs3vkejeKXsP_Di3uESTjIUIbU_xfb_qn_75fasFOejY6jod5kKR1tzf1zguldFWUmTr3o3ZbrhfEiqC6Unr9W0lJebCHy6btTMgBD0mD4N9qV-74Bffeb8niL03mVb98XNlG6SyCrs46lmSc9HvhP2MQzQ8oMQVeznYtPwjYKPCBRfJeATT6dsbQcHgk3qr8Dvho6jFv0IwWRmXYrF6UQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Dona Navalha",
+          "uri": "https://maps.google.com/maps/contrib/102363589507884654589",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1BrNobqqEB_tIJhA2rTWFO3MhunszgLEC5mYTdVW9E2NehsE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICO24X_UA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO24X_UA!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-sHsYr2Dit7zOhPX22CkHHhPmPT3aL78QMj2yEjbIkER1oNR2I1LmHaXxgl2RYjDFl23bWbeZkI53_bFwWy1iHJIpzMeMkriQwn-6B-Zuq0YKrFhj48jJvqKfXWFC7wqgSksrJ3rOoOI9eEiuO91O2cKCGhr9QwBwPRoCrsr-I0kz_YJWRybfq4wdDFw6vxSFSAcpHWkyrpJ7GzY6Rgvz8f29DJCMOBhHTFIJNSbNrSQUrEHN0Qic6p-S9yjTlHU7q5kImv9UsX35Hxd7O_NpIYOq9qVNA_LMzvddKvlGvGGxoJ-X4sU4zWOIR1hk1KMZHSQik-88CXlX-_SugrOpS6nFb9Y6tnMomCAhUcuvNcYbA-x3desOQTlnbM0IekFz9HeKH_x2RdzZW9eJVrpOSbUC_wteJrNAsG5qJRdt7rIg",
+      "widthPx": 576,
+      "heightPx": 1024,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Dona Navalha",
+          "uri": "https://maps.google.com/maps/contrib/102363589507884654589",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1BrNobqqEB_tIJhA2rTWFO3MhunszgLEC5mYTdVW9E2NehsE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID85O_iFw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID85O_iFw!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-vOmyc6E89-jkeVsWCsIdcwVFjMG2DuDsbtlkadM8Cob8Lg0WItULuICt_girF9yhrj_J3yqPu-_68U-vz6rxJiHky7OPw0mKqcXVgPQU_sFW8Nxwd1nhUnVr-lq1LMIsp4az-AoPnFnkNlHFpA_bDiWQP2-ZEZa4CLTYhFwJE8AV67j3KuKnORJGlEqighzv9NSSgltZBcRf7UWYDI0XrqhlgLjun1KwwHhqLZc8c5NRjXJcbg-gL9TKacpFpb1EPcNf0OEVqG1rceElsAC8GNFulHTohanYV_hMwUTYpaTtKTW7Bj8KVIfLPDvM3sdv8ZTcGAnnKUxhW1Eo8NbKMyn2QejmMiDVZyHQI_5K2PPKeW17GF_k39zAti_z9MpT73wrG8Dg-Lsk6yckp9b7_o4X2RovZz9bTMhPAyem4OAOtW",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Dona Navalha",
+          "uri": "https://maps.google.com/maps/contrib/102363589507884654589",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1BrNobqqEB_tIJhA2rTWFO3MhunszgLEC5mYTdVW9E2NehsE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICO28XM1gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO28XM1gE!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-tt9mg1Fa64s1C70fBr6SLDq9T3pLjsObe2LZdcQu_cNPkmKfogTb22ga3FDohXn_qq4a_Snl6UwHxG53YWCQO9TcNChRUMrbjJMBAlm9x4tTDbiWw-YBoHrTdFT0-NVrONdC8wN1xr50Ch3z_jMcsEhhaDJ3DIKeuESQTyEFkrzTARqJfV_yyL9AcOB76UMj_5T38_LetRfrgfLlfuiOZb8eBtNoy6RVb5EMTb7-70-kqwURHyWNCV6B5-4nkV-JWvWHgAz4NUulAHE36PLOs3QORQblW7V3dV7s3qmAXnY87JOGY__Ezth_hNPR2eHfiGai13ykArR8ypSdERE4EHz27jPQTvZmdOF1r4XgfSgyL_eAOclgvUgVEunYNsahUcDcRWlcMgUL6gjferG6kZaarZuN_RDheyYmMp2SEvwA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Dona Navalha",
+          "uri": "https://maps.google.com/maps/contrib/102363589507884654589",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1BrNobqqEB_tIJhA2rTWFO3MhunszgLEC5mYTdVW9E2NehsE=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICejbn1YQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICejbn1YQ!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    },
+    {
+      "name": "places/ChIJ_bF6crNTzpQRH4gBBbTMC_k/photos/Ab43m-vRi6nEZhqpPcKk3jlUsRvnthFEI6wBsCcV2Kk7ZJeRljPJjZc8W4Pvvs_Yb8eQxBPJhRaNIqt18l6mlpzmgGI8lTDyUyuALTOFqdw9_KxF11X5tiFnFEph-WovTLJsYi7TtEsjB213yrwzg9eoIQEdRaBXQbZLy5E6H_SuOJLQ9R-fCSzHaJaSULTjTKIvR99NNVNkmj_TEdya3pmXkinZ4VFp7CVrwMcqGFMhQVhK9aqMcwDUVxBWLuU5hbARlxTB_4jDdHYqOwAi1ObBt6k_oGOJimcYeGTnbQKIOhFQUDO7WeJ1Cm5fVljOrZ8mGMNgtN5Kam0kHV58te7hsMVATclgTh4-wigVC4DFM9HeO88JRnid74PoyCtd18emGxdGQsYOZSmLXsqlWXT5wT4A8y9ICd5wakQwTd_h9Cop4hIR",
+      "widthPx": 1960,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "aparecida talita",
+          "uri": "https://maps.google.com/maps/contrib/112569543662839318517",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHkswmNGJrp8OihnNaZQgcooM57faAii1U2e_zz-kUdm22hg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICyrOH11wE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyrOH11wE!2e10!4m2!3m1!1s0x94ce53b3727ab1fd:0xf90bccb40501881f"
+    }
+  ]
+}

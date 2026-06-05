@@ -1,0 +1,356 @@
+{
+  "id": "ChIJ8YwnJLpTzpQRF_UxTTvIfeo",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 98312-1677",
+  "internationalPhoneNumber": "+55 11 98312-1677",
+  "formattedAddress": "R. Landolfo de Andrade, 339 - Parque Maria Helena, São Paulo - SP, 05855-290",
+  "location": {
+    "latitude": -23.6600416,
+    "longitude": -46.7658243
+  },
+  "rating": 4.6,
+  "websiteUri": "http://www.facebook.com/barbeariabenjamin",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 18,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: Fechado",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 08:00 – 18:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 138,
+  "displayName": {
+    "text": "Barbearia Benjamin 2",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. Landolfo de Andrade, 339 - Parque Maria Helena, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/reviews/Ci9DQUlRQUNvZENodHljRjlvT210eGQxVnJaRkJ2UkdaTFFUWlZOelprVlZReFkxRRAB",
+      "relativePublishTimeDescription": "10 meses atrás",
+      "rating": 2,
+      "text": {
+        "text": "gostei do corte, mas me incomoda muito o fato dos barbeiros ficarem fofocando enquanto corta nosso cabelo, as vezes eles param de cortar pra falar, as vezes até falando mal de outros clientes na cara dura mesmo, fora que um dia eu fui e tavam falando mal de um barbeiro que saiu, falta de ética, acho que eles acham que são um salão de beleza feminino pra fofocar tanto 😂",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "gostei do corte, mas me incomoda muito o fato dos barbeiros ficarem fofocando enquanto corta nosso cabelo, as vezes eles param de cortar pra falar, as vezes até falando mal de outros clientes na cara dura mesmo, fora que um dia eu fui e tavam falando mal de um barbeiro que saiu, falta de ética, acho que eles acham que são um salão de beleza feminino pra fofocar tanto 😂",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "aurora bueno",
+        "uri": "https://www.google.com/maps/contrib/111565220016034312485/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_Njnhd7RH2j3wifaiId4Q58Z47-77TsWnXn3I7wGM_oA51Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-07-11T15:44:51.175376907Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210eGQxVnJaRkJ2UkdaTFFUWlZOelprVlZReFkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210eGQxVnJaRkJ2UkdaTFFUWlZOelprVlZReFkxRRAB!2m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQza3JINDRRRRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 3,
+      "text": {
+        "text": "Gostei muito do corte, o rapaz que me atendeu super de boa, fez meu cabelo rápido, barba, selagem, ficou muito bom, me salvou, fui deixar para última hora.\nMas só não dou 5 estrelas, devido a falta de ética dos outros profissionais do lugar, frases como “ Em Moema custa R$ 300,00” , “ Aqui o cara chora por R$ 20,00 a mais”, esses dizeres devemos deixar para os bastidores, não achei muito bacana, falar isso cortando o cabelo dos demais clientes que estão ali apenas para cortar o cabelo. Mas fora isso o local é muito bacana, corte de cabelo ótimo.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Gostei muito do corte, o rapaz que me atendeu super de boa, fez meu cabelo rápido, barba, selagem, ficou muito bom, me salvou, fui deixar para última hora.\nMas só não dou 5 estrelas, devido a falta de ética dos outros profissionais do lugar, frases como “ Em Moema custa R$ 300,00” , “ Aqui o cara chora por R$ 20,00 a mais”, esses dizeres devemos deixar para os bastidores, não achei muito bacana, falar isso cortando o cabelo dos demais clientes que estão ali apenas para cortar o cabelo. Mas fora isso o local é muito bacana, corte de cabelo ótimo.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Gabriel Lopez da Silva",
+        "uri": "https://www.google.com/maps/contrib/100580168214965767121/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrjwOq0lLgGQsdkXRMSmI5-pggQ-FltPIOxQ3B_5uy-Rde5FHp=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-11-13T17:25:40.869057Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQza3JINDRRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQza3JINDRRRRAB!2m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/reviews/ChZDSUhNMG9nS0VJQ0FnSURNLTlIcFZ3EAE",
+      "relativePublishTimeDescription": "6 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "É o lugar preferido do meu pequeno! Galera super atenciosa e corte de qualidade.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "É o lugar preferido do meu pequeno! Galera super atenciosa e corte de qualidade.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Elinaldo Ferreira Soares",
+        "uri": "https://www.google.com/maps/contrib/113439646733672736525/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgmqxUrYGOoPgm3vrvAGX-YmMpHaGeA048FqILERwk6iVr9QJgEg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2020-01-13T15:38:35.544030Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURNLTlIcFZ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURNLTlIcFZ3EAE!2m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2aTlleU9BEAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 2,
+      "text": {
+        "text": "Cortei o cabelo na ultima do fundão, infelizmente corte de cabelo de (veio) não é a especialidade, não comentarei os detalhes que seria desagradável, no demais o cafézinho e a gentileza tudo ok",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Cortei o cabelo na ultima do fundão, infelizmente corte de cabelo de (veio) não é a especialidade, não comentarei os detalhes que seria desagradável, no demais o cafézinho e a gentileza tudo ok",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Carlos S. Oliveira",
+        "uri": "https://www.google.com/maps/contrib/112468811389395661959/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXf0SDefnAxBi17zfvoVZ-V0wGzSgJaF3rK8EAJbDqeCL5x7Wg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-12-14T16:48:55.293034Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2aTlleU9BEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2aTlleU9BEAE!2m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/reviews/ChdDSUhNMG9nS0VJQ0FnSURjNElTcTRRRRAB",
+      "relativePublishTimeDescription": "6 anos atrás",
+      "rating": 1,
+      "text": {
+        "text": "Marquei horário com um profissional, na véspera do meu aniversário, mas fui atendido por outro que não soube cortar meu cabelo. Por ética, não vou citar nome dos profissionais envolvidos, porém fica aqui um feedback negativo. Um simples corte, pode se tornar uma dor de cabeça terrível. Não recomendo, sem falar que ofereceram cupom de desconto, porém o mesmo não foi (ou não é) aplicado. Decepção!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Marquei horário com um profissional, na véspera do meu aniversário, mas fui atendido por outro que não soube cortar meu cabelo. Por ética, não vou citar nome dos profissionais envolvidos, porém fica aqui um feedback negativo. Um simples corte, pode se tornar uma dor de cabeça terrível. Não recomendo, sem falar que ofereceram cupom de desconto, porém o mesmo não foi (ou não é) aplicado. Decepção!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Naerte Bastos Jr.",
+        "uri": "https://www.google.com/maps/contrib/106345736031213722480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVC_mzeNl4_j_PUABMp7cf3b64ZOEoqbKpW1y3T5M0LTm3Dua6GJg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2020-05-12T21:41:19.443740Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURjNElTcTRRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURjNElTcTRRRRAB!2m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-sjKGytw0Yf_5Ble4jPC7GSsI29hK15Gf_dST9a7AznY17kNo_vPuziEJ84FqtoGZnzyezWv9nZ6tXjRNi7nyfI0WnsOGR9EaiArxei2TPlsJ09po6f2e2pYrgtcUd7jbDXQdvF0pVdkpqfPbPdigQkvfKyRwSrDzQ-1kQSPHQ3kZ6zkUFehfanxSeij26SREN2-7VTRKvTMbd_WgJEby-o1PW1pOtoldDC-vNY71_kLmF26Jniznxw4KnjSBZU97b3Jm0DDoJZgFIB9P0dVRVVG2WMmJyMejq2epX23ql4gDIdlxM0-9WpY7y_PpOhegw7yGPu2SXmShqboTYinawUmkn3FyMqcWaszsV5Lj3GHFRu1RJN8fDIKxxiHCxDqYyGO0RB6UaIAJmUWvihJxjr2GgrvlhS3UyMPPlAJdwdFg",
+      "widthPx": 1080,
+      "heightPx": 609,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Benjamin 2",
+          "uri": "https://maps.google.com/maps/contrib/111897414122025017236",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8200nRpVBOAdk9hC-UulqDC0kikfu5Gvii2j5ztfgPDfFXK-z=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDa4ZCRTg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa4ZCRTg!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-uqhOne9iFR9R5gSv4dawKAH2QEH19M6UPShI9pPR-MrYcA0MwqED7IZkOsHv7uAnwQfuU55dqxg-S0Xx8nr-n99W0SySye_4JuS89E_ICdx-t8j-clh5ZIaqAy6Jsiaz6M47PWQJXJnU8YmAg0nQoaJeMUvqyTd8v5PWrOiOkykLtMdE9nE4rtWa2yHTuqVoR-mkN6I5LKkz78hVcwLk90w9GBiC02B7FLwgBxQq4yvTAYHU7C7ayFmUSVZGm51JfLUr9Z7PK0Fd8jJrxqyk_H0eZ6jJSIFAcw9j6IS2i10_aLlPojNWX-dBGRvg1A6c-lCBNgKTcxzXiwQsbWnyAwCVP_MtXzuyfxsa-gTKCeW71h00K-kYyOceNxkfBWeT58TiZBOzBXXvYs-yxGWoVTETh0D2dIzrJrrTlq-EysKg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Rossana Gerente de Sucesso !!",
+          "uri": "https://maps.google.com/maps/contrib/106644665652646166696",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyFmgHtErFxt2tfgRf-tPDNJtoeXB-bOJG-JogCunxp5QgLzayuA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE4o3CdQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE4o3CdQ!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-tBaYOLa2vWhdNMiQXUPa6zxBYLR0YyefhC5RgBa8R9ihf_wJ70qQ3LIaGJWXPnQ7bVqIkTgBE_oBfybZrNC8Fsb1wo0zck-a9ln5LZxt4k56gbtPYvajbsxtQGCljMfpf633YL7pTHeQ5ztpPgteXbJUHDwbB1MTYQzgwP9DOhHv1MwibQQtKtHXAF2sYvnYc_inkvLzeX0gXCwa1lOJEZIbieIYAkMLunYpwP0Nk8ao1v19IzU8r_4AsQXT3Rb-DWZAO02wH1kBcCGjyqDlscKq4stGJ6AKTugkf26MDHdTRG-b9OzCWZf7-4M3WD3Upd_fSjwTJpyCRF9rrdig84oxpDNm403bgCR-96hAz3DN0S8FcvceXCVGkxogiqIJLKjXvuIvDsZM21cquG8xbq422Bx0JWIIWD8t5AZJqmPg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "Rossana Gerente de Sucesso !!",
+          "uri": "https://maps.google.com/maps/contrib/106644665652646166696",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyFmgHtErFxt2tfgRf-tPDNJtoeXB-bOJG-JogCunxp5QgLzayuA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE4o3CDQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE4o3CDQ!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-vEew23hqrkowezRZI7rkf9CqtlYGhL8vgemAvxRnKnELhomhmUZA5z8tzkjyDEjLJVD8H1fFwIx6EwRRZkuD6c6NrboO2atnmZQptZzndWE9LAJ_-QTAowzBTIdweXHCLjG1GuswGT9w5Jk5dC4WhAhJaar4d0KIRNJmgDDMJdNtQiycNBzPmM9W_48kr02A76TMSjilxO_znigsqDCEHJUhbKf7J5QzxVHInqVnNwp2IC4XSQ80b7EC__wl6vhwiCm8B9CIpircEgyiwVLq6iLc_k8Oa2Zb4sIgOw1ExKqhIiQuNxAGOZteZFUzPFkQFV7mlfHFjSTBglyTTXMnGAjTXm81JCT0TAlYvNlpUpI0FS9DtveeuoFCG5NSDLESgP4G6FUTHHRGGR_AnILhc2-6sIl1PaSZ0YDQxpCH3Btwa2",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Rossana Gerente de Sucesso !!",
+          "uri": "https://maps.google.com/maps/contrib/106644665652646166696",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyFmgHtErFxt2tfgRf-tPDNJtoeXB-bOJG-JogCunxp5QgLzayuA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE4o3CjQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE4o3CjQE!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-uWgJn2FODquW_CFS-xj-QcRbPSKU9-0O9leLeCS-EbbaZ_6qUr9sv6zVCUB3pVTV-8u8c92nPudlNTtu5tELqLmC63Y0LmFTQsFMIyoLcqU-q1PQFm0qFnhFKJAQgEiPQBlOXjxXkry4AbuKjkAx_qF2FzHqSVez8gT0HQdDFkLEb_1k9uVGiDUz04_d-bS7u36RsqoWtXZ1rHPxFWQov1mLAGwrPaWlpTwNZ60MEwglb5PEziqzMy-P7jLi5g72diXYA8OPea3nA6l_UlcyV_P_wSndoGVGcQZ01dWIJEDlPKnhaOtuJ3_xgkfHgp_V8ZavzultfhcGYjsBnM55ZGId94c0rJEKqjDOxruCutz_fT3OXJ-1SDX25VRDwz6por8obzpxt5NZczTbXt0Jx0R6jnBhSRCzhbCiGwoAgYaG82",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Rossana Gerente de Sucesso !!",
+          "uri": "https://maps.google.com/maps/contrib/106644665652646166696",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyFmgHtErFxt2tfgRf-tPDNJtoeXB-bOJG-JogCunxp5QgLzayuA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE4o3CtQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE4o3CtQE!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-s8G8cAoNPGhHRZddIQlZAjqhwOdbK_-TbpYkMb9a8njfCYSkmdb2HXMLLCtImWVrzOi6fznojSECLu9gsVS18zFDwWheP3Gzy1kqetjsswaRjDn5Oo-Ssj0VWplyJPnmXH5SU7YH0bdUI4HPcCevnFeqO9P3wsW0-38MVJHUo3hcU3GfcFv41AZC2TmbTd_f5LFfCvuWv22-mUJmyl6uWGgFbC7ALFZHR2sMsGgHPaRQitFTSra6XeNDhFN5Oufq43PB0JW5weY7BMtrRkjlO7S-TKvMzDtEFghJrD3UDI21pZnLwodaDYgjpti0oxrGZvQBIKBG_Ki4R1hcby_rLQaHQ25T9Ecy9bJ5ZULG_EzwHVYUNPTBaFOieOTCV-J0MBjXpybqmTUnLM5tWn6vIobZB5gVzsOlWIJiz6GU5GPvBx",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Rossana Gerente de Sucesso !!",
+          "uri": "https://maps.google.com/maps/contrib/106644665652646166696",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyFmgHtErFxt2tfgRf-tPDNJtoeXB-bOJG-JogCunxp5QgLzayuA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE4o3CzQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE4o3CzQE!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-vO4G4p9YE50lcwgG3otrMbvacXeCe1i6DXEhQejzNaRv6nhJjKfPnm2sdzpmLKwQd0pVvAk0Np4za9GySlJfxBJ9iZViasCsywyFVpiswiREEkJuiNJDV9x4MzfW7oX52egqwmrk9QQR_NsYNnnPIk_gZLGoaCQkoT76cMzwr2Ah58uxIWsE0-mdE8bNq-toBxzgcUNVIbHQ6aHkD_vH06SgJGJyCeIh0ymyv1-x4b69JlXDA8MzTcj0K_CUgbGH6s7DP0_e2v6OL_1AjbfNA7xzR0m9dMt6AuFR5i_G9bz57w1-lbIfNpZwWRK2WPUApC8ZRH0so4lVIeY2_2I7kZyVMPavtegDIGUahCiCTdQ8HDyDM7ZQHeVTA6_CYxPWsPJIf12GKvYT37vey22OfKjfIU_jnPdIz2g04hPqYeT2b4vzF0fMP3b0Flmg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Frank Maca",
+          "uri": "https://maps.google.com/maps/contrib/106880121093360438919",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwxLNUGe2eUCgW3Cj2XSD7TpBe7evzEsPlwrdkXpVdhMoSPZyitw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBZY2RhCwydAg65-Z58vIkJ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBZY2RhCwydAg65-Z58vIkJ!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-vTvPQ2o-QDL5vhTSw5u2JvS2hGRw4DI3MqdDXcUaSp6-4xQf3xzgEAHgyY70dqYKP4GQmZKmIfa60F0o0YOfzeoER-Gkh0XvJsvmOFZwFFEb8Xgj2FfXk3FHKz9yub2dC_WR7Bd2F7irH-BQNylyfHbpyZ10RYr5lfK3fWi0gQDu0dEa268fquv9fh9zGMd_fUV337UWII5cp_6PWs9sM493XduEohfuAn8J4sPClMy9R0YOd7ZVEoyn46LXyLJdYVLrSLVRvdPkwfTStkwVGuvArjJ3ZmRFxAILaE7U2kSb4nTxCf71rCsEEBlMK6BOIkfdK0TODxXXkEUHKIn_ClAprDHo0thB81RVMkpMOKarI8acUN3tKxqwduBhUiunjwbhGYY9Uvf0NS78wXGgX1nOy6BSecRpiq7VN24jZkHg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Elinaldo Ferreira Soares",
+          "uri": "https://maps.google.com/maps/contrib/113439646733672736525",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgmqxUrYGOoPgm3vrvAGX-YmMpHaGeA048FqILERwk6iVr9QJgEg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICckoafVw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICckoafVw!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-tG2dTWVKyln8P9avULWNRmsnLSICkM5REAP3flgO6gNQFnnHg6SAMT2-BniM8MkRbT6J6ZoFLZJE1zYjILDMZbE490MftlVQi-WC-jljEiPjTUI3D8RaMlYNtS39IQWrTbbQXXYdJKyn1_d5qJ70p1K-f92Ie8Fu6VLJmPi3QK_C-FXXqeTqCK1FyYEmR9aC4C_ClNJLpUbJVwO47xWePZStqELZaG6GYlO3sqzzlua2QJvBtNWhsi__DBevHgzLCsTIdcfGMf2rdbCmw0x29MU-NsUrdQT6kW4ED8UleveCmBz5duEBDPwK3f2rAgnS75wo6Q94xuVPoueS7Xby-ubB0g0CODYEfwghTNir6N0NcCYM-AM8S_fOUpPZ4Sk5hPDMh3LtWZeKw3yqqPmbgCVyEoIpR-YGlH-F_RCV031QRzKVLvxACxE16KRsGP",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Frank Maca",
+          "uri": "https://maps.google.com/maps/contrib/106880121093360438919",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwxLNUGe2eUCgW3Cj2XSD7TpBe7evzEsPlwrdkXpVdhMoSPZyitw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGwtg_stbIRv7GSHmzdy8N&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGwtg_stbIRv7GSHmzdy8N!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    },
+    {
+      "name": "places/ChIJ8YwnJLpTzpQRF_UxTTvIfeo/photos/Ab43m-sJinEc2-PTmkLvzvWo-dFbP0VbQ6tB7AGMTLg0VgYWBnij58iphNEWeGx9f0KmlI74Gcf8O4DoWlL_2ONnAMsHrvXpMVDn0e2SjHJl_-3ZwK0AlLyvoLSQiPXUy1wXVJtvuXSIVJ_cQlwDyI5wp17Tyo1jM9mLD0EEXc0c7tH8J8kMWyEAMLiOER_INVnRJbeedKGADzhEc-ttEHytFLOLg703EJunh7FCEWdJjYr7_pk7xU5uam7S2445uysw_ml-9WW7vBWfyyf7-nU09AvcjAiNJ1C1R15xpmNuUd7c4HYbsd2mXsJxqnEZiBA8bEHWFFtJm4pOfQMO-9AYdY9-6ubrmolaaWTAwAYPhauebvjwOeWdYsMPxv24onjxrQ9a1QffP78IAgJNipiSBu0dIR1shQgEJxf6_1hCtlLTEw",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Benjamin 2",
+          "uri": "https://maps.google.com/maps/contrib/111897414122025017236",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8200nRpVBOAdk9hC-UulqDC0kikfu5Gvii2j5ztfgPDfFXK-z=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID8pvGNZQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8pvGNZQ!2e10!4m2!3m1!1s0x94ce53ba24278cf1:0xea7dc83b4d31f517"
+    }
+  ]
+}

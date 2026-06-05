@@ -1,0 +1,356 @@
+{
+  "id": "ChIJxVZxzc1RzpQRg_pSA4J4CrI",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 95650-5050",
+  "internationalPhoneNumber": "+55 11 95650-5050",
+  "formattedAddress": "R. Padre José de Anchieta, 311 - Santo Amaro, São Paulo - SP, 04742-000",
+  "location": {
+    "latitude": -23.647574799999997,
+    "longitude": -46.7057339
+  },
+  "rating": 5,
+  "websiteUri": "https://barbaleao.gendo.app/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 2,
+          "hour": 11,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 11,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 11,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 11,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 17,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: Fechado",
+      "terça-feira: 11:00 – 19:00",
+      "quarta-feira: 11:00 – 19:00",
+      "quinta-feira: 11:00 – 19:00",
+      "sexta-feira: 11:00 – 19:00",
+      "sábado: 09:00 – 17:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T14:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 130,
+  "displayName": {
+    "text": "Barba Leão",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Condomínio Edifício Itajai - R. Padre José de Anchieta, 311 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjd1EzUlNWVXRVUTBwQldYaEJOVlpCY1VSUWFsRRAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo profissional, trabalho de qualidade, atendimento excelente, ambientação ótimas, um lugar perfeito para cortes e barbas\n\nO cafezinho também é aTOP",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo profissional, trabalho de qualidade, atendimento excelente, ambientação ótimas, um lugar perfeito para cortes e barbas\n\nO cafezinho também é aTOP",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Marcos Santos",
+        "uri": "https://www.google.com/maps/contrib/100481015219896089547/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWA8hxlRQEova87w323Dg5E-9cMFw5vansikl20IgvSx9OOv0GAkg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-06T17:39:51.320659782Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjd1EzUlNWVXRVUTBwQldYaEJOVlpCY1VSUWFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjd1EzUlNWVXRVUTBwQldYaEJOVlpCY1VSUWFsRRAB!2m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWSFJUZDNaRVUyYWxkck56VXlNRWR6ZEZkSU0zYxAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "O melhor cabeleireiro da região!\n\nCortes bem executados e sempre com boa consulta para quem tem dúvidas sobre o que fica melhor.\nO agendamento é muito eficiente, permitindo 100% na pontualidade.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "O melhor cabeleireiro da região!\n\nCortes bem executados e sempre com boa consulta para quem tem dúvidas sobre o que fica melhor.\nO agendamento é muito eficiente, permitindo 100% na pontualidade.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Leonardo Alves",
+        "uri": "https://www.google.com/maps/contrib/100187888336802065074/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRjkLUJKMR2HtPWeZbOZ1ITEeowrvjjzWVXtjOcLS0ym-u5TU=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-16T23:00:22.676864712Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWSFJUZDNaRVUyYWxkck56VXlNRWR6ZEZkSU0zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWSFJUZDNaRVUyYWxkck56VXlNRWR6ZEZkSU0zYxAB!2m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2padk1uUnVjbWR4WlZsTFJHbG1hMEp6VjI1cU9IYxAB",
+      "relativePublishTimeDescription": "9 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento personalizado, Edu é um profissional atencioso, preza muito pelo gosto do cliente e também tem sugestões ótimas para a melhoria do visual.\nSuper recomendo 😎👏🏻🙏🏼",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento personalizado, Edu é um profissional atencioso, preza muito pelo gosto do cliente e também tem sugestões ótimas para a melhoria do visual.\nSuper recomendo 😎👏🏻🙏🏼",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Sanches Oliveira",
+        "uri": "https://www.google.com/maps/contrib/102860330003464761350/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgOcf07-0vskYRmZBKH9kD3-8RiwETVbxvTq_FX1g6XIkOKSUsBw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-06T18:18:30.965879765Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2padk1uUnVjbWR4WlZsTFJHbG1hMEp6VjI1cU9IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2padk1uUnVjbWR4WlZsTFJHbG1hMEp6VjI1cU9IYxAB!2m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaNzdpWldBEAE",
+      "relativePublishTimeDescription": "2 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Serviço excepcional! Sempre tive \"alergia\" em fazer a barba com navalha, mas depois que fiz a barba com o Edu, nunca mais tive problemas. O Edu é uma pessoa muito atenciosa, super gente boa e um excelente profissional. O ambiente é ótimo, muito limpo e bem higienizado, e o trabalho é impecável. Recomendo de olhos fechados.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Serviço excepcional! Sempre tive \"alergia\" em fazer a barba com navalha, mas depois que fiz a barba com o Edu, nunca mais tive problemas. O Edu é uma pessoa muito atenciosa, super gente boa e um excelente profissional. O ambiente é ótimo, muito limpo e bem higienizado, e o trabalho é impecável. Recomendo de olhos fechados.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Alex Romani",
+        "uri": "https://www.google.com/maps/contrib/111292849926072153613/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsZebBQXY6Ps2dX_iOfp7QVYBLHqJp4YHD0V36oYoJma6YZO0=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2023-09-20T23:05:41.261611Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaNzdpWldBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaNzdpWldBEAE!2m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkdzlTZkNBEAE",
+      "relativePublishTimeDescription": "2 anos atrás",
+      "rating": 5,
+      "text": {
+        "text": "Hoje,levei meu filho para cortar o cabelo,o Edu é um profissional maravilhoso,super atencioso e o resultado ficou excelente\nUm lugar bem limpinho e super aconchegante ,com certeza ganhou mais um cliente..",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Hoje,levei meu filho para cortar o cabelo,o Edu é um profissional maravilhoso,super atencioso e o resultado ficou excelente\nUm lugar bem limpinho e super aconchegante ,com certeza ganhou mais um cliente..",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "magna ma",
+        "uri": "https://www.google.com/maps/contrib/106072704988822518221/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKx7ymxhKdyQZLY59-9jsiEuCDXk-u_nHeiTwNoFwL-zVLeNw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-02-17T19:04:47.061688Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkdzlTZkNBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkdzlTZkNBEAE!2m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-v6BM6FtNx5Pbb7AbuN5fHvYFPgGTdzracOabyooo3NRG3Mu6hOVZx4W74O9PuLsDCThvabHNdfj5IUvDegZaTDY6fqGEPtEEkb_DC9iLL-FqdmaZ5M4c3oJU2hpLYVQZwoGADk0iW8jUwcP1LIi3DOXzrPhJNe3tP77MjyfN8oBr6oMvfBWH1gkaJqm4gJ9wV-quJDaLlmfNpdmwG5UMbVPxF87VPhkkGbP8xyncm2F0axB_M2_lrwN-v08defqotbFEiEu5ZMTktuI5mwvoxiNd1UfEk-MBzeCzPwrand86r5qGnosoltgijGx0wdiyYafSxJeaCrXDy6SVBGBi0zME2LNF-80TEiIu0bD1B1Rlh2waZKg6QySUvqVh2ZQ6Xo6kd1NH_7AT-IfrMlVihKrLks2B0woV-bZoByEq_vpP0Q",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOy5PK1gE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOy5PK1gE!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-vGJB4OoOwAL3T57jQr3EU_i3rs_ezhGZjpplJOU69rnu0cNjuZEI9NRI9F8SQ4GTI6bxxan8xpobZjNlchUbRmUeeAR7K_dKCtAUq4Lxw0QD2DGTTYHouWO_cD-jAfaRGGkAHBaHQSK82CbLtTKjN8vmZ1Oo0YiN73wc_lubMvZqwlai5Z71vfobYACZLHAXDbKe3KLyAmZ6momI-vVBvYo4nyJWUTqnlraeOGfVjrVYGyGYjdpY77_swuoUYXmcYu-AITY_L4WkofxsaDiEmnCDwsKgZzqhK7M0SBHR6Gw9UwcSm3kA9bQeQGs6s-gKt4rnGtCVjOwKjpuZ664-nRd-_H3n2u8Z6wyf9giNmCcxMsNZggTwz7MgBI5jRC9uil0kV3I2LnhYFazvCneQZRyk_O_Mzx59NfLEsSI3WO-H5n",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOy5PGhQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOy5PGhQE!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-uBDVblbK8RtMeQrRUKQFan6m_fHMo_c2UEmJHz9ymmol5bpoasEuIi3gmtTfmvqkSRF_416IzMGoLgL6VVxRGHdfrahALIaiFB0fE6h51vp9RTy3W1aDZgs762g20ehqu_b5hX5VpPXarLH_jkNl72DylJUBNsWLL6_UXbJH7_-vPOrDbd_slQG-hp3i78iqpOy9Iu0dssClril6qaifUjSIkqdNR70t-c7PdFLugKccxe8iheu1gBFpZG62MPGvffYVwp4aDS6qjBestyZaqW0pMDzblmqbCakgKBXy3to0jrj53dTxdJkT9zpCE_VwcsxlwSS_vrq5mGt4Sey9PgS8d0Rc13-cQp9K8k0jjbcDCyvsp0oAp_eYXlOJerfRg-HNo8EkhkqMAWcyEBNdb6DDzIhTkx3obj3SdIqxlg7_yr",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-q4mVuAE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-q4mVuAE!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-tkMVnwS3ldqQtkisNM4zzm32DjaBBYC5nNsDoxgbrgu58GlhGDJtXwNak67f6ojfMpmjSBI_ddp2w2nU-aGMMUbqwgOVz2T4WgbFtzimG_foxxTY6GT-ctUCR4-tkGYcVj5wkZpMWE28c7VqVBHnVf0gjsxTz1etyxXS5LT_K2Qq5Xdyho3q8UkrsRANolFbTmAg6wV6BM1aiA2dCIOEV2V-n0-vE3-gFRVx98RjWe7vt75M22SGYjhpmRyuxQNb_7cS9Conf4zqrbMPaqWcv_eCHpqVlpKTUAh4LUn41MsWOlMFdAZuXVlAq5K9T-RGxIWmWPfxeCFBok1ZY8ZLE0GoqwEFyzOLeaDAj_Dpjcdwz_4BHTCRjwYX7wnTE03_0G8zOyA8uS6lMnsMRbL8k-vhfJI2GlyOJAvFLKN5w8Dg",
+      "widthPx": 1237,
+      "heightPx": 1257,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICyuZWmVQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyuZWmVQ!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-vkHCHiOsLdqm1DqJ_Du5eV5TaLhZ6y6N-rUtiBiAc48qMv5lWmS-UXDdNc5lHV3xhLa51rurdxS5gAVfyfZc5RrZNWzh5VBsJS-0ICaCcIPBKEZKYYa9BdYz3PHNN9JXPUiJ6JbRSjd1V_7SQJM1HwkXWj3oKjt282bgb1rp6wSLsrNlnj014o8dtUDvXHPCjqAyusmYWe4jCqQuAYs2fVs3UjAIRXlIWXm8X3tczHV6tFqt28rwl2JoTG4NoxrmILAwzs82kEwN-_yQBIPf0rXbsuU0u-lVf-GvfgDQGuXwtw4VjY4n5KjFOufY3d0Zd09D0KtMSStQY1NVi5m5rV_dLV7YHSjgZoDUx7SoFVFnvOQEpQavUyF7bsv2iDfQyOj2tEH_hyjNlLOcPH1rlV2PQHVmJLxsMORt6dv3BVxSTj",
+      "widthPx": 1080,
+      "heightPx": 1081,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDK8v7vxwE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK8v7vxwE!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-vB72-tw9JB_fSnJeH8vd3UuMe_1KEE0DLrKTkEGRKd2gzVm4kTDd-lq5F2RNQbciO_UIXNU50dK0MCPyOAzCIZwAuUdwKOgLac6YTvPTzG5eGx0yUk60yjn_BuqQ3ZS7ItQ7YcAXm-iErH5QwFdwDjF358qHpnfRkHsDCuAu2AMownixuuUGYfvYH9ZF3_DOj425I11frAP8wFsIdv5DmqGSJkokLOFqN1f3WcHb2OoE5D92hF9vx9VIrQZge2iWVw3okgl65vQMIg_oTyr4Wax8WJhSV4VbOGvQYuHdN69T2k-AWqc5zpkX3o6-fwxsWRpnskD_n27zaKG7PAouz8LqtLkGUeZhox20mabHDSsRX50kPeAjxWHpXUuPT0SW1grxNEYwWKhzrip1dH7fAYQjfVACg2nhxz6aFKI9ZeSnZA",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-q4mVwgE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-q4mVwgE!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-sl1vt-A4pT5foLnLwo4DC7TayCImpTiXvFDLMReOoN_oow-DasZoAnV3ruo9bcDRno1FrcsAxVNeCO2x0i75huYlJkB8SFKVySpkHvvLT2fx52vsMndqZHD1_xuW7CWCjBUpb8k1MmOhvsqD7vtxfsZXpaG8B2uZdWIqwA5cnjjyRf3UVS9-iYn_1TeB4WdXMRJiHIfS5IEBIohUTGhFQHLSj4q_D0ajcNcsHlJiW261oeeUJ816ddu0sZlf955LjjozgSZtmLIb5Lf_LRo5DvVj_3RY_Clh72NZN5q-g2sg9FK5zrW3Daz7_EOqrrwmquMAccDHr6s3ilN_QvAlOiDpWWjYn37o9VU-Nq3qdxqKA8cCm3kJHOzU5FRWuKXkP3cY8GXWz4Cwqu1bE6UH0ieil25g4hP8LBEpdDgq0",
+      "widthPx": 1080,
+      "heightPx": 1081,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDK8oGVFg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK8oGVFg!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-uAf_Kk_8Zcv6EVgvXlXzvLt3fGE8sTGVahQaaSlZU4egRqK-PwEr-Icey4M4KjWjoejTklWgzUoy6gLtcMbbPS5DhENQcQg--k2JfdThqeXOEkOjrEv9zqCzrWGwqMZwMbVmAVwqWqPOTDdEruvuRHJW7_YbASavmjWCiGm5MuO45KustvuhiUIDBv71Ze-7ek7FK8M01g9KDgXYnDXVGGJjtUgxWv-UVyCs65P1s0MkYJ1RsjUkTjNWdkJKglT_0Avkk_uMPED0gKCjhqsIBTYOlMFoHZGGdcvIwhsMIeazzr1t1wmAhbH0HYOfoJFpy-OQxPDIvMFnnUJ1_PoASzbX8rVb6_6250TgDYH2ML2o7TO_gfMwU7BPXcpmWRr28U6MZx_AZ7qMkk_UaIHSB1fSFCMaVkI9n3cG9D8yhVBg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDygIXPAw&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDygIXPAw!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-s8ZcV1zBmfKPQWhIQtXn6tQxprZJv_UkEe5w_1x9br8DG9dUDha0OqANwzt3USBZ7GVqONiJa4jvYAaUY2a6CQpmpuZxHJpZDNDsvuyWN4dXX0TZI_799P5VFs28qWHmqdfNrBNCxooyUUqmfxFxSBFSyD26Gsfr3T4jMt2fkWWVqLcxYUOETYNK9FR9814LEvjYWegsB5GBUdEZydXBGcAqdgDdUfac_jicACr9HLn27kgjrvDP-a1qze_rfTvXBSrClftmzXEYLVC3wiozLnauZcdBdzfCBWFEcWsboMqRrrYzsIyQlBpOJgiMzKLb4GjEeFdmRrCLEjkxQ6Vo5g1E-uIOOACWfwVIYyDvDLkI3_YzF2JhXig6aBlG_d1AxJCX7-HQsZVrkHUO4GQ1Vpp0aRxe_22KhU477hsnO6Iw",
+      "widthPx": 1080,
+      "heightPx": 1081,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDK8sGfdA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK8sGfdA!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    },
+    {
+      "name": "places/ChIJxVZxzc1RzpQRg_pSA4J4CrI/photos/Ab43m-ukHZqFb64pARKXgVi0EJCzwwXGFxTDjmCrvzDGRzO9EWnZEqUxp2O_FuB41ixoQsB5LxXTmusTAvK5rwoSeR8Ewy9DyCJ9uFdqrQwil2yyZwWoqv0F8oOw-1wfRUkpyNs_6OwMdzoYTRSV8C6icYEdUOXontOVE0ewt8ih3S5K57XkUwCL_Bc1UGnHyb8m_P8ljLIk6vZh8MomRs7tFJLq__1yLrbMrEUbmwRuLY_IPvZEb0bvS3x9fNdrWL2t32fUqTY_Db1mVvWuFj__mfZNRGc0z79-Qrq8xsYrAFYSHS-JSfv2RMRXGCcanjBezfJsbAl8nUrnlJnVsXqaTRaAC47oiT-aFyVJ4fZLakahy7u5JkpHYzkg49j9B18mi7m17OI77LYDK0ojz33TIg7jNqTS3DsBcTO8JWNzN1F0Zw",
+      "widthPx": 1242,
+      "heightPx": 2208,
+      "authorAttributions": [
+        {
+          "displayName": "Barba Leão",
+          "uri": "https://maps.google.com/maps/contrib/101304006703075087878",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVerZOPZxaOaGmJtsnj4Ll3YVnKhCW_V_f_sKljjUgbTyeFoS1d=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDypLb2eg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDypLb2eg!2e10!4m2!3m1!1s0x94ce51cdcd7156c5:0xb20a78820352fa83"
+    }
+  ]
+}

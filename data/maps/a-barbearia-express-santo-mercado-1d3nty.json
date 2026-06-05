@@ -1,0 +1,340 @@
+{
+  "id": "ChIJMbEI5mVRzpQR-DZhyPYJt20",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 91306-1616",
+  "internationalPhoneNumber": "+55 11 91306-1616",
+  "formattedAddress": "Santo Mercado - R. Min. Roberto Cardoso Alves, 359 - Santo Amaro, São Paulo - SP, 04742-001",
+  "location": {
+    "latitude": -23.6502634,
+    "longitude": -46.6999662
+  },
+  "rating": 5,
+  "websiteUri": "https://linktr.ee/a_barbearia_express",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 20:00",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 10:00 – 20:00",
+      "domingo: Fechado"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 16,
+  "displayName": {
+    "text": "A Barbearia Express - Santo Mercado",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Santo Mercado - R. Min. Roberto Cardoso Alves, 359 - Santo Amaro, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/reviews/Ci9DQUlRQUNvZENodHljRjlvT210eVJWRTBOMnhXYVdsV1YwcFVlazVKTFVaWlFXYxAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Gostei muito do trabalho fo Fábio.\nSimples e objetivo\nVoltarei",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Gostei muito do trabalho fo Fábio.\nSimples e objetivo\nVoltarei",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "JOÃO CARLOS",
+        "uri": "https://www.google.com/maps/contrib/104539012389541595659/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRSohWTxKvPv_3ehtJ-HJ5m9J6XuvlhbWObaYi_ds3qbzZqA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-04T01:13:51.407753141Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210eVJWRTBOMnhXYVdsV1YwcFVlazVKTFVaWlFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210eVJWRTBOMnhXYVdsV1YwcFVlazVKTFVaWlFXYxAB!2m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOclJGQTNOMTkwVG01TWNFZzFWblZqVGkxTWFVRRAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Qualidade no serviço e no atendimento.\nAgenda de horário, agiliza muito o atendimento",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Qualidade no serviço e no atendimento.\nAgenda de horário, agiliza muito o atendimento",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Fabio Alberto Cabrera Fuentes",
+        "uri": "https://www.google.com/maps/contrib/105840058945761556085/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkDYSKFq033NRUjmgw51q-sygro_W4JRrnN74qUFqjk6cEwg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-24T15:26:12.679365610Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOclJGQTNOMTkwVG01TWNFZzFWblZqVGkxTWFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOclJGQTNOMTkwVG01TWNFZzFWblZqVGkxTWFVRRAB!2m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KQkxWRmxUazVzT0RsRU1UbE9VVUZ3TVRjd1RsRRAB",
+      "relativePublishTimeDescription": "na última semana",
+      "rating": 5,
+      "text": {
+        "text": "Simplesmente a melhor experiência da minha vida, Deus colocou o Fábio na minha vida. Agora eu sei o que é corte de verdade",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Simplesmente a melhor experiência da minha vida, Deus colocou o Fábio na minha vida. Agora eu sei o que é corte de verdade",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Lucas Francisco",
+        "uri": "https://www.google.com/maps/contrib/110251310845155524951/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_kyV18IlVFtxT8U2MMbhTReB5iiMiiDZ2j8oo7v7mFBhD75JSoA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-06-04T18:42:07.360731548Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KQkxWRmxUazVzT0RsRU1UbE9VVUZ3TVRjd1RsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KQkxWRmxUazVzT0RsRU1UbE9VVUZ3TVRjd1RsRRAB!2m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrM1lsRnFielZNYlU5T1VqbFZTV05CZFRkT2JHYxAB",
+      "relativePublishTimeDescription": "na última semana",
+      "rating": 5,
+      "text": {
+        "text": "Ótimo local, pessoal muito atencioso! Virei cliente fiel do Fábio, recomendo",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ótimo local, pessoal muito atencioso! Virei cliente fiel do Fábio, recomendo",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Pablo Tavares",
+        "uri": "https://www.google.com/maps/contrib/111401268725371327679/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHY7W460mrd29qS6NVDzUnI0Wp6yjSw52StQQlB0W7RXWCrln0=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-05-30T15:36:39.213579818Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xrM1lsRnFielZNYlU5T1VqbFZTV05CZFRkT2JHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrM1lsRnFielZNYlU5T1VqbFZTV05CZFRkT2JHYxAB!2m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rMlFWUXRUM1kyWmtOSFZIbFphazlhWlRWalpIYxAB",
+      "relativePublishTimeDescription": "na última semana",
+      "rating": 5,
+      "text": {
+        "text": "Otimo servicio e bol cortes. Fui atendido pelo Fabio",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Otimo servicio e bol cortes. Fui atendido pelo Fabio",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Juan Manuel Baez",
+        "uri": "https://www.google.com/maps/contrib/108269134435140841566/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuIbJk8KJrC7FZawjMPDGvEiUXaoTYv-w44IySi8T2jnJB0LG-=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-05-29T14:40:31.695086460Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rMlFWUXRUM1kyWmtOSFZIbFphazlhWlRWalpIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rMlFWUXRUM1kyWmtOSFZIbFphazlhWlRWalpIYxAB!2m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/photos/Ab43m-v_zQpv06tIpLwxPB9Mm_5MFKcdytqbSjHIO9ARqWJG_OaXANeXDOy8uVmHEXZ3G1344X0FQ9E45c9-YRWlZ9cxEZCX5oPY_owroDtgGCHHCk-WGpux44E1GPEcL9sTUadcV2hWK9M7yvt4KxmHtjmbkTI3v7xeiFbnrxwcngpZnZGg2EgMj04bcBJPiIf3tph1WWx3o2U3KU4eyGHSJF0K8nXf4x5u7eg1rEeNhbrNFT7jfPj1PIoGnoyWjCemjy49Afoh6tA2Kyncu-E_IQ1TES0V8gZmu203iUCZe7WbwprTgARvavJS53F3u1It1aGlIWz2pQRH_qO7CNOr7x-v15F6YUUxAol6ingiMFj-StXz_HAvMjQjUqk_9EC9OAGLBlBLOVYWVjDJsFjzut5Y2bYE_EkuTTswkqOesrB0L9_HULMxUg107AQwTg",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Santo Mercado",
+          "uri": "https://maps.google.com/maps/contrib/104357403655423848648",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iyim_iXjTgS3elLL7Vk7En1tws8koCUuuSzgrBTC4IFzwAI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBw80e9FMShA64j_4k_WP7g&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBw80e9FMShA64j_4k_WP7g!2e10!4m2!3m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/photos/Ab43m-ue-NU4zUvOVyjKXT6ikcDtRUpQR5e6s-xZ7eRLc5GC0xbHHLMDmRiobVUkm3Rwhg2pMfFZdPcPrNWbhbgEYnEh-W8QI-j_2hoMjsZp7dQnZF4MercX45gYR99MghDjQzjIiBAHUAb4ra8PWiGpOwLXonBf77JxA4miw34UtMpK7dIj0m2sF8Z2loms8AQOHlf5QV4He71kxYb05mEF0wocGcvHZSyoiixldYL7c-4y49Q51h59SARkQWK6pY3fgoiqnLdMqPpvKrnruoJK6cgnsunQ3wrmYomAv1_xnpisUUg0G9SU5YQxgB9OA06o6RhmlfmLq3eBkMQycnqzuu0hnMZfFoGoGBTgpBimrmxbs-0XxIdbkJYwCFDJFeSnpnDjWYhwqwcmAomCwPByNRjHlN4mip2ebAwN9RyGXG3hm8rXCTcZSjiXhw1knXNV",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Santo Mercado",
+          "uri": "https://maps.google.com/maps/contrib/104357403655423848648",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iyim_iXjTgS3elLL7Vk7En1tws8koCUuuSzgrBTC4IFzwAI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhD8Z5pfAeJ2k1N3TEUAbbhZ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD8Z5pfAeJ2k1N3TEUAbbhZ!2e10!4m2!3m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/photos/Ab43m-v4G9YBUP-tdICMUE-BZJzhGDdE58VtOtkrZTMqmPRjuyrigPIbHK4tHtp4h5DH1eP7cT0y7-PkmLbWgMYg65go0hhyusfWlXD3tMXAC8sFZqXY3jXw3m-06KBKbL8nqjP8cGPQE62XYAz0nCbKLjBnE0Zfq4j8MNnxGW_s2TseSzyeSRbIQwy0A_i17ijj9ImcTlZ8GtnUnw8yXexPj72PffY7EYkZpR3b8CdVvTGHqUoSjI2p5yyXzjcshbjtVmb_ZxkRrL-HI7EjTpiCclIvwGZUdQsUuXAqnNzIqONUD4yyYeo3XDWs25cVclQLvrpSkg7TyNDx5DGAo0sogPjWXGNYirAqyeQ1P_0bkGKBCYGrdT9wgFQ6yW8B0GKcKau_nDLfgJLBT2ihGv6lxXasQ5AebzZLExzdBkH1JNMaWL6lSIXACgYvWGUvsVtG",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Santo Mercado",
+          "uri": "https://maps.google.com/maps/contrib/104357403655423848648",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iyim_iXjTgS3elLL7Vk7En1tws8koCUuuSzgrBTC4IFzwAI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCbNB5V9XZzhZff5G26W4QS&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCbNB5V9XZzhZff5G26W4QS!2e10!4m2!3m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/photos/Ab43m-sD8XG_fcfSbgbidLPkoYJYQJajIzVjbl2Q5FJcBuQfmSodVU0sz_mlNbtX8PZU03KmaI8SPwO7EWcTCE-NTcG6wS5lMRhVOVySSIgp21b9wKJ_nmje6Ka2NdEbrzcBNqSgjoSf3h28W-0cO7ciDTLtCC3lATdsA4b4uprd9TfFk51j8E6iEB6yfeZbNXUWjEoJBNCuIbeuCqYX-S3Vua_W7T50iPNEDyQKNHcgw-U7qbYGir5FAUivMvo4STfcEWVZQFwvS2xoEIUqBMjTwRzgmW0LAyqE4Np8-Dn16GoB0eSZQfwOGarwTeHA6WcllTA65VsikdnSs51FJUdW7ISW0_lNvU9E4SNI1J8fkR4KAv-fI0RrZqd5Xm63jJWSqsGPCJGiXYgCpzEq8eeUCjWq1TTca_hSR7DjIsSt4PBP73IGxLNCoM-y41sWhY4d",
+      "widthPx": 1080,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Santo Mercado",
+          "uri": "https://maps.google.com/maps/contrib/104357403655423848648",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iyim_iXjTgS3elLL7Vk7En1tws8koCUuuSzgrBTC4IFzwAI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDAm9MsiZRle6LDBXEp6skl&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDAm9MsiZRle6LDBXEp6skl!2e10!4m2!3m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/photos/Ab43m-sME4I7_oprjuFLW0lF6nnU7Cw6oB3sA0faL5TqZPELuBXpQO16Wsin620qOYwhUHEikx6alff3r4nCrra5yq6h7cYZpQxoNwis5LDlzH-x4nCpc9fyqN4GaYIQHQKuycJJ5Z0wuJ6bY6HAgh1F87Fk1bEdvDMU7MgLM35n2_LzcQ7TxKqdVLWiM6ZyQZkcH7Oineop8IAMZum678_ablDtyh_DlBeOSfqD7kIYDtqb-8hHBes39_weghT6CxlQQjrf3Q8nhqsMate-uGVDxU4dFqM_NNchMkBH2HmT8BuUWsX4BEd_Pfmf7nnufvT2-XZWq29k2Q9eRLOOzaAd3XZz0LsEwss9HH5q2qDa427JdisJJcqh09r1NpZliHS6fXq0RJhV5f4rHMIenicBpi2lqpguErVkjRsv1JPpPCJRWo2ZGCyLv8n4GA3ju-Vz",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Santo Mercado",
+          "uri": "https://maps.google.com/maps/contrib/104357403655423848648",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iyim_iXjTgS3elLL7Vk7En1tws8koCUuuSzgrBTC4IFzwAI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGryoycIZEjwSBnrHydagd&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGryoycIZEjwSBnrHydagd!2e10!4m2!3m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/photos/Ab43m-sJJy81fAjaa5P46OMrD9LOruzEXDAXJsU4W0PWtxwBZoRiLkfDFm9c1zxJU5zOSBKGRjgniJnLpt8xBIZCDVC27ZfpjpkZkRYmOnQGBq5Oq8dHnprGfj1w_odpuRjrB-NqCQjOvG1-c6xpFW6vdMcsXNhMAFPKpW4eMBmXh68DpE0qvNPSfGguWL_IVjXTiUQUegbPQIaqLzuN7MLRgNB2iJlKMkSLB8oThyEobJMJcAdATcpYpXGB26LH9KXvAigh3ulS7U_b2Zay6rwfDbkI7xvSD5wePYrvyX6Wa_HXLQ06mXnDzLuPgeGJUENqlyfe-u9U-LnqE7KGo3KoiNpzw56Ks7cajn9gJ4pZWxCV3L2pKrT_n5QhiqEMZM2Ued4KlOmDSgSGgPmkmCA1DtXC1HzqBhQikyEZHyaraMSjN6JzbUZk8AuWszMrWjbi",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Santo Mercado",
+          "uri": "https://maps.google.com/maps/contrib/104357403655423848648",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iyim_iXjTgS3elLL7Vk7En1tws8koCUuuSzgrBTC4IFzwAI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC1ZubRKuAboUo33_OWjsyb&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC1ZubRKuAboUo33_OWjsyb!2e10!4m2!3m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/photos/Ab43m-t3L2X4XYZCQY3vz-0e07VesLwHuGUBrctaIaYjAI7ftbL0flg-j296IhREJ6Ij4x5L6yZ_Quz1rcPmKXZZltV-XZ-XBWvJbcqLb89hXwpLCPOLRHsS2hNA7iuaIx6VSRpHT2V41nhrVsuGogJ0xL3vWYUjk1qbJXWgwy1zQxo54cV5FB8xp11mOg55a3tncDew5lvr0E0iH94UNiSwhX5p8N-53dlVel_CM5kUKiLy3VyqfSMOMDlGbU5rmuAmBQyc1vwhktkzETc4ul6hmNN24eqCk58BS7ci301oiOLBO1jp_IaBPOWE4unGIqzzLGQMB20QVNWXIEEacW8ya8DNtoQ3207jIk2ORFE03NJEoo39tJntzEl58B9zZUzsjoSFT169yqkND-Sxf_KI6x53vnGVJUxo1_q7yktxE37gDfDzT64hWtU_rOpsnw",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Santo Mercado",
+          "uri": "https://maps.google.com/maps/contrib/104357403655423848648",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iyim_iXjTgS3elLL7Vk7En1tws8koCUuuSzgrBTC4IFzwAI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDoYZO4ReNi7izkmnKTDmau&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDoYZO4ReNi7izkmnKTDmau!2e10!4m2!3m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    },
+    {
+      "name": "places/ChIJMbEI5mVRzpQR-DZhyPYJt20/photos/Ab43m-six-0AZ0ay5sHTn6CiOjTyPJLjveIbQ9XiaJo1fQOcEnF_Zk6ZQLgaH0VSEUVEY83a-GGue4DNnsTnwKUbPFJfl5NB1qas53_b8ZF306vjVoGg2oe6zbsXDLasqmVo6Z3iX5u9As33oYTRUWiCSDGIXdOPokvy1bIySuZ7-XThpQPR_6ecM_Q6XOAj8bxn2ItPVgv56kcZR9P-ztaAxJFB-Px2o_w9urc6OAe-vwZ4OAR1920QxBmVOBYndO9GLXQQ6z3o2wQimdTAyPqgMlncJUGtZ0XQ96PW8z_66sQMSRFcxgc1qE_fKBgorbsXvmytBEOrOVzejZ-XByVVxvaDmSJtGpOX6cLjDwXqs89uAaJj465g5hkPTSmkAjKfLXCN4ZQ10U1he1QFLIu9ZuSHNxWv5VOWVdyk2rZx4ZwEATxP0b2_hj2iJqV4ojA8",
+      "widthPx": 1080,
+      "heightPx": 1920,
+      "authorAttributions": [
+        {
+          "displayName": "A Barbearia Express - Santo Mercado",
+          "uri": "https://maps.google.com/maps/contrib/104357403655423848648",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iyim_iXjTgS3elLL7Vk7En1tws8koCUuuSzgrBTC4IFzwAI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCZljw6sL82gsZ9FpZxRdPs&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCZljw6sL82gsZ9FpZxRdPs!2e10!4m2!3m1!1s0x94ce5165e608b131:0x6db709f6c86136f8"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "title": "Barbearia Dalton",
+  "headline": "Barbearia Dalton: cabelo e barba feitos com tradicao.",
+  "description": "Cortes, barba e cuidado masculino com tecnica e ambiente. Avaliacao 4.7 no Google com mais de 262 avaliacoes.",
+  "body_bg": "#0f0a07",
+  "body_color": "#f3ecdf",
+  "header_bg": "#0f0a07",
+  "primary": "#1f1410",
+  "palette": [
+    "#1f1410",
+    "#b08454",
+    "#f3ecdf",
+    "#0f0a07"
+  ],
+  "font_family": "Inter, sans-serif",
+  "heading_font": "Fraunces, serif",
+  "logo": null,
+  "favicon": null,
+  "og_image": null,
+  "is_dark": true,
+  "captured_at": "2026-06-05T04:59:50.371Z",
+  "source_url": null,
+  "source_maps": "ChIJV-x157NTzpQRtDMdk241OWw",
+  "category": "barber_shop",
+  "rating": 4.7,
+  "rating_count": 262,
+  "address": "Av. Comendador Sant'Anna, 128 - Capão Redondo, São Paulo - SP, 05866-000",
+  "location": {
+    "latitude": -23.6680958,
+    "longitude": -46.7732186
+  },
+  "opening_hours": [
+    "segunda-feira: 09:00 – 20:00",
+    "terça-feira: 09:00 – 20:00",
+    "quarta-feira: 09:00 – 20:00",
+    "quinta-feira: 09:00 – 20:00",
+    "sexta-feira: 09:00 – 20:00",
+    "sábado: 09:00 – 18:00",
+    "domingo: 10:00 – 14:00"
+  ],
+  "content": {
+    "hero_image": "shots/place-00.jpg",
+    "gallery": [
+      {
+        "url": "shots/place-01.jpg",
+        "alt": "Barbearia Dalton"
+      },
+      {
+        "url": "shots/place-02.jpg",
+        "alt": "Barbearia Dalton"
+      },
+      {
+        "url": "shots/place-03.jpg",
+        "alt": "Barbearia Dalton"
+      },
+      {
+        "url": "shots/place-04.jpg",
+        "alt": "Barbearia Dalton"
+      },
+      {
+        "url": "shots/place-05.jpg",
+        "alt": "Barbearia Dalton"
+      },
+      {
+        "url": "shots/place-06.jpg",
+        "alt": "Barbearia Dalton"
+      },
+      {
+        "url": "shots/place-07.jpg",
+        "alt": "Barbearia Dalton"
+      }
+    ],
+    "products": [],
+    "services": [
+      {
+        "title": "Corte tradicional",
+        "description": "Corte na maquina ou tesoura, finalizado com produto."
+      },
+      {
+        "title": "Barba completa",
+        "description": "Toalha quente, navalha, balm de finalizacao."
+      },
+      {
+        "title": "Corte + barba",
+        "description": "Pacote completo para deixar voce no estilo."
+      },
+      {
+        "title": "Pezinho",
+        "description": "Manutencao rapida entre cortes."
+      }
+    ],
+    "about": "Cortes, barba e cuidado masculino com tecnica e ambiente. Avaliacao 4.7 no Google com mais de 262 avaliacoes.",
+    "contact": {
+      "phone": "(11) 98272-7010",
+      "whatsapp": "https://wa.me/5511982727010",
+      "email": null,
+      "address": "Av. Comendador Sant'Anna, 128 - Capão Redondo, São Paulo"
+    },
+    "social": {
+      "instagram": null,
+      "facebook": null,
+      "youtube": null,
+      "tiktok": null
+    },
+    "nav_items": [
+      {
+        "label": "Servicos",
+        "href": "#"
+      },
+      {
+        "label": "Equipe",
+        "href": "#"
+      },
+      {
+        "label": "Agendar",
+        "href": "#"
+      },
+      {
+        "label": "Localizacao",
+        "href": "#"
+      }
+    ],
+    "testimonials": [
+      {
+        "text": "Foi a pior experiência da minha vida.\nValor caro e o serviço péssimo, o cabeleireiro fez um caminho de rato em meu cabelo.\nO risco esta totalmente torto, e como o espelho estava muito sujo eu nao consegui ver no local, quando cheguei em casa que vi o quão horrível está meu cabelo.\nE para piorar fez a costeletas diferente uma de cada lado.\nEstou revoltada",
+        "author": "Oliviert Pet Escola",
+        "rating": 1
+      },
+      {
+        "text": "A melhor barbearia da região, sem dúvidas! Já são 9 anos cortando o cabelo aqui e acompanhando de perto toda a evolução da equipe. Destaque especial pro Roger, que sempre teve um atendimento impecável, com atenção aos detalhes e um cuidado incrível com o cliente. Trabalho de excelência!",
+        "author": "Maurilio Rodrigues",
+        "rating": 5
+      },
+      {
+        "text": "Lugar sensacional Vale a pena Conferir Melhor Barbearia do Bairro Capão Redondo com atendimento exclusivo! (Roger) Arrebenta seus serviços faz com excelência assim como seu sócio ()que manda muito bem em seus serviços! Vale a pena conhecer vale a pena estar nesse lugar com ctz vc se sentirá muito bem!Dan Versatys !!!( Versatys Studio Hair )",
+        "author": "Dan",
+        "rating": 5
+      },
+      {
+        "text": "Barbearia top. A rapazeada além de tratar muito bem, faz a gente entrar feio e sair bonito. Minha esposa sempre agradece.",
+        "author": "Tera Marketing",
+        "rating": 5
+      }
+    ]
+  }
+}

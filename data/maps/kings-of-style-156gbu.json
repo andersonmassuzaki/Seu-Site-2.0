@@ -1,0 +1,368 @@
+{
+  "id": "ChIJOVMfR6dTzpQRFcDLZdDStn4",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 94837-7968",
+  "internationalPhoneNumber": "+55 11 94837-7968",
+  "formattedAddress": "R. João Robalo, n° 352 - Capao Redondo, São Paulo - SP, 05881-000",
+  "location": {
+    "latitude": -23.6810838,
+    "longitude": -46.7813204
+  },
+  "rating": 5,
+  "websiteUri": "http://webbio.site/zftb0",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 14,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 21,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: Fechado",
+      "terça-feira: 10:00 – 21:00",
+      "quarta-feira: 10:00 – 21:00",
+      "quinta-feira: 10:00 – 21:00",
+      "sexta-feira: 10:00 – 21:00",
+      "sábado: 10:00 – 21:00",
+      "domingo: 10:00 – 14:00"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 47,
+  "displayName": {
+    "text": "Kings of Style",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. João Robalo, n° 352 - Capao Redondo, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sQmRIaE5hekkyUXpjeE5WcFlTRVJLTFdGMVlVRRAB",
+      "relativePublishTimeDescription": "5 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "O Henrique é maravilhoso, as mãos dele é macia e a massagem é sem palavras, super recomendo, venha aqui ser feliz ❤️🥳\n\nDetalhe, tem um PS4 pra vc jogar enquanto espera, isso não é um pai não é um prefeito 😍\n\nSegue as fotos, lek lek, Neymar, PlayStation 4, a massageeem e ar condicionado ❤️",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "O Henrique é maravilhoso, as mãos dele é macia e a massagem é sem palavras, super recomendo, venha aqui ser feliz ❤️🥳\n\nDetalhe, tem um PS4 pra vc jogar enquanto espera, isso não é um pai não é um prefeito 😍\n\nSegue as fotos, lek lek, Neymar, PlayStation 4, a massageeem e ar condicionado ❤️",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Brunno Da Miix",
+        "uri": "https://www.google.com/maps/contrib/114527730661987531001/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXp2Ju5HiGe8-17380QV5tOwzmpYxnaobxOtu-4dwwQ6D6pZ4J=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-30T22:57:21.663006486Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sQmRIaE5hekkyUXpjeE5WcFlTRVJLTFdGMVlVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sQmRIaE5hekkyUXpjeE5WcFlTRVJLTFdGMVlVRRAB!2m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/reviews/ChdDSUhNMG9nS0VLS3QzWWpPMnVENF9BRRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Henrique o melhor a primeira vez q precisei era só um aniversário de 15 anos da minha filha a Festas as 19 horas  as 16 horas ainda não tinha cortado o cabelo, enfim estamos a mais d ano , cliente  fiel sempre .",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Henrique o melhor a primeira vez q precisei era só um aniversário de 15 anos da minha filha a Festas as 19 horas  as 16 horas ainda não tinha cortado o cabelo, enfim estamos a mais d ano , cliente  fiel sempre .",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Nivaldo Teixeira Martins",
+        "uri": "https://www.google.com/maps/contrib/114381234364654545411/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKXFCq7pDvEsZg7toiuoo1LdUU563TS9fgVUTQcF8r7ImoxQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-05-08T15:36:55.545400Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VLS3QzWWpPMnVENF9BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLS3QzWWpPMnVENF9BRRAB!2m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/reviews/ChZDSUhNMG9nS0VJQ0FnTURRaC1hX0xBEAE",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento de qualidade e profissionais extremamente qualificados! Desde a recepção até o corte final, tudo é feito com atenção aos detalhes e profissionalismo. O ambiente é confortável, bem organizado e pensado para proporcionar uma ótima experiência. Além disso, a barbearia tem um atendimento cordial e pontual, garantindo que cada cliente saia satisfeito. Parabéns a toda a equipe pelo excelente trabalho! Recomendo a todos que buscam um serviço de alto nível.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento de qualidade e profissionais extremamente qualificados! Desde a recepção até o corte final, tudo é feito com atenção aos detalhes e profissionalismo. O ambiente é confortável, bem organizado e pensado para proporcionar uma ótima experiência. Além disso, a barbearia tem um atendimento cordial e pontual, garantindo que cada cliente saia satisfeito. Parabéns a toda a equipe pelo excelente trabalho! Recomendo a todos que buscam um serviço de alto nível.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Magrinho",
+        "uri": "https://www.google.com/maps/contrib/117575109076952966346/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHu_Pk1EpO4EWFqa-V7nLleHQbkEVsWJS1Xm_BUnjwG30MKgI=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-03-14T19:40:06.585902Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRaC1hX0xBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRaC1hX0xBEAE!2m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOV92eW1RRRAB",
+      "relativePublishTimeDescription": "um ano atrás",
+      "rating": 5,
+      "text": {
+        "text": "Ambiente agradável, o Henrique é monstro no que faz, profissional, troca idéia, toca umas músicas e te dá dicas de visagismo para seu cabelo e sua barba ficar alinhada conforme seu rosto. Pode confiar que o resultado é de excelência!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Ambiente agradável, o Henrique é monstro no que faz, profissional, troca idéia, toca umas músicas e te dá dicas de visagismo para seu cabelo e sua barba ficar alinhada conforme seu rosto. Pode confiar que o resultado é de excelência!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Vinicius Fernandes",
+        "uri": "https://www.google.com/maps/contrib/105361497552720556703/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrv7RmyIQnWn-8Dl8Sn3r9TwCRz5198UHu1Rn5kzuDVnJRHw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-13T19:18:00.974574Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJOV92eW1RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOV92eW1RRRAB!2m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFMlJsTjBMV0Z0UzBvek1EZE9PRzlSYTBWVGFHYxAB",
+      "relativePublishTimeDescription": "10 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Lugar muito qualificado, atendimento muito top\nTodos os meus cortes são ótimos.\nValeu Henrique.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Lugar muito qualificado, atendimento muito top\nTodos os meus cortes são ótimos.\nValeu Henrique.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Hilary gomes",
+        "uri": "https://www.google.com/maps/contrib/112329929829324814481/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-rpdvvR2LAq96SaJhrBcFCIpBVp5pYg_IWniTRG0SkrEdi_gv1A=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-07-22T15:30:17.965662539Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFMlJsTjBMV0Z0UzBvek1EZE9PRzlSYTBWVGFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFMlJsTjBMV0Z0UzBvek1EZE9PRzlSYTBWVGFHYxAB!2m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-s4hjLyJ_j4-uKNh7gNJcx1GME67LuVcuq70mjF09DieFdmVr64AoARJOvZ6SlvOFq52I3p42Fdd3galy8hA12_fHFvk4NTlX1MOAmRtAZmC3f4PcV8pB7D2XCTFNPbJ730_LM0kToHD7drxWey0ShRaKD6450HFd6b7AYXPqY7IKOVEL0fi5Iqso1PdwEuULtKV0n20LmrKaVn4hz36gxcju76XOqqDgcnxfev4j4yoLzPB-hK6rTH2ynFaKRD9n7ea6_VC5iZDto1413x-gXCcHCBaNPemv-qstj8VONVUZ8R7tDmDzesldNbsO0HwCzPZPhSrEPZVJN6ugX0NC4mmGtSK3TgYz1xfOxOG-OVZsEjuofN2UBM7e7PumtMtnuhwgIU88wREAGFmmFz6KsoOJIcpJhNp_PVSWtImaAN4fl1NUzfARI1iPgJiw",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Kings of Style",
+          "uri": "https://maps.google.com/maps/contrib/106480113988829895852",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3-HLBRC7tYh4R_1bGC8qs2uttUED2Lj69IrdXu7-ybhWmSg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzcQltgGfp_AEADnfv&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzcQltgGfp_AEADnfv!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-tvXpcjsd7414QjEJEB8zIDk_kwYUG3x3kE2e0jxPEp7BJArOmgMxXI8jNeCdNQznrxacigxpfh31IRwthri4PhMXR14eMdXS8kJkaA9qKvQyh02Zm9CFvo8SmAmbUqZRJsNxFTfMC1XpaXdBwZlovj5-_rzcTmiJwLpYvxagvmVwuMe5b9Ffv5JoiAurfUBVW3NIDa5Oq0oHzm1yEJEjSN24ILH9H2mF-i0x6o6lSF0-zMSwLQCIT8suqKEn48Oc75EeYQGDaJo34Z7pLJZKXrdLpAGCs3FfslX0n7LDBW4c3a3_OID7ygnwKANqDyAn3vir4N6o0cV93VECFSXfCiO9CcEyo0KHGFtwKzO3j_zV_UYvszD7S8JPTye0vHgKPPOFI4QbxgGxmrRDiKPQ1Bfxv7NC40CEB74ggEe450wSIG9RoCllTfF9t8RORN",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Kings of Style",
+          "uri": "https://maps.google.com/maps/contrib/106480113988829895852",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3-HLBRC7tYh4R_1bGC8qs2uttUED2Lj69IrdXu7-ybhWmSg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydERSCsWAWfp_AIAAXvg&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERSCsWAWfp_AIAAXvg!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-vGTAOZ_dl5CdtLrYyIHIe9mJbgJKeB91UfHVPCg5ppmvjFI_nBlrVkX0hCMjbe_6viSlQvo-n1l4Z1buauDNzrIqjQHaJV3Cqfq-bzWsSI56EKh9FwY_E2hR0HR2GIWklMc291eoZkmSmdapbQqfLZcdy6ub2T78mSq6NXQF07Iun8mTTABUYdUb8N1Rxvjh7nRRheIjQA53UMasqTUMRURTPrSkV78V_Y6TSh-lfIjONOoex6p7y02Jgfy88VZzSznACSCZ8R6886tCg5Aw3y2S5-NlVmuv0XqgE8ZpYIi5hzPpaj1pdHCUaGc5DiGWkgwuZZdIZqbncE5LotQl1abI69Ejr-Ew16mlo64e5PeeUrjRD6V8WhzGJ7MedZfiKpZGtlBbyyKpRHkZ-aivjx9AMMMI52lh1mhlqFOWj9XDMEjXyh11tQhKE90AG2",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Kings of Style",
+          "uri": "https://maps.google.com/maps/contrib/106480113988829895852",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3-HLBRC7tYh4R_1bGC8qs2uttUED2Lj69IrdXu7-ybhWmSg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzcQltgGfp_AIABYzz&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzcQltgGfp_AIABYzz!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-tpMn4qC6sCjjbJHSQAqppjt7atluubV9K36kLMCpSDLEHH1PSaj_TcXHX_pvYKUWbwcejZomhnM5QKLv1rqe-3MTd_W5NVIT4Zms0PGf2YAq4VvpCIGNJlu7Ia7WiHjROy2VxJX1qMHPgLloE7HxncRH7WU-adDzik_SUnYFQvs3Fi05l3e7C3XAUiodBqsnEZ0PPrK1B2TtNwDYLkxQHuRyeySc5xe4YCel1jrEjytNTldOFhTPzM1bmwKUbbS0WjoAkcUF_F-mkagq_nQrjrA7BLWrQOKP520LU4ZL0LvecTz3v7B3njDPc6ORBOjJJ24dAhXgN7hIn34R4oG-SHr3sYV-UvIg7Dew_yGnl6NMLKdWZ4F2_4ShuoPXdprfpg5NBa_IFrwvsnJtFK4HQbNOwkxSiCOMiAG_5R2F4qYmbkk2oZ2vKOyY_LK9PN",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "authorAttributions": [
+        {
+          "displayName": "Brunno Da Miix",
+          "uri": "https://maps.google.com/maps/contrib/114527730661987531001",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXp2Ju5HiGe8-17380QV5tOwzmpYxnaobxOtu-4dwwQ6D6pZ4J=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBpRzKXCNWvTTsweDcJ3L-A&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBpRzKXCNWvTTsweDcJ3L-A!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-vksnxXY97sCm04MDlXj86MH-ZMRo2oEZf8B2aHjqae-KJT8qCGTsTQXFJlt8WOE4-uPf18TrXxOJ549IaP1heSliyGYtMAm21P2R8A0lD7rdKBh5qcUKFPgXpuT_VvwkFj9HGGqiPF2dW2jUCDF4lphc6NbmglGE3fIIftHEibF-CiRZYodCwA1E0s4FNtF7b_EF_dMe-uPL6vlvcV1JJMaE5MeBIqNrGY0rI-ebjFs6uh3dgpIZNiX3ZtUwp0MUtClgGv5vtkfB6bAgar-LjcZlkPLI3muPQu4YoPwC9g6KVeifcIYZR_tLeXOpgBR6tFgCEE0uqQ9mw3O4uENNb_6u7V_-SVtp3z62WkAbsXF6aY1XpecptOnVhOa61xRnFyuaje5K80zlxXZ-t6WcxS_JSsWbJcPWtWWwHAM6T5z0MjR2i05OEMVS2uAMz3",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "authorAttributions": [
+        {
+          "displayName": "Brunno Da Miix",
+          "uri": "https://maps.google.com/maps/contrib/114527730661987531001",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXp2Ju5HiGe8-17380QV5tOwzmpYxnaobxOtu-4dwwQ6D6pZ4J=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCqR2PTTP79x9ZvHXYBSaI0&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCqR2PTTP79x9ZvHXYBSaI0!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-vF-VD2tm4W7BeSWB6J5jVoxod3sLyj4xm6EJKbzgpESGA05ayUj2yvf2-795tejY1V0DwNQy_ISVnkZTAmtbxbIMhzhcT4BtgXNvpEJ997sRW4aeNIeX6HHuRc6legvteQJIjtoBZZTdKLDLhKuLivjFP1Ag3Mu-jPl8iROTOzjrY9DCH3NXqUmekeOk2u4uARdoyAdtfv5haVM60Kh5Pux9ItNH_S0sTmgX9O1a60dPAi5ihCXDTG9C4QYuK-36NdYij-3wIrimqzuh6qU7mfPJr0A6t2J7UErNdZg6XRN6LBdLBcO8EMelZPe4_1813HIxkLnleJAwMUQ2Tz6HM7FuHDwBofAlzFxOsQhIV4tutBn8ORYcTMZiRWT1H4t3mneNjJ2Ww-5ftiGHnhXGF3lkH68thoNqJQZ8i7Tb7ZQwMSWRvzC82qdr1reg",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "authorAttributions": [
+        {
+          "displayName": "Brunno Da Miix",
+          "uri": "https://maps.google.com/maps/contrib/114527730661987531001",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXp2Ju5HiGe8-17380QV5tOwzmpYxnaobxOtu-4dwwQ6D6pZ4J=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDm6SOuUxHBUOkf9Rc_Ul7o&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDm6SOuUxHBUOkf9Rc_Ul7o!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-uf6EsoFjsxug76utSlWBMmqMyUDFlP1jsqRdgF7IwdRGfCXA_jj8sGNaSgyt7VnDuaN6_GwY3lYKYK2E-MnQfOx13S42js0kaqUFidGwMwTmoOGcA2wDPglG_Nu3Px_r0XJbcLts_kk1S2ZjxovuoXtP6_NZuoXvzJcHRIJJnSp6oiqtNvKAPzmdrbHy5rk4__eo2phfwGyagfc57UyNORCRpi_9L5Ol026ScjW0nno6ymKgg-SJs30dbSTncpOhgJdSL2Ess_ZSoaZgHfqtzV7MKkyyG80UczbjVBeLDXEwh9no6ItZgI69MHEH08wN1g4vod5l0DlIk7gQ8gJM4F-j0nn2l5NfVkU2xwSesPz2yOcacq3yOAfHcSqeC1Xlqd5dGlXtU3De-ZDHr3Xc5ZI0aFbgRTyQezWjGts60ihFJWuDLic5nklA04tXHt",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Kings of Style",
+          "uri": "https://maps.google.com/maps/contrib/106480113988829895852",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3-HLBRC7tYh4R_1bGC8qs2uttUED2Lj69IrdXu7-ybhWmSg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzcQltgGfp_IIAB43H&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzcQltgGfp_IIAB43H!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-v-2xBpt1g5lPOqdUACdh2w5SeTM900pjQDZri2mL5-MvDm6tigE0K36ZxATkVyMlgJwO7EWY-MLuBYd-KDO0DeQ7GkJQeL2gHGgAnIkSjPiRWTfm6lZ7JtHPm5mZt2a4w8s7zFMVoyTnxyZOQTXQXqXsXZp-kSkLHDNl6fvwsOIMIZr9GncLhaorKIuBrUxxX5CEN43NIW8a9z7gNLtXIDcnSjA10bW8pmKDuoNd-JMh8iC8dNK5pOjyY7DkVsnfh3eusPAD6ssi6ejzYMIfBfHdQTzntBA2B1TKrqaPr6k6CmTbyc2xtQo4xGEFmCXYjaWrR8WICCN1bsvaadIECXcAcTZgDZKG8Ts0LCtUxRAsotiZKb8pMOMgeJkarqwbgQZh9qw03JuTaE_002NIpCJyUBxfFpwwtg51Zg8o5QmJPCkh2K8vlTbomfch0a",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "Kings of Style",
+          "uri": "https://maps.google.com/maps/contrib/106480113988829895852",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3-HLBRC7tYh4R_1bGC8qs2uttUED2Lj69IrdXu7-ybhWmSg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydERSCsWAWfp_IIABnda&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERSCsWAWfp_IIABnda!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-udP1SgPosR05rEIxP0zLyl8t1fwMt4ZIidOh7TyJfQk1gKLabgca9BgyGqQsFcXHARWU0m5iDTFKIOZpbh2zlCpDiWT0IsFLfwFhbOVcFit4n0K4iklf3GEuli1vyYY21OcuIs1dJDEu9k4OHbWcYEEYOQT0Kfi5c8G3f_1KrkSr4ct6_3U2uUeT5Z2d1dWTOH7MTRKTvtNhnqvEpGgarPRVl3dhlvx8B4VzzzdzR9S7Ap-4y2uOrc-7n8Nx0Ia5xk4wjXheEsjTKZmbjhtkW0DbO0D1MU0wpW5iJuyQMvAodO8HxfJIsktQdnofXfw9cvsK7nXaht-0EPx-82286PmzphwfwQf_tuhkC5D-UUqs4Qr36V8o4PgW1l6W6w8mOnDJFRi61rl6-a9N6zmO8--g9uk_UVJjd24a-an8Km9wOpRt9c0wcF94umo4Aa",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "authorAttributions": [
+        {
+          "displayName": "Brunno Da Miix",
+          "uri": "https://maps.google.com/maps/contrib/114527730661987531001",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXp2Ju5HiGe8-17380QV5tOwzmpYxnaobxOtu-4dwwQ6D6pZ4J=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDdJFzjcCgbcSobhvP7k9v1&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDdJFzjcCgbcSobhvP7k9v1!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    },
+    {
+      "name": "places/ChIJOVMfR6dTzpQRFcDLZdDStn4/photos/Ab43m-tz8qHhnqxWMnWWnYNpmuEmJttfze-2XiSKHKAyNf00hkxSS-Ed4FYEkfslcRVVkmZYL0cGOhHxbq81SJW_NdCvOMDkFGitRy0Tb0ySpFAshA2vJE7s0NIzhNnBROywxPWlPv9k4f9st8M56tPFvOt3cOhtCLzIbIbsPlPx-ILASDjHLuF_aR4Sne4RFYTGZrgVjpPXohRtYd6GJGr8nxJSO5lcuUgR0ZsTk_hvqlfJE42aqInVmnk2dS_iH0QbrxAK4DwPTMfalmxZH3NMSQkeqedNVyPszEIYMm7vGriwiwwEenlE4YP8r1yEFzESBqsZ4NQn4DoEqZ64eD-X1KJ-0dThyIBD8Tce-nnLcY4qtnKRRgqxrTpvGppEa_VQVN_BzvJKpID_jPySvPzIexx2WpTVRi6PkBR2zCxfYXkaBRZlDFZobmmzYdf4-dMp",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "authorAttributions": [
+        {
+          "displayName": "Brunno Da Miix",
+          "uri": "https://maps.google.com/maps/contrib/114527730661987531001",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXp2Ju5HiGe8-17380QV5tOwzmpYxnaobxOtu-4dwwQ6D6pZ4J=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBp5lcdAzjMK4ZC6o0dhG72&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBp5lcdAzjMK4ZC6o0dhG72!2e10!4m2!3m1!1s0x94ce53a7471f5339:0x7eb6d2d065cbc015"
+    }
+  ]
+}

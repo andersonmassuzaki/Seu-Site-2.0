@@ -1,0 +1,380 @@
+{
+  "id": "ChIJr1aRRgBRzpQR2ILSb1gStlA",
+  "types": [
+    "barber_shop",
+    "hair_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 94047-7296",
+  "internationalPhoneNumber": "+55 11 94047-7296",
+  "formattedAddress": "Av. Santo Amaro, 4483 - Brooklin, São Paulo - SP, 04555-003",
+  "location": {
+    "latitude": -23.622516599999997,
+    "longitude": -46.6844452
+  },
+  "rating": 5,
+  "websiteUri": "http://benedettobarbershop.booksy.com/a/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 22,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 10:00 – 22:00",
+      "terça-feira: 10:00 – 22:00",
+      "quarta-feira: 10:00 – 22:00",
+      "quinta-feira: 10:00 – 22:00",
+      "sexta-feira: 10:00 – 22:00",
+      "sábado: 09:00 – 22:00",
+      "domingo: 10:00 – 17:00"
+    ],
+    "nextOpenTime": "2026-06-05T13:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 181,
+  "displayName": {
+    "text": "Benedetto Barbershop | Barbearia e Visagismo | Brooklin",
+    "languageCode": "es"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "Av. Santo Amaro, 4483 - Brooklin, São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWRU0zaHljemRLYVhwYWRtUjBTMEo1VGtSa2MyYxAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Meu cabelo nunca esteve tão bem cuidado! O corte ficou exatamente como eu queria e a selagem deixou o cabelo super macio e com brilho. Profissional incrível, caprichoso e atencioso. Recomendo de olhos fechados!”",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Meu cabelo nunca esteve tão bem cuidado! O corte ficou exatamente como eu queria e a selagem deixou o cabelo super macio e com brilho. Profissional incrível, caprichoso e atencioso. Recomendo de olhos fechados!”",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Paraíba TV",
+        "uri": "https://www.google.com/maps/contrib/111431542682841176625/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwE38YP22pROOJWRvY-Wqrr2N3m_QpndnBQTR0yjOr88VnJIgsYA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-05T01:13:14.182393120Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWRU0zaHljemRLYVhwYWRtUjBTMEo1VGtSa2MyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWRU0zaHljemRLYVhwYWRtUjBTMEo1VGtSa2MyYxAB!2m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFM2IxcElTVjlwUzNSVk1GRkNSek55ZVUxT2RWRRAB",
+      "relativePublishTimeDescription": "9 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Tive uma experiência incrível na barbearia! O Mateus foi super atencioso, me deu uma verdadeira consultoria sobre como cuidar e usar meu cabelo de diferentes formas. Além de muito simpático, proporcionou um atendimento impecável do começo ao fim. Recomendo demais!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Tive uma experiência incrível na barbearia! O Mateus foi super atencioso, me deu uma verdadeira consultoria sobre como cuidar e usar meu cabelo de diferentes formas. Além de muito simpático, proporcionou um atendimento impecável do começo ao fim. Recomendo demais!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Diego Franco",
+        "uri": "https://www.google.com/maps/contrib/106640808224245050225/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXemXA_eQUyvFFqjdgqtKRDpmNRFbI4LN4COfGVay9K81Uzr3b9=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-08-28T04:35:44.074270211Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFM2IxcElTVjlwUzNSVk1GRkNSek55ZVUxT2RWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFM2IxcElTVjlwUzNSVk1GRkNSek55ZVUxT2RWRRAB!2m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFelVHbERRbFpHTkVaVk5qZG1ZV3hOVG1ZdFduYxAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Atendimento de excelência prestado pelo incrível profissional Mateus! Fiquei super satisfeito com o corte e com a consultoria. Estou em fase de crescimento do cabelo, e as dicas do Mateus foram fundamentais. Além disso, o ambiente é super agradável. Desde que me mudei para São Paulo, estava à procura de um profissional de confiança e, com certeza, encontrei!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Atendimento de excelência prestado pelo incrível profissional Mateus! Fiquei super satisfeito com o corte e com a consultoria. Estou em fase de crescimento do cabelo, e as dicas do Mateus foram fundamentais. Além disso, o ambiente é super agradável. Desde que me mudei para São Paulo, estava à procura de um profissional de confiança e, com certeza, encontrei!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Filipi Vieira",
+        "uri": "https://www.google.com/maps/contrib/117417546945400250335/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvkjZG_Rg9Um5vgEFBMAffa-LwaMHK0Q7HN5laZc_p5kkP=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-31T14:48:08.353021700Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFelVHbERRbFpHTkVaVk5qZG1ZV3hOVG1ZdFduYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFelVHbERRbFpHTkVaVk5qZG1ZV3hOVG1ZdFduYxAB!2m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBeU1qSlRaRVpyYW5KcU5sOUlaVEZZY3pZM2MxRRAB",
+      "relativePublishTimeDescription": "4 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Mateus é um excelente profissional. Entende o que o cliente quer e aplica da melhor forma. Além disso, é muito autêntico e dá dicas incríveis para cuidados do cabelo e cortes que encaixe no seu estilo e desejo.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Mateus é um excelente profissional. Entende o que o cliente quer e aplica da melhor forma. Além disso, é muito autêntico e dá dicas incríveis para cuidados do cabelo e cortes que encaixe no seu estilo e desejo.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Pedro Gabriel",
+        "uri": "https://www.google.com/maps/contrib/109968685920337179463/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXzy4U6tXvPeZTX6oKvd4i7WR6CaA5KpxxTkQtv_TGQfYM-m9Njg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-04T11:57:46.039912682Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBeU1qSlRaRVpyYW5KcU5sOUlaVEZZY3pZM2MxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBeU1qSlRaRVpyYW5KcU5sOUlaVEZZY3pZM2MxRRAB!2m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poa1JHZFVjVEpHTkZkWWEzZG1aRVZRWjBSTGRuYxAB",
+      "relativePublishTimeDescription": "3 meses atrás",
+      "rating": 1,
+      "text": {
+        "text": "Péssima experiência.\nNão tem estacionamento.\nCheguei no horário agendado 10:00 e a barbearia estava fechada.\nMandei mensagem e o Alecrim dourado me pediu para esperar 30 min ( tempo previsto para o corte) pois teve um problema com trânsito.\nFalta de respeito com horário do cliente e ainda se acha dono da razão.\nFalta de profissionalismo e respeito.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Péssima experiência.\nNão tem estacionamento.\nCheguei no horário agendado 10:00 e a barbearia estava fechada.\nMandei mensagem e o Alecrim dourado me pediu para esperar 30 min ( tempo previsto para o corte) pois teve um problema com trânsito.\nFalta de respeito com horário do cliente e ainda se acha dono da razão.\nFalta de profissionalismo e respeito.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Denis Maia",
+        "uri": "https://www.google.com/maps/contrib/112817601431689838789/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3-opYT24KFLgnz5Fv8BK5Ui-fSE_FcSog-AcQaXwFT3GtbQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-21T13:53:21.062369067Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poa1JHZFVjVEpHTkZkWWEzZG1aRVZRWjBSTGRuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poa1JHZFVjVEpHTkZkWWEzZG1aRVZRWjBSTGRuYxAB!2m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-vIXzKvng1Wa_ijyiTy9NlaCcCymh9z1SUgQXjAAqPsXxntl7vqj3Yb7cmw7Mh0VFXEigj-fxGamQGvIEdTWmOoQwcE5o_Nmki7DU33gig76wAim_dK7DWDi9OaikPnbHzbOZxId86nwq-28FDXmI_lrhFGYQkm5gkExpXauVPBFXFhB0e77aMAHFRpsGjqMQsnM4lmkqbWcViyU43wx1UvQKG1r_OE2vYrbG2mPPm0nu3hYA7g6-vxtsnqV5f1ytjgdrN0S2YYXgCwO4zyIVxWBAoe8haGxj99W6vfBgTmL3U5gK2smXrJnBG76DSV6rfdCeuM8718MHSZIuWlQqRciBQtMaU96x8bRhYuNz9garzQnQNOefhNfergH5ECaZzXbojYtIv4M7fsTbm7pplbRHJ_wRdUvAxd-POfs9s8znkHLF6DyX3tDlA0HGDS",
+      "widthPx": 720,
+      "heightPx": 1280,
+      "authorAttributions": [
+        {
+          "displayName": "Benedetto Barbershop | Barbearia e Visagismo | Brooklin",
+          "uri": "https://maps.google.com/maps/contrib/112557050406653363029",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdxavYonuZvktH-l1jEqBok8W8lR5IhmxuA4za-9P49SponKM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzlSoW3Gf-e7kAAl7A&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzlSoW3Gf-e7kAAl7A!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-vQOq95sgydpTu3LM0NfNt-uxPQFEiXitrnRCBTwvoB6EA9dSDQHGkxsZEeaHwLIDkfDWK4jqndSXifmu_ixwXfjzvAPSsIk_O4HVei63Z07TPIYprasSCObHeshJUiZAkEzDUSYAKY4g4LQQmnpDphamIXzjovZK8d-_nRt93sPGETrNVG2yZeDHINH7pjKP7yhze_36XgDNO2pjrYU032dA80NYsOh7f-51YyHCwF8X7hmEzJAZ0HCewyMvTtFlVrguYfVrkWcQ1GeVPuVmV2Z-kMNmL3LTC7ouFLAP3ZIyUo6vTeDyw5o1t5gMeDnAV4HpDonsY7hV2rqlb54SUUf5YJrjUqzeTVj9BL-uLHWRuK1XlkiiaLRW-2Iu_1tlauc-NDkF1nP_7CyQKX_r2OxFuwJXGdsD1LL98cy_lKvzXNchDmaQQiWAPRsYCG",
+      "widthPx": 1024,
+      "heightPx": 1536,
+      "authorAttributions": [
+        {
+          "displayName": "Diego Franco",
+          "uri": "https://maps.google.com/maps/contrib/106640808224245050225",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXemXA_eQUyvFFqjdgqtKRDpmNRFbI4LN4COfGVay9K81Uzr3b9=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAs8n-DaBI-JhhDccGWWOY0&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAs8n-DaBI-JhhDccGWWOY0!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-vlrOCN2qvsxV63O68Zdt-wCp_z9nDQUzkR8EzPcMBDdyfc58oH-__EGKSFtloeut-vPC2ZMqciny6dkXiBg3RoGyWJiROEOtwAlS-afWYGCbek4wJc4iDpKsZJUehhnKCGm3UHDcUUj9Io_7Nn00dKLkLtlc7fLOJFmFei1FmnrylqvF4XaCrK6yvTmoegAv8RPMZxc38hYlCuXDZXPAYw1Z1QARrKaMjlrPhXLFxcUsub88e_tHgBNxTdk_EZw7mozy5nhdUiouiVUZCWbT-dNrBKrjHCyLq2s0_26FOtYoT6xtv2YGgVPdyjp-vFfLX_ewrMXuE19ZprU8fzMpubV6Bm_qs3yFhZDfR9ckLXa6sYMLwp9k_Fdk6PfJqh0_XRZGhXTSDzizBGxgC0qw9FK5FQkhWE9A-qC8gq7Bs-ZiPgc_YWSc3zqlvG8wfD",
+      "widthPx": 570,
+      "heightPx": 775,
+      "authorAttributions": [
+        {
+          "displayName": "Benedetto Barbershop | Barbearia e Visagismo | Brooklin",
+          "uri": "https://maps.google.com/maps/contrib/112557050406653363029",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdxavYonuZvktH-l1jEqBok8W8lR5IhmxuA4za-9P49SponKM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBPwEtOBTYfTRaq5RN6O_xf&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBPwEtOBTYfTRaq5RN6O_xf!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-shh7E5LtubIsbsa6lGrCWFIl6tMY3TZzJ0B7SRgyW-pKNUlQg95AzmayINH3mpe1N0IyyJb5j9fw8ZWeaw71C84iB-5Cx7Wg_-1ZM0fuwFQ3EmUTgwB-5iJoG_iF3El-i9jv4WeUVWD2wHq9dZPn27xKAb9-csyMgi6Gw4uftZpXftrJapd6xHOpizBGvFibB-8asOoyQ2Qt2VFp-gw_AuDxF2yvWAe0bYYu81vrOkqf4hlo8Ide9WIY_LIBQZ6msC48HvJPxZzmZUES7TH1B_K9AgM4j9MY43vVZ3LzYevOkchtBMIGql_V6_KuseC4a1HBT6Q2nHeE8XDF3X6wj-fMZR95Jt_ssoGATo81wUDiIhjKrl6VRHq8qpPkLM5ciYhiP1PQyqyhC0ogLWYrl_91BBcjq9MjxLnY1z-_YTDA5_q9usgk9E82wVUw",
+      "widthPx": 2799,
+      "heightPx": 4730,
+      "authorAttributions": [
+        {
+          "displayName": "Benedetto Barbershop | Barbearia e Visagismo | Brooklin",
+          "uri": "https://maps.google.com/maps/contrib/112557050406653363029",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdxavYonuZvktH-l1jEqBok8W8lR5IhmxuA4za-9P49SponKM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBwkCIF5IP9fBV-1Hp47go-&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBwkCIF5IP9fBV-1Hp47go-!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-u0bASkONuicWMWE23HJcZmMiu1qDoyUREDYL84sNbY0MKFNn_evX14qxBMhWt_77eSkrcn1q2klcNAH_pt0mdfZ1sy8TwGiIRC6QB_Qapf0EY_QE4q9ORd6j5fFCUy2EauPR3dHH4PXhHSS-7i6l8JGw4tZvroIkdjahfdbdCKl3Px3uPEpkMswBnsvpuIYWvW2s4FVDd1BZSPRss_g_A-v-Qkdh5bpnKo1VdGB-rv5m4ZrwiuwaFbxGwk6aJjEz-OrAuP6fyWIzSAtHZ8Etyp83K7P8LafC_n94mF1-yAmr8Km7hRudMefeVpnf1ccVUpOecKH6mU-ubPFXfSdpRmlsk1nIrCDbEgvuYiT7ozuritR1gTZ1Ia2-7-Pp91QXpjoquIxDMPM_n8HeVn5rRL_SgSwZ0u0ernqqvXtsp1Jj5hDX8eKYPDGFfp_nkI",
+      "widthPx": 720,
+      "heightPx": 1280,
+      "authorAttributions": [
+        {
+          "displayName": "Benedetto Barbershop | Barbearia e Visagismo | Brooklin",
+          "uri": "https://maps.google.com/maps/contrib/112557050406653363029",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdxavYonuZvktH-l1jEqBok8W8lR5IhmxuA4za-9P49SponKM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzlSoW3Gf-eiQAB9iL&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzlSoW3Gf-eiQAB9iL!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-tEsi3PFZZ1_hdtxdyiCQfSLKfSOIrdL-b-dRVpjJV-3pt_ci1nqkRA_tTgTDU3l8gzz2obPJPIbMWoy1BiQyZxM33fLf1PZS2BVAelvZdm35OXmDgBgJH6tv4EyD8Lx94yHJxvPohmOvhhMUS7hQStTtpug2mluFf91B3giYpTQNCvzAP0gbPxnS1LpJar543PgbKiDU-nIUvPURSGS0VichQFtShZ5KpDQdXDagcmGF0ING9jUknSBB_1qJaswZU1V-i8JX6T5wrZ6pFtq8h61zgDLCr_AIGrbd9mlJXd9aWcnQs_ylh5AsKUNJmlivakqgCVHxG-offw4GoB4RS9Wf-keEOoMlICjHGD9vPv8v3WT_cwQBdCqGOHpLVF6s80HGNL5zP9BoGGt2_VwXr1rIl4xUFKX2YMJiiiHpfRT9jAFBfPpblepLkTDWj6",
+      "widthPx": 2700,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Benedetto Barbershop | Barbearia e Visagismo | Brooklin",
+          "uri": "https://maps.google.com/maps/contrib/112557050406653363029",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdxavYonuZvktH-l1jEqBok8W8lR5IhmxuA4za-9P49SponKM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAbMRqEk0O6VcDCqSQURTON&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAbMRqEk0O6VcDCqSQURTON!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-tzyHVAO-32vM8buEhIEi_cN7cBRiZvTIUXoqOHS05FG-acPHti8XIaeX7yOmS96opR-7EYGpYwbINi1-4EBC7Ue2-8Lqs06GGXLPD_fdwT2iNm1-agWdMsVirYvyksmw5NpMGZ-oeN7bxL5N7UDagom9Zhum-oYT41DLvcuvKUNCDRJP0j20IstiujcRivW0Nqr4MEWO91H63VpWFxJaPLArRw9C70X4ikaR0cMVZdTbu_nk0UP9PMed6A1MsJ3ysRMDn0HDKW2JFov2xVKJivSNE_Dezyoq3t5mJ-nYfjkVNqrrOJzeaGQq2plT0R18hGCEvM6rCEq6D5nyLlChKaO6Lf8pYfhY-Rlar0nu0-Jx90A9v0iI_qDVx3P6367xsN3C3zS3VgljML8dITmvho009mvsrfhFXc2zZxa-6-nLcaCNB0QNo0DChA1YUc",
+      "widthPx": 720,
+      "heightPx": 1280,
+      "authorAttributions": [
+        {
+          "displayName": "Benedetto Barbershop | Barbearia e Visagismo | Brooklin",
+          "uri": "https://maps.google.com/maps/contrib/112557050406653363029",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdxavYonuZvktH-l1jEqBok8W8lR5IhmxuA4za-9P49SponKM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydERsgmtAGf-eiMAAZNx&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERsgmtAGf-eiMAAZNx!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-uzOhWdHatgsuKizvTleWoLYFDGY9Tu_mRHeEWzJZHgGVc0S1a41cKHuE93nwM-4Lnknb-08H3nYj0myHHa-mphEHCu25nvHm4flg2W6U3qht_TZwl-R6NTC811UPyBp7XPOqQANW-yqnUMkNhQ0s8wojAtUtXnIxVzbHlEj4zRzXRFvWYqgEbLEN3Eyml13pSBxeRu1BD0ERKByzGmqV5x6YJ61Ank1iTKk_tkWqlx-HFO-ogmQa89On0xWvaFZSzc6EHVVkf_7mJhWVhTndHPzrSe1-Vgdhrgoyh8mU67B5DUt8dfmEhvkBuJTporyGGzjHr6tVwMkzzRu4jx7A-cWpsNPRNjhFvS_C3fjBay7Qf1CaTvgg02pJqVH36vsjI0JyLT-3xQGbElSav8fP_KfpeNWSAFHr1XoA1Qif6-fuzBKhqc3Y15JMEAGRAm",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Lucas Polisio",
+          "uri": "https://maps.google.com/maps/contrib/104632715798559230549",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK4fQObJQRYnnrjlX9-ZEUoE7KVjObbcfJK_VniBn750jnEwA=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBVQy3DcWeEb1fPmjdRPzvp&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBVQy3DcWeEb1fPmjdRPzvp!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-uyLMxajfUZAv1QWQotWSn7bsDNDiYcUXun1x1Q6sKqNP5M3HUWDVxv-A_vmnAuUo-i-kKzvf7APVvUx6Z0RgNLO9tM5NX02vMkc9QVwt5NAUOyK1Z137kCAyhszAs8hyrCyMyKc071mgGYu0QHL1UO3olLOPQHMDrVhJjqN4C2YUx_HsnFByKabo3KiCNev37wFiL1WS7mwcUconKAz8sg7iwy9CKVBVQ5vX9sqQgT2DsROCUYMSc7w0peLQY-4dDCypzQMbeZK4cKKgzb44RDnAETjvPf2aQESK6v_pYo0qa1cd6GNDhZl0L5fSCIOG27KfHNTaDJ06580pptdV7DzxHb3nFCuOXOo4RJ5rK2jXhotBLuuIeWbhOnw0erAmhi8kkLBMADDJl4spr1K1268uVKd719gxwVsfpufnORvk7BYPANnAK-aebTfw",
+      "widthPx": 2700,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Benedetto Barbershop | Barbearia e Visagismo | Brooklin",
+          "uri": "https://maps.google.com/maps/contrib/112557050406653363029",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdxavYonuZvktH-l1jEqBok8W8lR5IhmxuA4za-9P49SponKM=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAf3GUbPM-uDUTONiMGMAmd&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAf3GUbPM-uDUTONiMGMAmd!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    },
+    {
+      "name": "places/ChIJr1aRRgBRzpQR2ILSb1gStlA/photos/Ab43m-sl-Mx3Ha9FQu-qFdUjwg6K9zwwp88DQdS76x4Y-_rcqVlFhVZfFWdxoAK_BjkFJXEYFPoWOiQlL0PtmKGIlYk0XS5YNcq5LJdBqxpTgSBjSaCjFVlVq38XBQ8jKMj4dUHKIKXBU1OCeGopGE68fCDNAq9LQS3dTIP184Ok4Sspx7MkcbGD88fhSXy5zz-HrtIc76X138e80dkBQUg5UgLOIYGAzJbNGmPKSYgCrS05ukaQUXenn_1prkffrcvjMHibtBBe0whVpPORxba5rlFmh0y_0dkiXdszleU4G7pEN5SNPpbrnTytye2L92i6jDcu_AIkuCZTFk0qhlgc4ps0iIiabhiqFjHYo5yd5vCLpWfvSZcFWaoiI_E298XrdR43h3GJ1DWVhYsUTj518fleaYHXxOwVsL01m8_c6z2Kzg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Eduardo C. Pacheco",
+          "uri": "https://maps.google.com/maps/contrib/116571423535725852669",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuaKukhjnxKi9wUZXaeqaLcI48R0PTFRP3R9F3iOgPygY8SPt7eQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEOamirnki7qdYQ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOamirnki7qdYQ!2e10!4m2!3m1!1s0x94ce5100469156af:0x50b612586fd282d8"
+    }
+  ]
+}

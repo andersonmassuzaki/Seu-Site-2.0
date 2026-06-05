@@ -1,0 +1,386 @@
+{
+  "id": "ChIJdS7PT1tRzpQRNROP1ufZUek",
+  "types": [
+    "barber_shop",
+    "cosmetics_store",
+    "hair_salon",
+    "hair_care",
+    "body_art_service",
+    "bar",
+    "store",
+    "health",
+    "educational_institution",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(11) 3384-5530",
+  "internationalPhoneNumber": "+55 11 3384-5530",
+  "formattedAddress": "R. Américo Brasiliense, 1729 - Loja 02 - Chácara Santo Antônio (Zona Sul), São Paulo - SP, 04715-005",
+  "location": {
+    "latitude": -23.630831699999998,
+    "longitude": -46.703228499999994
+  },
+  "rating": 4.9,
+  "websiteUri": "https://www.barbeariatarantino.com.br/",
+  "regularOpeningHours": {
+    "openNow": false,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "segunda-feira: 09:00 – 22:00",
+      "terça-feira: 09:00 – 22:00",
+      "quarta-feira: 09:00 – 22:00",
+      "quinta-feira: 09:00 – 22:00",
+      "sexta-feira: 09:00 – 22:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: 10:00 – 16:00"
+    ],
+    "nextOpenTime": "2026-06-05T12:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 868,
+  "displayName": {
+    "text": "Barbearia Tarantino",
+    "languageCode": "pt"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Barbearia",
+    "languageCode": "pt-BR"
+  },
+  "primaryType": "barber_shop",
+  "shortFormattedAddress": "R. Américo Brasiliense, 1729 - Loja 02 - Chácara Santo Antônio (Zona Sul), São Paulo",
+  "reviews": [
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKSmVHazNUak5ZV1VGV1FqQnlWR1kyUjNKYWJsRRAB",
+      "relativePublishTimeDescription": "6 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Foi uma experiência inigualável… Atenção das pessoas,  a visão do paisagismo de nossos rostos é algo surreal que eles têm… queria parabenizar a Samantha pelo corte de cabelo visionária, Joel, pela atenção na barba, sombracelha, e logicamente Victor e Matheusinho… com certeza encontrei um lugar, principalmente por ser morador da chácara santo Antônio a 40 anos ,",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Foi uma experiência inigualável… Atenção das pessoas,  a visão do paisagismo de nossos rostos é algo surreal que eles têm… queria parabenizar a Samantha pelo corte de cabelo visionária, Joel, pela atenção na barba, sombracelha, e logicamente Victor e Matheusinho… com certeza encontrei um lugar, principalmente por ser morador da chácara santo Antônio a 40 anos ,",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Leandro Adalberto",
+        "uri": "https://www.google.com/maps/contrib/104726565210416473791/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWORuS0fzZajXgcfK_vqh4XJb0YHLW043HDACcW1NcBCf1iSQJj=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-08T20:26:10.137048139Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKSmVHazNUak5ZV1VGV1FqQnlWR1kyUjNKYWJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKSmVHazNUak5ZV1VGV1FqQnlWR1kyUjNKYWJsRRAB!2m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCWVVtWkViRzQ0TUVWMFZraFZTUzFCVVhGcVNXYxAB",
+      "relativePublishTimeDescription": "9 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "O atendimento é personalizado, atencioso e preza sempre pelos detalhes.\nO ambiente tem um estilo ímpar, sempre organizado e limpo.  E contamos sempre com uma cervejinha ou um café.\nEquipe com serviço qualificado e impecável. Um agradecimento especial ao Bill, que manda muito e sempre deixa o Fabinho mais lindão.\nNo espaço novo continuam com a mesma qualidade e essência. Não largamos mais!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "O atendimento é personalizado, atencioso e preza sempre pelos detalhes.\nO ambiente tem um estilo ímpar, sempre organizado e limpo.  E contamos sempre com uma cervejinha ou um café.\nEquipe com serviço qualificado e impecável. Um agradecimento especial ao Bill, que manda muito e sempre deixa o Fabinho mais lindão.\nNo espaço novo continuam com a mesma qualidade e essência. Não largamos mais!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Débora Saraiva Varela",
+        "uri": "https://www.google.com/maps/contrib/108481766200721966069/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhNaNUeoNTcmJejrdQGzHxbbk3z6a5XzrDckQxmqMkBnBPowcLrA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-08-20T04:48:01.475931035Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCWVVtWkViRzQ0TUVWMFZraFZTUzFCVVhGcVNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCWVVtWkViRzQ0TUVWMFZraFZTUzFCVVhGcVNXYxAB!2m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4MmVWQmFhVVJsYjFjNGVUQjROMVUwYnpWUVpIYxAB",
+      "relativePublishTimeDescription": "9 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "O atendimento e qualidade de corte, equipamentos e limpeza do local são inquestionáveis. A cadeiras confortáveis  me agradam. Sou atendido pelo Joel, muito bom profissional! Parabéns a toda equipe Tarantino. Desejo muito sucesso no novo endereço!",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "O atendimento e qualidade de corte, equipamentos e limpeza do local são inquestionáveis. A cadeiras confortáveis  me agradam. Sou atendido pelo Joel, muito bom profissional! Parabéns a toda equipe Tarantino. Desejo muito sucesso no novo endereço!",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Rogerio Lin",
+        "uri": "https://www.google.com/maps/contrib/105291121063608202806/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxXQJCYmVxCrri5SAAj5ARfH6UhESYMqoPDpGbCY4tsO-_Ag=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-01T20:30:22.913451367Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4MmVWQmFhVVJsYjFjNGVUQjROMVUwYnpWUVpIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4MmVWQmFhVVJsYjFjNGVUQjROMVUwYnpWUVpIYxAB!2m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GT1JFWlBORGhaU21WeGFYTlJabnBHUW1WMkxWRRAB",
+      "relativePublishTimeDescription": "7 meses atrás",
+      "rating": 3,
+      "text": {
+        "text": "Tive uma experiência que inicialmente não correspondeu às minhas expectativas, pois esperava um serviço de visagismo mais técnico e detalhado.\n\nNo entanto, o proprietário Ricardo entrou em contato pessoalmente, demonstrando empatia e profissionalismo para resolver a situação.\n\nO Bill é um bom profissional, atencioso e cuidadoso, e fico satisfeito em ver que a barbearia se preocupa com o feedback de seus clientes.\n\nAgradeço o retorno e a postura de resolver o ocorrido de forma respeitosa.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Tive uma experiência que inicialmente não correspondeu às minhas expectativas, pois esperava um serviço de visagismo mais técnico e detalhado.\n\nNo entanto, o proprietário Ricardo entrou em contato pessoalmente, demonstrando empatia e profissionalismo para resolver a situação.\n\nO Bill é um bom profissional, atencioso e cuidadoso, e fico satisfeito em ver que a barbearia se preocupa com o feedback de seus clientes.\n\nAgradeço o retorno e a postura de resolver o ocorrido de forma respeitosa.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Keiber Laya",
+        "uri": "https://www.google.com/maps/contrib/103470191451002540833/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVplDSeiCfqpHDFuAWystjdfVUW-nHCWjadfsjEc_7sW9Kq0ME=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-30T20:19:31.264785262Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GT1JFWlBORGhaU21WeGFYTlJabnBHUW1WMkxWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GT1JFWlBORGhaU21WeGFYTlJabnBHUW1WMkxWRRAB!2m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWQ1QwSk1ielprTTFKaFRGZHhjMEpwUTB0TmIxRRAB",
+      "relativePublishTimeDescription": "5 meses atrás",
+      "rating": 5,
+      "text": {
+        "text": "Adoro Tarentino e as pessoas que trabalha la. Kayo já fez 2 tattoos em mim (Mãozinha da minha filha e cruz minimalista) e pretendo voltar com ele ja novamente. Além disso eu corto meu cabelo com Samuel e Jaba há mais de 1 ano — eles são excelentes. Sinto que eles escutam bem o cliente, querem entender e ainda da dicas boas sem ser invasivos mostrando que dominam os assuntos. Vale muito da uma chance e ir la. Sem falar que o nome é excelente, minha esposa quem achou para mim e adoramos o nome do lugar.",
+        "languageCode": "pt"
+      },
+      "originalText": {
+        "text": "Adoro Tarentino e as pessoas que trabalha la. Kayo já fez 2 tattoos em mim (Mãozinha da minha filha e cruz minimalista) e pretendo voltar com ele ja novamente. Além disso eu corto meu cabelo com Samuel e Jaba há mais de 1 ano — eles são excelentes. Sinto que eles escutam bem o cliente, querem entender e ainda da dicas boas sem ser invasivos mostrando que dominam os assuntos. Vale muito da uma chance e ir la. Sem falar que o nome é excelente, minha esposa quem achou para mim e adoramos o nome do lugar.",
+        "languageCode": "pt"
+      },
+      "authorAttribution": {
+        "displayName": "Simon Johnsen",
+        "uri": "https://www.google.com/maps/contrib/113363579261998267787/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfqoL0AHIoIcYx6PU9q8IO9DmNVm86Bx9hH20g_59ql9b9nE6I=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-12T11:25:48.559767913Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWQ1QwSk1ielprTTFKaFRGZHhjMEpwUTB0TmIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWQ1QwSk1ielprTTFKaFRGZHhjMEpwUTB0TmIxRRAB!2m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-sb398Ubg_bE3DeLP01AqZbGkmj3K8O7cocGJPaFi0QmUD_5HDCVMZ24ji4mhv6HPFYZ2xkdijVaWK2Zfkg2n4yPn_ix7L0Egd3V7KSKMeKJAwlnFJ9g4w122FRRZYECAlCsqxBroajNX5YWg_exAS7DgvG_Uh_KBiD_9UfKWV_UwdUDZ3fYZWom4_co3Tc5A2ynFGIVKA9lQ18QSrptIfcyFxtj20zLvqYRCkPW3DDJjYxs9AyuYEEmrTkpBOcLyfN5kxNAOhZ8royiMGCUdAslughKC0taE5u4G-CH0Oekk2qO5TKCM981HO4Ht3skowYa_ly460c-sO5EwZ5qOnO6shVJzZcXATvVRsSs2KPBwAZhXC9TuhK778SamU6THMCLTlS4iYOT4CYnWmdTEQH6wqfhDv_T7ANZEcUkrnJpbh1P1TB9nyRBdsav7tZ",
+      "widthPx": 2119,
+      "heightPx": 1192,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Tarantino",
+          "uri": "https://maps.google.com/maps/contrib/109532691767798064992",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDneZFRF2f1keCEG9Tek_bFITBKQrHwmW2H0UcOgy7Nm8xyQ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDEcgVjORRLfNzx1SQxvnxb&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDEcgVjORRLfNzx1SQxvnxb!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-t7fM1ExWEUdpRHUH-eAc5eZ30HbVRNylLvHl7PUeVyU4j6bJM8XLg0EAkTriM1_Wj6wLLl7XPsM9xnmICU615Cct2xff_EnMqGSkYoMwSJcdYbLia2bGA2kKpyEKqB3-hQ-yRSUEErJqYccuOJ-5L-CMuSBRQEXCwpwJ2qkykQokvcCQxdSXKTraSPGu1kBYZra4qrTKxg4EIE3NWgyvnX0gZdkPpMAQfxN76kcImOdwZWj1_VoJuEKlWj-Sx1ybsF9E2Nl8t_u1cNP5DozNwW4aTVpISnmpoRdEBqBVkUSrV3jOMKb0LMvxxv2KuTT8YjaQz3Ps5NPUsjyF7DB7xg1jpqmMnPjMJM2_TyZopgv7uTdAQ17KugSXKTfC4AGikikEZ84gM2LUF3Ytg-v2XhxKxmJWz13Md7bOPwcVpF-xgnk0b272I0NF1IrA",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Saud Fahad",
+          "uri": "https://maps.google.com/maps/contrib/105105980174227975799",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV83lxPsE0TH_MXpMZX0IFIItA2lzxz13qAzXaZ9zv3Fmbccpkr=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCf7oWdNacxCLlYV9wALhXJ&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCf7oWdNacxCLlYV9wALhXJ!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-udZvX9ZCVbWwJ5NnuYU1R9O6GRCqwdLAQKaostsDU2vGp_b-wRWFuEhpOaMssuh63y9CRs3WlaeXv0_8DW0aPKY9o10-m0q96eHpp5T0YDvzbI0peANYTV7k03oQRceTfnOISUE3h9SKO-og6Dv1EnBweIlAu4t8UyOU4keeLRZAJHQ3kDiYghm77zllfj8OKnjNNwK2skkfVuxzyioa05SSSqpEsEPiZ6_TJ4u9zqTA0-7pa32_V2eKaTw7P3CMeneUwHrtoz9oR5VmSTfnj6Bc3Yoa-AE1Q3j70iBCJB8QernFNMSd5MqKY6RzuTE3z3oDmYbsWzp3yzM_O-8W-liIy41TWN6_pM0SthMcxyaPnUDysL69tN6DXnqKSjhe2G3MJzwH-hhu5Ol_Yr6hgErNwFMj5lMMHBi1rNORAdkrQSoukVUJgHP5XodZgV",
+      "widthPx": 2000,
+      "heightPx": 1333,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Tarantino",
+          "uri": "https://maps.google.com/maps/contrib/109532691767798064992",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDneZFRF2f1keCEG9Tek_bFITBKQrHwmW2H0UcOgy7Nm8xyQ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDJlBZ4J6qR-OX2iT6sRIg3&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDJlBZ4J6qR-OX2iT6sRIg3!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-vyGBtq6lb8s-kQCNNoQdqsuR7kYzXzwUOQDYn467fL965iI8ynq1eOGrbuz6AxxN3NyO4ndOlXn5Hq_S0W7WuO2HdpdcLRdFG5WoVSEv5ZZ-65zVBr8p4Ih8lUt6JuDgD0UulkIUVniT__19bkqrMl2ZBG4ftRRRI60K6ctk_MdLr6S9mw2VH7HyZKz-s76D5RUWiKQRodBusUcyd3qxd1Fofrz08xOV98nY0SGmy3x06OCGPWjkdEjRBlR5tUqNxphLIqb-hLgCmbiyhNz1sLr01ocbB3cwNuEPQYl7TMUnSr5qpGsTxrx3W-axJFgglgIIuBv3NNB1xH93YQkTijwsBMFdw83frX3p4GDyXTNbK3amOE3ReleRHPT8n0MfmeZ1gE9fNCE5IoXIamalCgEsij1pvskPi4gyrEEIEQ3YSi4Yovro0T39PhuA",
+      "widthPx": 1440,
+      "heightPx": 960,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Tarantino",
+          "uri": "https://maps.google.com/maps/contrib/109532691767798064992",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDneZFRF2f1keCEG9Tek_bFITBKQrHwmW2H0UcOgy7Nm8xyQ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDzNLTriB7BJQxm8t9Q9Smk&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDzNLTriB7BJQxm8t9Q9Smk!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-vN2NgvxpVp-q_Efujh1bfRIn2Qt3uq1VUfNS7IK6AeBrSnT6A3hP_FZt4CrKYzxKATEK3KVetKuuBrNGgpykyIPNyt_cfdBgPsuyW0WTIzsYQSqk3gCieF18iUQRtNgdhIa-WN_knyeN9YcVbUuPVNh-AN1wAocJ7P8g41iXI_GJ2fuoZv7ZJiQAWuIAVDCzGaPTg7SxDjAb1HDgV3lqtHGANiC1wmwIN-XSIuF3IeKKs-6E5xQNaph2gGCxwt10T49EclXX2zJTyFK6vZw2f97LXkYstMZ34b3IGNTTii40JzdXXV1XLl4yIx_y26g_PyN_bVp3cyCQmARXUBUGmcOFdYZHWpQVMeSIU4Q0X82RhzeMtwQHSkOYfvJVIomMHubQNsckGExAAdc6_uml0Lp1qBs_uLfmPm1ixYqE_uEgCedz_CICDt5O_r6sq4",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Saud Fahad",
+          "uri": "https://maps.google.com/maps/contrib/105105980174227975799",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV83lxPsE0TH_MXpMZX0IFIItA2lzxz13qAzXaZ9zv3Fmbccpkr=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDLotX0eYIQnul6mJJgBZoC&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDLotX0eYIQnul6mJJgBZoC!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-svPN9PRR3CzYWopJhVPjr7VStzAJ9mL4eDFBdkQKDtUqk1813G9pPtIZ7cJ_eQAFklB8B8GVsHJdPe48g3QWbGiaJqQk6AeJCEh6h-8epJMThBfjiHva8N_UXxPYWoJp8TVQd11aGSJXWVinVqIerlIG1sC0_-3inOuzAcfjjnVMwmrBeZ6aiAwLyo86QzvPQOk0QbZH1AJ-WzrBNdJ2VSJUEP0ZzsXyDYdss6oMvJ4McZOQyWmwXowDG1uJ4A26SDFzIVZOXCG5hMSeC1J9na_AMyi21BOpWv6kltKjK7qe63IbNvDfj_efhauHqIOMJrwGTHsVi5K_CR-F1oU2dNQ31Km5gFNth0FU6i44TzMbFkXkb4SB7QYPV_7LPfRSv1Db45_bvE_l_Qk62h3_MeQEAmI7By8tKrGHW59Zx-p8nWS-oecmAOVs5UxGb0",
+      "widthPx": 3200,
+      "heightPx": 4800,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Tarantino",
+          "uri": "https://maps.google.com/maps/contrib/109532691767798064992",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDneZFRF2f1keCEG9Tek_bFITBKQrHwmW2H0UcOgy7Nm8xyQ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBg2702aOpUfpHCr06DLrni&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBg2702aOpUfpHCr06DLrni!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-u8H3xQsqTYZAloPFMwA9Cl29mccgVQ60J0pSBLLv_f-EByun5RQTY6ecO2XiOavPDPVU-46stACmZpMvIRw7XUijqFkMvUdEe-hnd1VRGvnvhKSDR5W253b9XDW0L64Je5MzJycrtgLAeEHQFRqjc75xDiNdJpeqQ38tzWj7Rvdgpg_noJat71-FAZcxSSnNczANEBH78BxydP3hbIHKZtpZ_YjdSx3v8lRmx-F2NOKaIU0EZxF3Xamm2F3d-bb3sOHn-fZSGwmo_tWQUIWnKQkeevhzjtJDL67onwKkmCv79FVHaD-ORRNXiY6C7qnpgbCVv7RGhFVytAQOEcJkIhbHuP1E_34MVweBnAZOBhA96edd0qh0rssOZS7cRzBBiVE6NENlh77h3oJEZx6xwlboXIV0c0_uALudNg_YB_7A",
+      "widthPx": 768,
+      "heightPx": 960,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Tarantino",
+          "uri": "https://maps.google.com/maps/contrib/109532691767798064992",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDneZFRF2f1keCEG9Tek_bFITBKQrHwmW2H0UcOgy7Nm8xyQ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnmv7jIA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnmv7jIA!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-sfQeXf6Y4WtiO1TPcE5kmxZyasBJcvhL5kV6eDDGAddLLPzObpZWopM19AUWbNPP3TGNede6-yhqMBsyLjZWgvpDeIN7XhoCppHLlGSLqAd8aAaEBBuheSIbCio_LWduEWEiTyl2632f8Y0pCo3wJrpkXHYsX1F7UzVovhYQvvGq1bOXur8z22IyfO19OeI5MIWLnDTftvcQzFGueKp1-NXt0GHnEkl2fNswn3HRaxFExMew5B8smx2jwx4ne3zu9bVNsTncg4FWdZ2YiuMirSmFL_jjzw3eEsw6rCXvgoKCOasMXVHI2CNN0IGYNhYR4CotcHlNZBEY7AY_L7RP--KQog68aUxEXgWtVyBxC1WffgsR3vD5FWOB3BIu5Z5GiMlJeqm5D6NBSuAUaFAaEKn4b8TVitNnm4yofIJu7y7UYj6fD69Oa7AX3icg",
+      "widthPx": 4800,
+      "heightPx": 3199,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Tarantino",
+          "uri": "https://maps.google.com/maps/contrib/109532691767798064992",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDneZFRF2f1keCEG9Tek_bFITBKQrHwmW2H0UcOgy7Nm8xyQ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBBj219VzXFOUsGoqsq7vDR&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBBj219VzXFOUsGoqsq7vDR!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-sSEhQXVYcWdpCUwPrME9uWJpfuZUUfMTFpPNkkEyV2mDnNUxliMiesPSXe7DSBBsss1VdL_i_O9NFUNqGBYxaQnuMixo47gvU_-AbCI9OOfvoCJPMI_27WMb3XXmX0O67hHbYrzhjRYn61DdYg5bn3ALEzGfL9tUERcDldI5567zo-B7K-SGzh4opSlwCuYpDRLFkS1PkDJcf-TAsKtZ_xgcu3igytVFxxi27YzBR0ILzUi4QR99pFKt3MlVi2gHZDkm6Lty2OCo-DJYXhq_TGoGiixnUfMwSPTVY9VIKUzp_nY-b9nm0wGWHXoOWrj7tv50Ewzl1DCAY7b8EtIjN7JA89gAPPFuc0rWit-dC8e8ol9N_KR6KfNyghKJeO4wGpbPO2oY_9i2j7VCvAfgzJpz1ouIWluHfMk-jwCzr8J0M",
+      "widthPx": 1275,
+      "heightPx": 2000,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Tarantino",
+          "uri": "https://maps.google.com/maps/contrib/109532691767798064992",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDneZFRF2f1keCEG9Tek_bFITBKQrHwmW2H0UcOgy7Nm8xyQ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC8r-3sjQE&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8r-3sjQE!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    },
+    {
+      "name": "places/ChIJdS7PT1tRzpQRNROP1ufZUek/photos/Ab43m-uxyJ0G18D2rbnpi6ZC4avG5yQ-Nb0_UKHjVwzc3eZm5FL5iaw2Xd6or20JA6U-V-XBwj4_RaU-uq0gvM4Md2qk_QgaScXKsUhRNwa9xXqt9VtCwmgofJz044qNjy971APXHoz3bKB6xLtqlo6BQulJ8tot17MEDCoSN_9Zo3G6MNxzqocLd4Q5NQ6aM-YcmjuztmFUDhTpuzffYzlFrnAibVnikfPKAJp7p2G1Li4DjchfrYz3PNuaJVf5e0JZ8iFGC-R6laf9e982hw3Il_r65I8_XCteLSFmqCLtjauHyqsAKrDVsDvodcQx3L4YRFja7jke4YexDwwIg8mB8KWTvNgxBAhbUKJrtkAlbzDWzoJx7t9ue6627h8hqsq2SiP7bS0rQwEai1gHjM3OkVr8tAXNfs4wn0UkTCHHv3QaFg",
+      "widthPx": 1333,
+      "heightPx": 2000,
+      "authorAttributions": [
+        {
+          "displayName": "Barbearia Tarantino",
+          "uri": "https://maps.google.com/maps/contrib/109532691767798064992",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDneZFRF2f1keCEG9Tek_bFITBKQrHwmW2H0UcOgy7Nm8xyQ4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDnmv76TA&hl=pt-BR&gl=BR",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDnmv76TA!2e10!4m2!3m1!1s0x94ce515b4fcf2e75:0xe951d9e7d68f1335"
+    }
+  ]
+}
